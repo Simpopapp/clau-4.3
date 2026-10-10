@@ -24,7 +24,8 @@
     "literal": "estende"
   },
   "face-to-face": {
-    "literal": "presencial, frente a frente"
+    "literal": "presencial",
+    "contextual": "'face-to-face' = presencial, cara a cara"
   },
   "facilitated": {
     "literal": "facilitou"
