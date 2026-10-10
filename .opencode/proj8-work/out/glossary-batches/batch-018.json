@@ -1,597 +1,593 @@
 {
- "situated": {
-  "literal": "situado",
-  "contextual": "localizado em contexto geográfico ou acadêmico"
- },
- "skyscrapers": {
-  "literal": "arranha-céus"
- },
- "solving": {
-  "literal": "resolvendo",
-  "contextual": "frequentemente usado com problemas ou equações"
- },
- "sparking": {
-  "literal": "desencadeando",
-  "contextual": "iniciando um debate ou reação"
- },
- "stationery": {
-  "literal": "papelaria",
-  "contextual": "materiais de escrita; não confundir com 'stationary'"
- },
- "steam": {
-  "literal": "vapor"
- },
- "storm": {
-  "literal": "tempestade"
- },
- "suburbs": {
-  "literal": "subúrbios",
-  "contextual": "áreas residenciais periféricas"
- },
- "succeed": {
-  "literal": "ter sucesso"
- },
- "susceptible": {
-  "literal": "suscetível",
-  "contextual": "vulnerável a doenças ou influências"
- },
- "talented": {
-  "literal": "talentoso"
- },
- "taxonomy": {
-  "literal": "taxonomia",
-  "contextual": "sistema de classificação científica"
- },
- "telescopes": {
-  "literal": "telescópios"
- },
- "thanks": {
-  "literal": "obrigado"
- },
- "thorough": {
-  "literal": "minucioso",
-  "contextual": "detalhado e cuidadoso"
- },
- "tickets": {
-  "literal": "ingressos"
- },
- "tonight": {
-  "literal": "esta noite"
- },
- "transformative": {
-  "literal": "transformador"
- },
- "transporting": {
-  "literal": "transportando"
- },
- "triple": {
-  "literal": "triplicar"
- },
- "turned": {
-  "literal": "tornou-se"
- },
- "unit": {
-  "literal": "unidade"
- },
- "unsustainable": {
-  "literal": "insustentável"
- },
- "updated": {
-  "literal": "atualizado"
- },
- "utilizing": {
-  "literal": "utilizando"
- },
- "visiting": {
-  "literal": "visitando"
- },
- "wall": {
-  "literal": "parede"
- },
- "writer": {
-  "literal": "escritor"
- },
- "accelerates": {
-  "literal": "acelera"
- },
- "accept": {
-  "literal": "aceitar"
- },
- "accommodate": {
-  "literal": "acomodar",
-  "contextual": "ajustar-se a necessidades ou opiniões"
- },
- "advance": {
-  "literal": "avançar"
- },
- "advancing": {
-  "literal": "avançando"
- },
- "aging": {
-  "literal": "envelhecimento"
- },
- "agreements": {
-  "literal": "acordos"
- },
- "airplanes": {
-  "literal": "aviões"
- },
- "ambitious": {
-  "literal": "ambicioso"
- },
- "analyses": {
-  "literal": "análises",
-  "contextual": "plural de analysis"
- },
- "analyzes": {
-  "literal": "analisa"
- },
- "answers": {
-  "literal": "respostas"
- },
- "anywhere": {
-  "literal": "qualquer lugar"
- },
- "apartments": {
-  "literal": "apartamentos"
- },
- "appliances": {
-  "literal": "eletrodomésticos"
- },
- "asian": {
-  "literal": "asiático"
- },
- "assistants": {
-  "literal": "assistentes"
- },
- "athletic": {
-  "literal": "atlético"
- },
- "attack": {
-  "literal": "ataque"
- },
- "avenues": {
-  "literal": "avenidas"
- },
- "barcode": {
-  "literal": "código de barras"
- },
- "baroque": {
-  "literal": "barroco"
- },
- "behaviour": {
-  "literal": "comportamento"
- },
- "blue": {
-  "literal": "azul"
- },
- "booking": {
-  "literal": "reserva"
- },
- "boys": {
-  "literal": "meninos"
- },
- "branch": {
-  "literal": "ramo",
-  "contextual": "galho ou subdivisão de conhecimento"
- },
- "brands": {
-  "literal": "marcas"
- },
- "brass": {
-  "literal": "latão",
-  "contextual": "metal ou instrumentos de sopro"
- },
- "bunch": {
-  "literal": "grupo",
-  "contextual": "cacho ou conjunto de algo"
- },
- "burnout": {
-  "literal": "exaustão",
-  "contextual": "esgotamento físico ou mental"
- },
- "burst": {
-  "literal": "explosão",
-  "contextual": "rompimento súbito"
- },
- "cameras": {
-  "literal": "câmeras"
- },
- "candidates": {
-  "literal": "candidatos"
- },
- "cash": {
-  "literal": "dinheiro em espécie"
- },
- "catastrophic": {
-  "literal": "catastrófico"
- },
- "ceilings": {
-  "literal": "tetos"
- },
- "chains": {
-  "literal": "cadeias",
-  "contextual": "sequências ou redes de lojas"
- },
- "charging": {
-  "literal": "cobrando",
-  "contextual": "também carregar energia"
- },
- "church": {
-  "literal": "igreja"
- },
- "closures": {
-  "literal": "fechamentos"
- },
- "clusters": {
-  "literal": "agrupamentos",
-  "contextual": "concentrações de dados ou estrelas"
- },
- "collaborating": {
-  "literal": "colaborando"
- },
- "commissioner": {
-  "literal": "comissário"
- },
- "commitments": {
-  "literal": "compromissos"
- },
- "completing": {
-  "literal": "completando"
- },
- "computerized": {
-  "literal": "computadorizado"
- },
- "conditioning": {
-  "literal": "condicionamento"
- },
- "cook": {
-  "literal": "cozinhar"
- },
- "coordination": {
-  "literal": "coordenação"
- },
- "couple": {
-  "literal": "casal",
-  "contextual": "também usado para 'alguns'"
- },
- "courts": {
-  "literal": "tribunais",
-  "contextual": "também quadras esportivas"
- },
- "crabs": {
-  "literal": "caranguejos"
- },
- "crises": {
-  "literal": "crises",
-  "contextual": "plural de crisis"
- },
- "dance": {
-  "literal": "dança"
- },
- "danger": {
-  "literal": "perigo"
- },
- "democratic": {
-  "literal": "democrático"
- },
- "detrimental": {
-  "literal": "prejudicial"
- },
- "dirt": {
-  "literal": "sujeira"
- },
- "dishes": {
-  "literal": "pratos",
-  "contextual": "também louças ou refeições"
- },
- "disorder": {
-  "literal": "distúrbio",
-  "contextual": "desordem ou condição médica"
- },
- "distinguishes": {
-  "literal": "distingue"
- },
- "drainage": {
-  "literal": "drenagem"
- },
- "drawbacks": {
-  "literal": "desvantagens"
- },
- "drought": {
-  "literal": "seca",
-  "contextual": "período prolongado sem chuva"
- },
- "editing": {
-  "literal": "edição"
- },
- "empowering": {
-  "literal": "empoderando"
- },
- "empty": {
-  "literal": "vazio"
- },
- "entrepreneurial": {
-  "literal": "empreendedor"
- },
- "entrepreneurs": {
-  "literal": "empreendedores"
- },
- "examined": {
-  "literal": "examinado"
- },
- "examining": {
-  "literal": "examinando"
- },
- "expressions": {
-  "literal": "expressões"
- },
- "expressive": {
-  "literal": "expressivo"
- },
- "eyes": {
-  "literal": "olhos"
- },
- "farms": {
-  "literal": "fazendas"
- },
- "fertilizers": {
-  "literal": "fertilizantes"
- },
- "finite": {
-  "literal": "finito",
-  "contextual": "limitado, oposto de infinito"
- },
- "fishing": {
-  "literal": "pesca"
- },
- "fixed": {
-  "literal": "fixo",
-  "contextual": "consertado ou imóvel"
- },
- "floating": {
-  "literal": "flutuante"
- },
- "followed": {
-  "literal": "seguido"
- },
- "former": {
-  "literal": "anterior",
-  "contextual": "o primeiro mencionado de dois"
- },
- "freight": {
-  "literal": "frete",
-  "contextual": "transporte de carga"
- },
- "friends": {
-  "literal": "amigos"
- },
- "generating": {
-  "literal": "gerando"
- },
- "genetically": {
-  "literal": "geneticamente"
- },
- "genetics": {
-  "literal": "genética"
- },
- "granted": {
-  "literal": "concedido",
-  "contextual": "dar como certo (take for granted)"
- },
- "guess": {
-  "literal": "adivinhar"
- },
- "hammers": {
-  "literal": "martelos"
- },
- "handouts": {
-  "literal": "folhetos",
-  "contextual": "material distribuído em aula"
- },
- "happy": {
-  "literal": "feliz"
- },
- "harmony": {
-  "literal": "harmonia"
- },
- "hierarchy": {
-  "literal": "hierarquia"
- },
- "hiring": {
-  "literal": "contratação"
- },
- "holes": {
-  "literal": "buracos"
- },
- "hormone": {
-  "literal": "hormônio"
- },
- "identifies": {
-  "literal": "identifica"
- },
- "implies": {
-  "literal": "implica",
-  "contextual": "sugerir sem dizer diretamente"
- },
- "inquiry": {
-  "literal": "investigação",
-  "contextual": "inquérito ou questionamento"
- },
- "inspired": {
-  "literal": "inspirado"
- },
- "instability": {
-  "literal": "instabilidade"
- },
- "interviews": {
-  "literal": "entrevistas"
- },
- "introducing": {
-  "literal": "apresentando"
- },
- "invaluable": {
-  "literal": "inestimável",
-  "contextual": "muito valioso; não é 'sem valor'"
- },
- "inventory": {
-  "literal": "estoque"
- },
- "iron": {
-  "literal": "ferro"
- },
- "kilometers": {
-  "literal": "quilômetros"
- },
- "label": {
-  "literal": "rótulo",
-  "contextual": "etiqueta ou classificação"
- },
- "landfills": {
-  "literal": "aterros sanitários"
- },
- "lawyers": {
-  "literal": "advogados"
- },
- "legitimate": {
-  "literal": "legítimo"
- },
- "letter": {
-  "literal": "carta",
-  "contextual": "também significa 'letra'"
- },
- "livelihoods": {
-  "literal": "meios de subsistência"
- },
- "load": {
-  "literal": "carga"
- },
- "lowered": {
-  "literal": "reduzido"
- },
- "mammal": {
-  "literal": "mamífero"
- },
- "manager": {
-  "literal": "gerente"
- },
- "mangroves": {
-  "literal": "manguezais"
- },
- "maximum": {
-  "literal": "máximo"
- },
- "measuring": {
-  "literal": "medindo"
- },
- "member": {
-  "literal": "membro"
- },
- "messy": {
-  "literal": "bagunçado"
- },
- "migratory": {
-  "literal": "migratório"
- },
- "mining": {
-  "literal": "mineração"
- },
- "minute": {
-  "literal": "minuto",
-  "contextual": "também 'minúsculo' se pronunciado /maɪˈnjuːt/"
- },
- "missed": {
-  "literal": "perdido",
-  "contextual": "perder um evento ou sentir falta"
- },
- "moisture": {
-  "literal": "umidade"
- },
- "monster": {
-  "literal": "monstro"
- },
- "mountain": {
-  "literal": "montanha"
- },
- "myself": {
-  "literal": "eu mesmo"
- },
- "mystery": {
-  "literal": "mistério"
- },
- "native": {
-  "literal": "nativo"
- },
- "norms": {
-  "literal": "normas",
-  "contextual": "padrões sociais ou acadêmicos"
- },
- "obstacles": {
-  "literal": "obstáculos"
- },
- "orchestras": {
-  "literal": "orquestras"
- },
- "organize": {
-  "literal": "organizar"
- },
- "origins": {
-  "literal": "origens"
- },
- "outdoors": {
-  "literal": "ao ar livre"
- },
- "outlines": {
-  "literal": "esboços",
-  "contextual": "contornos ou resumo de ideias"
- },
- "overlook": {
-  "literal": "negligenciar",
-  "contextual": "ignorar ou ter vista para"
- },
- "oyster": {
-  "literal": "ostra"
- },
- "participating": {
-  "literal": "participando"
- },
- "passengers": {
-  "literal": "passageiros"
- },
- "perfectly": {
-  "literal": "perfeitamente"
- },
- "persist": {
-  "literal": "persistir"
- },
- "pervasive": {
-  "literal": "generalizado",
-  "contextual": "que se espalha por toda parte"
- },
- "pests": {
-  "literal": "pragas",
-  "contextual": "insetos ou animais nocivos"
- },
- "plucking": {
-  "literal": "colher",
-  "contextual": "arrancar ou dedilhar cordas"
- },
- "poorer": {
-  "literal": "mais pobre"
- },
- "practising": {
-  "literal": "praticando"
- },
- "prevents": {
-  "literal": "previne"
- },
- "priorities": {
-  "literal": "prioridades"
- },
- "prioritise": {
-  "literal": "priorizar"
- },
- "procedures": {
-  "literal": "procedimentos"
- }
+  "situated": {
+    "literal": "situado",
+    "contextual": "localizado em contexto geográfico ou acadêmico"
+  },
+  "skyscrapers": {
+    "literal": "arranha-céus"
+  },
+  "solving": {
+    "literal": "resolvendo",
+    "contextual": "frequentemente usado com problemas ou equações"
+  },
+  "sparking": {
+    "literal": "desencadeando",
+    "contextual": "iniciando um debate ou reação"
+  },
+  "stationery": {
+    "literal": "papelaria",
+    "contextual": "materiais de escrita; não confundir com 'stationary'"
+  },
+  "steam": {
+    "literal": "vapor"
+  },
+  "storm": {
+    "literal": "tempestade"
+  },
+  "suburbs": {
+    "literal": "subúrbios",
+    "contextual": "áreas residenciais periféricas"
+  },
+  "succeed": {
+    "literal": "ter sucesso"
+  },
+  "susceptible": {
+    "literal": "suscetível",
+    "contextual": "vulnerável a doenças ou influências"
+  },
+  "talented": {
+    "literal": "talentoso"
+  },
+  "taxonomy": {
+    "literal": "taxonomia",
+    "contextual": "sistema de classificação científica"
+  },
+  "telescopes": {
+    "literal": "telescópios"
+  },
+  "thanks": {
+    "literal": "obrigado"
+  },
+  "thorough": {
+    "literal": "minucioso",
+    "contextual": "detalhado e cuidadoso"
+  },
+  "tickets": {
+    "literal": "ingressos"
+  },
+  "tonight": {
+    "literal": "esta noite"
+  },
+  "transformative": {
+    "literal": "transformador"
+  },
+  "transporting": {
+    "literal": "transportando"
+  },
+  "triple": {
+    "literal": "triplicar"
+  },
+  "turned": {
+    "literal": "tornou-se"
+  },
+  "unit": {
+    "literal": "unidade"
+  },
+  "unsustainable": {
+    "literal": "insustentável"
+  },
+  "updated": {
+    "literal": "atualizado"
+  },
+  "utilizing": {
+    "literal": "utilizando"
+  },
+  "visiting": {
+    "literal": "visitando"
+  },
+  "wall": {
+    "literal": "parede"
+  },
+  "writer": {
+    "literal": "escritor"
+  },
+  "accelerates": {
+    "literal": "acelera"
+  },
+  "accept": {
+    "literal": "aceitar"
+  },
+  "accommodate": {
+    "literal": "acomodar",
+    "contextual": "ajustar-se a necessidades ou opiniões"
+  },
+  "advance": {
+    "literal": "avançar"
+  },
+  "advancing": {
+    "literal": "avançando"
+  },
+  "aging": {
+    "literal": "envelhecimento"
+  },
+  "agreements": {
+    "literal": "acordos"
+  },
+  "airplanes": {
+    "literal": "aviões"
+  },
+  "ambitious": {
+    "literal": "ambicioso"
+  },
+  "analyses": {
+    "literal": "análises",
+    "contextual": "plural de analysis"
+  },
+  "analyzes": {
+    "literal": "analisa"
+  },
+  "answers": {
+    "literal": "respostas"
+  },
+  "anywhere": {
+    "literal": "qualquer lugar"
+  },
+  "apartments": {
+    "literal": "apartamentos"
+  },
+  "appliances": {
+    "literal": "eletrodomésticos"
+  },
+  "asian": {
+    "literal": "asiático"
+  },
+  "assistants": {
+    "literal": "assistentes"
+  },
+  "athletic": {
+    "literal": "atlético"
+  },
+  "attack": {
+    "literal": "ataque"
+  },
+  "avenues": {
+    "literal": "avenidas"
+  },
+  "barcode": {
+    "literal": "código de barras"
+  },
+  "baroque": {
+    "literal": "barroco"
+  },
+  "behaviour": {
+    "literal": "comportamento"
+  },
+  "blue": {
+    "literal": "azul"
+  },
+  "booking": {
+    "literal": "reserva"
+  },
+  "boys": {
+    "literal": "meninos"
+  },
+  "branch": {
+    "literal": "ramo",
+    "contextual": "galho ou subdivisão de conhecimento"
+  },
+  "brands": {
+    "literal": "marcas"
+  },
+  "brass": {
+    "literal": "latão",
+    "contextual": "metal ou instrumentos de sopro"
+  },
+  "bunch": {
+    "literal": "grupo",
+    "contextual": "cacho ou conjunto de algo"
+  },
+  "burnout": {
+    "literal": "exaustão",
+    "contextual": "esgotamento físico ou mental"
+  },
+  "burst": {
+    "literal": "explosão",
+    "contextual": "rompimento súbito"
+  },
+  "cameras": {
+    "literal": "câmeras"
+  },
+  "candidates": {
+    "literal": "candidatos"
+  },
+  "cash": {
+    "literal": "dinheiro em espécie"
+  },
+  "catastrophic": {
+    "literal": "catastrófico"
+  },
+  "ceilings": {
+    "literal": "tetos"
+  },
+  "chains": {
+    "literal": "cadeias",
+    "contextual": "sequências ou redes de lojas"
+  },
+  "charging": {
+    "literal": "cobrando",
+    "contextual": "também carregar energia"
+  },
+  "church": {
+    "literal": "igreja"
+  },
+  "closures": {
+    "literal": "fechamentos"
+  },
+  "clusters": {
+    "literal": "agrupamentos",
+    "contextual": "concentrações de dados ou estrelas"
+  },
+  "collaborating": {
+    "literal": "colaborando"
+  },
+  "commissioner": {
+    "literal": "comissário"
+  },
+  "commitments": {
+    "literal": "compromissos"
+  },
+  "completing": {
+    "literal": "completando"
+  },
+  "computerized": {
+    "literal": "computadorizado"
+  },
+  "conditioning": {
+    "literal": "condicionamento"
+  },
+  "cook": {
+    "literal": "cozinhar"
+  },
+  "coordination": {
+    "literal": "coordenação"
+  },
+  "couple": {
+    "literal": "casal",
+    "contextual": "também usado para 'alguns'"
+  },
+  "courts": {
+    "literal": "tribunais",
+    "contextual": "também quadras esportivas"
+  },
+  "crabs": {
+    "literal": "caranguejos"
+  },
+  "dance": {
+    "literal": "dança"
+  },
+  "danger": {
+    "literal": "perigo"
+  },
+  "democratic": {
+    "literal": "democrático"
+  },
+  "detrimental": {
+    "literal": "prejudicial"
+  },
+  "dirt": {
+    "literal": "sujeira"
+  },
+  "dishes": {
+    "literal": "pratos",
+    "contextual": "também louças ou refeições"
+  },
+  "disorder": {
+    "literal": "distúrbio",
+    "contextual": "desordem ou condição médica"
+  },
+  "distinguishes": {
+    "literal": "distingue"
+  },
+  "drainage": {
+    "literal": "drenagem"
+  },
+  "drawbacks": {
+    "literal": "desvantagens"
+  },
+  "drought": {
+    "literal": "seca",
+    "contextual": "período prolongado sem chuva"
+  },
+  "editing": {
+    "literal": "edição"
+  },
+  "empowering": {
+    "literal": "empoderando"
+  },
+  "empty": {
+    "literal": "vazio"
+  },
+  "entrepreneurial": {
+    "literal": "empreendedor"
+  },
+  "entrepreneurs": {
+    "literal": "empreendedores"
+  },
+  "examined": {
+    "literal": "examinado"
+  },
+  "examining": {
+    "literal": "examinando"
+  },
+  "expressions": {
+    "literal": "expressões"
+  },
+  "expressive": {
+    "literal": "expressivo"
+  },
+  "eyes": {
+    "literal": "olhos"
+  },
+  "farms": {
+    "literal": "fazendas"
+  },
+  "fertilizers": {
+    "literal": "fertilizantes"
+  },
+  "finite": {
+    "literal": "finito",
+    "contextual": "limitado, oposto de infinito"
+  },
+  "fishing": {
+    "literal": "pesca"
+  },
+  "fixed": {
+    "literal": "fixo",
+    "contextual": "consertado ou imóvel"
+  },
+  "floating": {
+    "literal": "flutuante"
+  },
+  "followed": {
+    "literal": "seguido"
+  },
+  "former": {
+    "literal": "anterior",
+    "contextual": "o primeiro mencionado de dois"
+  },
+  "freight": {
+    "literal": "frete",
+    "contextual": "transporte de carga"
+  },
+  "friends": {
+    "literal": "amigos"
+  },
+  "generating": {
+    "literal": "gerando"
+  },
+  "genetically": {
+    "literal": "geneticamente"
+  },
+  "genetics": {
+    "literal": "genética"
+  },
+  "granted": {
+    "literal": "concedido",
+    "contextual": "dar como certo (take for granted)"
+  },
+  "guess": {
+    "literal": "adivinhar"
+  },
+  "hammers": {
+    "literal": "martelos"
+  },
+  "handouts": {
+    "literal": "folhetos",
+    "contextual": "material distribuído em aula"
+  },
+  "happy": {
+    "literal": "feliz"
+  },
+  "harmony": {
+    "literal": "harmonia"
+  },
+  "hierarchy": {
+    "literal": "hierarquia"
+  },
+  "hiring": {
+    "literal": "contratação"
+  },
+  "holes": {
+    "literal": "buracos"
+  },
+  "hormone": {
+    "literal": "hormônio"
+  },
+  "identifies": {
+    "literal": "identifica"
+  },
+  "implies": {
+    "literal": "implica",
+    "contextual": "sugerir sem dizer diretamente"
+  },
+  "inquiry": {
+    "literal": "investigação",
+    "contextual": "inquérito ou questionamento"
+  },
+  "inspired": {
+    "literal": "inspirado"
+  },
+  "instability": {
+    "literal": "instabilidade"
+  },
+  "interviews": {
+    "literal": "entrevistas"
+  },
+  "introducing": {
+    "literal": "apresentando"
+  },
+  "invaluable": {
+    "literal": "inestimável",
+    "contextual": "muito valioso; não é 'sem valor'"
+  },
+  "inventory": {
+    "literal": "estoque"
+  },
+  "iron": {
+    "literal": "ferro"
+  },
+  "kilometers": {
+    "literal": "quilômetros"
+  },
+  "label": {
+    "literal": "rótulo",
+    "contextual": "etiqueta ou classificação"
+  },
+  "landfills": {
+    "literal": "aterros sanitários"
+  },
+  "lawyers": {
+    "literal": "advogados"
+  },
+  "legitimate": {
+    "literal": "legítimo"
+  },
+  "letter": {
+    "literal": "carta",
+    "contextual": "também significa 'letra'"
+  },
+  "livelihoods": {
+    "literal": "meios de subsistência"
+  },
+  "load": {
+    "literal": "carga"
+  },
+  "lowered": {
+    "literal": "reduzido"
+  },
+  "mammal": {
+    "literal": "mamífero"
+  },
+  "manager": {
+    "literal": "gerente"
+  },
+  "mangroves": {
+    "literal": "manguezais"
+  },
+  "maximum": {
+    "literal": "máximo"
+  },
+  "measuring": {
+    "literal": "medindo"
+  },
+  "member": {
+    "literal": "membro"
+  },
+  "messy": {
+    "literal": "bagunçado"
+  },
+  "migratory": {
+    "literal": "migratório"
+  },
+  "mining": {
+    "literal": "mineração"
+  },
+  "minute": {
+    "literal": "minuto",
+    "contextual": "também 'minúsculo' se pronunciado /maɪˈnjuːt/"
+  },
+  "missed": {
+    "literal": "perdido",
+    "contextual": "perder um evento ou sentir falta"
+  },
+  "moisture": {
+    "literal": "umidade"
+  },
+  "monster": {
+    "literal": "monstro"
+  },
+  "mountain": {
+    "literal": "montanha"
+  },
+  "myself": {
+    "literal": "eu mesmo"
+  },
+  "mystery": {
+    "literal": "mistério"
+  },
+  "native": {
+    "literal": "nativo"
+  },
+  "norms": {
+    "literal": "normas",
+    "contextual": "padrões sociais ou acadêmicos"
+  },
+  "obstacles": {
+    "literal": "obstáculos"
+  },
+  "orchestras": {
+    "literal": "orquestras"
+  },
+  "organize": {
+    "literal": "organizar"
+  },
+  "origins": {
+    "literal": "origens"
+  },
+  "outdoors": {
+    "literal": "ao ar livre"
+  },
+  "outlines": {
+    "literal": "esboços",
+    "contextual": "contornos ou resumo de ideias"
+  },
+  "overlook": {
+    "literal": "negligenciar",
+    "contextual": "ignorar ou ter vista para"
+  },
+  "oyster": {
+    "literal": "ostra"
+  },
+  "participating": {
+    "literal": "participando"
+  },
+  "passengers": {
+    "literal": "passageiros"
+  },
+  "perfectly": {
+    "literal": "perfeitamente"
+  },
+  "persist": {
+    "literal": "persistir"
+  },
+  "pervasive": {
+    "literal": "generalizado",
+    "contextual": "que se espalha por toda parte"
+  },
+  "pests": {
+    "literal": "pragas",
+    "contextual": "insetos ou animais nocivos"
+  },
+  "plucking": {
+    "literal": "colher",
+    "contextual": "arrancar ou dedilhar cordas"
+  },
+  "poorer": {
+    "literal": "mais pobre"
+  },
+  "practising": {
+    "literal": "praticando"
+  },
+  "prevents": {
+    "literal": "previne"
+  },
+  "priorities": {
+    "literal": "prioridades"
+  },
+  "prioritise": {
+    "literal": "priorizar"
+  },
+  "procedures": {
+    "literal": "procedimentos"
+  }
 }

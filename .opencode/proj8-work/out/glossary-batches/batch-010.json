@@ -1,1 +1,642 @@
-{"stronger": {"literal": "mais forte"}, "sudden": {"literal": "repentino", "contextual": "súbito; algo que ocorre sem aviso"}, "task": {"literal": "tarefa"}, "transmission": {"literal": "transmissão"}, "underlying": {"literal": "subjacente", "contextual": "causa oculta ou fundamental por trás de algo"}, "unpredictable": {"literal": "imprevisível"}, "whatever": {"literal": "qualquer que seja"}, "white": {"literal": "branco"}, "withstand": {"literal": "suportar", "contextual": "resistir a condições adversas ou pressão"}, "yes": {"literal": "sim"}, "accessibility": {"literal": "acessibilidade"}, "advantage": {"literal": "vantagem"}, "approaches": {"literal": "abordagens", "contextual": "métodos ou formas de lidar com um problema"}, "archaeological": {"literal": "arqueológico"}, "automated": {"literal": "automatizado"}, "bank": {"literal": "banco"}, "board": {"literal": "conselho", "contextual": "diretoria ou comitê de uma organização"}, "cancer": {"literal": "câncer"}, "choices": {"literal": "escolhas"}, "competitive": {"literal": "competitivo"}, "demands": {"literal": "demandas", "contextual": "exigências ou necessidades do mercado ou sistema"}, "dense": {"literal": "denso"}, "drop": {"literal": "queda", "contextual": "frequentemente usado para declínio estatístico"}, "employers": {"literal": "empregadores"}, "establishing": {"literal": "estabelecer", "contextual": "ato de instaurar ou fixar algo"}, "excessive": {"literal": "excessivo"}, "expert": {"literal": "especialista"}, "extent": {"literal": "extensão", "contextual": "grau ou medida em que algo ocorre"}, "fall": {"literal": "cair", "contextual": "pode significar a queda física, o outono ou declínio"}, "firstly": {"literal": "primeiramente", "contextual": "marcador de ordem em redações acadêmicas"}, "fuel": {"literal": "combustível"}, "grade": {"literal": "nota", "contextual": "classificação acadêmica ou nível de qualidade"}, "helping": {"literal": "ajudando"}, "highlight": {"literal": "destaque", "contextual": "ênfase em um ponto principal"}, "highlighted": {"literal": "destacado"}, "hundreds": {"literal": "centenas"}, "hunger": {"literal": "fome"}, "incredible": {"literal": "incrível"}, "influencing": {"literal": "influenciar", "contextual": "ato de exercer impacto sobre algo"}, "integrity": {"literal": "integridade"}, "invest": {"literal": "investir"}, "kids": {"literal": "crianças"}, "leaders": {"literal": "líderes"}, "lights": {"literal": "luzes"}, "lines": {"literal": "linhas"}, "manual": {"literal": "manual"}, "molecular": {"literal": "molecular"}, "morning": {"literal": "manhã"}, "nitrogen": {"literal": "nitrogênio"}, "notice": {"literal": "aviso", "contextual": "perceber algo ou um comunicado formal"}, "ongoing": {"literal": "contínuo", "contextual": "em andamento; algo que não parou"}, "pass": {"literal": "passar"}, "popularity": {"literal": "popularidade"}, "prefab": {"literal": "pré-fabricado"}, "printing": {"literal": "impressão"}, "prioritize": {"literal": "priorizar"}, "recognition": {"literal": "reconhecimento"}, "relatively": {"literal": "relativamente", "contextual": "em comparação com outra coisa"}, "running": {"literal": "execução", "contextual": "pode significar correr ou o funcionamento de um sistema"}, "runs": {"literal": "executa", "contextual": "corre ou gerencia um processo"}, "save": {"literal": "salvar", "contextual": "economizar recursos ou resgatar algo"}, "series": {"literal": "série"}, "sign": {"literal": "sinal", "contextual": "placa, indício ou ato de assinar"}, "spend": {"literal": "gastar", "contextual": "despender tempo ou dinheiro"}, "station": {"literal": "estação"}, "strain": {"literal": "tensão", "contextual": "esforço físico, estresse ou linhagem biológica"}, "thousand": {"literal": "mil"}, "valid": {"literal": "válido"}, "worker": {"literal": "trabalhador"}, "worse": {"literal": "pior"}, "achieving": {"literal": "alcançar", "contextual": "atingir um objetivo ou meta"}, "actions": {"literal": "ações"}, "adopt": {"literal": "adotar"}, "advertising": {"literal": "publicidade"}, "applied": {"literal": "aplicado"}, "arrival": {"literal": "chegada"}, "bans": {"literal": "proibições", "contextual": "vetos oficiais ou banimentos"}, "charge": {"literal": "carga", "contextual": "cobrança, acusação legal ou carga elétrica"}, "chronic": {"literal": "crônico"}, "code": {"literal": "código"}, "communications": {"literal": "comunicações"}, "composition": {"literal": "composição"}, "concerned": {"literal": "preocupado", "contextual": "pode significar interessado ou envolvido em algo"}, "connectivity": {"literal": "conectividade"}, "contributing": {"literal": "contribuindo"}, "cooling": {"literal": "resfriamento"}, "creation": {"literal": "criação"}, "cybersecurity": {"literal": "cibersegurança"}, "dates": {"literal": "datas"}, "designing": {"literal": "projetar", "contextual": "ato de desenhar ou planejar um sistema"}, "disorders": {"literal": "transtornos", "contextual": "distúrbios de saúde ou desordens"}, "dust": {"literal": "poeira"}, "enabled": {"literal": "habilitado"}, "entertainment": {"literal": "entretenimento"}, "evolve": {"literal": "evoluir"}, "extension": {"literal": "extensão"}, "fill": {"literal": "preencher"}, "firm": {"literal": "empresa", "contextual": "negócio estabelecido ou algo sólido"}, "functional": {"literal": "funcional"}, "galaxies": {"literal": "galáxias"}, "helped": {"literal": "ajudou"}, "hinder": {"literal": "dificultar", "contextual": "impedir ou atrasar o progresso de algo"}, "hubs": {"literal": "centros", "contextual": "pontos centrais de conexão ou atividade"}, "immense": {"literal": "imenso"}, "inhabitants": {"literal": "habitantes"}, "methodology": {"literal": "metodologia"}, "object": {"literal": "objeto"}, "optimal": {"literal": "ideal", "contextual": "melhor nível ou condição possível"}, "orchestra": {"literal": "orquestra"}, "protections": {"literal": "proteções"}, "protocols": {"literal": "protocolos"}, "receive": {"literal": "receber"}, "renaissance": {"literal": "renascimento", "contextual": "período histórico ou revitalização de algo"}, "responsibility": {"literal": "responsabilidade"}, "restricted": {"literal": "restrito"}, "revealed": {"literal": "revelado"}, "roughly": {"literal": "aproximadamente", "contextual": "usado para dar estimativas imprecisas"}, "run": {"literal": "executar", "contextual": "fazer funcionar, gerir ou correr"}, "settings": {"literal": "configurações", "contextual": "ambientes ou contextos onde algo ocorre"}, "shapes": {"literal": "formas"}, "solely": {"literal": "unicamente", "contextual": "exclusivamente; apenas"}, "static": {"literal": "estático"}, "steel": {"literal": "aço"}, "street": {"literal": "rua"}, "streets": {"literal": "ruas"}, "stricter": {"literal": "mais rigoroso"}, "strictly": {"literal": "estritamente", "contextual": "de forma rigorosa ou restrita"}, "struggles": {"literal": "dificuldades", "contextual": "lutas ou esforços para superar obstáculos"}, "systematic": {"literal": "sistemático"}, "thus": {"literal": "assim", "contextual": "portanto; marcador de consequência ou conclusão"}, "tracking": {"literal": "rastreamento", "contextual": "acompanhamento de progresso ou localização"}, "transformation": {"literal": "transformação"}, "twentieth": {"literal": "vigésimo"}, "via": {"literal": "via", "contextual": "através de; por meio de"}, "web": {"literal": "rede", "contextual": "internet ou estrutura interconectada"}, "worth": {"literal": "valor", "contextual": "mérito ou quanto algo vale a pena"}, "abilities": {"literal": "habilidades"}, "accelerated": {"literal": "acelerado"}, "acquired": {"literal": "adquirido"}, "actual": {"literal": "real", "contextual": "falso cognato: significa real/verdadeiro, não atual"}, "affected": {"literal": "afetado"}, "afternoon": {"literal": "tarde"}, "antarctica": {"literal": "Antártida"}, "caffeine": {"literal": "cafeína"}, "circumstances": {"literal": "circunstâncias"}, "civilization": {"literal": "civilização"}, "clothes": {"literal": "roupas"}, "controlled": {"literal": "controlado"}, "cups": {"literal": "xícaras"}, "degrees": {"literal": "graus", "contextual": "pode referir-se a temperatura ou diplomas acadêmicos"}, "deliver": {"literal": "entregar"}, "depend": {"literal": "depender"}, "die": {"literal": "morrer"}, "discourse": {"literal": "discurso", "contextual": "debate ou estrutura de comunicação acadêmica"}, "ear": {"literal": "orelha"}, "educators": {"literal": "educadores"}, "encryption": {"literal": "criptografia"}, "engineer": {"literal": "engenheiro"}, "enhances": {"literal": "melhora", "contextual": "aprimora ou aumenta a qualidade de algo"}, "evaluation": {"literal": "avaliação"}, "exciting": {"literal": "empolgante"}, "expectancy": {"literal": "expectativa", "contextual": "life expectancy: expectativa de vida"}, "extinction": {"literal": "extinção"}, "feature": {"literal": "característica", "contextual": "recurso ou elemento distintivo de algo"}, "genome": {"literal": "genoma"}, "gets": {"literal": "consegue", "contextual": "obtém ou torna-se"}, "giant": {"literal": "gigante"}, "greatest": {"literal": "maior", "contextual": "superlativo de grande; o melhor"}, "grown": {"literal": "crescido"}, "hands": {"literal": "mãos"}, "isolation": {"literal": "isolamento"}, "marketing": {"literal": "marketing"}, "mood": {"literal": "humor"}, "ordinary": {"literal": "comum", "contextual": "algo trivial ou regular; sem distinção"}, "organized": {"literal": "organizado"}, "paid": {"literal": "pago"}, "pattern": {"literal": "padrão"}, "plastics": {"literal": "plásticos"}, "portal": {"literal": "portal"}, "predicting": {"literal": "prever", "contextual": "ato de antecipar um resultado futuro"}, "previous": {"literal": "anterior"}, "promising": {"literal": "promissor"}, "promotes": {"literal": "promove"}, "ranging": {"literal": "variando", "contextual": "abrangendo um intervalo específico"}, "refers": {"literal": "refere-se"}, "reform": {"literal": "reforma"}, "reported": {"literal": "relatado"}, "republic": {"literal": "república"}, "residential": {"literal": "residencial"}, "returned": {"literal": "retornou"}, "returns": {"literal": "retornos", "contextual": "pode ser o ato de voltar ou o lucro de investimento"}, "royal": {"literal": "real", "contextual": "relativo à realeza"}, "scarcity": {"literal": "escassez"}, "schedule": {"literal": "cronograma", "contextual": "agenda ou horário programado"}, "sentences": {"literal": "frases", "contextual": "unidades gramaticais ou penas judiciais"}, "sets": {"literal": "conjuntos", "contextual": "coleções de itens ou o ato de definir algo"}, "six": {"literal": "seis"}, "somewhat": {"literal": "um tanto", "contextual": "em certa medida; um pouco"}}
+{
+  "stronger": {
+    "literal": "mais forte"
+  },
+  "sudden": {
+    "literal": "repentino",
+    "contextual": "súbito; algo que ocorre sem aviso"
+  },
+  "task": {
+    "literal": "tarefa"
+  },
+  "transmission": {
+    "literal": "transmissão"
+  },
+  "underlying": {
+    "literal": "subjacente",
+    "contextual": "causa oculta ou fundamental por trás de algo"
+  },
+  "unpredictable": {
+    "literal": "imprevisível"
+  },
+  "whatever": {
+    "literal": "qualquer que seja"
+  },
+  "white": {
+    "literal": "branco"
+  },
+  "withstand": {
+    "literal": "suportar",
+    "contextual": "resistir a condições adversas ou pressão"
+  },
+  "yes": {
+    "literal": "sim"
+  },
+  "accessibility": {
+    "literal": "acessibilidade"
+  },
+  "advantage": {
+    "literal": "vantagem"
+  },
+  "approaches": {
+    "literal": "abordagens",
+    "contextual": "métodos ou formas de lidar com um problema"
+  },
+  "archaeological": {
+    "literal": "arqueológico"
+  },
+  "automated": {
+    "literal": "automatizado"
+  },
+  "bank": {
+    "literal": "banco"
+  },
+  "board": {
+    "literal": "conselho",
+    "contextual": "diretoria ou comitê de uma organização"
+  },
+  "cancer": {
+    "literal": "câncer"
+  },
+  "choices": {
+    "literal": "escolhas"
+  },
+  "competitive": {
+    "literal": "competitivo"
+  },
+  "demands": {
+    "literal": "demandas",
+    "contextual": "exigências ou necessidades do mercado ou sistema"
+  },
+  "dense": {
+    "literal": "denso"
+  },
+  "drop": {
+    "literal": "queda",
+    "contextual": "frequentemente usado para declínio estatístico"
+  },
+  "employers": {
+    "literal": "empregadores"
+  },
+  "establishing": {
+    "literal": "estabelecer",
+    "contextual": "ato de instaurar ou fixar algo"
+  },
+  "excessive": {
+    "literal": "excessivo"
+  },
+  "expert": {
+    "literal": "especialista"
+  },
+  "extent": {
+    "literal": "extensão",
+    "contextual": "grau ou medida em que algo ocorre"
+  },
+  "fall": {
+    "literal": "cair",
+    "contextual": "pode significar a queda física, o outono ou declínio"
+  },
+  "firstly": {
+    "literal": "primeiramente",
+    "contextual": "marcador de ordem em redações acadêmicas"
+  },
+  "fuel": {
+    "literal": "combustível"
+  },
+  "grade": {
+    "literal": "nota",
+    "contextual": "classificação acadêmica ou nível de qualidade"
+  },
+  "helping": {
+    "literal": "ajudando"
+  },
+  "highlight": {
+    "literal": "destaque",
+    "contextual": "ênfase em um ponto principal"
+  },
+  "highlighted": {
+    "literal": "destacado"
+  },
+  "hundreds": {
+    "literal": "centenas"
+  },
+  "hunger": {
+    "literal": "fome"
+  },
+  "incredible": {
+    "literal": "incrível"
+  },
+  "influencing": {
+    "literal": "influenciar",
+    "contextual": "ato de exercer impacto sobre algo"
+  },
+  "integrity": {
+    "literal": "integridade"
+  },
+  "invest": {
+    "literal": "investir"
+  },
+  "kids": {
+    "literal": "crianças"
+  },
+  "leaders": {
+    "literal": "líderes"
+  },
+  "lights": {
+    "literal": "luzes"
+  },
+  "lines": {
+    "literal": "linhas"
+  },
+  "morning": {
+    "literal": "manhã"
+  },
+  "nitrogen": {
+    "literal": "nitrogênio"
+  },
+  "notice": {
+    "literal": "aviso",
+    "contextual": "perceber algo ou um comunicado formal"
+  },
+  "ongoing": {
+    "literal": "contínuo",
+    "contextual": "em andamento; algo que não parou"
+  },
+  "pass": {
+    "literal": "passar"
+  },
+  "popularity": {
+    "literal": "popularidade"
+  },
+  "prefab": {
+    "literal": "pré-fabricado"
+  },
+  "printing": {
+    "literal": "impressão"
+  },
+  "prioritize": {
+    "literal": "priorizar"
+  },
+  "recognition": {
+    "literal": "reconhecimento"
+  },
+  "relatively": {
+    "literal": "relativamente",
+    "contextual": "em comparação com outra coisa"
+  },
+  "running": {
+    "literal": "execução",
+    "contextual": "pode significar correr ou o funcionamento de um sistema"
+  },
+  "runs": {
+    "literal": "executa",
+    "contextual": "corre ou gerencia um processo"
+  },
+  "save": {
+    "literal": "salvar",
+    "contextual": "economizar recursos ou resgatar algo"
+  },
+  "series": {
+    "literal": "série"
+  },
+  "sign": {
+    "literal": "sinal",
+    "contextual": "placa, indício ou ato de assinar"
+  },
+  "spend": {
+    "literal": "gastar",
+    "contextual": "despender tempo ou dinheiro"
+  },
+  "station": {
+    "literal": "estação"
+  },
+  "strain": {
+    "literal": "tensão",
+    "contextual": "esforço físico, estresse ou linhagem biológica"
+  },
+  "thousand": {
+    "literal": "mil"
+  },
+  "valid": {
+    "literal": "válido"
+  },
+  "worker": {
+    "literal": "trabalhador"
+  },
+  "worse": {
+    "literal": "pior"
+  },
+  "achieving": {
+    "literal": "alcançar",
+    "contextual": "atingir um objetivo ou meta"
+  },
+  "actions": {
+    "literal": "ações"
+  },
+  "adopt": {
+    "literal": "adotar"
+  },
+  "advertising": {
+    "literal": "publicidade"
+  },
+  "applied": {
+    "literal": "aplicado"
+  },
+  "arrival": {
+    "literal": "chegada"
+  },
+  "bans": {
+    "literal": "proibições",
+    "contextual": "vetos oficiais ou banimentos"
+  },
+  "charge": {
+    "literal": "carga",
+    "contextual": "cobrança, acusação legal ou carga elétrica"
+  },
+  "chronic": {
+    "literal": "crônico"
+  },
+  "code": {
+    "literal": "código"
+  },
+  "communications": {
+    "literal": "comunicações"
+  },
+  "composition": {
+    "literal": "composição"
+  },
+  "concerned": {
+    "literal": "preocupado",
+    "contextual": "pode significar interessado ou envolvido em algo"
+  },
+  "connectivity": {
+    "literal": "conectividade"
+  },
+  "contributing": {
+    "literal": "contribuindo"
+  },
+  "cooling": {
+    "literal": "resfriamento"
+  },
+  "creation": {
+    "literal": "criação"
+  },
+  "cybersecurity": {
+    "literal": "cibersegurança"
+  },
+  "dates": {
+    "literal": "datas"
+  },
+  "designing": {
+    "literal": "projetar",
+    "contextual": "ato de desenhar ou planejar um sistema"
+  },
+  "disorders": {
+    "literal": "transtornos",
+    "contextual": "distúrbios de saúde ou desordens"
+  },
+  "dust": {
+    "literal": "poeira"
+  },
+  "enabled": {
+    "literal": "habilitado"
+  },
+  "entertainment": {
+    "literal": "entretenimento"
+  },
+  "evolve": {
+    "literal": "evoluir"
+  },
+  "extension": {
+    "literal": "extensão"
+  },
+  "fill": {
+    "literal": "preencher"
+  },
+  "firm": {
+    "literal": "empresa",
+    "contextual": "negócio estabelecido ou algo sólido"
+  },
+  "functional": {
+    "literal": "funcional"
+  },
+  "galaxies": {
+    "literal": "galáxias"
+  },
+  "helped": {
+    "literal": "ajudou"
+  },
+  "hinder": {
+    "literal": "dificultar",
+    "contextual": "impedir ou atrasar o progresso de algo"
+  },
+  "hubs": {
+    "literal": "centros",
+    "contextual": "pontos centrais de conexão ou atividade"
+  },
+  "immense": {
+    "literal": "imenso"
+  },
+  "inhabitants": {
+    "literal": "habitantes"
+  },
+  "methodology": {
+    "literal": "metodologia"
+  },
+  "object": {
+    "literal": "objeto"
+  },
+  "optimal": {
+    "literal": "ideal",
+    "contextual": "melhor nível ou condição possível"
+  },
+  "orchestra": {
+    "literal": "orquestra"
+  },
+  "protections": {
+    "literal": "proteções"
+  },
+  "protocols": {
+    "literal": "protocolos"
+  },
+  "receive": {
+    "literal": "receber"
+  },
+  "renaissance": {
+    "literal": "renascimento",
+    "contextual": "período histórico ou revitalização de algo"
+  },
+  "responsibility": {
+    "literal": "responsabilidade"
+  },
+  "restricted": {
+    "literal": "restrito"
+  },
+  "revealed": {
+    "literal": "revelado"
+  },
+  "roughly": {
+    "literal": "aproximadamente",
+    "contextual": "usado para dar estimativas imprecisas"
+  },
+  "run": {
+    "literal": "executar",
+    "contextual": "fazer funcionar, gerir ou correr"
+  },
+  "settings": {
+    "literal": "configurações",
+    "contextual": "ambientes ou contextos onde algo ocorre"
+  },
+  "shapes": {
+    "literal": "formas"
+  },
+  "solely": {
+    "literal": "unicamente",
+    "contextual": "exclusivamente; apenas"
+  },
+  "static": {
+    "literal": "estático"
+  },
+  "steel": {
+    "literal": "aço"
+  },
+  "street": {
+    "literal": "rua"
+  },
+  "streets": {
+    "literal": "ruas"
+  },
+  "stricter": {
+    "literal": "mais rigoroso"
+  },
+  "strictly": {
+    "literal": "estritamente",
+    "contextual": "de forma rigorosa ou restrita"
+  },
+  "struggles": {
+    "literal": "dificuldades",
+    "contextual": "lutas ou esforços para superar obstáculos"
+  },
+  "systematic": {
+    "literal": "sistemático"
+  },
+  "thus": {
+    "literal": "assim",
+    "contextual": "portanto; marcador de consequência ou conclusão"
+  },
+  "tracking": {
+    "literal": "rastreamento",
+    "contextual": "acompanhamento de progresso ou localização"
+  },
+  "transformation": {
+    "literal": "transformação"
+  },
+  "twentieth": {
+    "literal": "vigésimo"
+  },
+  "web": {
+    "literal": "rede",
+    "contextual": "internet ou estrutura interconectada"
+  },
+  "worth": {
+    "literal": "valor",
+    "contextual": "mérito ou quanto algo vale a pena"
+  },
+  "abilities": {
+    "literal": "habilidades"
+  },
+  "accelerated": {
+    "literal": "acelerado"
+  },
+  "acquired": {
+    "literal": "adquirido"
+  },
+  "actual": {
+    "literal": "real",
+    "contextual": "falso cognato: significa real/verdadeiro, não atual"
+  },
+  "affected": {
+    "literal": "afetado"
+  },
+  "afternoon": {
+    "literal": "tarde"
+  },
+  "antarctica": {
+    "literal": "Antártida"
+  },
+  "caffeine": {
+    "literal": "cafeína"
+  },
+  "circumstances": {
+    "literal": "circunstâncias"
+  },
+  "civilization": {
+    "literal": "civilização"
+  },
+  "clothes": {
+    "literal": "roupas"
+  },
+  "controlled": {
+    "literal": "controlado"
+  },
+  "cups": {
+    "literal": "xícaras"
+  },
+  "degrees": {
+    "literal": "graus",
+    "contextual": "pode referir-se a temperatura ou diplomas acadêmicos"
+  },
+  "deliver": {
+    "literal": "entregar"
+  },
+  "depend": {
+    "literal": "depender"
+  },
+  "die": {
+    "literal": "morrer"
+  },
+  "discourse": {
+    "literal": "discurso",
+    "contextual": "debate ou estrutura de comunicação acadêmica"
+  },
+  "ear": {
+    "literal": "orelha"
+  },
+  "educators": {
+    "literal": "educadores"
+  },
+  "encryption": {
+    "literal": "criptografia"
+  },
+  "engineer": {
+    "literal": "engenheiro"
+  },
+  "enhances": {
+    "literal": "melhora",
+    "contextual": "aprimora ou aumenta a qualidade de algo"
+  },
+  "evaluation": {
+    "literal": "avaliação"
+  },
+  "exciting": {
+    "literal": "empolgante"
+  },
+  "expectancy": {
+    "literal": "expectativa",
+    "contextual": "life expectancy: expectativa de vida"
+  },
+  "extinction": {
+    "literal": "extinção"
+  },
+  "feature": {
+    "literal": "característica",
+    "contextual": "recurso ou elemento distintivo de algo"
+  },
+  "genome": {
+    "literal": "genoma"
+  },
+  "gets": {
+    "literal": "consegue",
+    "contextual": "obtém ou torna-se"
+  },
+  "giant": {
+    "literal": "gigante"
+  },
+  "greatest": {
+    "literal": "maior",
+    "contextual": "superlativo de grande; o melhor"
+  },
+  "grown": {
+    "literal": "crescido"
+  },
+  "hands": {
+    "literal": "mãos"
+  },
+  "isolation": {
+    "literal": "isolamento"
+  },
+  "mood": {
+    "literal": "humor"
+  },
+  "ordinary": {
+    "literal": "comum",
+    "contextual": "algo trivial ou regular; sem distinção"
+  },
+  "organized": {
+    "literal": "organizado"
+  },
+  "paid": {
+    "literal": "pago"
+  },
+  "pattern": {
+    "literal": "padrão"
+  },
+  "plastics": {
+    "literal": "plásticos"
+  },
+  "predicting": {
+    "literal": "prever",
+    "contextual": "ato de antecipar um resultado futuro"
+  },
+  "previous": {
+    "literal": "anterior"
+  },
+  "promising": {
+    "literal": "promissor"
+  },
+  "promotes": {
+    "literal": "promove"
+  },
+  "ranging": {
+    "literal": "variando",
+    "contextual": "abrangendo um intervalo específico"
+  },
+  "refers": {
+    "literal": "refere-se"
+  },
+  "reform": {
+    "literal": "reforma"
+  },
+  "reported": {
+    "literal": "relatado"
+  },
+  "republic": {
+    "literal": "república"
+  },
+  "residential": {
+    "literal": "residencial"
+  },
+  "returned": {
+    "literal": "retornou"
+  },
+  "returns": {
+    "literal": "retornos",
+    "contextual": "pode ser o ato de voltar ou o lucro de investimento"
+  },
+  "royal": {
+    "literal": "real",
+    "contextual": "relativo à realeza"
+  },
+  "scarcity": {
+    "literal": "escassez"
+  },
+  "schedule": {
+    "literal": "cronograma",
+    "contextual": "agenda ou horário programado"
+  },
+  "sentences": {
+    "literal": "frases",
+    "contextual": "unidades gramaticais ou penas judiciais"
+  },
+  "sets": {
+    "literal": "conjuntos",
+    "contextual": "coleções de itens ou o ato de definir algo"
+  },
+  "six": {
+    "literal": "seis"
+  },
+  "somewhat": {
+    "literal": "um tanto",
+    "contextual": "em certa medida; um pouco"
+  }
+}

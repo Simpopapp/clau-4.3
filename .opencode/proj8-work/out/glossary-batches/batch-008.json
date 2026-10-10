@@ -1,1 +1,623 @@
-{"balanced": {"literal": "equilibrado"}, "beneficial": {"literal": "benéfico"}, "bias": {"literal": "viés", "contextual": "inclinação ou preconceito acadêmico"}, "cafeteria": {"literal": "refeitório", "contextual": "local de alimentação em campus"}, "caused": {"literal": "causado"}, "confidence": {"literal": "confiança", "contextual": "nível de certeza estatística"}, "connect": {"literal": "conectar"}, "consistently": {"literal": "consistentemente"}, "contrast": {"literal": "contraste", "contextual": "comparação de diferenças"}, "countryside": {"literal": "campo"}, "damage": {"literal": "dano"}, "discussions": {"literal": "discussões"}, "double": {"literal": "dobro"}, "email": {"literal": "e-mail"}, "entirely": {"literal": "inteiramente"}, "equality": {"literal": "igualdade"}, "geological": {"literal": "geológico"}, "gives": {"literal": "dá"}, "hot": {"literal": "quente"}, "lots": {"literal": "muitos"}, "mathematical": {"literal": "matemático"}, "movements": {"literal": "movimentos"}, "northern": {"literal": "do norte"}, "overall": {"literal": "no geral", "contextual": "visão holística ou total"}, "radio": {"literal": "rádio"}, "rarely": {"literal": "raramente"}, "regardless": {"literal": "independentemente", "contextual": "sem considerar fatores externos"}, "resistance": {"literal": "resistência"}, "road": {"literal": "estrada"}, "severe": {"literal": "grave"}, "speak": {"literal": "falar"}, "standardized": {"literal": "padronizado", "contextual": "comum em testes como o pte"}, "statistics": {"literal": "estatísticas"}, "strings": {"literal": "cordas", "contextual": "sequências de caracteres em computação"}, "submitted": {"literal": "enviado", "contextual": "entregue para avaliação"}, "sun": {"literal": "sol"}, "tiny": {"literal": "minúsculo"}, "aspects": {"literal": "aspectos"}, "authority": {"literal": "autoridade"}, "availability": {"literal": "disponibilidade"}, "collaborative": {"literal": "colaborativo"}, "coming": {"literal": "vindo"}, "consistent": {"literal": "consistente"}, "constant": {"literal": "constante"}, "continuous": {"literal": "contínuo"}, "conventional": {"literal": "convencional"}, "cover": {"literal": "cobrir"}, "degradation": {"literal": "degradação"}, "disciplines": {"literal": "disciplinas", "contextual": "áreas de estudo acadêmico"}, "dominant": {"literal": "dominante"}, "examine": {"literal": "examinar", "contextual": "investigar detalhadamente"}, "guidelines": {"literal": "diretrizes", "contextual": "instruções ou normas"}, "height": {"literal": "altura"}, "hypertext": {"literal": "hipertexto"}, "infectious": {"literal": "infeccioso"}, "inflation": {"literal": "inflação"}, "intended": {"literal": "pretendido", "contextual": "planejado ou destinado a"}, "looks": {"literal": "parece"}, "misinformation": {"literal": "desinformação", "contextual": "informação falsa ou incorreta"}, "package": {"literal": "pacote"}, "particles": {"literal": "partículas"}, "perspectives": {"literal": "perspectivas"}, "playing": {"literal": "jogando"}, "roles": {"literal": "papéis", "contextual": "funções ou cargos"}, "scholars": {"literal": "acadêmicos", "contextual": "pesquisadores ou estudiosos"}, "sector": {"literal": "setor"}, "sectors": {"literal": "setores"}, "shopping": {"literal": "compras"}, "showed": {"literal": "mostrou"}, "sounds": {"literal": "sons"}, "spent": {"literal": "gasto"}, "struggle": {"literal": "luta", "contextual": "dificuldade ou esforço"}, "subjects": {"literal": "assuntos", "contextual": "temas ou participantes de pesquisa"}, "tell": {"literal": "contar"}, "topics": {"literal": "tópicos"}, "walk": {"literal": "caminhar"}, "welfare": {"literal": "bem-estar"}, "whereas": {"literal": "enquanto", "contextual": "conjunção de contraste"}, "accepted": {"literal": "aceito"}, "affecting": {"literal": "afetando"}, "algorithms": {"literal": "algoritmos"}, "amounts": {"literal": "quantias"}, "attract": {"literal": "atrair"}, "burden": {"literal": "fardo", "contextual": "carga ou responsabilidade"}, "civilizations": {"literal": "civilizações"}, "combination": {"literal": "combinação"}, "combine": {"literal": "combinar"}, "conversely": {"literal": "inversamente", "contextual": "por outro lado, em contraste"}, "dangerous": {"literal": "perigoso"}, "demonstrated": {"literal": "demonstrado"}, "drivers": {"literal": "motoristas", "contextual": "fatores que impulsionam algo"}, "entrance": {"literal": "entrada"}, "executive": {"literal": "executivo"}, "fine": {"literal": "multa", "contextual": "pode ser multa ou refinado"}, "focused": {"literal": "focado"}, "front": {"literal": "frente"}, "giving": {"literal": "dando"}, "grew": {"literal": "cresceu"}, "guide": {"literal": "guia"}, "interventions": {"literal": "intervenções", "contextual": "ações para mudar um resultado"}, "join": {"literal": "juntar-se"}, "kindness": {"literal": "gentileza"}, "luxury": {"literal": "luxo"}, "mechanical": {"literal": "mecânico"}, "medieval": {"literal": "medieval"}, "organizing": {"literal": "organizando"}, "personalized": {"literal": "personalizado"}, "protein": {"literal": "proteína"}, "purpose": {"literal": "propósito"}, "reflecting": {"literal": "refletindo"}, "relied": {"literal": "dependeu", "contextual": "baseou-se em"}, "resulting": {"literal": "resultante"}, "signal": {"literal": "sinal"}, "significance": {"literal": "importância", "contextual": "relevância estatística"}, "smaller": {"literal": "menor"}, "summer": {"literal": "verão"}, "survive": {"literal": "sobreviver"}, "tax": {"literal": "imposto"}, "tone": {"literal": "tom"}, "towers": {"literal": "torres"}, "towns": {"literal": "cidades pequenas"}, "volcanic": {"literal": "vulcânico"}, "walls": {"literal": "paredes"}, "went": {"literal": "foi"}, "wrote": {"literal": "escreveu"}, "above": {"literal": "acima"}, "accurate": {"literal": "preciso", "contextual": "correto ou exato"}, "addresses": {"literal": "aborda", "contextual": "trata de um problema ou tema"}, "alone": {"literal": "sozinho"}, "aspect": {"literal": "aspecto"}, "beautiful": {"literal": "bonito"}, "bee": {"literal": "abelha"}, "brought": {"literal": "trouxe"}, "competing": {"literal": "competindo"}, "concrete": {"literal": "concreto"}, "consequence": {"literal": "consequência"}, "core": {"literal": "núcleo", "contextual": "parte central ou essencial"}, "curriculum": {"literal": "currículo", "contextual": "plano de estudos"}, "cycle": {"literal": "ciclo"}, "distant": {"literal": "distante"}, "driving": {"literal": "dirigindo", "contextual": "fator impulsionador"}, "easy": {"literal": "fácil"}, "extensive": {"literal": "extenso"}, "foreign": {"literal": "estrangeiro"}, "gaining": {"literal": "ganhando"}, "immune": {"literal": "imune"}, "interactions": {"literal": "interações"}, "landscapes": {"literal": "paisagens"}, "leads": {"literal": "leva", "contextual": "conduz a um resultado"}, "mechanics": {"literal": "mecânica"}, "modified": {"literal": "modificado"}, "months": {"literal": "meses"}, "museum": {"literal": "museu"}, "normal": {"literal": "normal"}, "preventing": {"literal": "prevenindo"}, "prices": {"literal": "preços"}, "protecting": {"literal": "protegendo"}, "records": {"literal": "registros", "contextual": "dados documentados"}, "reduction": {"literal": "redução"}, "reveal": {"literal": "revelar"}, "seems": {"literal": "parece"}, "sorts": {"literal": "tipos"}, "television": {"literal": "televisão"}, "theatre": {"literal": "teatro"}, "translate": {"literal": "traduzir"}, "values": {"literal": "valores"}, "actively": {"literal": "ativamente"}, "architects": {"literal": "arquitetos"}, "balancing": {"literal": "equilibrando"}, "banks": {"literal": "bancos"}, "blood": {"literal": "sangue"}, "boundaries": {"literal": "fronteiras", "contextual": "limites ou divisões"}, "character": {"literal": "caráter", "contextual": "personagem ou característica"}, "complexities": {"literal": "complexidades"}, "date": {"literal": "data"}, "describe": {"literal": "descrever"}, "difference": {"literal": "diferença"}, "door": {"literal": "porta"}, "dramatic": {"literal": "dramático", "contextual": "mudança súbita ou extrema"}, "engaging": {"literal": "envolvente", "contextual": "atraente ou participativo"}, "equipped": {"literal": "equipado"}, "erosion": {"literal": "erosão"}, "expertise": {"literal": "especialidade", "contextual": "conhecimento especializado"}, "harpsichord": {"literal": "cravo", "contextual": "instrumento musical de teclado"}, "historically": {"literal": "historicamente"}, "hunting": {"literal": "caça"}, "implement": {"literal": "implementar", "contextual": "colocar em prática"}, "intellectual": {"literal": "intelectual"}, "literary": {"literal": "literário"}, "maximize": {"literal": "maximizar"}, "operations": {"literal": "operações"}, "outside": {"literal": "fora"}, "plate": {"literal": "placa", "contextual": "placa tectônica em geologia"}, "preservation": {"literal": "preservação"}, "property": {"literal": "propriedade", "contextual": "característica ou posse"}}
+{
+  "balanced": {
+    "literal": "equilibrado"
+  },
+  "beneficial": {
+    "literal": "benéfico"
+  },
+  "bias": {
+    "literal": "viés",
+    "contextual": "inclinação ou preconceito acadêmico"
+  },
+  "cafeteria": {
+    "literal": "refeitório",
+    "contextual": "local de alimentação em campus"
+  },
+  "caused": {
+    "literal": "causado"
+  },
+  "confidence": {
+    "literal": "confiança",
+    "contextual": "nível de certeza estatística"
+  },
+  "connect": {
+    "literal": "conectar"
+  },
+  "consistently": {
+    "literal": "consistentemente"
+  },
+  "contrast": {
+    "literal": "contraste",
+    "contextual": "comparação de diferenças"
+  },
+  "countryside": {
+    "literal": "campo"
+  },
+  "damage": {
+    "literal": "dano"
+  },
+  "discussions": {
+    "literal": "discussões"
+  },
+  "double": {
+    "literal": "dobro"
+  },
+  "email": {
+    "literal": "e-mail"
+  },
+  "entirely": {
+    "literal": "inteiramente"
+  },
+  "equality": {
+    "literal": "igualdade"
+  },
+  "geological": {
+    "literal": "geológico"
+  },
+  "gives": {
+    "literal": "dá"
+  },
+  "hot": {
+    "literal": "quente"
+  },
+  "lots": {
+    "literal": "muitos"
+  },
+  "mathematical": {
+    "literal": "matemático"
+  },
+  "movements": {
+    "literal": "movimentos"
+  },
+  "northern": {
+    "literal": "do norte"
+  },
+  "overall": {
+    "literal": "no geral",
+    "contextual": "visão holística ou total"
+  },
+  "radio": {
+    "literal": "rádio"
+  },
+  "rarely": {
+    "literal": "raramente"
+  },
+  "regardless": {
+    "literal": "independentemente",
+    "contextual": "sem considerar fatores externos"
+  },
+  "resistance": {
+    "literal": "resistência"
+  },
+  "road": {
+    "literal": "estrada"
+  },
+  "severe": {
+    "literal": "grave"
+  },
+  "speak": {
+    "literal": "falar"
+  },
+  "standardized": {
+    "literal": "padronizado",
+    "contextual": "comum em testes como o pte"
+  },
+  "statistics": {
+    "literal": "estatísticas"
+  },
+  "strings": {
+    "literal": "cordas",
+    "contextual": "sequências de caracteres em computação"
+  },
+  "submitted": {
+    "literal": "enviado",
+    "contextual": "entregue para avaliação"
+  },
+  "sun": {
+    "literal": "sol"
+  },
+  "tiny": {
+    "literal": "minúsculo"
+  },
+  "aspects": {
+    "literal": "aspectos"
+  },
+  "authority": {
+    "literal": "autoridade"
+  },
+  "availability": {
+    "literal": "disponibilidade"
+  },
+  "collaborative": {
+    "literal": "colaborativo"
+  },
+  "coming": {
+    "literal": "vindo"
+  },
+  "consistent": {
+    "literal": "consistente"
+  },
+  "constant": {
+    "literal": "constante"
+  },
+  "continuous": {
+    "literal": "contínuo"
+  },
+  "conventional": {
+    "literal": "convencional"
+  },
+  "cover": {
+    "literal": "cobrir"
+  },
+  "degradation": {
+    "literal": "degradação"
+  },
+  "disciplines": {
+    "literal": "disciplinas",
+    "contextual": "áreas de estudo acadêmico"
+  },
+  "dominant": {
+    "literal": "dominante"
+  },
+  "examine": {
+    "literal": "examinar",
+    "contextual": "investigar detalhadamente"
+  },
+  "guidelines": {
+    "literal": "diretrizes",
+    "contextual": "instruções ou normas"
+  },
+  "height": {
+    "literal": "altura"
+  },
+  "hypertext": {
+    "literal": "hipertexto"
+  },
+  "infectious": {
+    "literal": "infeccioso"
+  },
+  "inflation": {
+    "literal": "inflação"
+  },
+  "intended": {
+    "literal": "pretendido",
+    "contextual": "planejado ou destinado a"
+  },
+  "looks": {
+    "literal": "parece"
+  },
+  "misinformation": {
+    "literal": "desinformação",
+    "contextual": "informação falsa ou incorreta"
+  },
+  "package": {
+    "literal": "pacote"
+  },
+  "particles": {
+    "literal": "partículas"
+  },
+  "perspectives": {
+    "literal": "perspectivas"
+  },
+  "playing": {
+    "literal": "jogando"
+  },
+  "roles": {
+    "literal": "papéis",
+    "contextual": "funções ou cargos"
+  },
+  "scholars": {
+    "literal": "acadêmicos",
+    "contextual": "pesquisadores ou estudiosos"
+  },
+  "sector": {
+    "literal": "setor"
+  },
+  "sectors": {
+    "literal": "setores"
+  },
+  "shopping": {
+    "literal": "compras"
+  },
+  "showed": {
+    "literal": "mostrou"
+  },
+  "sounds": {
+    "literal": "sons"
+  },
+  "spent": {
+    "literal": "gasto"
+  },
+  "struggle": {
+    "literal": "luta",
+    "contextual": "dificuldade ou esforço"
+  },
+  "subjects": {
+    "literal": "assuntos",
+    "contextual": "temas ou participantes de pesquisa"
+  },
+  "tell": {
+    "literal": "contar"
+  },
+  "topics": {
+    "literal": "tópicos"
+  },
+  "walk": {
+    "literal": "caminhar"
+  },
+  "welfare": {
+    "literal": "bem-estar"
+  },
+  "whereas": {
+    "literal": "enquanto",
+    "contextual": "conjunção de contraste"
+  },
+  "accepted": {
+    "literal": "aceito"
+  },
+  "affecting": {
+    "literal": "afetando"
+  },
+  "algorithms": {
+    "literal": "algoritmos"
+  },
+  "amounts": {
+    "literal": "quantias"
+  },
+  "attract": {
+    "literal": "atrair"
+  },
+  "burden": {
+    "literal": "fardo",
+    "contextual": "carga ou responsabilidade"
+  },
+  "civilizations": {
+    "literal": "civilizações"
+  },
+  "combination": {
+    "literal": "combinação"
+  },
+  "combine": {
+    "literal": "combinar"
+  },
+  "conversely": {
+    "literal": "inversamente",
+    "contextual": "por outro lado, em contraste"
+  },
+  "dangerous": {
+    "literal": "perigoso"
+  },
+  "demonstrated": {
+    "literal": "demonstrado"
+  },
+  "drivers": {
+    "literal": "motoristas",
+    "contextual": "fatores que impulsionam algo"
+  },
+  "entrance": {
+    "literal": "entrada"
+  },
+  "executive": {
+    "literal": "executivo"
+  },
+  "fine": {
+    "literal": "multa",
+    "contextual": "pode ser multa ou refinado"
+  },
+  "focused": {
+    "literal": "focado"
+  },
+  "front": {
+    "literal": "frente"
+  },
+  "giving": {
+    "literal": "dando"
+  },
+  "grew": {
+    "literal": "cresceu"
+  },
+  "guide": {
+    "literal": "guia"
+  },
+  "interventions": {
+    "literal": "intervenções",
+    "contextual": "ações para mudar um resultado"
+  },
+  "join": {
+    "literal": "juntar-se"
+  },
+  "kindness": {
+    "literal": "gentileza"
+  },
+  "luxury": {
+    "literal": "luxo"
+  },
+  "mechanical": {
+    "literal": "mecânico"
+  },
+  "organizing": {
+    "literal": "organizando"
+  },
+  "personalized": {
+    "literal": "personalizado"
+  },
+  "protein": {
+    "literal": "proteína"
+  },
+  "purpose": {
+    "literal": "propósito"
+  },
+  "reflecting": {
+    "literal": "refletindo"
+  },
+  "relied": {
+    "literal": "dependeu",
+    "contextual": "baseou-se em"
+  },
+  "resulting": {
+    "literal": "resultante"
+  },
+  "signal": {
+    "literal": "sinal"
+  },
+  "significance": {
+    "literal": "importância",
+    "contextual": "relevância estatística"
+  },
+  "smaller": {
+    "literal": "menor"
+  },
+  "summer": {
+    "literal": "verão"
+  },
+  "survive": {
+    "literal": "sobreviver"
+  },
+  "tax": {
+    "literal": "imposto"
+  },
+  "tone": {
+    "literal": "tom"
+  },
+  "towers": {
+    "literal": "torres"
+  },
+  "towns": {
+    "literal": "cidades pequenas"
+  },
+  "volcanic": {
+    "literal": "vulcânico"
+  },
+  "walls": {
+    "literal": "paredes"
+  },
+  "went": {
+    "literal": "foi"
+  },
+  "wrote": {
+    "literal": "escreveu"
+  },
+  "above": {
+    "literal": "acima"
+  },
+  "accurate": {
+    "literal": "preciso",
+    "contextual": "correto ou exato"
+  },
+  "addresses": {
+    "literal": "aborda",
+    "contextual": "trata de um problema ou tema"
+  },
+  "alone": {
+    "literal": "sozinho"
+  },
+  "aspect": {
+    "literal": "aspecto"
+  },
+  "beautiful": {
+    "literal": "bonito"
+  },
+  "bee": {
+    "literal": "abelha"
+  },
+  "brought": {
+    "literal": "trouxe"
+  },
+  "competing": {
+    "literal": "competindo"
+  },
+  "concrete": {
+    "literal": "concreto"
+  },
+  "consequence": {
+    "literal": "consequência"
+  },
+  "core": {
+    "literal": "núcleo",
+    "contextual": "parte central ou essencial"
+  },
+  "curriculum": {
+    "literal": "currículo",
+    "contextual": "plano de estudos"
+  },
+  "cycle": {
+    "literal": "ciclo"
+  },
+  "distant": {
+    "literal": "distante"
+  },
+  "driving": {
+    "literal": "dirigindo",
+    "contextual": "fator impulsionador"
+  },
+  "easy": {
+    "literal": "fácil"
+  },
+  "extensive": {
+    "literal": "extenso"
+  },
+  "foreign": {
+    "literal": "estrangeiro"
+  },
+  "gaining": {
+    "literal": "ganhando"
+  },
+  "immune": {
+    "literal": "imune"
+  },
+  "interactions": {
+    "literal": "interações"
+  },
+  "landscapes": {
+    "literal": "paisagens"
+  },
+  "leads": {
+    "literal": "leva",
+    "contextual": "conduz a um resultado"
+  },
+  "mechanics": {
+    "literal": "mecânica"
+  },
+  "modified": {
+    "literal": "modificado"
+  },
+  "months": {
+    "literal": "meses"
+  },
+  "museum": {
+    "literal": "museu"
+  },
+  "preventing": {
+    "literal": "prevenindo"
+  },
+  "prices": {
+    "literal": "preços"
+  },
+  "protecting": {
+    "literal": "protegendo"
+  },
+  "records": {
+    "literal": "registros",
+    "contextual": "dados documentados"
+  },
+  "reduction": {
+    "literal": "redução"
+  },
+  "reveal": {
+    "literal": "revelar"
+  },
+  "seems": {
+    "literal": "parece"
+  },
+  "sorts": {
+    "literal": "tipos"
+  },
+  "television": {
+    "literal": "televisão"
+  },
+  "theatre": {
+    "literal": "teatro"
+  },
+  "translate": {
+    "literal": "traduzir"
+  },
+  "values": {
+    "literal": "valores"
+  },
+  "actively": {
+    "literal": "ativamente"
+  },
+  "architects": {
+    "literal": "arquitetos"
+  },
+  "balancing": {
+    "literal": "equilibrando"
+  },
+  "banks": {
+    "literal": "bancos"
+  },
+  "blood": {
+    "literal": "sangue"
+  },
+  "boundaries": {
+    "literal": "fronteiras",
+    "contextual": "limites ou divisões"
+  },
+  "character": {
+    "literal": "caráter",
+    "contextual": "personagem ou característica"
+  },
+  "complexities": {
+    "literal": "complexidades"
+  },
+  "date": {
+    "literal": "data"
+  },
+  "describe": {
+    "literal": "descrever"
+  },
+  "difference": {
+    "literal": "diferença"
+  },
+  "door": {
+    "literal": "porta"
+  },
+  "dramatic": {
+    "literal": "dramático",
+    "contextual": "mudança súbita ou extrema"
+  },
+  "engaging": {
+    "literal": "envolvente",
+    "contextual": "atraente ou participativo"
+  },
+  "equipped": {
+    "literal": "equipado"
+  },
+  "erosion": {
+    "literal": "erosão"
+  },
+  "expertise": {
+    "literal": "especialidade",
+    "contextual": "conhecimento especializado"
+  },
+  "harpsichord": {
+    "literal": "cravo",
+    "contextual": "instrumento musical de teclado"
+  },
+  "historically": {
+    "literal": "historicamente"
+  },
+  "hunting": {
+    "literal": "caça"
+  },
+  "implement": {
+    "literal": "implementar",
+    "contextual": "colocar em prática"
+  },
+  "intellectual": {
+    "literal": "intelectual"
+  },
+  "literary": {
+    "literal": "literário"
+  },
+  "maximize": {
+    "literal": "maximizar"
+  },
+  "operations": {
+    "literal": "operações"
+  },
+  "outside": {
+    "literal": "fora"
+  },
+  "plate": {
+    "literal": "placa",
+    "contextual": "placa tectônica em geologia"
+  },
+  "preservation": {
+    "literal": "preservação"
+  },
+  "property": {
+    "literal": "propriedade",
+    "contextual": "característica ou posse"
+  }
+}

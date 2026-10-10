@@ -1,1 +1,639 @@
-{"soil":{"literal":"solo","contextual":"camada superficial da terra onde crescem plantas"},"european":{"literal":"europeu"},"improve":{"literal":"melhorar","contextual":"comum em discussões sobre progresso ou eficácia"},"movement":{"literal":"movimento","contextual":"deslocamento físico ou social"},"throughout":{"literal":"ao longo de","contextual":"indica continuidade temporal ou espacial"},"cells":{"literal":"células","contextual":"unidades básicas da vida ou componentes de baterias"},"open":{"literal":"aberto","contextual":"frequente em acesso aberto ou sistemas abertos"},"particularly":{"literal":"particularmente","contextual":"usado para enfatizar um subconjunto ou exemplo"},"policy":{"literal":"política","contextual":"diretrizes, normas ou regras institucionais"},"ways":{"literal":"formas","contextual":"métodos ou maneiras de realizar algo"},"down":{"literal":"para baixo"},"nature":{"literal":"natureza","contextual":"mundo natural ou essência de algo"},"real":{"literal":"real"},"group":{"literal":"grupo"},"reducing":{"literal":"reduzindo","contextual":"ato de diminuir quantidade ou intensidade"},"age":{"literal":"idade","contextual":"tempo de vida ou período histórico"},"biology":{"literal":"biologia"},"children":{"literal":"crianças","contextual":"foco em estudos de desenvolvimento ou educação"},"creating":{"literal":"criando"},"current":{"literal":"atual","contextual":"momento presente ou fluxo de água e eletricidade"},"enough":{"literal":"suficiente"},"individuals":{"literal":"indivíduos","contextual":"termo acadêmico para pessoas ou sujeitos de pesquisa"},"regions":{"literal":"regiões"},"allowing":{"literal":"permitindo"},"although":{"literal":"embora","contextual":"conjunção concessiva para contrastar ideias"},"body":{"literal":"corpo","contextual":"estrutura física ou conjunto de conhecimento"},"consequently":{"literal":"consequentemente","contextual":"indica resultado ou efeito lógico"},"national":{"literal":"nacional"},"school":{"literal":"escola"},"businesses":{"literal":"empresas","contextual":"entidades comerciais ou organizações"},"educational":{"literal":"educacional"},"genetic":{"literal":"genético"},"solutions":{"literal":"soluções"},"still":{"literal":"ainda"},"team":{"literal":"equipe"},"brain":{"literal":"cérebro"},"capture":{"literal":"capturar","contextual":"coleta de dados ou sequestro de carbono"},"fundamental":{"literal":"fundamental"},"helps":{"literal":"ajuda"},"architecture":{"literal":"arquitetura"},"far":{"literal":"longe"},"involves":{"literal":"envolve"},"policies":{"literal":"políticas","contextual":"conjunto de normas e diretrizes"},"processes":{"literal":"processos"},"required":{"literal":"necessário","contextual":"exigido por normas ou condições"},"after":{"literal":"após"},"air":{"literal":"ar"},"changed":{"literal":"alterado","contextual":"modificado em relação ao estado anterior"},"form":{"literal":"forma","contextual":"aparência física ou estrutura de um documento"},"programs":{"literal":"programas","contextual":"sequências de atividades ou software"},"agriculture":{"literal":"agricultura"},"buildings":{"literal":"edifícios"},"chemical":{"literal":"químico"},"cost":{"literal":"custo","contextual":"valor monetário ou esforço necessário"},"massive":{"literal":"massivo","contextual":"de grande escala ou proporção"},"person":{"literal":"pessoa"},"populations":{"literal":"populações"},"renewable":{"literal":"renovável","contextual":"recursos que se regeneram naturalmente"},"whether":{"literal":"se","contextual":"usado para introduzir alternativas ou incerteza"},"animal":{"literal":"animal"},"campus":{"literal":"campus","contextual":"espaço físico de uma universidade"},"loss":{"literal":"perda","contextual":"diminuição quantitativa ou qualitativa"},"providing":{"literal":"fornecendo"},"sound":{"literal":"som"},"diseases":{"literal":"doenças"},"fact":{"literal":"fato"},"once":{"literal":"uma vez","contextual":"momento único ou anteriormente"},"political":{"literal":"político"},"privacy":{"literal":"privacidade"},"vast":{"literal":"vasto","contextual":"extenso ou de grande quantidade"},"week":{"literal":"semana"},"cognitive":{"literal":"cognitivo","contextual":"relacionado ao processo de conhecimento e percepção"},"did":{"literal":"fez"},"job":{"literal":"trabalho","contextual":"tarefa específica ou ocupação profissional"},"offer":{"literal":"oferecer"},"others":{"literal":"outros"},"planning":{"literal":"planejamento"},"quality":{"literal":"qualidade"},"rapid":{"literal":"rápido"},"advanced":{"literal":"avançado"},"cannot":{"literal":"não pode"},"difficult":{"literal":"difícil"},"end":{"literal":"fim"},"start":{"literal":"início"},"too":{"literal":"também"},"argue":{"literal":"argumentar","contextual":"sustentar uma posição em debate acadêmico"},"book":{"literal":"livro"},"courses":{"literal":"cursos"},"develop":{"literal":"desenvolver"},"efficiency":{"literal":"eficiência","contextual":"relação entre recursos usados e resultados obtidos"},"little":{"literal":"pouco"},"ancient":{"literal":"antigo","contextual":"referente à história clássica ou remota"},"big":{"literal":"grande"},"culture":{"literal":"cultura"},"risks":{"literal":"riscos"},"biological":{"literal":"biológico"},"emissions":{"literal":"emissões","contextual":"liberação de gases ou substâncias no ambiente"},"option":{"literal":"opção"},"results":{"literal":"resultados"},"landscape":{"literal":"paisagem","contextual":"cenário geográfico ou panorama de uma área"},"level":{"literal":"nível"},"off":{"literal":"fora"},"point":{"literal":"ponto","contextual":"posição específica ou argumento central"},"problems":{"literal":"problemas"},"since":{"literal":"desde","contextual":"referência temporal ou causal"},"deep":{"literal":"profundo"},"english":{"literal":"inglês"},"innovation":{"literal":"inovação","contextual":"criação de algo novo ou melhoria significativa"},"ocean":{"literal":"oceano"},"ability":{"literal":"habilidade","contextual":"capacidade de realizar uma tarefa"},"analysis":{"literal":"análise","contextual":"exame detalhado de dados ou componentes"},"challenge":{"literal":"desafio","contextual":"obstáculo que requer esforço ou inovação"},"higher":{"literal":"mais alto","contextual":"comum em ensino superior"},"old":{"literal":"velho"},"protect":{"literal":"proteger"},"quite":{"literal":"bastante"},"supporting":{"literal":"apoiando","contextual":"fornecendo evidências ou suporte"},"technological":{"literal":"tecnológico"},"ago":{"literal":"atrás","contextual":"marcador temporal de passado"},"area":{"literal":"área"},"risk":{"literal":"risco"},"structures":{"literal":"estruturas"},"temperatures":{"literal":"temperaturas"},"build":{"literal":"construir"},"diverse":{"literal":"diverso"},"gaps":{"literal":"lacunas","contextual":"falhas de conhecimento ou espaços vazios"},"internet":{"literal":"internet"},"means":{"literal":"meios","contextual":"métodos para atingir um fim"},"remain":{"literal":"permanecer"},"require":{"literal":"requerer"},"studying":{"literal":"estudando"},"supply":{"literal":"fornecimento","contextual":"oferta de bens ou recursos"},"travel":{"literal":"viajar"},"continue":{"literal":"continuar"},"ensuring":{"literal":"garantindo","contextual":"ato de assegurar que algo aconteça"},"ideas":{"literal":"ideias"},"memory":{"literal":"memória"},"missing":{"literal":"ausente"},"performance":{"literal":"desempenho","contextual":"eficácia em uma tarefa ou funcionamento"},"always":{"literal":"sempre"},"methods":{"literal":"métodos"},"pollution":{"literal":"poluição"},"projects":{"literal":"projetos"},"room":{"literal":"sala"},"weather":{"literal":"clima","contextual":"condições atmosféricas momentâneas"},"career":{"literal":"carreira"},"concept":{"literal":"conceito","contextual":"ideia abstrata ou definição teórica"},"essay":{"literal":"ensaio","contextual":"texto acadêmico argumentativo"},"instance":{"literal":"exemplo","contextual":"ocorrência ou caso específico"},"leading":{"literal":"principal","contextual":"que ocupa posição de destaque ou liderança"},"located":{"literal":"localizado"},"simple":{"literal":"simples"},"united":{"literal":"unido"},"among":{"literal":"entre","contextual":"no meio de três ou mais elementos"},"computer":{"literal":"computador"},"concerns":{"literal":"preocupações"},"consumer":{"literal":"consumidor"},"effectively":{"literal":"efetivamente","contextual":"de forma eficaz ou produtiva"},"instead":{"literal":"em vez de"},"plant":{"literal":"planta","contextual":"organismo vegetal ou instalação industrial"},"rate":{"literal":"taxa","contextual":"velocidade ou frequência de ocorrência"},"sea":{"literal":"mar"},"surface":{"literal":"superfície"},"tools":{"literal":"ferramentas"},"activity":{"literal":"atividade"},"books":{"literal":"livros"},"solar":{"literal":"solar"},"techniques":{"literal":"técnicas"},"website":{"literal":"site"},"come":{"literal":"vir"},"insights":{"literal":"percepções","contextual":"compreensões profundas ou novas ideias"},"developing":{"literal":"desenvolvendo"},"homes":{"literal":"lares"},"include":{"literal":"incluir"},"lab":{"literal":"laboratório"},"me":{"literal":"mim"},"thousands":{"literal":"milhares"},"ai":{"literal":"ia","contextual":"inteligência artificial"},"basic":{"literal":"básico"},"became":{"literal":"tornou-se"},"chemistry":{"literal":"química"},"ecosystems":{"literal":"ecossistemas"},"material":{"literal":"material"},"problem":{"literal":"problema"},"fish":{"literal":"peixe"},"housing":{"literal":"habitação","contextual":"provimento de moradia ou alojamento"},"makes":{"literal":"faz"},"necessary":{"literal":"necessário"},"pace":{"literal":"ritmo","contextual":"velocidade de progresso ou movimento"},"worldwide":{"literal":"mundialmente"},"written":{"literal":"escrito"},"art":{"literal":"arte"},"diversity":{"literal":"diversidade"},"long-term":{"literal":"longo prazo","contextual":"período estendido de tempo"},"show":{"literal":"mostrar"},"workers":{"literal":"trabalhadores"},"daily":{"literal":"diariamente"}}
+{
+  "soil": {
+    "literal": "solo",
+    "contextual": "camada superficial da terra onde crescem plantas"
+  },
+  "european": {
+    "literal": "europeu"
+  },
+  "improve": {
+    "literal": "melhorar",
+    "contextual": "comum em discussões sobre progresso ou eficácia"
+  },
+  "movement": {
+    "literal": "movimento",
+    "contextual": "deslocamento físico ou social"
+  },
+  "throughout": {
+    "literal": "ao longo de",
+    "contextual": "indica continuidade temporal ou espacial"
+  },
+  "cells": {
+    "literal": "células",
+    "contextual": "unidades básicas da vida ou componentes de baterias"
+  },
+  "open": {
+    "literal": "aberto",
+    "contextual": "frequente em acesso aberto ou sistemas abertos"
+  },
+  "particularly": {
+    "literal": "particularmente",
+    "contextual": "usado para enfatizar um subconjunto ou exemplo"
+  },
+  "policy": {
+    "literal": "política",
+    "contextual": "diretrizes, normas ou regras institucionais"
+  },
+  "ways": {
+    "literal": "formas",
+    "contextual": "métodos ou maneiras de realizar algo"
+  },
+  "down": {
+    "literal": "para baixo"
+  },
+  "nature": {
+    "literal": "natureza",
+    "contextual": "mundo natural ou essência de algo"
+  },
+  "group": {
+    "literal": "grupo"
+  },
+  "reducing": {
+    "literal": "reduzindo",
+    "contextual": "ato de diminuir quantidade ou intensidade"
+  },
+  "age": {
+    "literal": "idade",
+    "contextual": "tempo de vida ou período histórico"
+  },
+  "biology": {
+    "literal": "biologia"
+  },
+  "children": {
+    "literal": "crianças",
+    "contextual": "foco em estudos de desenvolvimento ou educação"
+  },
+  "creating": {
+    "literal": "criando"
+  },
+  "current": {
+    "literal": "atual",
+    "contextual": "momento presente ou fluxo de água e eletricidade"
+  },
+  "enough": {
+    "literal": "suficiente"
+  },
+  "individuals": {
+    "literal": "indivíduos",
+    "contextual": "termo acadêmico para pessoas ou sujeitos de pesquisa"
+  },
+  "regions": {
+    "literal": "regiões"
+  },
+  "allowing": {
+    "literal": "permitindo"
+  },
+  "although": {
+    "literal": "embora",
+    "contextual": "conjunção concessiva para contrastar ideias"
+  },
+  "body": {
+    "literal": "corpo",
+    "contextual": "estrutura física ou conjunto de conhecimento"
+  },
+  "consequently": {
+    "literal": "consequentemente",
+    "contextual": "indica resultado ou efeito lógico"
+  },
+  "national": {
+    "literal": "nacional"
+  },
+  "school": {
+    "literal": "escola"
+  },
+  "businesses": {
+    "literal": "empresas",
+    "contextual": "entidades comerciais ou organizações"
+  },
+  "educational": {
+    "literal": "educacional"
+  },
+  "genetic": {
+    "literal": "genético"
+  },
+  "solutions": {
+    "literal": "soluções"
+  },
+  "still": {
+    "literal": "ainda"
+  },
+  "team": {
+    "literal": "equipe"
+  },
+  "brain": {
+    "literal": "cérebro"
+  },
+  "capture": {
+    "literal": "capturar",
+    "contextual": "coleta de dados ou sequestro de carbono"
+  },
+  "helps": {
+    "literal": "ajuda"
+  },
+  "architecture": {
+    "literal": "arquitetura"
+  },
+  "far": {
+    "literal": "longe"
+  },
+  "involves": {
+    "literal": "envolve"
+  },
+  "policies": {
+    "literal": "políticas",
+    "contextual": "conjunto de normas e diretrizes"
+  },
+  "processes": {
+    "literal": "processos"
+  },
+  "required": {
+    "literal": "necessário",
+    "contextual": "exigido por normas ou condições"
+  },
+  "after": {
+    "literal": "após"
+  },
+  "air": {
+    "literal": "ar"
+  },
+  "changed": {
+    "literal": "alterado",
+    "contextual": "modificado em relação ao estado anterior"
+  },
+  "form": {
+    "literal": "forma",
+    "contextual": "aparência física ou estrutura de um documento"
+  },
+  "programs": {
+    "literal": "programas",
+    "contextual": "sequências de atividades ou software"
+  },
+  "agriculture": {
+    "literal": "agricultura"
+  },
+  "buildings": {
+    "literal": "edifícios"
+  },
+  "chemical": {
+    "literal": "químico"
+  },
+  "cost": {
+    "literal": "custo",
+    "contextual": "valor monetário ou esforço necessário"
+  },
+  "massive": {
+    "literal": "massivo",
+    "contextual": "de grande escala ou proporção"
+  },
+  "person": {
+    "literal": "pessoa"
+  },
+  "populations": {
+    "literal": "populações"
+  },
+  "renewable": {
+    "literal": "renovável",
+    "contextual": "recursos que se regeneram naturalmente"
+  },
+  "whether": {
+    "literal": "se",
+    "contextual": "usado para introduzir alternativas ou incerteza"
+  },
+  "loss": {
+    "literal": "perda",
+    "contextual": "diminuição quantitativa ou qualitativa"
+  },
+  "providing": {
+    "literal": "fornecendo"
+  },
+  "sound": {
+    "literal": "som"
+  },
+  "diseases": {
+    "literal": "doenças"
+  },
+  "fact": {
+    "literal": "fato"
+  },
+  "once": {
+    "literal": "uma vez",
+    "contextual": "momento único ou anteriormente"
+  },
+  "political": {
+    "literal": "político"
+  },
+  "privacy": {
+    "literal": "privacidade"
+  },
+  "vast": {
+    "literal": "vasto",
+    "contextual": "extenso ou de grande quantidade"
+  },
+  "week": {
+    "literal": "semana"
+  },
+  "cognitive": {
+    "literal": "cognitivo",
+    "contextual": "relacionado ao processo de conhecimento e percepção"
+  },
+  "did": {
+    "literal": "fez"
+  },
+  "job": {
+    "literal": "trabalho",
+    "contextual": "tarefa específica ou ocupação profissional"
+  },
+  "offer": {
+    "literal": "oferecer"
+  },
+  "others": {
+    "literal": "outros"
+  },
+  "planning": {
+    "literal": "planejamento"
+  },
+  "quality": {
+    "literal": "qualidade"
+  },
+  "rapid": {
+    "literal": "rápido"
+  },
+  "advanced": {
+    "literal": "avançado"
+  },
+  "cannot": {
+    "literal": "não pode"
+  },
+  "difficult": {
+    "literal": "difícil"
+  },
+  "end": {
+    "literal": "fim"
+  },
+  "start": {
+    "literal": "início"
+  },
+  "too": {
+    "literal": "também"
+  },
+  "argue": {
+    "literal": "argumentar",
+    "contextual": "sustentar uma posição em debate acadêmico"
+  },
+  "book": {
+    "literal": "livro"
+  },
+  "courses": {
+    "literal": "cursos"
+  },
+  "develop": {
+    "literal": "desenvolver"
+  },
+  "efficiency": {
+    "literal": "eficiência",
+    "contextual": "relação entre recursos usados e resultados obtidos"
+  },
+  "little": {
+    "literal": "pouco"
+  },
+  "ancient": {
+    "literal": "antigo",
+    "contextual": "referente à história clássica ou remota"
+  },
+  "big": {
+    "literal": "grande"
+  },
+  "culture": {
+    "literal": "cultura"
+  },
+  "risks": {
+    "literal": "riscos"
+  },
+  "biological": {
+    "literal": "biológico"
+  },
+  "emissions": {
+    "literal": "emissões",
+    "contextual": "liberação de gases ou substâncias no ambiente"
+  },
+  "option": {
+    "literal": "opção"
+  },
+  "results": {
+    "literal": "resultados"
+  },
+  "landscape": {
+    "literal": "paisagem",
+    "contextual": "cenário geográfico ou panorama de uma área"
+  },
+  "level": {
+    "literal": "nível"
+  },
+  "off": {
+    "literal": "fora"
+  },
+  "point": {
+    "literal": "ponto",
+    "contextual": "posição específica ou argumento central"
+  },
+  "problems": {
+    "literal": "problemas"
+  },
+  "since": {
+    "literal": "desde",
+    "contextual": "referência temporal ou causal"
+  },
+  "deep": {
+    "literal": "profundo"
+  },
+  "english": {
+    "literal": "inglês"
+  },
+  "innovation": {
+    "literal": "inovação",
+    "contextual": "criação de algo novo ou melhoria significativa"
+  },
+  "ocean": {
+    "literal": "oceano"
+  },
+  "ability": {
+    "literal": "habilidade",
+    "contextual": "capacidade de realizar uma tarefa"
+  },
+  "analysis": {
+    "literal": "análise",
+    "contextual": "exame detalhado de dados ou componentes"
+  },
+  "challenge": {
+    "literal": "desafio",
+    "contextual": "obstáculo que requer esforço ou inovação"
+  },
+  "higher": {
+    "literal": "mais alto",
+    "contextual": "comum em ensino superior"
+  },
+  "old": {
+    "literal": "velho"
+  },
+  "protect": {
+    "literal": "proteger"
+  },
+  "quite": {
+    "literal": "bastante"
+  },
+  "supporting": {
+    "literal": "apoiando",
+    "contextual": "fornecendo evidências ou suporte"
+  },
+  "technological": {
+    "literal": "tecnológico"
+  },
+  "ago": {
+    "literal": "atrás",
+    "contextual": "marcador temporal de passado"
+  },
+  "area": {
+    "literal": "área"
+  },
+  "risk": {
+    "literal": "risco"
+  },
+  "structures": {
+    "literal": "estruturas"
+  },
+  "temperatures": {
+    "literal": "temperaturas"
+  },
+  "build": {
+    "literal": "construir"
+  },
+  "diverse": {
+    "literal": "diverso"
+  },
+  "gaps": {
+    "literal": "lacunas",
+    "contextual": "falhas de conhecimento ou espaços vazios"
+  },
+  "means": {
+    "literal": "meios",
+    "contextual": "métodos para atingir um fim"
+  },
+  "remain": {
+    "literal": "permanecer"
+  },
+  "require": {
+    "literal": "requerer"
+  },
+  "studying": {
+    "literal": "estudando"
+  },
+  "supply": {
+    "literal": "fornecimento",
+    "contextual": "oferta de bens ou recursos"
+  },
+  "travel": {
+    "literal": "viajar"
+  },
+  "continue": {
+    "literal": "continuar"
+  },
+  "ensuring": {
+    "literal": "garantindo",
+    "contextual": "ato de assegurar que algo aconteça"
+  },
+  "ideas": {
+    "literal": "ideias"
+  },
+  "memory": {
+    "literal": "memória"
+  },
+  "missing": {
+    "literal": "ausente"
+  },
+  "performance": {
+    "literal": "desempenho",
+    "contextual": "eficácia em uma tarefa ou funcionamento"
+  },
+  "always": {
+    "literal": "sempre"
+  },
+  "methods": {
+    "literal": "métodos"
+  },
+  "pollution": {
+    "literal": "poluição"
+  },
+  "projects": {
+    "literal": "projetos"
+  },
+  "room": {
+    "literal": "sala"
+  },
+  "weather": {
+    "literal": "clima",
+    "contextual": "condições atmosféricas momentâneas"
+  },
+  "career": {
+    "literal": "carreira"
+  },
+  "concept": {
+    "literal": "conceito",
+    "contextual": "ideia abstrata ou definição teórica"
+  },
+  "essay": {
+    "literal": "ensaio",
+    "contextual": "texto acadêmico argumentativo"
+  },
+  "instance": {
+    "literal": "exemplo",
+    "contextual": "ocorrência ou caso específico"
+  },
+  "leading": {
+    "literal": "principal",
+    "contextual": "que ocupa posição de destaque ou liderança"
+  },
+  "located": {
+    "literal": "localizado"
+  },
+  "simple": {
+    "literal": "simples"
+  },
+  "united": {
+    "literal": "unido"
+  },
+  "among": {
+    "literal": "entre",
+    "contextual": "no meio de três ou mais elementos"
+  },
+  "computer": {
+    "literal": "computador"
+  },
+  "concerns": {
+    "literal": "preocupações"
+  },
+  "consumer": {
+    "literal": "consumidor"
+  },
+  "effectively": {
+    "literal": "efetivamente",
+    "contextual": "de forma eficaz ou produtiva"
+  },
+  "instead": {
+    "literal": "em vez de"
+  },
+  "plant": {
+    "literal": "planta",
+    "contextual": "organismo vegetal ou instalação industrial"
+  },
+  "rate": {
+    "literal": "taxa",
+    "contextual": "velocidade ou frequência de ocorrência"
+  },
+  "sea": {
+    "literal": "mar"
+  },
+  "surface": {
+    "literal": "superfície"
+  },
+  "tools": {
+    "literal": "ferramentas"
+  },
+  "activity": {
+    "literal": "atividade"
+  },
+  "books": {
+    "literal": "livros"
+  },
+  "techniques": {
+    "literal": "técnicas"
+  },
+  "website": {
+    "literal": "site"
+  },
+  "come": {
+    "literal": "vir"
+  },
+  "insights": {
+    "literal": "percepções",
+    "contextual": "compreensões profundas ou novas ideias"
+  },
+  "developing": {
+    "literal": "desenvolvendo"
+  },
+  "homes": {
+    "literal": "lares"
+  },
+  "include": {
+    "literal": "incluir"
+  },
+  "lab": {
+    "literal": "laboratório"
+  },
+  "me": {
+    "literal": "mim"
+  },
+  "thousands": {
+    "literal": "milhares"
+  },
+  "ai": {
+    "literal": "ia",
+    "contextual": "inteligência artificial"
+  },
+  "basic": {
+    "literal": "básico"
+  },
+  "became": {
+    "literal": "tornou-se"
+  },
+  "chemistry": {
+    "literal": "química"
+  },
+  "ecosystems": {
+    "literal": "ecossistemas"
+  },
+  "problem": {
+    "literal": "problema"
+  },
+  "fish": {
+    "literal": "peixe"
+  },
+  "housing": {
+    "literal": "habitação",
+    "contextual": "provimento de moradia ou alojamento"
+  },
+  "makes": {
+    "literal": "faz"
+  },
+  "necessary": {
+    "literal": "necessário"
+  },
+  "pace": {
+    "literal": "ritmo",
+    "contextual": "velocidade de progresso ou movimento"
+  },
+  "worldwide": {
+    "literal": "mundialmente"
+  },
+  "written": {
+    "literal": "escrito"
+  },
+  "art": {
+    "literal": "arte"
+  },
+  "diversity": {
+    "literal": "diversidade"
+  },
+  "long-term": {
+    "literal": "longo prazo",
+    "contextual": "período estendido de tempo"
+  },
+  "show": {
+    "literal": "mostrar"
+  },
+  "workers": {
+    "literal": "trabalhadores"
+  },
+  "daily": {
+    "literal": "diariamente"
+  }
+}

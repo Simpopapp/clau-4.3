@@ -1,1 +1,664 @@
-{"fostering": {"literal": "incentivo", "contextual": "ato de promover ou encorajar o desenvolvimento de algo"}, "foundation": {"literal": "fundação", "contextual": "base ou alicerce de um argumento ou instituição"}, "him": {"literal": "ele", "contextual": "pronome objeto"}, "includes": {"literal": "inclui"}, "increasing": {"literal": "aumento", "contextual": "frequentemente usado para descrever tendências crescentes"}, "oceans": {"literal": "oceanos"}, "organic": {"literal": "orgânico"}, "perception": {"literal": "percepção", "contextual": "forma como algo é interpretado ou entendido"}, "positive": {"literal": "positivo"}, "presents": {"literal": "apresenta", "contextual": "comum em introduções de estudos ou dados"}, "sensors": {"literal": "sensores"}, "session": {"literal": "sessão", "contextual": "período dedicado a uma atividade específica"}, "alternative": {"literal": "alternativa"}, "assignment": {"literal": "tarefa", "contextual": "trabalho acadêmico ou projeto escolar"}, "bodies": {"literal": "corpos", "contextual": "pode referir-se a organizações ou grupos oficiais"}, "card": {"literal": "cartão"}, "dedicated": {"literal": "dedicado"}, "degree": {"literal": "grau", "contextual": "nível de intensidade ou diploma acadêmico"}, "distinct": {"literal": "distinto", "contextual": "claramente diferente ou separado"}, "entire": {"literal": "inteiro"}, "equipment": {"literal": "equipamento"}, "instrument": {"literal": "instrumento", "contextual": "ferramenta de medição ou coleta de dados"}, "objective": {"literal": "objetivo"}, "planet": {"literal": "planeta"}, "plays": {"literal": "desempenha", "contextual": "comum na expressão 'plays a role' (desempenha um papel)"}, "psychological": {"literal": "psicológico"}, "sites": {"literal": "locais", "contextual": "áreas de estudo ou endereços na internet"}, "talent": {"literal": "talento"}, "took": {"literal": "levou", "contextual": "passado de take; usado para tempo ou ação realizada"}, "visual": {"literal": "visual"}, "considered": {"literal": "considerado"}, "consumers": {"literal": "consumidores"}, "economists": {"literal": "economistas"}, "full": {"literal": "cheio"}, "habitats": {"literal": "habitats"}, "innovative": {"literal": "inovador"}, "journalism": {"literal": "jornalismo"}, "meant": {"literal": "significava", "contextual": "passado de mean; expressa intenção ou definição"}, "monitor": {"literal": "monitorar", "contextual": "observar e verificar o progresso de algo"}, "moved": {"literal": "mudou", "contextual": "deslocado ou progrediu para outra etapa"}, "prepare": {"literal": "preparar"}, "return": {"literal": "retorno", "contextual": "lucro sobre investimento ou ato de voltar"}, "serve": {"literal": "servir", "contextual": "atuar como ou cumprir uma função"}, "treatment": {"literal": "tratamento", "contextual": "procedimento médico ou forma de lidar com algo"}, "universal": {"literal": "universal"}, "vulnerable": {"literal": "vulnerável"}, "associated": {"literal": "associado"}, "decision-making": {"literal": "tomada de decisão", "contextual": "processo de escolher entre alternativas"}, "direct": {"literal": "direto"}, "doctors": {"literal": "médicos", "contextual": "pode referir-se a doutores acadêmicos (phd)"}, "economies": {"literal": "economias"}, "employees": {"literal": "funcionários"}, "expansion": {"literal": "expansão"}, "floor": {"literal": "chão", "contextual": "piso ou limite inferior"}, "genes": {"literal": "genes"}, "implications": {"literal": "implicações", "contextual": "consequências prováveis ou resultados sugeridos"}, "innovations": {"literal": "inovações"}, "parking": {"literal": "estacionamento"}, "reach": {"literal": "alcance", "contextual": "chegar a um nível ou valor específico"}, "reality": {"literal": "realidade"}, "reduces": {"literal": "reduz"}, "shaping": {"literal": "moldagem", "contextual": "influenciar o desenvolvimento de algo"}, "shared": {"literal": "compartilhado"}, "standard": {"literal": "padrão", "contextual": "nível de qualidade ou norma aceita"}, "standards": {"literal": "padrões"}, "texts": {"literal": "textos"}, "trends": {"literal": "tendências", "contextual": "direção geral de desenvolvimento de algo"}, "war": {"literal": "guerra"}, "again": {"literal": "novamente"}, "describes": {"literal": "descreve"}, "ecosystem": {"literal": "ecossistema"}, "forces": {"literal": "forças", "contextual": "influências que causam mudanças"}, "glass": {"literal": "vidro"}, "habitat": {"literal": "habitat"}, "immediate": {"literal": "imediato"}, "increases": {"literal": "aumentos", "contextual": "pode ser substantivo ou verbo (aumenta)"}, "inside": {"literal": "dentro"}, "largely": {"literal": "amplamente", "contextual": "principalmente ou em grande parte"}, "perspective": {"literal": "perspectiva", "contextual": "ponto de vista particular"}, "protected": {"literal": "protegido"}, "regulatory": {"literal": "regulatório", "contextual": "relacionado a leis e controle"}, "send": {"literal": "enviar"}, "setting": {"literal": "cenário", "contextual": "ambiente ou contexto em que algo ocorre"}, "someone": {"literal": "alguém"}, "survival": {"literal": "sobrevivência"}, "taken": {"literal": "levado", "contextual": "particípio de take; usado com medidas ou decisões"}, "carefully": {"literal": "cuidadosamente"}, "deal": {"literal": "lidar", "contextual": "comum em 'deal with' (enfrentar um problema)"}, "drug": {"literal": "droga", "contextual": "medicamento ou substância química"}, "encourage": {"literal": "encorajar"}, "examination": {"literal": "exame", "contextual": "investigação detalhada ou prova"}, "experiments": {"literal": "experimentos"}, "factor": {"literal": "fator", "contextual": "elemento que contribui para um resultado"}, "figures": {"literal": "figuras", "contextual": "números, dados estatísticos ou diagramas"}, "frequently": {"literal": "frequentemente"}, "goal": {"literal": "objetivo"}, "hall": {"literal": "salão", "contextual": "corredor ou grande sala de aulas"}, "happens": {"literal": "acontece"}, "harm": {"literal": "dano", "contextual": "prejuízo físico ou abstrato"}, "having": {"literal": "tendo"}, "introduced": {"literal": "introduzido"}, "introduction": {"literal": "introdução"}, "mass": {"literal": "massa", "contextual": "grande quantidade ou propriedade física"}, "participate": {"literal": "participar"}, "safe": {"literal": "seguro"}, "section": {"literal": "seção", "contextual": "parte específica de um documento ou área"}, "sociology": {"literal": "sociologia"}, "structured": {"literal": "estruturado"}, "toward": {"literal": "em direção a"}, "types": {"literal": "tipos"}, "architectural": {"literal": "arquitetônico"}, "behind": {"literal": "atrás"}, "buy": {"literal": "comprar"}, "chain": {"literal": "cadeia", "contextual": "sequência de eventos ou rede de negócios"}, "citizens": {"literal": "cidadãos"}, "deeper": {"literal": "mais profundo"}, "domestic": {"literal": "doméstico", "contextual": "relativo ao lar ou interno ao país"}, "emotions": {"literal": "emoções"}, "globe": {"literal": "globo", "contextual": "a terra ou objeto esférico"}, "goals": {"literal": "objetivos"}, "half": {"literal": "metade"}, "her": {"literal": "dela", "contextual": "pronome possessivo ou objeto"}, "invention": {"literal": "invenção"}, "mitigate": {"literal": "mitigar", "contextual": "tornar algo menos severo ou sério"}, "motivation": {"literal": "motivação"}, "nutrients": {"literal": "nutrientes"}, "objects": {"literal": "objetos", "contextual": "substantivo ou verbo (opor-se)"}, "participants": {"literal": "participantes"}, "position": {"literal": "posição"}, "previously": {"literal": "anteriormente"}, "revolutionized": {"literal": "revolucionou"}, "rich": {"literal": "rico"}, "scheduled": {"literal": "agendado"}, "seem": {"literal": "parecer"}, "stay": {"literal": "ficar"}, "trip": {"literal": "viagem", "contextual": "jornada curta ou passeio"}, "weight": {"literal": "peso"}, "window": {"literal": "janela", "contextual": "abertura física ou oportunidade de tempo"}, "absolutely": {"literal": "absolutamente"}, "barriers": {"literal": "barreiras", "contextual": "obstáculos que impedem o progresso"}, "bit": {"literal": "pouco", "contextual": "pequena quantidade"}, "borders": {"literal": "fronteiras"}, "broad": {"literal": "amplo", "contextual": "abrangente ou vasto"}, "cell": {"literal": "célula", "contextual": "unidade biológica ou pequena sala"}, "classes": {"literal": "aulas", "contextual": "grupos de estudantes ou categorias"}, "consumption": {"literal": "consumo", "contextual": "uso de energia, comida ou recursos"}, "contradict": {"literal": "contradizer", "contextual": "afirmar o oposto de algo"}, "creativity": {"literal": "criatividade"}, "credit": {"literal": "crédito", "contextual": "reconhecimento por trabalho ou sistema financeiro"}, "depth": {"literal": "profundidade"}, "dramatically": {"literal": "dramaticamente", "contextual": "de forma súbita e expressiva"}, "effort": {"literal": "esforço"}, "framework": {"literal": "estrutura", "contextual": "conjunto de ideias que serve de base"}, "fresh": {"literal": "fresco", "contextual": "novo ou recentemente produzido"}, "house": {"literal": "casa", "contextual": "moradia ou abrigar (verbo)"}, "hundred": {"literal": "cem"}, "justice": {"literal": "justiça"}, "legal": {"literal": "jurídico", "contextual": "relativo à lei"}, "meaning": {"literal": "significado"}, "measure": {"literal": "medir", "contextual": "determinar quantidade ou ação preventiva"}, "monitoring": {"literal": "monitoramento"}, "originally": {"literal": "originalmente"}, "poverty": {"literal": "pobreza"}, "precise": {"literal": "preciso", "contextual": "exato e detalhado"}, "responsible": {"literal": "responsável"}, "style": {"literal": "estilo"}, "table": {"literal": "tabela", "contextual": "grade de dados ou móvel"}, "testing": {"literal": "teste", "contextual": "processo de avaliação ou experimentação"}, "unprecedented": {"literal": "sem precedentes", "contextual": "que nunca aconteceu antes"}, "adoption": {"literal": "adoção", "contextual": "ato de aceitar ou começar a usar algo novo"}, "anything": {"literal": "qualquer coisa"}, "asked": {"literal": "pediu", "contextual": "solicitou ou perguntou"}, "coastal": {"literal": "costeiro"}, "college": {"literal": "faculdade"}, "conducting": {"literal": "realizando", "contextual": "ato de dirigir ou gerenciar uma pesquisa"}, "determine": {"literal": "determinar", "contextual": "descobrir ou estabelecer algo com precisão"}, "distribution": {"literal": "distribuição"}, "experiences": {"literal": "experiências"}, "facts": {"literal": "fatos"}, "held": {"literal": "realizado", "contextual": "passado de hold; mantido ou organizado"}, "hypothesis": {"literal": "hipótese", "contextual": "explicação proposta a ser testada"}, "impossible": {"literal": "impossível"}, "integrating": {"literal": "integrando", "contextual": "combinar partes para formar um todo"}, "managing": {"literal": "gerenciando"}, "mechanism": {"literal": "mecanismo", "contextual": "sistema pelo qual algo funciona"}, "method": {"literal": "método"}, "noise": {"literal": "ruído", "contextual": "som indesejado ou interferência em dados"}, "picture": {"literal": "imagem", "contextual": "fotografia ou representação mental"}, "preserving": {"literal": "preservando"}, "raises": {"literal": "levanta", "contextual": "aumenta ou traz à tona questões"}, "reflect": {"literal": "refletir"}, "regulation": {"literal": "regulamentação"}, "situation": {"literal": "situação"}, "takes": {"literal": "leva", "contextual": "requer tempo ou esforço"}, "third": {"literal": "terceiro"}, "threats": {"literal": "ameaças"}, "bacteria": {"literal": "bactérias"}, "broader": {"literal": "mais amplo"}}
+{
+  "fostering": {
+    "literal": "incentivo",
+    "contextual": "ato de promover ou encorajar o desenvolvimento de algo"
+  },
+  "foundation": {
+    "literal": "fundação",
+    "contextual": "base ou alicerce de um argumento ou instituição"
+  },
+  "him": {
+    "literal": "ele",
+    "contextual": "pronome objeto"
+  },
+  "includes": {
+    "literal": "inclui"
+  },
+  "increasing": {
+    "literal": "aumento",
+    "contextual": "frequentemente usado para descrever tendências crescentes"
+  },
+  "oceans": {
+    "literal": "oceanos"
+  },
+  "organic": {
+    "literal": "orgânico"
+  },
+  "perception": {
+    "literal": "percepção",
+    "contextual": "forma como algo é interpretado ou entendido"
+  },
+  "positive": {
+    "literal": "positivo"
+  },
+  "presents": {
+    "literal": "apresenta",
+    "contextual": "comum em introduções de estudos ou dados"
+  },
+  "sensors": {
+    "literal": "sensores"
+  },
+  "session": {
+    "literal": "sessão",
+    "contextual": "período dedicado a uma atividade específica"
+  },
+  "alternative": {
+    "literal": "alternativa"
+  },
+  "assignment": {
+    "literal": "tarefa",
+    "contextual": "trabalho acadêmico ou projeto escolar"
+  },
+  "bodies": {
+    "literal": "corpos",
+    "contextual": "pode referir-se a organizações ou grupos oficiais"
+  },
+  "card": {
+    "literal": "cartão"
+  },
+  "dedicated": {
+    "literal": "dedicado"
+  },
+  "degree": {
+    "literal": "grau",
+    "contextual": "nível de intensidade ou diploma acadêmico"
+  },
+  "distinct": {
+    "literal": "distinto",
+    "contextual": "claramente diferente ou separado"
+  },
+  "entire": {
+    "literal": "inteiro"
+  },
+  "equipment": {
+    "literal": "equipamento"
+  },
+  "instrument": {
+    "literal": "instrumento",
+    "contextual": "ferramenta de medição ou coleta de dados"
+  },
+  "objective": {
+    "literal": "objetivo"
+  },
+  "planet": {
+    "literal": "planeta"
+  },
+  "plays": {
+    "literal": "desempenha",
+    "contextual": "comum na expressão 'plays a role' (desempenha um papel)"
+  },
+  "psychological": {
+    "literal": "psicológico"
+  },
+  "sites": {
+    "literal": "locais",
+    "contextual": "áreas de estudo ou endereços na internet"
+  },
+  "talent": {
+    "literal": "talento"
+  },
+  "took": {
+    "literal": "levou",
+    "contextual": "passado de take; usado para tempo ou ação realizada"
+  },
+  "considered": {
+    "literal": "considerado"
+  },
+  "consumers": {
+    "literal": "consumidores"
+  },
+  "economists": {
+    "literal": "economistas"
+  },
+  "full": {
+    "literal": "cheio"
+  },
+  "innovative": {
+    "literal": "inovador"
+  },
+  "journalism": {
+    "literal": "jornalismo"
+  },
+  "meant": {
+    "literal": "significava",
+    "contextual": "passado de mean; expressa intenção ou definição"
+  },
+  "monitor": {
+    "literal": "monitorar",
+    "contextual": "observar e verificar o progresso de algo"
+  },
+  "moved": {
+    "literal": "mudou",
+    "contextual": "deslocado ou progrediu para outra etapa"
+  },
+  "prepare": {
+    "literal": "preparar"
+  },
+  "return": {
+    "literal": "retorno",
+    "contextual": "lucro sobre investimento ou ato de voltar"
+  },
+  "serve": {
+    "literal": "servir",
+    "contextual": "atuar como ou cumprir uma função"
+  },
+  "treatment": {
+    "literal": "tratamento",
+    "contextual": "procedimento médico ou forma de lidar com algo"
+  },
+  "vulnerable": {
+    "literal": "vulnerável"
+  },
+  "associated": {
+    "literal": "associado"
+  },
+  "decision-making": {
+    "literal": "tomada de decisão",
+    "contextual": "processo de escolher entre alternativas"
+  },
+  "direct": {
+    "literal": "direto"
+  },
+  "doctors": {
+    "literal": "médicos",
+    "contextual": "pode referir-se a doutores acadêmicos (phd)"
+  },
+  "economies": {
+    "literal": "economias"
+  },
+  "employees": {
+    "literal": "funcionários"
+  },
+  "expansion": {
+    "literal": "expansão"
+  },
+  "floor": {
+    "literal": "chão",
+    "contextual": "piso ou limite inferior"
+  },
+  "implications": {
+    "literal": "implicações",
+    "contextual": "consequências prováveis ou resultados sugeridos"
+  },
+  "innovations": {
+    "literal": "inovações"
+  },
+  "parking": {
+    "literal": "estacionamento"
+  },
+  "reach": {
+    "literal": "alcance",
+    "contextual": "chegar a um nível ou valor específico"
+  },
+  "reality": {
+    "literal": "realidade"
+  },
+  "reduces": {
+    "literal": "reduz"
+  },
+  "shaping": {
+    "literal": "moldagem",
+    "contextual": "influenciar o desenvolvimento de algo"
+  },
+  "shared": {
+    "literal": "compartilhado"
+  },
+  "standard": {
+    "literal": "padrão",
+    "contextual": "nível de qualidade ou norma aceita"
+  },
+  "standards": {
+    "literal": "padrões"
+  },
+  "texts": {
+    "literal": "textos"
+  },
+  "trends": {
+    "literal": "tendências",
+    "contextual": "direção geral de desenvolvimento de algo"
+  },
+  "war": {
+    "literal": "guerra"
+  },
+  "again": {
+    "literal": "novamente"
+  },
+  "describes": {
+    "literal": "descreve"
+  },
+  "ecosystem": {
+    "literal": "ecossistema"
+  },
+  "forces": {
+    "literal": "forças",
+    "contextual": "influências que causam mudanças"
+  },
+  "glass": {
+    "literal": "vidro"
+  },
+  "immediate": {
+    "literal": "imediato"
+  },
+  "increases": {
+    "literal": "aumentos",
+    "contextual": "pode ser substantivo ou verbo (aumenta)"
+  },
+  "inside": {
+    "literal": "dentro"
+  },
+  "largely": {
+    "literal": "amplamente",
+    "contextual": "principalmente ou em grande parte"
+  },
+  "perspective": {
+    "literal": "perspectiva",
+    "contextual": "ponto de vista particular"
+  },
+  "protected": {
+    "literal": "protegido"
+  },
+  "regulatory": {
+    "literal": "regulatório",
+    "contextual": "relacionado a leis e controle"
+  },
+  "send": {
+    "literal": "enviar"
+  },
+  "setting": {
+    "literal": "cenário",
+    "contextual": "ambiente ou contexto em que algo ocorre"
+  },
+  "someone": {
+    "literal": "alguém"
+  },
+  "survival": {
+    "literal": "sobrevivência"
+  },
+  "taken": {
+    "literal": "levado",
+    "contextual": "particípio de take; usado com medidas ou decisões"
+  },
+  "carefully": {
+    "literal": "cuidadosamente"
+  },
+  "deal": {
+    "literal": "lidar",
+    "contextual": "comum em 'deal with' (enfrentar um problema)"
+  },
+  "drug": {
+    "literal": "droga",
+    "contextual": "medicamento ou substância química"
+  },
+  "encourage": {
+    "literal": "encorajar"
+  },
+  "examination": {
+    "literal": "exame",
+    "contextual": "investigação detalhada ou prova"
+  },
+  "experiments": {
+    "literal": "experimentos"
+  },
+  "factor": {
+    "literal": "fator",
+    "contextual": "elemento que contribui para um resultado"
+  },
+  "figures": {
+    "literal": "figuras",
+    "contextual": "números, dados estatísticos ou diagramas"
+  },
+  "frequently": {
+    "literal": "frequentemente"
+  },
+  "goal": {
+    "literal": "objetivo"
+  },
+  "hall": {
+    "literal": "salão",
+    "contextual": "corredor ou grande sala de aulas"
+  },
+  "happens": {
+    "literal": "acontece"
+  },
+  "harm": {
+    "literal": "dano",
+    "contextual": "prejuízo físico ou abstrato"
+  },
+  "having": {
+    "literal": "tendo"
+  },
+  "introduced": {
+    "literal": "introduzido"
+  },
+  "introduction": {
+    "literal": "introdução"
+  },
+  "mass": {
+    "literal": "massa",
+    "contextual": "grande quantidade ou propriedade física"
+  },
+  "participate": {
+    "literal": "participar"
+  },
+  "safe": {
+    "literal": "seguro"
+  },
+  "section": {
+    "literal": "seção",
+    "contextual": "parte específica de um documento ou área"
+  },
+  "sociology": {
+    "literal": "sociologia"
+  },
+  "structured": {
+    "literal": "estruturado"
+  },
+  "toward": {
+    "literal": "em direção a"
+  },
+  "types": {
+    "literal": "tipos"
+  },
+  "architectural": {
+    "literal": "arquitetônico"
+  },
+  "behind": {
+    "literal": "atrás"
+  },
+  "buy": {
+    "literal": "comprar"
+  },
+  "chain": {
+    "literal": "cadeia",
+    "contextual": "sequência de eventos ou rede de negócios"
+  },
+  "citizens": {
+    "literal": "cidadãos"
+  },
+  "deeper": {
+    "literal": "mais profundo"
+  },
+  "domestic": {
+    "literal": "doméstico",
+    "contextual": "relativo ao lar ou interno ao país"
+  },
+  "emotions": {
+    "literal": "emoções"
+  },
+  "globe": {
+    "literal": "globo",
+    "contextual": "a terra ou objeto esférico"
+  },
+  "goals": {
+    "literal": "objetivos"
+  },
+  "half": {
+    "literal": "metade"
+  },
+  "her": {
+    "literal": "dela",
+    "contextual": "pronome possessivo ou objeto"
+  },
+  "invention": {
+    "literal": "invenção"
+  },
+  "mitigate": {
+    "literal": "mitigar",
+    "contextual": "tornar algo menos severo ou sério"
+  },
+  "motivation": {
+    "literal": "motivação"
+  },
+  "nutrients": {
+    "literal": "nutrientes"
+  },
+  "objects": {
+    "literal": "objetos",
+    "contextual": "substantivo ou verbo (opor-se)"
+  },
+  "participants": {
+    "literal": "participantes"
+  },
+  "position": {
+    "literal": "posição"
+  },
+  "previously": {
+    "literal": "anteriormente"
+  },
+  "revolutionized": {
+    "literal": "revolucionou"
+  },
+  "rich": {
+    "literal": "rico"
+  },
+  "scheduled": {
+    "literal": "agendado"
+  },
+  "seem": {
+    "literal": "parecer"
+  },
+  "stay": {
+    "literal": "ficar"
+  },
+  "trip": {
+    "literal": "viagem",
+    "contextual": "jornada curta ou passeio"
+  },
+  "weight": {
+    "literal": "peso"
+  },
+  "window": {
+    "literal": "janela",
+    "contextual": "abertura física ou oportunidade de tempo"
+  },
+  "absolutely": {
+    "literal": "absolutamente"
+  },
+  "barriers": {
+    "literal": "barreiras",
+    "contextual": "obstáculos que impedem o progresso"
+  },
+  "bit": {
+    "literal": "pouco",
+    "contextual": "pequena quantidade"
+  },
+  "borders": {
+    "literal": "fronteiras"
+  },
+  "broad": {
+    "literal": "amplo",
+    "contextual": "abrangente ou vasto"
+  },
+  "cell": {
+    "literal": "célula",
+    "contextual": "unidade biológica ou pequena sala"
+  },
+  "classes": {
+    "literal": "aulas",
+    "contextual": "grupos de estudantes ou categorias"
+  },
+  "consumption": {
+    "literal": "consumo",
+    "contextual": "uso de energia, comida ou recursos"
+  },
+  "contradict": {
+    "literal": "contradizer",
+    "contextual": "afirmar o oposto de algo"
+  },
+  "creativity": {
+    "literal": "criatividade"
+  },
+  "credit": {
+    "literal": "crédito",
+    "contextual": "reconhecimento por trabalho ou sistema financeiro"
+  },
+  "depth": {
+    "literal": "profundidade"
+  },
+  "dramatically": {
+    "literal": "dramaticamente",
+    "contextual": "de forma súbita e expressiva"
+  },
+  "effort": {
+    "literal": "esforço"
+  },
+  "framework": {
+    "literal": "estrutura",
+    "contextual": "conjunto de ideias que serve de base"
+  },
+  "fresh": {
+    "literal": "fresco",
+    "contextual": "novo ou recentemente produzido"
+  },
+  "house": {
+    "literal": "casa",
+    "contextual": "moradia ou abrigar (verbo)"
+  },
+  "hundred": {
+    "literal": "cem"
+  },
+  "justice": {
+    "literal": "justiça"
+  },
+  "legal": {
+    "literal": "jurídico",
+    "contextual": "relativo à lei"
+  },
+  "meaning": {
+    "literal": "significado"
+  },
+  "measure": {
+    "literal": "medir",
+    "contextual": "determinar quantidade ou ação preventiva"
+  },
+  "monitoring": {
+    "literal": "monitoramento"
+  },
+  "originally": {
+    "literal": "originalmente"
+  },
+  "poverty": {
+    "literal": "pobreza"
+  },
+  "precise": {
+    "literal": "preciso",
+    "contextual": "exato e detalhado"
+  },
+  "responsible": {
+    "literal": "responsável"
+  },
+  "style": {
+    "literal": "estilo"
+  },
+  "table": {
+    "literal": "tabela",
+    "contextual": "grade de dados ou móvel"
+  },
+  "testing": {
+    "literal": "teste",
+    "contextual": "processo de avaliação ou experimentação"
+  },
+  "unprecedented": {
+    "literal": "sem precedentes",
+    "contextual": "que nunca aconteceu antes"
+  },
+  "adoption": {
+    "literal": "adoção",
+    "contextual": "ato de aceitar ou começar a usar algo novo"
+  },
+  "anything": {
+    "literal": "qualquer coisa"
+  },
+  "asked": {
+    "literal": "pediu",
+    "contextual": "solicitou ou perguntou"
+  },
+  "coastal": {
+    "literal": "costeiro"
+  },
+  "college": {
+    "literal": "faculdade"
+  },
+  "conducting": {
+    "literal": "realizando",
+    "contextual": "ato de dirigir ou gerenciar uma pesquisa"
+  },
+  "determine": {
+    "literal": "determinar",
+    "contextual": "descobrir ou estabelecer algo com precisão"
+  },
+  "distribution": {
+    "literal": "distribuição"
+  },
+  "experiences": {
+    "literal": "experiências"
+  },
+  "facts": {
+    "literal": "fatos"
+  },
+  "held": {
+    "literal": "realizado",
+    "contextual": "passado de hold; mantido ou organizado"
+  },
+  "hypothesis": {
+    "literal": "hipótese",
+    "contextual": "explicação proposta a ser testada"
+  },
+  "impossible": {
+    "literal": "impossível"
+  },
+  "integrating": {
+    "literal": "integrando",
+    "contextual": "combinar partes para formar um todo"
+  },
+  "managing": {
+    "literal": "gerenciando"
+  },
+  "mechanism": {
+    "literal": "mecanismo",
+    "contextual": "sistema pelo qual algo funciona"
+  },
+  "method": {
+    "literal": "método"
+  },
+  "noise": {
+    "literal": "ruído",
+    "contextual": "som indesejado ou interferência em dados"
+  },
+  "picture": {
+    "literal": "imagem",
+    "contextual": "fotografia ou representação mental"
+  },
+  "preserving": {
+    "literal": "preservando"
+  },
+  "raises": {
+    "literal": "levanta",
+    "contextual": "aumenta ou traz à tona questões"
+  },
+  "reflect": {
+    "literal": "refletir"
+  },
+  "regulation": {
+    "literal": "regulamentação"
+  },
+  "situation": {
+    "literal": "situação"
+  },
+  "takes": {
+    "literal": "leva",
+    "contextual": "requer tempo ou esforço"
+  },
+  "third": {
+    "literal": "terceiro"
+  },
+  "threats": {
+    "literal": "ameaças"
+  },
+  "bacteria": {
+    "literal": "bactérias"
+  },
+  "broader": {
+    "literal": "mais amplo"
+  }
+}

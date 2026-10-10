@@ -1,1 +1,613 @@
-{"regulations": {"literal": "regulamentações", "contextual": "regras oficiais que controlam processos"}, "specifically": {"literal": "especificamente", "contextual": "usado para detalhar ou focar em um ponto específico"}, "stated": {"literal": "declarado", "contextual": "frequentemente usado em questões de 'according to the text'"}, "successful": {"literal": "bem-sucedido"}, "survey": {"literal": "pesquisa", "contextual": "levantamento de dados ou questionário acadêmico"}, "allow": {"literal": "permitir"}, "discovery": {"literal": "descoberta"}, "farming": {"literal": "agricultura"}, "focuses": {"literal": "foca", "contextual": "terceira pessoa do singular do verbo to focus"}, "machines": {"literal": "máquinas"}, "opinion": {"literal": "opinião"}, "similar": {"literal": "semelhante"}, "began": {"literal": "começou"}, "composers": {"literal": "compositores"}, "easily": {"literal": "facilmente"}, "effect": {"literal": "efeito", "contextual": "cuidado para não confundir com affect (verbo)"}, "emotional": {"literal": "emocional"}, "further": {"literal": "adicional", "contextual": "além de, ou em maior grau; comum em transições"}, "groups": {"literal": "grupos"}, "manage": {"literal": "gerenciar"}, "millions": {"literal": "milhões"}, "moving": {"literal": "movendo"}, "philosophy": {"literal": "filosofia"}, "psychology": {"literal": "psicologia"}, "second": {"literal": "segundo"}, "sure": {"literal": "certo"}, "test": {"literal": "teste"}, "aims": {"literal": "objetiva", "contextual": "frequentemente usado para descrever o propósito de um estudo"}, "almost": {"literal": "quase"}, "collection": {"literal": "coleção"}, "concern": {"literal": "preocupação"}, "conclusion": {"literal": "conclusão"}, "experiment": {"literal": "experimento"}, "fields": {"literal": "campos", "contextual": "áreas de estudo ou atuação profissional"}, "green": {"literal": "verde", "contextual": "frequentemente associado a sustentabilidade no pte"}, "measures": {"literal": "medidas"}, "news": {"literal": "notícias"}, "organizations": {"literal": "organizações"}, "physics": {"literal": "física"}, "places": {"literal": "lugares"}, "rapidly": {"literal": "rapidamente"}, "speed": {"literal": "velocidade"}, "causes": {"literal": "causas"}, "completely": {"literal": "completamente"}, "fuels": {"literal": "combustíveis"}, "hand": {"literal": "mão"}, "largest": {"literal": "maior", "contextual": "superlativo de large; comum em descrições de dados"}, "notes": {"literal": "notas"}, "promote": {"literal": "promover"}, "sometimes": {"literal": "às vezes"}, "spaces": {"literal": "espaços"}, "staff": {"literal": "equipe"}, "tasks": {"literal": "tarefas"}, "typically": {"literal": "tipicamente", "contextual": "indica uma generalização ou padrão"}, "wanted": {"literal": "queria"}, "warming": {"literal": "aquecimento", "contextual": "frequentemente em global warming"}, "well-being": {"literal": "bem-estar"}, "careful": {"literal": "cuidadoso"}, "decades": {"literal": "décadas"}, "efficient": {"literal": "eficiente"}, "garden": {"literal": "jardim"}, "independent": {"literal": "independente"}, "limited": {"literal": "limitado"}, "name": {"literal": "nome"}, "service": {"literal": "serviço"}, "set": {"literal": "conjunto"}, "attention": {"literal": "atenção"}, "becoming": {"literal": "tornando-se"}, "classical": {"literal": "clássico"}, "content": {"literal": "conteúdo"}, "delivery": {"literal": "entrega"}, "employment": {"literal": "emprego"}, "impacts": {"literal": "impactos"}, "migration": {"literal": "migração"}, "model": {"literal": "modelo"}, "opportunity": {"literal": "oportunidade"}, "simultaneously": {"literal": "simultaneamente", "contextual": "ao mesmo tempo"}, "taking": {"literal": "tomando"}, "topic": {"literal": "tópico"}, "try": {"literal": "tentar"}, "addressing": {"literal": "abordando", "contextual": "lidando com um problema ou assunto"}, "already": {"literal": "já"}, "cooperation": {"literal": "cooperação"}, "dynamic": {"literal": "dinâmico"}, "extreme": {"literal": "extremo"}, "fossil": {"literal": "fóssil"}, "fundamentally": {"literal": "fundamentalmente"}, "letters": {"literal": "letras"}, "network": {"literal": "rede"}, "practical": {"literal": "prático"}, "precision": {"literal": "precisão"}, "promoting": {"literal": "promovendo"}, "talking": {"literal": "falando"}, "tend": {"literal": "tender", "contextual": "ter a tendência de; comum em tendências estatísticas"}, "widely": {"literal": "amplamente", "contextual": "em larga escala ou por muitas pessoas"}, "contemporary": {"literal": "contemporâneo"}, "families": {"literal": "famílias"}, "generations": {"literal": "gerações"}, "particular": {"literal": "específico", "contextual": "cuidado: em inglês acadêmico geralmente significa específico"}, "reasons": {"literal": "razões"}, "robots": {"literal": "robôs"}, "though": {"literal": "embora", "contextual": "conector de oposição; pode aparecer no final da frase"}, "accessible": {"literal": "acessível"}, "bees": {"literal": "abelhas"}, "came": {"literal": "veio"}, "case": {"literal": "caso"}, "deadline": {"literal": "prazo final"}, "differences": {"literal": "diferenças"}, "exchange": {"literal": "intercâmbio", "contextual": "ou troca; comum em contextos acadêmicos ou culturais"}, "greater": {"literal": "maior", "contextual": "comparativo de superioridade"}, "initiatives": {"literal": "iniciativas"}, "intonation": {"literal": "entonação", "contextual": "importante na seção speaking do pte"}, "match": {"literal": "combinar", "contextual": "associar ou corresponder; comum em questões de matching"}, "meeting": {"literal": "reunião"}, "middle": {"literal": "meio"}, "move": {"literal": "mover"}, "prevent": {"literal": "evitar", "contextual": "ou impedir; muito comum em discussões sobre saúde/ambiente"}, "profound": {"literal": "profundo", "contextual": "usado para impactos ou mudanças significativas"}, "thing": {"literal": "coisa"}, "along": {"literal": "ao longo de"}, "especially": {"literal": "especialmente"}, "exercise": {"literal": "exercício"}, "existing": {"literal": "existente"}, "flow": {"literal": "fluxo"}, "getting": {"literal": "obtendo"}, "least": {"literal": "mínimo", "contextual": "comum na expressão 'at least' (pelo menos)"}, "order": {"literal": "ordem"}, "primarily": {"literal": "primariamente", "contextual": "principalmente; indica o foco principal de algo"}, "sort": {"literal": "tipo", "contextual": "sinônimo de kind ou type"}, "spelling": {"literal": "ortografia", "contextual": "critério de avaliação crucial na escrita do pte"}, "submit": {"literal": "enviar", "contextual": "entregar um trabalho ou formulário"}, "treatments": {"literal": "tratamentos"}, "wide": {"literal": "amplo"}, "argument": {"literal": "argumento"}, "certain": {"literal": "certo"}, "consider": {"literal": "considerar"}, "elements": {"literal": "elementos"}, "feedback": {"literal": "comentários", "contextual": "retorno sobre desempenho ou opinião"}, "integration": {"literal": "integração"}, "interesting": {"literal": "interessante"}, "journey": {"literal": "jornada"}, "map": {"literal": "mapa"}, "models": {"literal": "modelos"}, "options": {"literal": "opções"}, "pandemic": {"literal": "pandemia"}, "principles": {"literal": "princípios"}, "produced": {"literal": "produzido"}, "productivity": {"literal": "produtividade"}, "sustainability": {"literal": "sustentabilidade"}, "themselves": {"literal": "eles mesmos"}, "volume": {"literal": "volume"}, "active": {"literal": "ativo"}, "affect": {"literal": "afetar", "contextual": "verbo; frequentemente confundido com o substantivo effect"}, "concepts": {"literal": "conceitos"}, "creates": {"literal": "cria"}, "devices": {"literal": "dispositivos"}, "engineers": {"literal": "engenheiros"}, "given": {"literal": "dado", "contextual": "pode significar 'considerando' em contextos acadêmicos"}, "heavy": {"literal": "pesado"}, "identity": {"literal": "identidade"}, "multiple-choice": {"literal": "múltipla escolha", "contextual": "formato comum de questões no pte"}, "negative": {"literal": "negativo"}, "relationship": {"literal": "relacionamento"}, "sleep": {"literal": "sono"}, "structural": {"literal": "estrutural"}, "substantial": {"literal": "substancial", "contextual": "significativo em quantidade ou importância"}, "suggests": {"literal": "sugere", "contextual": "comum em questões sobre o que o autor insinua"}, "technical": {"literal": "técnico"}, "users": {"literal": "usuários"}, "add": {"literal": "adicionar"}, "continues": {"literal": "continua"}, "ever": {"literal": "já", "contextual": "usado para ênfase em perguntas ou comparações"}, "everyone": {"literal": "todos"}, "gain": {"literal": "ganho"}, "globalization": {"literal": "globalização"}, "kinds": {"literal": "tipos"}, "mean": {"literal": "significar"}, "networks": {"literal": "redes"}, "professional": {"literal": "profissional"}, "rates": {"literal": "taxas", "contextual": "comum em descrições de gráficos (ex: birth rates)"}, "reason": {"literal": "razão"}, "rules": {"literal": "regras"}, "shows": {"literal": "mostra", "contextual": "verbo comum para descrever o que um gráfico ilustra"}, "singular": {"literal": "singular"}, "strong": {"literal": "forte"}, "tense": {"literal": "tempo verbal", "contextual": "importante para gramática no pte"}, "widespread": {"literal": "generalizado", "contextual": "que ocorre em muitos lugares ou entre muitas pessoas"}, "beyond": {"literal": "além de"}, "computers": {"literal": "computadores"}, "driven": {"literal": "impulsionado"}, "electricity": {"literal": "eletricidade"}, "functions": {"literal": "funções"}}
+{
+  "regulations": {
+    "literal": "regulamentações",
+    "contextual": "regras oficiais que controlam processos"
+  },
+  "specifically": {
+    "literal": "especificamente",
+    "contextual": "usado para detalhar ou focar em um ponto específico"
+  },
+  "stated": {
+    "literal": "declarado",
+    "contextual": "frequentemente usado em questões de 'according to the text'"
+  },
+  "successful": {
+    "literal": "bem-sucedido"
+  },
+  "survey": {
+    "literal": "pesquisa",
+    "contextual": "levantamento de dados ou questionário acadêmico"
+  },
+  "allow": {
+    "literal": "permitir"
+  },
+  "discovery": {
+    "literal": "descoberta"
+  },
+  "farming": {
+    "literal": "agricultura"
+  },
+  "focuses": {
+    "literal": "foca",
+    "contextual": "terceira pessoa do singular do verbo to focus"
+  },
+  "machines": {
+    "literal": "máquinas"
+  },
+  "opinion": {
+    "literal": "opinião"
+  },
+  "similar": {
+    "literal": "semelhante"
+  },
+  "began": {
+    "literal": "começou"
+  },
+  "composers": {
+    "literal": "compositores"
+  },
+  "easily": {
+    "literal": "facilmente"
+  },
+  "effect": {
+    "literal": "efeito",
+    "contextual": "cuidado para não confundir com affect (verbo)"
+  },
+  "emotional": {
+    "literal": "emocional"
+  },
+  "further": {
+    "literal": "adicional",
+    "contextual": "além de, ou em maior grau; comum em transições"
+  },
+  "groups": {
+    "literal": "grupos"
+  },
+  "manage": {
+    "literal": "gerenciar"
+  },
+  "millions": {
+    "literal": "milhões"
+  },
+  "moving": {
+    "literal": "movendo"
+  },
+  "philosophy": {
+    "literal": "filosofia"
+  },
+  "psychology": {
+    "literal": "psicologia"
+  },
+  "second": {
+    "literal": "segundo"
+  },
+  "sure": {
+    "literal": "certo"
+  },
+  "test": {
+    "literal": "teste"
+  },
+  "aims": {
+    "literal": "objetiva",
+    "contextual": "frequentemente usado para descrever o propósito de um estudo"
+  },
+  "almost": {
+    "literal": "quase"
+  },
+  "collection": {
+    "literal": "coleção"
+  },
+  "concern": {
+    "literal": "preocupação"
+  },
+  "conclusion": {
+    "literal": "conclusão"
+  },
+  "experiment": {
+    "literal": "experimento"
+  },
+  "fields": {
+    "literal": "campos",
+    "contextual": "áreas de estudo ou atuação profissional"
+  },
+  "green": {
+    "literal": "verde",
+    "contextual": "frequentemente associado a sustentabilidade no pte"
+  },
+  "measures": {
+    "literal": "medidas"
+  },
+  "news": {
+    "literal": "notícias"
+  },
+  "organizations": {
+    "literal": "organizações"
+  },
+  "physics": {
+    "literal": "física"
+  },
+  "places": {
+    "literal": "lugares"
+  },
+  "rapidly": {
+    "literal": "rapidamente"
+  },
+  "speed": {
+    "literal": "velocidade"
+  },
+  "causes": {
+    "literal": "causas"
+  },
+  "completely": {
+    "literal": "completamente"
+  },
+  "fuels": {
+    "literal": "combustíveis"
+  },
+  "hand": {
+    "literal": "mão"
+  },
+  "largest": {
+    "literal": "maior",
+    "contextual": "superlativo de large; comum em descrições de dados"
+  },
+  "notes": {
+    "literal": "notas"
+  },
+  "promote": {
+    "literal": "promover"
+  },
+  "sometimes": {
+    "literal": "às vezes"
+  },
+  "spaces": {
+    "literal": "espaços"
+  },
+  "staff": {
+    "literal": "equipe"
+  },
+  "tasks": {
+    "literal": "tarefas"
+  },
+  "typically": {
+    "literal": "tipicamente",
+    "contextual": "indica uma generalização ou padrão"
+  },
+  "wanted": {
+    "literal": "queria"
+  },
+  "warming": {
+    "literal": "aquecimento",
+    "contextual": "frequentemente em global warming"
+  },
+  "well-being": {
+    "literal": "bem-estar"
+  },
+  "careful": {
+    "literal": "cuidadoso"
+  },
+  "decades": {
+    "literal": "décadas"
+  },
+  "efficient": {
+    "literal": "eficiente"
+  },
+  "garden": {
+    "literal": "jardim"
+  },
+  "independent": {
+    "literal": "independente"
+  },
+  "limited": {
+    "literal": "limitado"
+  },
+  "name": {
+    "literal": "nome"
+  },
+  "service": {
+    "literal": "serviço"
+  },
+  "set": {
+    "literal": "conjunto"
+  },
+  "attention": {
+    "literal": "atenção"
+  },
+  "becoming": {
+    "literal": "tornando-se"
+  },
+  "classical": {
+    "literal": "clássico"
+  },
+  "content": {
+    "literal": "conteúdo"
+  },
+  "delivery": {
+    "literal": "entrega"
+  },
+  "employment": {
+    "literal": "emprego"
+  },
+  "impacts": {
+    "literal": "impactos"
+  },
+  "migration": {
+    "literal": "migração"
+  },
+  "model": {
+    "literal": "modelo"
+  },
+  "opportunity": {
+    "literal": "oportunidade"
+  },
+  "simultaneously": {
+    "literal": "simultaneamente",
+    "contextual": "ao mesmo tempo"
+  },
+  "taking": {
+    "literal": "tomando"
+  },
+  "topic": {
+    "literal": "tópico"
+  },
+  "try": {
+    "literal": "tentar"
+  },
+  "addressing": {
+    "literal": "abordando",
+    "contextual": "lidando com um problema ou assunto"
+  },
+  "already": {
+    "literal": "já"
+  },
+  "cooperation": {
+    "literal": "cooperação"
+  },
+  "dynamic": {
+    "literal": "dinâmico"
+  },
+  "extreme": {
+    "literal": "extremo"
+  },
+  "fossil": {
+    "literal": "fóssil"
+  },
+  "fundamentally": {
+    "literal": "fundamentalmente"
+  },
+  "letters": {
+    "literal": "letras"
+  },
+  "network": {
+    "literal": "rede"
+  },
+  "practical": {
+    "literal": "prático"
+  },
+  "precision": {
+    "literal": "precisão"
+  },
+  "promoting": {
+    "literal": "promovendo"
+  },
+  "talking": {
+    "literal": "falando"
+  },
+  "tend": {
+    "literal": "tender",
+    "contextual": "ter a tendência de; comum em tendências estatísticas"
+  },
+  "widely": {
+    "literal": "amplamente",
+    "contextual": "em larga escala ou por muitas pessoas"
+  },
+  "contemporary": {
+    "literal": "contemporâneo"
+  },
+  "families": {
+    "literal": "famílias"
+  },
+  "generations": {
+    "literal": "gerações"
+  },
+  "particular": {
+    "literal": "específico",
+    "contextual": "cuidado: em inglês acadêmico geralmente significa específico"
+  },
+  "reasons": {
+    "literal": "razões"
+  },
+  "robots": {
+    "literal": "robôs"
+  },
+  "though": {
+    "literal": "embora",
+    "contextual": "conector de oposição; pode aparecer no final da frase"
+  },
+  "accessible": {
+    "literal": "acessível"
+  },
+  "bees": {
+    "literal": "abelhas"
+  },
+  "came": {
+    "literal": "veio"
+  },
+  "case": {
+    "literal": "caso"
+  },
+  "deadline": {
+    "literal": "prazo final"
+  },
+  "differences": {
+    "literal": "diferenças"
+  },
+  "exchange": {
+    "literal": "intercâmbio",
+    "contextual": "ou troca; comum em contextos acadêmicos ou culturais"
+  },
+  "greater": {
+    "literal": "maior",
+    "contextual": "comparativo de superioridade"
+  },
+  "initiatives": {
+    "literal": "iniciativas"
+  },
+  "intonation": {
+    "literal": "entonação",
+    "contextual": "importante na seção speaking do pte"
+  },
+  "match": {
+    "literal": "combinar",
+    "contextual": "associar ou corresponder; comum em questões de matching"
+  },
+  "meeting": {
+    "literal": "reunião"
+  },
+  "middle": {
+    "literal": "meio"
+  },
+  "move": {
+    "literal": "mover"
+  },
+  "prevent": {
+    "literal": "evitar",
+    "contextual": "ou impedir; muito comum em discussões sobre saúde/ambiente"
+  },
+  "profound": {
+    "literal": "profundo",
+    "contextual": "usado para impactos ou mudanças significativas"
+  },
+  "thing": {
+    "literal": "coisa"
+  },
+  "along": {
+    "literal": "ao longo de"
+  },
+  "especially": {
+    "literal": "especialmente"
+  },
+  "exercise": {
+    "literal": "exercício"
+  },
+  "existing": {
+    "literal": "existente"
+  },
+  "flow": {
+    "literal": "fluxo"
+  },
+  "getting": {
+    "literal": "obtendo"
+  },
+  "least": {
+    "literal": "mínimo",
+    "contextual": "comum na expressão 'at least' (pelo menos)"
+  },
+  "order": {
+    "literal": "ordem"
+  },
+  "primarily": {
+    "literal": "primariamente",
+    "contextual": "principalmente; indica o foco principal de algo"
+  },
+  "sort": {
+    "literal": "tipo",
+    "contextual": "sinônimo de kind ou type"
+  },
+  "spelling": {
+    "literal": "ortografia",
+    "contextual": "critério de avaliação crucial na escrita do pte"
+  },
+  "submit": {
+    "literal": "enviar",
+    "contextual": "entregar um trabalho ou formulário"
+  },
+  "treatments": {
+    "literal": "tratamentos"
+  },
+  "wide": {
+    "literal": "amplo"
+  },
+  "argument": {
+    "literal": "argumento"
+  },
+  "certain": {
+    "literal": "certo"
+  },
+  "consider": {
+    "literal": "considerar"
+  },
+  "elements": {
+    "literal": "elementos"
+  },
+  "feedback": {
+    "literal": "comentários",
+    "contextual": "retorno sobre desempenho ou opinião"
+  },
+  "integration": {
+    "literal": "integração"
+  },
+  "interesting": {
+    "literal": "interessante"
+  },
+  "journey": {
+    "literal": "jornada"
+  },
+  "map": {
+    "literal": "mapa"
+  },
+  "models": {
+    "literal": "modelos"
+  },
+  "options": {
+    "literal": "opções"
+  },
+  "pandemic": {
+    "literal": "pandemia"
+  },
+  "principles": {
+    "literal": "princípios"
+  },
+  "produced": {
+    "literal": "produzido"
+  },
+  "productivity": {
+    "literal": "produtividade"
+  },
+  "sustainability": {
+    "literal": "sustentabilidade"
+  },
+  "themselves": {
+    "literal": "eles mesmos"
+  },
+  "active": {
+    "literal": "ativo"
+  },
+  "affect": {
+    "literal": "afetar",
+    "contextual": "verbo; frequentemente confundido com o substantivo effect"
+  },
+  "concepts": {
+    "literal": "conceitos"
+  },
+  "creates": {
+    "literal": "cria"
+  },
+  "devices": {
+    "literal": "dispositivos"
+  },
+  "engineers": {
+    "literal": "engenheiros"
+  },
+  "given": {
+    "literal": "dado",
+    "contextual": "pode significar 'considerando' em contextos acadêmicos"
+  },
+  "heavy": {
+    "literal": "pesado"
+  },
+  "identity": {
+    "literal": "identidade"
+  },
+  "multiple-choice": {
+    "literal": "múltipla escolha",
+    "contextual": "formato comum de questões no pte"
+  },
+  "negative": {
+    "literal": "negativo"
+  },
+  "relationship": {
+    "literal": "relacionamento"
+  },
+  "sleep": {
+    "literal": "sono"
+  },
+  "structural": {
+    "literal": "estrutural"
+  },
+  "substantial": {
+    "literal": "substancial",
+    "contextual": "significativo em quantidade ou importância"
+  },
+  "suggests": {
+    "literal": "sugere",
+    "contextual": "comum em questões sobre o que o autor insinua"
+  },
+  "technical": {
+    "literal": "técnico"
+  },
+  "users": {
+    "literal": "usuários"
+  },
+  "add": {
+    "literal": "adicionar"
+  },
+  "continues": {
+    "literal": "continua"
+  },
+  "ever": {
+    "literal": "já",
+    "contextual": "usado para ênfase em perguntas ou comparações"
+  },
+  "everyone": {
+    "literal": "todos"
+  },
+  "gain": {
+    "literal": "ganho"
+  },
+  "globalization": {
+    "literal": "globalização"
+  },
+  "kinds": {
+    "literal": "tipos"
+  },
+  "mean": {
+    "literal": "significar"
+  },
+  "networks": {
+    "literal": "redes"
+  },
+  "professional": {
+    "literal": "profissional"
+  },
+  "rates": {
+    "literal": "taxas",
+    "contextual": "comum em descrições de gráficos (ex: birth rates)"
+  },
+  "reason": {
+    "literal": "razão"
+  },
+  "rules": {
+    "literal": "regras"
+  },
+  "shows": {
+    "literal": "mostra",
+    "contextual": "verbo comum para descrever o que um gráfico ilustra"
+  },
+  "strong": {
+    "literal": "forte"
+  },
+  "tense": {
+    "literal": "tempo verbal",
+    "contextual": "importante para gramática no pte"
+  },
+  "widespread": {
+    "literal": "generalizado",
+    "contextual": "que ocorre em muitos lugares ou entre muitas pessoas"
+  },
+  "beyond": {
+    "literal": "além de"
+  },
+  "computers": {
+    "literal": "computadores"
+  },
+  "driven": {
+    "literal": "impulsionado"
+  },
+  "electricity": {
+    "literal": "eletricidade"
+  },
+  "functions": {
+    "literal": "funções"
+  }
+}

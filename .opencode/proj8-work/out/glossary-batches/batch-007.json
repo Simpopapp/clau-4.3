@@ -1,1 +1,606 @@
-{"child": {"literal": "criança"}, "completed": {"literal": "concluído"}, "consequences": {"literal": "consequências"}, "described": {"literal": "descrito"}, "event": {"literal": "evento"}, "explore": {"literal": "explorar"}, "famous": {"literal": "famoso"}, "houses": {"literal": "casas"}, "implementing": {"literal": "implementando"}, "indicate": {"literal": "indicar"}, "journal": {"literal": "periódico", "contextual": "revista científica ou diário acadêmico"}, "labor": {"literal": "trabalho", "contextual": "mão de obra ou esforço físico"}, "merely": {"literal": "meramente", "contextual": "apenas ou somente, comum em questões de múltipla escolha"}, "mind": {"literal": "mente"}, "moment": {"literal": "momento"}, "philosophers": {"literal": "filósofos"}, "price": {"literal": "preço"}, "routes": {"literal": "rotas"}, "sales": {"literal": "vendas"}, "says": {"literal": "diz"}, "strategy": {"literal": "estratégia"}, "total": {"literal": "total"}, "urbanization": {"literal": "urbanização"}, "wildlife": {"literal": "vida selvagem"}, "workplace": {"literal": "local de trabalho"}, "aesthetic": {"literal": "estético"}, "authorities": {"literal": "autoridades"}, "benefit": {"literal": "benefício"}, "bibliography": {"literal": "bibliografia"}, "causing": {"literal": "causando"}, "certainly": {"literal": "certamente"}, "choice": {"literal": "escolha"}, "conference": {"literal": "conferência"}, "contains": {"literal": "contém"}, "discussed": {"literal": "discutido"}, "distractors": {"literal": "distratores", "contextual": "opções incorretas desenhadas para confundir em exames"}, "exaggerate": {"literal": "exagerar"}, "extended": {"literal": "estendido", "contextual": "prolongado ou ampliado"}, "faces": {"literal": "enfrenta", "contextual": "encara um desafio ou problema em contextos acadêmicos"}, "follow": {"literal": "seguir"}, "foods": {"literal": "alimentos"}, "formal": {"literal": "formal"}, "gardens": {"literal": "jardins"}, "happiness": {"literal": "felicidade"}, "households": {"literal": "famílias", "contextual": "unidades domésticas ou domicílios em estatísticas"}, "late": {"literal": "tarde"}, "low": {"literal": "baixo"}, "numbers": {"literal": "números"}, "origin": {"literal": "origem"}, "participation": {"literal": "participação"}, "path": {"literal": "caminho"}, "perhaps": {"literal": "talvez"}, "related": {"literal": "relacionado"}, "represents": {"literal": "representa"}, "restates": {"literal": "reafirma", "contextual": "dizer a mesma coisa com outras palavras"}, "retailers": {"literal": "varejistas"}, "south": {"literal": "sul"}, "speakers": {"literal": "falantes", "contextual": "oradores ou alto-falantes"}, "stage": {"literal": "estágio", "contextual": "fase de um processo ou palco"}, "statistical": {"literal": "estatístico"}, "storage": {"literal": "armazenamento"}, "strategic": {"literal": "estratégico"}, "theories": {"literal": "teorias"}, "useful": {"literal": "útil"}, "virtual": {"literal": "virtual"}, "academy": {"literal": "academia"}, "ages": {"literal": "idades"}, "carry": {"literal": "carregar", "contextual": "realizar ou conduzir, ex: carry out research"}, "concert": {"literal": "concerto"}, "constantly": {"literal": "constantemente"}, "east": {"literal": "leste"}, "enables": {"literal": "permite", "contextual": "possibilita ou capacita"}, "encourages": {"literal": "encoraja"}, "explains": {"literal": "explica"}, "extremely": {"literal": "extremamente"}, "friday": {"literal": "sexta-feira"}, "identify": {"literal": "identificar"}, "implementation": {"literal": "implementação"}, "implemented": {"literal": "implementado"}, "location": {"literal": "localização"}, "logistics": {"literal": "logística"}, "piano": {"literal": "piano"}, "plans": {"literal": "planos"}, "reefs": {"literal": "recifes"}, "societal": {"literal": "social", "contextual": "relativo à sociedade como um todo"}, "special": {"literal": "especial"}, "sports": {"literal": "esportes"}, "sunlight": {"literal": "luz solar"}, "supported": {"literal": "apoiado"}, "true": {"literal": "verdadeiro"}, "workshop": {"literal": "oficina", "contextual": "seminário prático ou workshop"}, "alongside": {"literal": "ao lado de", "contextual": "junto com ou paralelamente a"}, "awareness": {"literal": "consciência", "contextual": "percepção ou sensibilização sobre um tema"}, "background": {"literal": "contexto", "contextual": "histórico ou formação de um indivíduo"}, "basically": {"literal": "basicamente"}, "becomes": {"literal": "torna-se"}, "communicate": {"literal": "comunicar"}, "definition": {"literal": "definição"}, "diet": {"literal": "dieta"}, "electric": {"literal": "elétrico"}, "enabling": {"literal": "permitindo", "contextual": "capacitando ou tornando possível"}, "established": {"literal": "estabelecido"}, "ethics": {"literal": "ética"}, "examines": {"literal": "examina"}, "feel": {"literal": "sentir"}, "foster": {"literal": "promover", "contextual": "incentivar ou estimular o desenvolvimento"}, "hosting": {"literal": "sediando", "contextual": "atuar como anfitrião de um evento"}, "huge": {"literal": "enorme"}, "incredibly": {"literal": "incrivelmente"}, "musical": {"literal": "musical"}, "operate": {"literal": "operar"}, "properties": {"literal": "propriedades"}, "rely": {"literal": "confiar", "contextual": "depender de algo ou alguém"}, "represent": {"literal": "representar"}, "requiring": {"literal": "exigindo"}, "respond": {"literal": "responder"}, "saw": {"literal": "viu"}, "shown": {"literal": "mostrado"}, "smoking": {"literal": "fumar", "contextual": "tabagismo"}, "soon": {"literal": "logo"}, "step": {"literal": "passo", "contextual": "etapa de um processo"}, "store": {"literal": "loja", "contextual": "armazenar (verbo)"}, "surrounding": {"literal": "circundante", "contextual": "ao redor ou envolvente"}, "views": {"literal": "visões", "contextual": "opiniões ou perspectivas"}, "antibiotics": {"literal": "antibióticos"}, "begin": {"literal": "começar"}, "challenging": {"literal": "desafiador"}, "clinical": {"literal": "clínico"}, "component": {"literal": "componente"}, "continent": {"literal": "continente"}, "contribute": {"literal": "contribuir"}, "currents": {"literal": "correntes"}, "evolved": {"literal": "evoluiu"}, "exploring": {"literal": "explorando"}, "fat": {"literal": "gordura"}, "highlights": {"literal": "destaca", "contextual": "pontos principais ou realces"}, "imagine": {"literal": "imaginar"}, "list": {"literal": "lista"}, "listening": {"literal": "ouvindo", "contextual": "seção de compreensão auditiva do exame"}, "lived": {"literal": "viveu"}, "lost": {"literal": "perdido"}, "memories": {"literal": "memórias"}, "numerous": {"literal": "numerosos"}, "peer": {"literal": "par", "contextual": "colega de mesmo nível, ex: peer review"}, "plan": {"literal": "plano"}, "poses": {"literal": "apresenta", "contextual": "coloca ou representa, ex: poses a threat"}, "regional": {"literal": "regional"}, "secure": {"literal": "seguro", "contextual": "garantir ou obter algo com esforço"}, "sheet": {"literal": "folha"}, "silk": {"literal": "seda"}, "specialized": {"literal": "especializado"}, "sugar": {"literal": "açúcar"}, "adapt": {"literal": "adaptar"}, "annual": {"literal": "anual"}, "apply": {"literal": "aplicar", "contextual": "candidatar-se ou solicitar"}, "approximately": {"literal": "aproximadamente"}, "automation": {"literal": "automação"}, "campaigns": {"literal": "campanhas"}, "climates": {"literal": "climas"}, "computing": {"literal": "computação"}, "conducted": {"literal": "conduzido", "contextual": "realizado, ex: experiment conducted"}, "coral": {"literal": "coral"}, "customers": {"literal": "clientes"}, "decade": {"literal": "década"}, "decision": {"literal": "decisão"}, "device": {"literal": "dispositivo"}, "ecological": {"literal": "ecológico"}, "else": {"literal": "outro", "contextual": "caso contrário ou mais"}, "expand": {"literal": "expandir"}, "exposed": {"literal": "exposto"}, "facilities": {"literal": "instalações", "contextual": "infraestrutura ou recursos disponíveis"}, "head": {"literal": "cabeça", "contextual": "chefe ou liderar uma organização"}, "influenced": {"literal": "influenciado"}, "influences": {"literal": "influências"}, "limit": {"literal": "limite"}, "opening": {"literal": "abertura"}, "per": {"literal": "por", "contextual": "para cada"}, "perform": {"literal": "realizar", "contextual": "desempenhar ou atuar"}, "principle": {"literal": "princípio"}, "readers": {"literal": "leitores"}, "region": {"literal": "região"}, "status": {"literal": "status", "contextual": "estado ou posição social"}, "strict": {"literal": "rigoroso", "contextual": "estrito ou severo"}, "teams": {"literal": "equipes"}, "tech": {"literal": "tecnologia", "contextual": "abreviação comum para técnico ou tecnologia"}, "track": {"literal": "trilha", "contextual": "acompanhar ou rastrear (verbo)"}, "vehicles": {"literal": "veículos"}, "warmer": {"literal": "mais quente"}, "western": {"literal": "ocidental"}, "workforce": {"literal": "força de trabalho"}, "yields": {"literal": "rendimentos", "contextual": "produz ou resulta em"}, "administration": {"literal": "administração"}, "anxiety": {"literal": "ansiedade"}, "artistic": {"literal": "artístico"}, "attendance": {"literal": "presença", "contextual": "frequência ou comparecimento"}}
+{
+  "child": {
+    "literal": "criança"
+  },
+  "completed": {
+    "literal": "concluído"
+  },
+  "consequences": {
+    "literal": "consequências"
+  },
+  "described": {
+    "literal": "descrito"
+  },
+  "event": {
+    "literal": "evento"
+  },
+  "explore": {
+    "literal": "explorar"
+  },
+  "famous": {
+    "literal": "famoso"
+  },
+  "houses": {
+    "literal": "casas"
+  },
+  "implementing": {
+    "literal": "implementando"
+  },
+  "indicate": {
+    "literal": "indicar"
+  },
+  "journal": {
+    "literal": "periódico",
+    "contextual": "revista científica ou diário acadêmico"
+  },
+  "labor": {
+    "literal": "trabalho",
+    "contextual": "mão de obra ou esforço físico"
+  },
+  "merely": {
+    "literal": "meramente",
+    "contextual": "apenas ou somente, comum em questões de múltipla escolha"
+  },
+  "mind": {
+    "literal": "mente"
+  },
+  "moment": {
+    "literal": "momento"
+  },
+  "philosophers": {
+    "literal": "filósofos"
+  },
+  "price": {
+    "literal": "preço"
+  },
+  "routes": {
+    "literal": "rotas"
+  },
+  "sales": {
+    "literal": "vendas"
+  },
+  "says": {
+    "literal": "diz"
+  },
+  "strategy": {
+    "literal": "estratégia"
+  },
+  "urbanization": {
+    "literal": "urbanização"
+  },
+  "wildlife": {
+    "literal": "vida selvagem"
+  },
+  "workplace": {
+    "literal": "local de trabalho"
+  },
+  "aesthetic": {
+    "literal": "estético"
+  },
+  "authorities": {
+    "literal": "autoridades"
+  },
+  "benefit": {
+    "literal": "benefício"
+  },
+  "bibliography": {
+    "literal": "bibliografia"
+  },
+  "causing": {
+    "literal": "causando"
+  },
+  "certainly": {
+    "literal": "certamente"
+  },
+  "choice": {
+    "literal": "escolha"
+  },
+  "conference": {
+    "literal": "conferência"
+  },
+  "contains": {
+    "literal": "contém"
+  },
+  "discussed": {
+    "literal": "discutido"
+  },
+  "distractors": {
+    "literal": "distratores",
+    "contextual": "opções incorretas desenhadas para confundir em exames"
+  },
+  "exaggerate": {
+    "literal": "exagerar"
+  },
+  "extended": {
+    "literal": "estendido",
+    "contextual": "prolongado ou ampliado"
+  },
+  "faces": {
+    "literal": "enfrenta",
+    "contextual": "encara um desafio ou problema em contextos acadêmicos"
+  },
+  "follow": {
+    "literal": "seguir"
+  },
+  "foods": {
+    "literal": "alimentos"
+  },
+  "gardens": {
+    "literal": "jardins"
+  },
+  "happiness": {
+    "literal": "felicidade"
+  },
+  "households": {
+    "literal": "famílias",
+    "contextual": "unidades domésticas ou domicílios em estatísticas"
+  },
+  "late": {
+    "literal": "tarde"
+  },
+  "low": {
+    "literal": "baixo"
+  },
+  "numbers": {
+    "literal": "números"
+  },
+  "origin": {
+    "literal": "origem"
+  },
+  "participation": {
+    "literal": "participação"
+  },
+  "path": {
+    "literal": "caminho"
+  },
+  "perhaps": {
+    "literal": "talvez"
+  },
+  "related": {
+    "literal": "relacionado"
+  },
+  "represents": {
+    "literal": "representa"
+  },
+  "restates": {
+    "literal": "reafirma",
+    "contextual": "dizer a mesma coisa com outras palavras"
+  },
+  "retailers": {
+    "literal": "varejistas"
+  },
+  "south": {
+    "literal": "sul"
+  },
+  "speakers": {
+    "literal": "falantes",
+    "contextual": "oradores ou alto-falantes"
+  },
+  "stage": {
+    "literal": "estágio",
+    "contextual": "fase de um processo ou palco"
+  },
+  "statistical": {
+    "literal": "estatístico"
+  },
+  "storage": {
+    "literal": "armazenamento"
+  },
+  "strategic": {
+    "literal": "estratégico"
+  },
+  "theories": {
+    "literal": "teorias"
+  },
+  "useful": {
+    "literal": "útil"
+  },
+  "academy": {
+    "literal": "academia"
+  },
+  "ages": {
+    "literal": "idades"
+  },
+  "carry": {
+    "literal": "carregar",
+    "contextual": "realizar ou conduzir, ex: carry out research"
+  },
+  "concert": {
+    "literal": "concerto"
+  },
+  "constantly": {
+    "literal": "constantemente"
+  },
+  "east": {
+    "literal": "leste"
+  },
+  "enables": {
+    "literal": "permite",
+    "contextual": "possibilita ou capacita"
+  },
+  "encourages": {
+    "literal": "encoraja"
+  },
+  "explains": {
+    "literal": "explica"
+  },
+  "extremely": {
+    "literal": "extremamente"
+  },
+  "friday": {
+    "literal": "sexta-feira"
+  },
+  "identify": {
+    "literal": "identificar"
+  },
+  "implementation": {
+    "literal": "implementação"
+  },
+  "implemented": {
+    "literal": "implementado"
+  },
+  "location": {
+    "literal": "localização"
+  },
+  "logistics": {
+    "literal": "logística"
+  },
+  "plans": {
+    "literal": "planos"
+  },
+  "reefs": {
+    "literal": "recifes"
+  },
+  "societal": {
+    "literal": "social",
+    "contextual": "relativo à sociedade como um todo"
+  },
+  "special": {
+    "literal": "especial"
+  },
+  "sports": {
+    "literal": "esportes"
+  },
+  "sunlight": {
+    "literal": "luz solar"
+  },
+  "supported": {
+    "literal": "apoiado"
+  },
+  "true": {
+    "literal": "verdadeiro"
+  },
+  "workshop": {
+    "literal": "oficina",
+    "contextual": "seminário prático ou workshop"
+  },
+  "alongside": {
+    "literal": "ao lado de",
+    "contextual": "junto com ou paralelamente a"
+  },
+  "awareness": {
+    "literal": "consciência",
+    "contextual": "percepção ou sensibilização sobre um tema"
+  },
+  "background": {
+    "literal": "contexto",
+    "contextual": "histórico ou formação de um indivíduo"
+  },
+  "basically": {
+    "literal": "basicamente"
+  },
+  "becomes": {
+    "literal": "torna-se"
+  },
+  "communicate": {
+    "literal": "comunicar"
+  },
+  "definition": {
+    "literal": "definição"
+  },
+  "diet": {
+    "literal": "dieta"
+  },
+  "electric": {
+    "literal": "elétrico"
+  },
+  "enabling": {
+    "literal": "permitindo",
+    "contextual": "capacitando ou tornando possível"
+  },
+  "established": {
+    "literal": "estabelecido"
+  },
+  "ethics": {
+    "literal": "ética"
+  },
+  "examines": {
+    "literal": "examina"
+  },
+  "feel": {
+    "literal": "sentir"
+  },
+  "foster": {
+    "literal": "promover",
+    "contextual": "incentivar ou estimular o desenvolvimento"
+  },
+  "hosting": {
+    "literal": "sediando",
+    "contextual": "atuar como anfitrião de um evento"
+  },
+  "huge": {
+    "literal": "enorme"
+  },
+  "incredibly": {
+    "literal": "incrivelmente"
+  },
+  "operate": {
+    "literal": "operar"
+  },
+  "properties": {
+    "literal": "propriedades"
+  },
+  "rely": {
+    "literal": "confiar",
+    "contextual": "depender de algo ou alguém"
+  },
+  "represent": {
+    "literal": "representar"
+  },
+  "requiring": {
+    "literal": "exigindo"
+  },
+  "respond": {
+    "literal": "responder"
+  },
+  "saw": {
+    "literal": "viu"
+  },
+  "shown": {
+    "literal": "mostrado"
+  },
+  "smoking": {
+    "literal": "fumar",
+    "contextual": "tabagismo"
+  },
+  "soon": {
+    "literal": "logo"
+  },
+  "step": {
+    "literal": "passo",
+    "contextual": "etapa de um processo"
+  },
+  "store": {
+    "literal": "loja",
+    "contextual": "armazenar (verbo)"
+  },
+  "surrounding": {
+    "literal": "circundante",
+    "contextual": "ao redor ou envolvente"
+  },
+  "views": {
+    "literal": "visões",
+    "contextual": "opiniões ou perspectivas"
+  },
+  "antibiotics": {
+    "literal": "antibióticos"
+  },
+  "begin": {
+    "literal": "começar"
+  },
+  "challenging": {
+    "literal": "desafiador"
+  },
+  "clinical": {
+    "literal": "clínico"
+  },
+  "component": {
+    "literal": "componente"
+  },
+  "continent": {
+    "literal": "continente"
+  },
+  "contribute": {
+    "literal": "contribuir"
+  },
+  "currents": {
+    "literal": "correntes"
+  },
+  "evolved": {
+    "literal": "evoluiu"
+  },
+  "exploring": {
+    "literal": "explorando"
+  },
+  "fat": {
+    "literal": "gordura"
+  },
+  "highlights": {
+    "literal": "destaca",
+    "contextual": "pontos principais ou realces"
+  },
+  "imagine": {
+    "literal": "imaginar"
+  },
+  "list": {
+    "literal": "lista"
+  },
+  "listening": {
+    "literal": "ouvindo",
+    "contextual": "seção de compreensão auditiva do exame"
+  },
+  "lived": {
+    "literal": "viveu"
+  },
+  "lost": {
+    "literal": "perdido"
+  },
+  "memories": {
+    "literal": "memórias"
+  },
+  "numerous": {
+    "literal": "numerosos"
+  },
+  "peer": {
+    "literal": "par",
+    "contextual": "colega de mesmo nível, ex: peer review"
+  },
+  "plan": {
+    "literal": "plano"
+  },
+  "poses": {
+    "literal": "apresenta",
+    "contextual": "coloca ou representa, ex: poses a threat"
+  },
+  "secure": {
+    "literal": "seguro",
+    "contextual": "garantir ou obter algo com esforço"
+  },
+  "sheet": {
+    "literal": "folha"
+  },
+  "silk": {
+    "literal": "seda"
+  },
+  "specialized": {
+    "literal": "especializado"
+  },
+  "sugar": {
+    "literal": "açúcar"
+  },
+  "adapt": {
+    "literal": "adaptar"
+  },
+  "annual": {
+    "literal": "anual"
+  },
+  "apply": {
+    "literal": "aplicar",
+    "contextual": "candidatar-se ou solicitar"
+  },
+  "approximately": {
+    "literal": "aproximadamente"
+  },
+  "automation": {
+    "literal": "automação"
+  },
+  "campaigns": {
+    "literal": "campanhas"
+  },
+  "climates": {
+    "literal": "climas"
+  },
+  "computing": {
+    "literal": "computação"
+  },
+  "conducted": {
+    "literal": "conduzido",
+    "contextual": "realizado, ex: experiment conducted"
+  },
+  "customers": {
+    "literal": "clientes"
+  },
+  "decade": {
+    "literal": "década"
+  },
+  "decision": {
+    "literal": "decisão"
+  },
+  "device": {
+    "literal": "dispositivo"
+  },
+  "ecological": {
+    "literal": "ecológico"
+  },
+  "else": {
+    "literal": "outro",
+    "contextual": "caso contrário ou mais"
+  },
+  "expand": {
+    "literal": "expandir"
+  },
+  "exposed": {
+    "literal": "exposto"
+  },
+  "facilities": {
+    "literal": "instalações",
+    "contextual": "infraestrutura ou recursos disponíveis"
+  },
+  "head": {
+    "literal": "cabeça",
+    "contextual": "chefe ou liderar uma organização"
+  },
+  "influenced": {
+    "literal": "influenciado"
+  },
+  "influences": {
+    "literal": "influências"
+  },
+  "limit": {
+    "literal": "limite"
+  },
+  "opening": {
+    "literal": "abertura"
+  },
+  "per": {
+    "literal": "por",
+    "contextual": "para cada"
+  },
+  "perform": {
+    "literal": "realizar",
+    "contextual": "desempenhar ou atuar"
+  },
+  "principle": {
+    "literal": "princípio"
+  },
+  "readers": {
+    "literal": "leitores"
+  },
+  "region": {
+    "literal": "região"
+  },
+  "strict": {
+    "literal": "rigoroso",
+    "contextual": "estrito ou severo"
+  },
+  "teams": {
+    "literal": "equipes"
+  },
+  "tech": {
+    "literal": "tecnologia",
+    "contextual": "abreviação comum para técnico ou tecnologia"
+  },
+  "track": {
+    "literal": "trilha",
+    "contextual": "acompanhar ou rastrear (verbo)"
+  },
+  "vehicles": {
+    "literal": "veículos"
+  },
+  "warmer": {
+    "literal": "mais quente"
+  },
+  "western": {
+    "literal": "ocidental"
+  },
+  "workforce": {
+    "literal": "força de trabalho"
+  },
+  "yields": {
+    "literal": "rendimentos",
+    "contextual": "produz ou resulta em"
+  },
+  "administration": {
+    "literal": "administração"
+  },
+  "anxiety": {
+    "literal": "ansiedade"
+  },
+  "artistic": {
+    "literal": "artístico"
+  },
+  "attendance": {
+    "literal": "presença",
+    "contextual": "frequência ou comparecimento"
+  }
+}

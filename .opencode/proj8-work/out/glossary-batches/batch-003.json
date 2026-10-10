@@ -1,1 +1,658 @@
-{"instruments": {"literal": "instrumentos", "contextual": "usado para ferramentas de medição ou coleta de dados"}, "laboratory": {"literal": "laboratório"}, "recording": {"literal": "gravação", "contextual": "pode referir-se ao registro de dados ou áudio e vídeo"}, "theory": {"literal": "teoria"}, "activities": {"literal": "atividades"}, "balance": {"literal": "equilíbrio", "contextual": "refere-se à estabilidade ou proporção entre variáveis"}, "bring": {"literal": "trazer", "contextual": "frequentemente usado para introduzir evidências ou resultados"}, "costs": {"literal": "custos"}, "demand": {"literal": "demanda", "contextual": "frequente em economia para descrever a procura por bens ou serviços"}, "highly": {"literal": "altamente", "contextual": "intensificador comum em teses e relatórios acadêmicos"}, "languages": {"literal": "línguas", "contextual": "frequentemente usado como sinônimo de idiomas ou sistemas linguísticos"}, "left": {"literal": "esquerdo", "contextual": "pode indicar posição física ou o que restou (remanescente)"}, "medicine": {"literal": "medicina", "contextual": "área de estudo ou substância terapêutica"}, "period": {"literal": "período", "contextual": "intervalo de tempo específico em um estudo"}, "put": {"literal": "colocar", "contextual": "frequentemente usado em 'put forward' (propor uma ideia)"}, "disease": {"literal": "doença"}, "final": {"literal": "final", "contextual": "referente a conclusões ou etapas derradeiras"}, "issue": {"literal": "questão", "contextual": "refere-se a um problema, tópico de debate ou edição de periódico"}, "money": {"literal": "dinheiro"}, "value": {"literal": "valor"}, "away": {"literal": "longe", "contextual": "indica distância física ou afastamento de um conceito"}, "best": {"literal": "melhor"}, "hours": {"literal": "horas"}, "platforms": {"literal": "plataformas", "contextual": "sistemas digitais ou bases físicas de observação"}, "probably": {"literal": "provavelmente"}, "state": {"literal": "estado", "contextual": "condição de um sistema ou entidade política"}, "thinking": {"literal": "pensamento", "contextual": "processo cognitivo ou linha de raciocínio"}, "detail": {"literal": "detalhe"}, "either": {"literal": "ou", "contextual": "usado em construções de escolha entre duas opções (either... or)"}, "humans": {"literal": "humanos"}, "provided": {"literal": "fornecido", "contextual": "frequentemente usado para introduzir condições ou dados"}, "sense": {"literal": "sentido", "contextual": "percepção sensorial ou lógica de um argumento"}, "biodiversity": {"literal": "biodiversidade"}, "family": {"literal": "família"}, "got": {"literal": "obteve", "contextual": "passado de obter; em textos formais prefere-se 'obtained'"}, "looking": {"literal": "olhando", "contextual": "frequentemente em 'looking at' (analisando)"}, "offering": {"literal": "oferecendo"}, "progress": {"literal": "progresso"}, "universe": {"literal": "universo"}, "forms": {"literal": "formas"}, "heart": {"literal": "coração", "contextual": "centro de um sistema ou órgão biológico"}, "institutions": {"literal": "instituições"}, "societies": {"literal": "sociedades"}, "training": {"literal": "treinamento"}, "aim": {"literal": "objetivo", "contextual": "propósito ou meta de uma pesquisa"}, "center": {"literal": "centro"}, "economics": {"literal": "economia", "contextual": "campo de estudo das relações de produção e consumo"}, "gas": {"literal": "gás"}, "importance": {"literal": "importância"}, "industries": {"literal": "indústrias"}, "markets": {"literal": "mercados"}, "safety": {"literal": "segurança"}, "additionally": {"literal": "adicionalmente", "contextual": "conector usado para adicionar informações"}, "crops": {"literal": "colheitas", "contextual": "culturas agrícolas produzidas em larga escala"}, "live": {"literal": "viver", "contextual": "pode referir-se a habitar ou a processos em tempo real"}, "quantum": {"literal": "quântico", "contextual": "relativo à mecânica quântica ou a quantidades discretas"}, "transition": {"literal": "transição"}, "allowed": {"literal": "permitido"}, "animals": {"literal": "animais"}, "face": {"literal": "enfrentar", "contextual": "confrontar um desafio ou a superfície de um objeto"}, "home": {"literal": "casa", "contextual": "lar ou ambiente nativo de uma espécie"}, "intelligence": {"literal": "inteligência"}, "product": {"literal": "produto", "contextual": "resultado de um processo ou item comercial"}, "revolution": {"literal": "revolução"}, "ultimately": {"literal": "fundamentalmente", "contextual": "indica a conclusão final ou essência de um argumento"}, "usually": {"literal": "geralmente"}, "debate": {"literal": "debate"}, "developed": {"literal": "desenvolvido"}, "exam": {"literal": "exame"}, "marine": {"literal": "marinho"}, "reduced": {"literal": "reduzido"}, "stability": {"literal": "estabilidade"}, "strategies": {"literal": "estratégias"}, "times": {"literal": "vezes", "contextual": "pode indicar frequência ou épocas históricas"}, "ethical": {"literal": "ético"}, "give": {"literal": "dar", "contextual": "fornecer informações ou apresentar dados"}, "investment": {"literal": "investimento"}, "led": {"literal": "conduziu", "contextual": "passado de 'lead'; resultou em algo"}, "literature": {"literal": "literatura", "contextual": "pode referir-se à revisão bibliográfica de um tema"}, "pressure": {"literal": "pressão", "contextual": "força física ou influência social e econômica"}, "report": {"literal": "relatório", "contextual": "documento que descreve achados de pesquisa"}, "she": {"literal": "ela"}, "temperature": {"literal": "temperatura"}, "atmosphere": {"literal": "atmosfera"}, "attend": {"literal": "frequentar", "contextual": "participar de aulas, palestras ou eventos"}, "check": {"literal": "verificar"}, "evolution": {"literal": "evolução"}, "jobs": {"literal": "empregos"}, "million": {"literal": "milhão"}, "private": {"literal": "privado"}, "resource": {"literal": "recurso"}, "spread": {"literal": "espalhar", "contextual": "difusão de doenças, informações ou substâncias"}, "thought": {"literal": "pensamento", "contextual": "passado de pensar ou conceito filosófico"}, "unlike": {"literal": "diferente de", "contextual": "usado para contrastar dois elementos"}, "women": {"literal": "mulheres"}, "company": {"literal": "empresa"}, "era": {"literal": "era", "contextual": "período histórico distinto"}, "experts": {"literal": "especialistas"}, "findings": {"literal": "descobertas", "contextual": "resultados obtidos em uma investigação científica"}, "later": {"literal": "posteriormente", "contextual": "indica um momento futuro no tempo ou no texto"}, "share": {"literal": "compartilhar", "contextual": "dividir recursos ou informações"}, "source": {"literal": "fonte", "contextual": "origem de dados ou referências bibliográficas"}, "tomorrow": {"literal": "amanhã"}, "young": {"literal": "jovem"}, "act": {"literal": "agir", "contextual": "desempenhar uma ação ou lei governamental"}, "central": {"literal": "central"}, "class": {"literal": "classe", "contextual": "categoria social ou grupo de estudantes"}, "closed": {"literal": "fechado"}, "following": {"literal": "seguinte", "contextual": "o que vem depois ou em conformidade com"}, "paper": {"literal": "artigo", "contextual": "trabalho acadêmico escrito ou material físico"}, "products": {"literal": "produtos"}, "regarding": {"literal": "referente a", "contextual": "preposição usada para introduzir um tópico"}, "rising": {"literal": "ascendente", "contextual": "que está aumentando em quantidade ou nível"}, "towards": {"literal": "em direção a"}, "wind": {"literal": "vento"}, "created": {"literal": "criado"}, "enhance": {"literal": "melhorar", "contextual": "aumentar a qualidade, valor ou intensidade"}, "europe": {"literal": "Europa"}, "furthermore": {"literal": "além disso", "contextual": "conector de adição para reforçar um argumento"}, "ice": {"literal": "gelo"}, "longer": {"literal": "mais longo"}, "near": {"literal": "perto"}, "plants": {"literal": "plantas"}, "coffee": {"literal": "café"}, "healthcare": {"literal": "cuidados de saúde"}, "heat": {"literal": "calor"}, "matter": {"literal": "matéria", "contextual": "substância física ou assunto em discussão"}, "seminar": {"literal": "seminário"}, "single": {"literal": "único"}, "turn": {"literal": "virar", "contextual": "tornar-se ou mudar de direção ou estado"}, "until": {"literal": "até"}, "advancements": {"literal": "avanços"}, "against": {"literal": "contra"}, "application": {"literal": "aplicação", "contextual": "uso prático de uma teoria ou software"}, "care": {"literal": "cuidado"}, "dioxide": {"literal": "dióxido"}, "doing": {"literal": "fazendo"}, "faculty": {"literal": "corpo docente", "contextual": "conjunto de professores de uma universidade"}, "interest": {"literal": "interesse"}, "larger": {"literal": "maior"}, "north": {"literal": "norte"}, "present": {"literal": "apresentar", "contextual": "exibir dados ou o momento atual"}, "under": {"literal": "sob", "contextual": "posição inferior ou sob certas condições"}, "view": {"literal": "visão", "contextual": "perspectiva sobre um assunto ou observação visual"}, "keep": {"literal": "manter"}, "learn": {"literal": "aprender"}, "popular": {"literal": "popular"}, "smart": {"literal": "inteligente", "contextual": "usado para tecnologia ou capacidade cognitiva"}, "stress": {"literal": "estresse", "contextual": "tensão física, psicológica ou ênfase em uma palavra"}, "transformed": {"literal": "transformado"}, "country": {"literal": "país"}, "decisions": {"literal": "decisões"}, "farmers": {"literal": "agricultores"}, "hard": {"literal": "difícil", "contextual": "pode significar rígido ou de alta complexidade"}, "idea": {"literal": "ideia"}, "itself": {"literal": "si mesmo"}, "lives": {"literal": "vidas"}, "maintaining": {"literal": "mantendo"}, "nations": {"literal": "nações"}, "retell": {"literal": "recontar", "contextual": "contar novamente com as próprias palavras"}, "selecting": {"literal": "selecionando"}, "silent": {"literal": "silencioso"}, "amount": {"literal": "quantidade"}, "assignments": {"literal": "tarefas", "contextual": "trabalhos acadêmicos entregues para avaliação"}, "built": {"literal": "construído"}, "cause": {"literal": "causa", "contextual": "razão para um fenômeno ou agir como motivador"}, "centuries": {"literal": "séculos"}, "competition": {"literal": "competição"}, "complete": {"literal": "completo"}, "expected": {"literal": "esperado"}, "result": {"literal": "resultado"}, "success": {"literal": "sucesso"}, "suggest": {"literal": "sugerir", "contextual": "propor uma explicação sem afirmar certeza absoluta"}, "australia": {"literal": "Austrália"}, "conservation": {"literal": "conservação"}, "depends": {"literal": "depende"}, "four": {"literal": "quatro"}, "likely": {"literal": "provável", "contextual": "indica alta probabilidade de ocorrência"}, "manufacturing": {"literal": "fabricação", "contextual": "produção industrial em larga escala"}, "multiple": {"literal": "múltiplos"}, "never": {"literal": "nunca"}, "quickly": {"literal": "rapidamente"}, "residents": {"literal": "residentes"}, "review": {"literal": "revisão", "contextual": "exame crítico de literatura ou estudo prévio"}, "rights": {"literal": "direitos"}, "started": {"literal": "começou"}, "subject": {"literal": "assunto", "contextual": "tema de estudo ou participante de experimento"}, "uses": {"literal": "usos"}, "applications": {"literal": "aplicações"}, "articles": {"literal": "artigos", "contextual": "textos publicados em periódicos científicos"}, "construction": {"literal": "construção"}, "contact": {"literal": "contato"}, "control": {"literal": "controle"}, "expensive": {"literal": "caro"}, "factors": {"literal": "fatores"}, "five": {"literal": "cinco"}, "lack": {"literal": "falta", "contextual": "ausência ou carência de algo"}, "needed": {"literal": "necessário"}, "parts": {"literal": "partes"}}
+{
+  "instruments": {
+    "literal": "instrumentos",
+    "contextual": "usado para ferramentas de medição ou coleta de dados"
+  },
+  "laboratory": {
+    "literal": "laboratório"
+  },
+  "recording": {
+    "literal": "gravação",
+    "contextual": "pode referir-se ao registro de dados ou áudio e vídeo"
+  },
+  "theory": {
+    "literal": "teoria"
+  },
+  "activities": {
+    "literal": "atividades"
+  },
+  "balance": {
+    "literal": "equilíbrio",
+    "contextual": "refere-se à estabilidade ou proporção entre variáveis"
+  },
+  "bring": {
+    "literal": "trazer",
+    "contextual": "frequentemente usado para introduzir evidências ou resultados"
+  },
+  "costs": {
+    "literal": "custos"
+  },
+  "demand": {
+    "literal": "demanda",
+    "contextual": "frequente em economia para descrever a procura por bens ou serviços"
+  },
+  "highly": {
+    "literal": "altamente",
+    "contextual": "intensificador comum em teses e relatórios acadêmicos"
+  },
+  "languages": {
+    "literal": "línguas",
+    "contextual": "frequentemente usado como sinônimo de idiomas ou sistemas linguísticos"
+  },
+  "left": {
+    "literal": "esquerdo",
+    "contextual": "pode indicar posição física ou o que restou (remanescente)"
+  },
+  "medicine": {
+    "literal": "medicina",
+    "contextual": "área de estudo ou substância terapêutica"
+  },
+  "period": {
+    "literal": "período",
+    "contextual": "intervalo de tempo específico em um estudo"
+  },
+  "put": {
+    "literal": "colocar",
+    "contextual": "frequentemente usado em 'put forward' (propor uma ideia)"
+  },
+  "disease": {
+    "literal": "doença"
+  },
+  "issue": {
+    "literal": "questão",
+    "contextual": "refere-se a um problema, tópico de debate ou edição de periódico"
+  },
+  "money": {
+    "literal": "dinheiro"
+  },
+  "value": {
+    "literal": "valor"
+  },
+  "away": {
+    "literal": "longe",
+    "contextual": "indica distância física ou afastamento de um conceito"
+  },
+  "best": {
+    "literal": "melhor"
+  },
+  "hours": {
+    "literal": "horas"
+  },
+  "platforms": {
+    "literal": "plataformas",
+    "contextual": "sistemas digitais ou bases físicas de observação"
+  },
+  "probably": {
+    "literal": "provavelmente"
+  },
+  "state": {
+    "literal": "estado",
+    "contextual": "condição de um sistema ou entidade política"
+  },
+  "thinking": {
+    "literal": "pensamento",
+    "contextual": "processo cognitivo ou linha de raciocínio"
+  },
+  "detail": {
+    "literal": "detalhe"
+  },
+  "either": {
+    "literal": "ou",
+    "contextual": "usado em construções de escolha entre duas opções (either... or)"
+  },
+  "humans": {
+    "literal": "humanos"
+  },
+  "provided": {
+    "literal": "fornecido",
+    "contextual": "frequentemente usado para introduzir condições ou dados"
+  },
+  "sense": {
+    "literal": "sentido",
+    "contextual": "percepção sensorial ou lógica de um argumento"
+  },
+  "biodiversity": {
+    "literal": "biodiversidade"
+  },
+  "family": {
+    "literal": "família"
+  },
+  "got": {
+    "literal": "obteve",
+    "contextual": "passado de obter; em textos formais prefere-se 'obtained'"
+  },
+  "looking": {
+    "literal": "olhando",
+    "contextual": "frequentemente em 'looking at' (analisando)"
+  },
+  "offering": {
+    "literal": "oferecendo"
+  },
+  "progress": {
+    "literal": "progresso"
+  },
+  "universe": {
+    "literal": "universo"
+  },
+  "forms": {
+    "literal": "formas"
+  },
+  "heart": {
+    "literal": "coração",
+    "contextual": "centro de um sistema ou órgão biológico"
+  },
+  "institutions": {
+    "literal": "instituições"
+  },
+  "societies": {
+    "literal": "sociedades"
+  },
+  "training": {
+    "literal": "treinamento"
+  },
+  "aim": {
+    "literal": "objetivo",
+    "contextual": "propósito ou meta de uma pesquisa"
+  },
+  "center": {
+    "literal": "centro"
+  },
+  "economics": {
+    "literal": "economia",
+    "contextual": "campo de estudo das relações de produção e consumo"
+  },
+  "gas": {
+    "literal": "gás"
+  },
+  "importance": {
+    "literal": "importância"
+  },
+  "industries": {
+    "literal": "indústrias"
+  },
+  "markets": {
+    "literal": "mercados"
+  },
+  "safety": {
+    "literal": "segurança"
+  },
+  "additionally": {
+    "literal": "adicionalmente",
+    "contextual": "conector usado para adicionar informações"
+  },
+  "crops": {
+    "literal": "colheitas",
+    "contextual": "culturas agrícolas produzidas em larga escala"
+  },
+  "live": {
+    "literal": "viver",
+    "contextual": "pode referir-se a habitar ou a processos em tempo real"
+  },
+  "quantum": {
+    "literal": "quântico",
+    "contextual": "relativo à mecânica quântica ou a quantidades discretas"
+  },
+  "transition": {
+    "literal": "transição"
+  },
+  "allowed": {
+    "literal": "permitido"
+  },
+  "animals": {
+    "literal": "animais"
+  },
+  "face": {
+    "literal": "enfrentar",
+    "contextual": "confrontar um desafio ou a superfície de um objeto"
+  },
+  "home": {
+    "literal": "casa",
+    "contextual": "lar ou ambiente nativo de uma espécie"
+  },
+  "intelligence": {
+    "literal": "inteligência"
+  },
+  "product": {
+    "literal": "produto",
+    "contextual": "resultado de um processo ou item comercial"
+  },
+  "revolution": {
+    "literal": "revolução"
+  },
+  "ultimately": {
+    "literal": "fundamentalmente",
+    "contextual": "indica a conclusão final ou essência de um argumento"
+  },
+  "usually": {
+    "literal": "geralmente"
+  },
+  "developed": {
+    "literal": "desenvolvido"
+  },
+  "exam": {
+    "literal": "exame"
+  },
+  "marine": {
+    "literal": "marinho"
+  },
+  "reduced": {
+    "literal": "reduzido"
+  },
+  "stability": {
+    "literal": "estabilidade"
+  },
+  "strategies": {
+    "literal": "estratégias"
+  },
+  "times": {
+    "literal": "vezes",
+    "contextual": "pode indicar frequência ou épocas históricas"
+  },
+  "ethical": {
+    "literal": "ético"
+  },
+  "give": {
+    "literal": "dar",
+    "contextual": "fornecer informações ou apresentar dados"
+  },
+  "investment": {
+    "literal": "investimento"
+  },
+  "led": {
+    "literal": "conduziu",
+    "contextual": "passado de 'lead'; resultou em algo"
+  },
+  "literature": {
+    "literal": "literatura",
+    "contextual": "pode referir-se à revisão bibliográfica de um tema"
+  },
+  "pressure": {
+    "literal": "pressão",
+    "contextual": "força física ou influência social e econômica"
+  },
+  "report": {
+    "literal": "relatório",
+    "contextual": "documento que descreve achados de pesquisa"
+  },
+  "she": {
+    "literal": "ela"
+  },
+  "temperature": {
+    "literal": "temperatura"
+  },
+  "atmosphere": {
+    "literal": "atmosfera"
+  },
+  "attend": {
+    "literal": "frequentar",
+    "contextual": "participar de aulas, palestras ou eventos"
+  },
+  "check": {
+    "literal": "verificar"
+  },
+  "evolution": {
+    "literal": "evolução"
+  },
+  "jobs": {
+    "literal": "empregos"
+  },
+  "million": {
+    "literal": "milhão"
+  },
+  "private": {
+    "literal": "privado"
+  },
+  "resource": {
+    "literal": "recurso"
+  },
+  "spread": {
+    "literal": "espalhar",
+    "contextual": "difusão de doenças, informações ou substâncias"
+  },
+  "thought": {
+    "literal": "pensamento",
+    "contextual": "passado de pensar ou conceito filosófico"
+  },
+  "unlike": {
+    "literal": "diferente de",
+    "contextual": "usado para contrastar dois elementos"
+  },
+  "women": {
+    "literal": "mulheres"
+  },
+  "company": {
+    "literal": "empresa"
+  },
+  "experts": {
+    "literal": "especialistas"
+  },
+  "findings": {
+    "literal": "descobertas",
+    "contextual": "resultados obtidos em uma investigação científica"
+  },
+  "later": {
+    "literal": "posteriormente",
+    "contextual": "indica um momento futuro no tempo ou no texto"
+  },
+  "share": {
+    "literal": "compartilhar",
+    "contextual": "dividir recursos ou informações"
+  },
+  "source": {
+    "literal": "fonte",
+    "contextual": "origem de dados ou referências bibliográficas"
+  },
+  "tomorrow": {
+    "literal": "amanhã"
+  },
+  "young": {
+    "literal": "jovem"
+  },
+  "act": {
+    "literal": "agir",
+    "contextual": "desempenhar uma ação ou lei governamental"
+  },
+  "class": {
+    "literal": "classe",
+    "contextual": "categoria social ou grupo de estudantes"
+  },
+  "closed": {
+    "literal": "fechado"
+  },
+  "following": {
+    "literal": "seguinte",
+    "contextual": "o que vem depois ou em conformidade com"
+  },
+  "paper": {
+    "literal": "artigo",
+    "contextual": "trabalho acadêmico escrito ou material físico"
+  },
+  "products": {
+    "literal": "produtos"
+  },
+  "regarding": {
+    "literal": "referente a",
+    "contextual": "preposição usada para introduzir um tópico"
+  },
+  "rising": {
+    "literal": "ascendente",
+    "contextual": "que está aumentando em quantidade ou nível"
+  },
+  "towards": {
+    "literal": "em direção a"
+  },
+  "wind": {
+    "literal": "vento"
+  },
+  "created": {
+    "literal": "criado"
+  },
+  "enhance": {
+    "literal": "melhorar",
+    "contextual": "aumentar a qualidade, valor ou intensidade"
+  },
+  "europe": {
+    "literal": "Europa"
+  },
+  "furthermore": {
+    "literal": "além disso",
+    "contextual": "conector de adição para reforçar um argumento"
+  },
+  "ice": {
+    "literal": "gelo"
+  },
+  "longer": {
+    "literal": "mais longo"
+  },
+  "near": {
+    "literal": "perto"
+  },
+  "plants": {
+    "literal": "plantas"
+  },
+  "coffee": {
+    "literal": "café"
+  },
+  "healthcare": {
+    "literal": "cuidados de saúde"
+  },
+  "heat": {
+    "literal": "calor"
+  },
+  "matter": {
+    "literal": "matéria",
+    "contextual": "substância física ou assunto em discussão"
+  },
+  "seminar": {
+    "literal": "seminário"
+  },
+  "single": {
+    "literal": "único"
+  },
+  "turn": {
+    "literal": "virar",
+    "contextual": "tornar-se ou mudar de direção ou estado"
+  },
+  "until": {
+    "literal": "até"
+  },
+  "advancements": {
+    "literal": "avanços"
+  },
+  "against": {
+    "literal": "contra"
+  },
+  "application": {
+    "literal": "aplicação",
+    "contextual": "uso prático de uma teoria ou software"
+  },
+  "care": {
+    "literal": "cuidado"
+  },
+  "dioxide": {
+    "literal": "dióxido"
+  },
+  "doing": {
+    "literal": "fazendo"
+  },
+  "faculty": {
+    "literal": "corpo docente",
+    "contextual": "conjunto de professores de uma universidade"
+  },
+  "interest": {
+    "literal": "interesse"
+  },
+  "larger": {
+    "literal": "maior"
+  },
+  "north": {
+    "literal": "norte"
+  },
+  "present": {
+    "literal": "apresentar",
+    "contextual": "exibir dados ou o momento atual"
+  },
+  "under": {
+    "literal": "sob",
+    "contextual": "posição inferior ou sob certas condições"
+  },
+  "view": {
+    "literal": "visão",
+    "contextual": "perspectiva sobre um assunto ou observação visual"
+  },
+  "keep": {
+    "literal": "manter"
+  },
+  "learn": {
+    "literal": "aprender"
+  },
+  "smart": {
+    "literal": "inteligente",
+    "contextual": "usado para tecnologia ou capacidade cognitiva"
+  },
+  "stress": {
+    "literal": "estresse",
+    "contextual": "tensão física, psicológica ou ênfase em uma palavra"
+  },
+  "transformed": {
+    "literal": "transformado"
+  },
+  "country": {
+    "literal": "país"
+  },
+  "decisions": {
+    "literal": "decisões"
+  },
+  "farmers": {
+    "literal": "agricultores"
+  },
+  "hard": {
+    "literal": "difícil",
+    "contextual": "pode significar rígido ou de alta complexidade"
+  },
+  "idea": {
+    "literal": "ideia"
+  },
+  "itself": {
+    "literal": "si mesmo"
+  },
+  "lives": {
+    "literal": "vidas"
+  },
+  "maintaining": {
+    "literal": "mantendo"
+  },
+  "nations": {
+    "literal": "nações"
+  },
+  "retell": {
+    "literal": "recontar",
+    "contextual": "contar novamente com as próprias palavras"
+  },
+  "selecting": {
+    "literal": "selecionando"
+  },
+  "silent": {
+    "literal": "silencioso"
+  },
+  "amount": {
+    "literal": "quantidade"
+  },
+  "assignments": {
+    "literal": "tarefas",
+    "contextual": "trabalhos acadêmicos entregues para avaliação"
+  },
+  "built": {
+    "literal": "construído"
+  },
+  "cause": {
+    "literal": "causa",
+    "contextual": "razão para um fenômeno ou agir como motivador"
+  },
+  "centuries": {
+    "literal": "séculos"
+  },
+  "competition": {
+    "literal": "competição"
+  },
+  "complete": {
+    "literal": "completo"
+  },
+  "expected": {
+    "literal": "esperado"
+  },
+  "result": {
+    "literal": "resultado"
+  },
+  "success": {
+    "literal": "sucesso"
+  },
+  "suggest": {
+    "literal": "sugerir",
+    "contextual": "propor uma explicação sem afirmar certeza absoluta"
+  },
+  "australia": {
+    "literal": "Austrália"
+  },
+  "conservation": {
+    "literal": "conservação"
+  },
+  "depends": {
+    "literal": "depende"
+  },
+  "four": {
+    "literal": "quatro"
+  },
+  "likely": {
+    "literal": "provável",
+    "contextual": "indica alta probabilidade de ocorrência"
+  },
+  "manufacturing": {
+    "literal": "fabricação",
+    "contextual": "produção industrial em larga escala"
+  },
+  "multiple": {
+    "literal": "múltiplos"
+  },
+  "never": {
+    "literal": "nunca"
+  },
+  "quickly": {
+    "literal": "rapidamente"
+  },
+  "residents": {
+    "literal": "residentes"
+  },
+  "review": {
+    "literal": "revisão",
+    "contextual": "exame crítico de literatura ou estudo prévio"
+  },
+  "rights": {
+    "literal": "direitos"
+  },
+  "started": {
+    "literal": "começou"
+  },
+  "subject": {
+    "literal": "assunto",
+    "contextual": "tema de estudo ou participante de experimento"
+  },
+  "uses": {
+    "literal": "usos"
+  },
+  "applications": {
+    "literal": "aplicações"
+  },
+  "articles": {
+    "literal": "artigos",
+    "contextual": "textos publicados em periódicos científicos"
+  },
+  "construction": {
+    "literal": "construção"
+  },
+  "contact": {
+    "literal": "contato"
+  },
+  "control": {
+    "literal": "controle"
+  },
+  "expensive": {
+    "literal": "caro"
+  },
+  "factors": {
+    "literal": "fatores"
+  },
+  "five": {
+    "literal": "cinco"
+  },
+  "lack": {
+    "literal": "falta",
+    "contextual": "ausência ou carência de algo"
+  },
+  "needed": {
+    "literal": "necessário"
+  },
+  "parts": {
+    "literal": "partes"
+  }
+}
