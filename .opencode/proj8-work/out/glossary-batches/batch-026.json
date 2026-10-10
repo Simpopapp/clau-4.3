@@ -24,7 +24,7 @@
     "literal": "estende"
   },
   "face-to-face": {
-    "literal": "presencial, cara a cara"
+    "literal": "presencial, frente a frente"
   },
   "facilitated": {
     "literal": "facilitou"
@@ -246,7 +246,7 @@
     "literal": "misterioso"
   },
   "naked": {
-    "literal": "nu, a olho nu",
+    "literal": "nu, despido",
     "contextual": "'naked eye' = 'olho nu'"
   },
   "neutralize": {
@@ -498,7 +498,7 @@
     "literal": "fica, situa-se"
   },
   "staring": {
-    "literal": "encarando, fixando o olhar"
+    "literal": "encarando, fitando"
   },
   "steps": {
     "literal": "passos"
