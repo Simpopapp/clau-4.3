@@ -27,6 +27,6 @@
 - [x] Gates: zero `console.error`/pageerror novo nas rotas tocadas (`/settings`, `/practice`)
 
 ## Fase 4 — Fechamento
-- [ ] Gates globais completos (vitest · tsgo · build · lint · preview)
-- [ ] `AGENTS.md` (estado atual): registrar cobertura real (nota "aguarda crédito" não existia — adicionada seção 6.0 com estado real)
-- [ ] Avisar o monitor: "remix finalizado (+N da etapa do roadmap-proj8)" · relatório em 3 blocos ao usuário
+- [x] Gates globais completos: vitest 258/258 (27 ficheiros) · tsgo limpo · build OK · lint 0 erros (8 warnings preexistentes) · preview (dev server 8080 exercitado no E2E da Fase 3)
+- [x] `AGENTS.md` (estado atual): nota "aguarda crédito" não existia — adicionada seção 6.0 com estado real (5.776/6.000, 96,3%, zero AI Gateway)
+- [x] Monitor avisado via sessão OpenCode (porta 4096): "remix finalizado" com resumo das Fases 2–4 (mensagem recebida e na fila da sessão)
