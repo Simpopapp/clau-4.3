@@ -285,6 +285,15 @@ CLIs relevantes em `/bin` (quando presentes): `lovable`, `lovable-skills`,
 - Placeholder inicial em `index.tsx` deve ser substituído na primeira
   entrega real.
 
+### 6.0 Estado atual (projeto 8 — glossário por palavra)
+
+- Studie Plus está completo: `src/data/plus/glossary.json` com 5.776
+  entradas (cobertura 96,3% das 6.000 candidatas; gate ≥ 95% cumprido),
+  invariants I1–I6 sem descartes, testado por `src/test/plus-glossary.test.ts`
+  e verificado end-to-end em mobile 390×844 (Fase 3 do `roadmap-proj8`).
+- Não há pendência de créditos: o glossário foi produzido por subagentes
+  locais, sem AI Gateway.
+
 ### 6.1 Dependências conhecidas que NÃO existem neste template
 
 Não importes estas — partem o build:
