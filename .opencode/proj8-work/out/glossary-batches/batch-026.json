@@ -1,196 +1,584 @@
 {
-  "encounters": {"literal": "encontros"},
-  "engines": {"literal": "motores"},
-  "enjoyed": {"literal": "aproveitou, desfrutou"},
-  "epoch": {"literal": "época"},
-  "exacerbates": {"literal": "agrava, exacerba"},
-  "excess": {"literal": "excesso"},
-  "exit": {"literal": "saída"},
-  "extends": {"literal": "estende"},
-  "face-to-face": {"literal": "presencial, cara a cara"},
-  "facilitated": {"literal": "facilitou"},
-  "fake": {"literal": "falso"},
-  "familiarize": {"literal": "familiarizar"},
-  "farmland": {"literal": "terra agrícola"},
-  "fashion": {"literal": "maneira, modo", "contextual": "no contexto acadêmico, 'in a ... fashion' = 'de forma ...'"},
-  "filtering": {"literal": "filtragem"},
-  "fines": {"literal": "multas"},
-  "firmly": {"literal": "firmemente"},
-  "follows": {"literal": "segue"},
-  "fossils": {"literal": "fósseis"},
-  "frontier": {"literal": "fronteira"},
-  "frustrated": {"literal": "frustrado"},
-  "functioning": {"literal": "funcionamento"},
-  "gasoline-powered": {"literal": "movido a gasolina"},
-  "gatherings": {"literal": "reuniões, encontros"},
-  "giants": {"literal": "gigantes"},
-  "governing": {"literal": "governante, governo"},
-  "grand": {"literal": "grandioso"},
-  "grazing": {"literal": "pastagem, pastoreio"},
-  "habit": {"literal": "hábito"},
-  "harness": {"literal": "aproveitar", "contextual": "usado para 'aproveitar' energia ou recursos"},
-  "harnessing": {"literal": "aproveitando"},
-  "heights": {"literal": "alturas"},
-  "himself": {"literal": "ele mesmo"},
-  "hospital": {"literal": "hospital"},
-  "humility": {"literal": "humildade"},
-  "hunter-gatherers": {"literal": "caçadores-coletores"},
-  "hurdles": {"literal": "obstáculos"},
-  "illumination": {"literal": "iluminação"},
-  "immunology": {"literal": "imunologia"},
-  "import": {"literal": "importar"},
-  "imported": {"literal": "importado"},
-  "inadvertently": {"literal": "inadvertidamente"},
-  "independence": {"literal": "independência"},
-  "indicated": {"literal": "indicou"},
-  "ineffective": {"literal": "ineficaz"},
-  "inhabiting": {"literal": "habitando"},
-  "injuries": {"literal": "lesões"},
-  "innovate": {"literal": "inovar"},
-  "intensely": {"literal": "intensamente"},
-  "interference": {"literal": "interferência"},
-  "internships": {"literal": "estágios"},
-  "interpersonal": {"literal": "interpessoal"},
-  "iot": {"literal": "internet das coisas"},
-  "issued": {"literal": "emitiu"},
-  "iterations": {"literal": "iterações"},
-  "kept": {"literal": "manteve"},
-  "lake": {"literal": "lago"},
-  "lava": {"literal": "lava"},
-  "leader": {"literal": "líder"},
-  "legitimacy": {"literal": "legitimidade"},
-  "lent": {"literal": "emprestou"},
-  "life-saving": {"literal": "salva-vidas", "contextual": "que salva vidas"},
-  "lift": {"literal": "elevar, levantar"},
-  "livable": {"literal": "habitável"},
-  "locate": {"literal": "localizar"},
-  "lotus": {"literal": "lótus"},
-  "low-lying": {"literal": "de baixa altitude"},
-  "lyrics": {"literal": "letra de música"},
-  "magazine": {"literal": "revista"},
-  "manufacture": {"literal": "fabricar"},
-  "masking": {"literal": "mascarando"},
-  "massively": {"literal": "massivamente"},
-  "mediated": {"literal": "mediado"},
-  "metabolic": {"literal": "metabólico"},
-  "mimic": {"literal": "imitar"},
-  "misleading": {"literal": "enganoso"},
-  "modern-day": {"literal": "atual, contemporâneo"},
-  "modest": {"literal": "modesto"},
-  "modules": {"literal": "módulos"},
-  "molecule": {"literal": "molécula"},
-  "monopoly": {"literal": "monopólio"},
-  "multi-purpose": {"literal": "multiuso"},
-  "mysterious": {"literal": "misterioso"},
-  "naked": {"literal": "nu, a olho nu", "contextual": "'naked eye' = 'olho nu'"},
-  "neutralize": {"literal": "neutralizar"},
-  "newly": {"literal": "recentemente"},
-  "newsletter": {"literal": "boletim informativo"},
-  "noisy": {"literal": "barulhento"},
-  "notion": {"literal": "noção"},
-  "observing": {"literal": "observando"},
-  "operating": {"literal": "operando"},
-  "opponents": {"literal": "oponentes"},
-  "passenger": {"literal": "passageiro"},
-  "passwords": {"literal": "senhas"},
-  "penetrating": {"literal": "penetrante"},
-  "pest": {"literal": "praga"},
-  "phonics": {"literal": "método fônico"},
-  "placements": {"literal": "colocações"},
-  "planted": {"literal": "plantou"},
-  "pleistocene": {"literal": "pleistoceno"},
-  "pollinating": {"literal": "polinizando"},
-  "pollutant": {"literal": "poluente"},
-  "possibilities": {"literal": "possibilidades"},
-  "possibly": {"literal": "possivelmente"},
-  "post-traumatic": {"literal": "pós-traumático"},
-  "pottery": {"literal": "cerâmica, olaria"},
-  "powerhouse": {"literal": "potência", "contextual": "entidade com grande poder ou força"},
-  "precedent": {"literal": "precedente"},
-  "predation": {"literal": "predação"},
-  "predicts": {"literal": "prevê"},
-  "prerequisite": {"literal": "pré-requisito"},
-  "prey": {"literal": "presa"},
-  "processed": {"literal": "processado"},
-  "programme": {"literal": "programa"},
-  "prohibitively": {"literal": "proibitivamente"},
-  "providers": {"literal": "provedores"},
-  "publicly": {"literal": "publicamente"},
-  "publishing": {"literal": "publicação"},
-  "quoting": {"literal": "citando"},
-  "recession": {"literal": "recessão"},
-  "recognizing": {"literal": "reconhecendo"},
-  "recorder": {"literal": "gravador"},
-  "reflective": {"literal": "reflexivo"},
-  "regenerating": {"literal": "regenerando"},
-  "regulates": {"literal": "regula"},
-  "relaxed": {"literal": "relaxado"},
-  "relentless": {"literal": "incessante, implacável"},
-  "remained": {"literal": "permaneceu"},
-  "remaining": {"literal": "restante"},
-  "remembers": {"literal": "lembra"},
-  "rent": {"literal": "aluguel"},
-  "reproduction": {"literal": "reprodução"},
-  "requested": {"literal": "solicitou"},
-  "reshaped": {"literal": "remodelou"},
-  "reskilling": {"literal": "requalificação"},
-  "resolved": {"literal": "resolveu"},
-  "richer": {"literal": "mais rico"},
-  "rigidity": {"literal": "rigidez"},
-  "rocks": {"literal": "rochas"},
-  "routines": {"literal": "rotinas"},
-  "scan": {"literal": "escanear, exame"},
-  "sedentary": {"literal": "sedentário"},
-  "selling": {"literal": "vendendo"},
-  "separated": {"literal": "separado"},
-  "separation": {"literal": "separação"},
-  "sequestering": {"literal": "sequestrando", "contextual": "'carbon sequestering' = captura de carbono"},
-  "serendipitous": {"literal": "fortuito, casual"},
-  "shards": {"literal": "cacos, fragmentos"},
-  "sheets": {"literal": "folhas, lençóis"},
-  "shoes": {"literal": "sapatos"},
-  "simulations": {"literal": "simulações"},
-  "situations": {"literal": "situações"},
-  "smooth": {"literal": "suave"},
-  "sole": {"literal": "único"},
-  "soluble": {"literal": "solúvel"},
-  "song": {"literal": "canção"},
-  "songs": {"literal": "canções"},
-  "soup": {"literal": "sopa"},
-  "soviet": {"literal": "soviético"},
-  "space-based": {"literal": "baseado no espaço"},
-  "sparsely": {"literal": "esparsamente"},
-  "specializes": {"literal": "especializa-se"},
-  "split": {"literal": "dividir"},
-  "spreading": {"literal": "espalhando"},
-  "staggering": {"literal": "surpreendente, impressionante"},
-  "stands": {"literal": "fica, situa-se"},
-  "staring": {"literal": "encarando, fixando o olhar"},
-  "steps": {"literal": "passos"},
-  "stolen": {"literal": "roubado"},
-  "stratification": {"literal": "estratificação"},
-  "supposedly": {"literal": "supostamente"},
-  "synthesized": {"literal": "sintetizado"},
-  "teenagers": {"literal": "adolescentes"},
-  "temporary": {"literal": "temporário"},
-  "tended": {"literal": "tendeu, cuidou"},
-  "terrain": {"literal": "terreno"},
-  "terrestrial": {"literal": "terrestre"},
-  "terrible": {"literal": "terrível"},
-  "threatening": {"literal": "ameaçador"},
-  "three-dimensional": {"literal": "tridimensional"},
-  "tightly": {"literal": "firmemente, bem apertado"},
-  "title": {"literal": "título"},
-  "tomatoes": {"literal": "tomates"},
-  "trace": {"literal": "rastrear, vestígio"},
-  "trainers": {"literal": "treinadores"},
-  "traveled": {"literal": "viajou"},
-  "travelling": {"literal": "viajando"},
-  "tree-lined": {"literal": "arborizado"},
-  "triggered": {"literal": "desencadeou"},
-  "unconscious": {"literal": "inconsciente"},
-  "underestimated": {"literal": "subestimado"},
-  "undoubtedly": {"literal": "sem dúvida"},
-  "unfold": {"literal": "desenrolar-se"},
-  "unfortunately": {"literal": "infelizmente"}
+  "encounters": {
+    "literal": "encontros"
+  },
+  "engines": {
+    "literal": "motores"
+  },
+  "enjoyed": {
+    "literal": "aproveitou, desfrutou"
+  },
+  "epoch": {
+    "literal": "época"
+  },
+  "exacerbates": {
+    "literal": "agrava, exacerba"
+  },
+  "excess": {
+    "literal": "excesso"
+  },
+  "exit": {
+    "literal": "saída"
+  },
+  "extends": {
+    "literal": "estende"
+  },
+  "face-to-face": {
+    "literal": "presencial, cara a cara"
+  },
+  "facilitated": {
+    "literal": "facilitou"
+  },
+  "fake": {
+    "literal": "falso"
+  },
+  "familiarize": {
+    "literal": "familiarizar"
+  },
+  "farmland": {
+    "literal": "terra agrícola"
+  },
+  "fashion": {
+    "literal": "maneira, modo",
+    "contextual": "no contexto acadêmico, 'in a ... fashion' = 'de forma ...'"
+  },
+  "filtering": {
+    "literal": "filtragem"
+  },
+  "fines": {
+    "literal": "multas"
+  },
+  "firmly": {
+    "literal": "firmemente"
+  },
+  "follows": {
+    "literal": "segue"
+  },
+  "fossils": {
+    "literal": "fósseis"
+  },
+  "frontier": {
+    "literal": "fronteira"
+  },
+  "frustrated": {
+    "literal": "frustrado"
+  },
+  "functioning": {
+    "literal": "funcionamento"
+  },
+  "gasoline-powered": {
+    "literal": "movido a gasolina"
+  },
+  "gatherings": {
+    "literal": "reuniões, encontros"
+  },
+  "giants": {
+    "literal": "gigantes"
+  },
+  "governing": {
+    "literal": "governante, governo"
+  },
+  "grand": {
+    "literal": "grandioso"
+  },
+  "grazing": {
+    "literal": "pastagem, pastoreio"
+  },
+  "habit": {
+    "literal": "hábito"
+  },
+  "harness": {
+    "literal": "aproveitar",
+    "contextual": "usado para 'aproveitar' energia ou recursos"
+  },
+  "harnessing": {
+    "literal": "aproveitando"
+  },
+  "heights": {
+    "literal": "alturas"
+  },
+  "himself": {
+    "literal": "ele mesmo"
+  },
+  "humility": {
+    "literal": "humildade"
+  },
+  "hunter-gatherers": {
+    "literal": "caçadores-coletores"
+  },
+  "hurdles": {
+    "literal": "obstáculos"
+  },
+  "illumination": {
+    "literal": "iluminação"
+  },
+  "immunology": {
+    "literal": "imunologia"
+  },
+  "import": {
+    "literal": "importar"
+  },
+  "imported": {
+    "literal": "importado"
+  },
+  "inadvertently": {
+    "literal": "inadvertidamente"
+  },
+  "independence": {
+    "literal": "independência"
+  },
+  "indicated": {
+    "literal": "indicou"
+  },
+  "ineffective": {
+    "literal": "ineficaz"
+  },
+  "inhabiting": {
+    "literal": "habitando"
+  },
+  "injuries": {
+    "literal": "lesões"
+  },
+  "innovate": {
+    "literal": "inovar"
+  },
+  "intensely": {
+    "literal": "intensamente"
+  },
+  "interference": {
+    "literal": "interferência"
+  },
+  "internships": {
+    "literal": "estágios"
+  },
+  "interpersonal": {
+    "literal": "interpessoal"
+  },
+  "iot": {
+    "literal": "internet das coisas"
+  },
+  "issued": {
+    "literal": "emitiu"
+  },
+  "iterations": {
+    "literal": "iterações"
+  },
+  "kept": {
+    "literal": "manteve"
+  },
+  "lake": {
+    "literal": "lago"
+  },
+  "leader": {
+    "literal": "líder"
+  },
+  "legitimacy": {
+    "literal": "legitimidade"
+  },
+  "lent": {
+    "literal": "emprestou"
+  },
+  "life-saving": {
+    "literal": "salva-vidas",
+    "contextual": "que salva vidas"
+  },
+  "lift": {
+    "literal": "elevar, levantar"
+  },
+  "livable": {
+    "literal": "habitável"
+  },
+  "locate": {
+    "literal": "localizar"
+  },
+  "lotus": {
+    "literal": "lótus"
+  },
+  "low-lying": {
+    "literal": "de baixa altitude"
+  },
+  "lyrics": {
+    "literal": "letra de música"
+  },
+  "magazine": {
+    "literal": "revista"
+  },
+  "manufacture": {
+    "literal": "fabricar"
+  },
+  "masking": {
+    "literal": "mascarando"
+  },
+  "massively": {
+    "literal": "massivamente"
+  },
+  "mediated": {
+    "literal": "mediado"
+  },
+  "metabolic": {
+    "literal": "metabólico"
+  },
+  "mimic": {
+    "literal": "imitar"
+  },
+  "misleading": {
+    "literal": "enganoso"
+  },
+  "modern-day": {
+    "literal": "atual, contemporâneo"
+  },
+  "modest": {
+    "literal": "modesto"
+  },
+  "modules": {
+    "literal": "módulos"
+  },
+  "molecule": {
+    "literal": "molécula"
+  },
+  "monopoly": {
+    "literal": "monopólio"
+  },
+  "multi-purpose": {
+    "literal": "multiuso"
+  },
+  "mysterious": {
+    "literal": "misterioso"
+  },
+  "naked": {
+    "literal": "nu, a olho nu",
+    "contextual": "'naked eye' = 'olho nu'"
+  },
+  "neutralize": {
+    "literal": "neutralizar"
+  },
+  "newly": {
+    "literal": "recentemente"
+  },
+  "newsletter": {
+    "literal": "boletim informativo"
+  },
+  "noisy": {
+    "literal": "barulhento"
+  },
+  "notion": {
+    "literal": "noção"
+  },
+  "observing": {
+    "literal": "observando"
+  },
+  "operating": {
+    "literal": "operando"
+  },
+  "opponents": {
+    "literal": "oponentes"
+  },
+  "passenger": {
+    "literal": "passageiro"
+  },
+  "passwords": {
+    "literal": "senhas"
+  },
+  "penetrating": {
+    "literal": "penetrante"
+  },
+  "pest": {
+    "literal": "praga"
+  },
+  "phonics": {
+    "literal": "método fônico"
+  },
+  "placements": {
+    "literal": "colocações"
+  },
+  "planted": {
+    "literal": "plantou"
+  },
+  "pleistocene": {
+    "literal": "pleistoceno"
+  },
+  "pollinating": {
+    "literal": "polinizando"
+  },
+  "pollutant": {
+    "literal": "poluente"
+  },
+  "possibilities": {
+    "literal": "possibilidades"
+  },
+  "possibly": {
+    "literal": "possivelmente"
+  },
+  "post-traumatic": {
+    "literal": "pós-traumático"
+  },
+  "pottery": {
+    "literal": "cerâmica, olaria"
+  },
+  "powerhouse": {
+    "literal": "potência",
+    "contextual": "entidade com grande poder ou força"
+  },
+  "precedent": {
+    "literal": "precedente"
+  },
+  "predation": {
+    "literal": "predação"
+  },
+  "predicts": {
+    "literal": "prevê"
+  },
+  "prerequisite": {
+    "literal": "pré-requisito"
+  },
+  "prey": {
+    "literal": "presa"
+  },
+  "processed": {
+    "literal": "processado"
+  },
+  "programme": {
+    "literal": "programa"
+  },
+  "prohibitively": {
+    "literal": "proibitivamente"
+  },
+  "providers": {
+    "literal": "provedores"
+  },
+  "publicly": {
+    "literal": "publicamente"
+  },
+  "publishing": {
+    "literal": "publicação"
+  },
+  "quoting": {
+    "literal": "citando"
+  },
+  "recession": {
+    "literal": "recessão"
+  },
+  "recognizing": {
+    "literal": "reconhecendo"
+  },
+  "recorder": {
+    "literal": "gravador"
+  },
+  "reflective": {
+    "literal": "reflexivo"
+  },
+  "regenerating": {
+    "literal": "regenerando"
+  },
+  "regulates": {
+    "literal": "regula"
+  },
+  "relaxed": {
+    "literal": "relaxado"
+  },
+  "relentless": {
+    "literal": "incessante, implacável"
+  },
+  "remained": {
+    "literal": "permaneceu"
+  },
+  "remaining": {
+    "literal": "restante"
+  },
+  "remembers": {
+    "literal": "lembra"
+  },
+  "rent": {
+    "literal": "aluguel"
+  },
+  "reproduction": {
+    "literal": "reprodução"
+  },
+  "requested": {
+    "literal": "solicitou"
+  },
+  "reshaped": {
+    "literal": "remodelou"
+  },
+  "reskilling": {
+    "literal": "requalificação"
+  },
+  "resolved": {
+    "literal": "resolveu"
+  },
+  "richer": {
+    "literal": "mais rico"
+  },
+  "rigidity": {
+    "literal": "rigidez"
+  },
+  "rocks": {
+    "literal": "rochas"
+  },
+  "routines": {
+    "literal": "rotinas"
+  },
+  "scan": {
+    "literal": "escanear, exame"
+  },
+  "sedentary": {
+    "literal": "sedentário"
+  },
+  "selling": {
+    "literal": "vendendo"
+  },
+  "separated": {
+    "literal": "separado"
+  },
+  "separation": {
+    "literal": "separação"
+  },
+  "sequestering": {
+    "literal": "sequestrando",
+    "contextual": "'carbon sequestering' = captura de carbono"
+  },
+  "serendipitous": {
+    "literal": "fortuito, casual"
+  },
+  "shards": {
+    "literal": "cacos, fragmentos"
+  },
+  "sheets": {
+    "literal": "folhas, lençóis"
+  },
+  "shoes": {
+    "literal": "sapatos"
+  },
+  "simulations": {
+    "literal": "simulações"
+  },
+  "situations": {
+    "literal": "situações"
+  },
+  "smooth": {
+    "literal": "suave"
+  },
+  "sole": {
+    "literal": "único"
+  },
+  "soluble": {
+    "literal": "solúvel"
+  },
+  "song": {
+    "literal": "canção"
+  },
+  "songs": {
+    "literal": "canções"
+  },
+  "soup": {
+    "literal": "sopa"
+  },
+  "soviet": {
+    "literal": "soviético"
+  },
+  "space-based": {
+    "literal": "baseado no espaço"
+  },
+  "sparsely": {
+    "literal": "esparsamente"
+  },
+  "specializes": {
+    "literal": "especializa-se"
+  },
+  "split": {
+    "literal": "dividir"
+  },
+  "spreading": {
+    "literal": "espalhando"
+  },
+  "staggering": {
+    "literal": "surpreendente, impressionante"
+  },
+  "stands": {
+    "literal": "fica, situa-se"
+  },
+  "staring": {
+    "literal": "encarando, fixando o olhar"
+  },
+  "steps": {
+    "literal": "passos"
+  },
+  "stolen": {
+    "literal": "roubado"
+  },
+  "stratification": {
+    "literal": "estratificação"
+  },
+  "supposedly": {
+    "literal": "supostamente"
+  },
+  "synthesized": {
+    "literal": "sintetizado"
+  },
+  "teenagers": {
+    "literal": "adolescentes"
+  },
+  "temporary": {
+    "literal": "temporário"
+  },
+  "tended": {
+    "literal": "tendeu, cuidou"
+  },
+  "terrain": {
+    "literal": "terreno"
+  },
+  "terrestrial": {
+    "literal": "terrestre"
+  },
+  "terrible": {
+    "literal": "terrível"
+  },
+  "threatening": {
+    "literal": "ameaçador"
+  },
+  "three-dimensional": {
+    "literal": "tridimensional"
+  },
+  "tightly": {
+    "literal": "firmemente, bem apertado"
+  },
+  "title": {
+    "literal": "título"
+  },
+  "tomatoes": {
+    "literal": "tomates"
+  },
+  "trace": {
+    "literal": "rastrear, vestígio"
+  },
+  "trainers": {
+    "literal": "treinadores"
+  },
+  "traveled": {
+    "literal": "viajou"
+  },
+  "travelling": {
+    "literal": "viajando"
+  },
+  "tree-lined": {
+    "literal": "arborizado"
+  },
+  "triggered": {
+    "literal": "desencadeou"
+  },
+  "unconscious": {
+    "literal": "inconsciente"
+  },
+  "underestimated": {
+    "literal": "subestimado"
+  },
+  "undoubtedly": {
+    "literal": "sem dúvida"
+  },
+  "unfold": {
+    "literal": "desenrolar-se"
+  },
+  "unfortunately": {
+    "literal": "infelizmente"
+  }
 }

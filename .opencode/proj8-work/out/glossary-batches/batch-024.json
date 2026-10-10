@@ -1,194 +1,568 @@
 {
-  "equatorial": {"literal": "equatorial"},
-  "equivalent": {"literal": "equivalente"},
-  "eradicated": {"literal": "erradicado"},
-  "erasing": {"literal": "apagando"},
-  "exclusive": {"literal": "exclusivo"},
-  "expanses": {"literal": "extensões"},
-  "expectation": {"literal": "expectativa"},
-  "expense": {"literal": "despesa"},
-  "experimentation": {"literal": "experimentação"},
-  "facades": {"literal": "fachadas"},
-  "fame": {"literal": "fama"},
-  "fifth": {"literal": "quinto"},
-  "figure": {"literal": "figura, número"},
-  "finalize": {"literal": "finalizar"},
-  "finger": {"literal": "dedo"},
-  "firsthand": {"literal": "em primeira mão"},
-  "flourished": {"literal": "floresceu"},
-  "fluid": {"literal": "fluido"},
-  "flute": {"literal": "flauta"},
-  "fly": {"literal": "voar"},
-  "foremost": {"literal": "principal, primeiro"},
-  "forte": {"literal": "forte, ponto forte"},
-  "fosters": {"literal": "fomenta"},
-  "fragile": {"literal": "frágil"},
-  "fragment": {"literal": "fragmento"},
-  "frames": {"literal": "molduras, quadros"},
-  "fungal": {"literal": "fúngico"},
-  "furniture": {"literal": "móveis"},
-  "garages": {"literal": "garagens"},
-  "geared": {"literal": "voltado, direcionado"},
-  "gently": {"literal": "suavemente"},
-  "gone": {"literal": "desaparecido, ido"},
-  "guilds": {"literal": "guildas, corporações"},
-  "hanseatic": {"literal": "hanseático"},
-  "harder": {"literal": "mais difícil"},
-  "harming": {"literal": "prejudicando"},
-  "headache": {"literal": "dor de cabeça"},
-  "helix": {"literal": "hélice"},
-  "hence": {"literal": "portanto, logo"},
-  "high-density": {"literal": "alta densidade"},
-  "high-speed": {"literal": "alta velocidade"},
-  "highest": {"literal": "mais alto"},
-  "hives": {"literal": "colmeias"},
-  "honor": {"literal": "honra"},
-  "honoring": {"literal": "honrando"},
-  "horizontal": {"literal": "horizontal"},
-  "humanity": {"literal": "humanidade"},
-  "hydropower": {"literal": "energia hidrelétrica"},
-  "illustrate": {"literal": "ilustrar"},
-  "illustrating": {"literal": "ilustrando"},
-  "impose": {"literal": "impor"},
-  "imposes": {"literal": "impõe"},
-  "improvements": {"literal": "melhorias"},
-  "incomplete": {"literal": "incompleto"},
-  "indicators": {"literal": "indicadores"},
-  "indoor": {"literal": "interno, fechado"},
-  "infants": {"literal": "bebês, lactentes"},
-  "inference": {"literal": "inferência"},
-  "inhabited": {"literal": "habitado"},
-  "innovating": {"literal": "inovando"},
-  "inspected": {"literal": "inspecionado"},
-  "installation": {"literal": "instalação"},
-  "institutional": {"literal": "institucional"},
-  "intensified": {"literal": "intensificado"},
-  "internship": {"literal": "estágio"},
-  "interviewing": {"literal": "entrevistando"},
-  "intimate": {"literal": "íntimo"},
-  "invented": {"literal": "inventado"},
-  "judge": {"literal": "juiz"},
-  "jurisdictions": {"literal": "jurisdições"},
-  "killed": {"literal": "morto, matou"},
-  "king": {"literal": "rei"},
-  "landed": {"literal": "pousou, aterrissou"},
-  "landmass": {"literal": "massa de terra"},
-  "leg": {"literal": "perna"},
-  "letting": {"literal": "permitindo"},
-  "leverage": {"literal": "alavancar", "contextual": "em textos acadêmicos: usar estrategicamente um recurso"},
-  "lifestyles": {"literal": "estilos de vida"},
-  "listeners": {"literal": "ouvintes"},
-  "livestock": {"literal": "gado, pecuária"},
-  "loading": {"literal": "carregando, carga"},
-  "longest": {"literal": "mais longo"},
-  "lowers": {"literal": "reduz, diminui"},
-  "man-made": {"literal": "artificial"},
-  "manifest": {"literal": "manifestar"},
-  "manipulate": {"literal": "manipular"},
-  "markers": {"literal": "marcadores"},
-  "marry": {"literal": "casar"},
-  "marvels": {"literal": "maravilhas"},
-  "mates": {"literal": "companheiros, parceiros"},
-  "maximizes": {"literal": "maximiza"},
-  "maximizing": {"literal": "maximizando"},
-  "mechanically": {"literal": "mecanicamente"},
-  "microorganisms": {"literal": "microrganismos"},
-  "microphones": {"literal": "microfones"},
-  "middle-class": {"literal": "classe média"},
-  "mindful": {"literal": "consciente, atento"},
-  "misuse": {"literal": "uso indevido"},
-  "mixtures": {"literal": "misturas"},
-  "mondays": {"literal": "segundas-feiras"},
-  "monitors": {"literal": "monitora, monitores"},
-  "monks": {"literal": "monges"},
-  "monumental": {"literal": "monumental"},
-  "mound": {"literal": "monte, montículo"},
-  "mounting": {"literal": "crescente"},
-  "muscle": {"literal": "músculo"},
-  "mutually": {"literal": "mutuamente"},
-  "named": {"literal": "nomeado"},
-  "nearby": {"literal": "próximo, nas proximidades"},
-  "net-zero": {"literal": "zero líquido", "contextual": "meta ambiental de emissões líquidas nulas"},
-  "non-technical": {"literal": "não técnico"},
-  "nowhere": {"literal": "lugar nenhum"},
-  "obtained": {"literal": "obtido"},
-  "one-third": {"literal": "um terço"},
-  "openings": {"literal": "aberturas, vagas"},
-  "optimistic": {"literal": "otimista"},
-  "organs": {"literal": "órgãos"},
-  "ought": {"literal": "deveria"},
-  "outlets": {"literal": "tomadas, veículos de mídia"},
-  "overkill": {"literal": "exagero"},
-  "pages": {"literal": "páginas"},
-  "paintings": {"literal": "pinturas"},
-  "pandemics": {"literal": "pandemias"},
-  "papers": {"literal": "artigos, trabalhos"},
-  "parcels": {"literal": "parcelas, lotes"},
-  "parent": {"literal": "pai, mãe"},
-  "parties": {"literal": "partes, festas"},
-  "pathogen": {"literal": "patógeno"},
-  "paved": {"literal": "pavimentado"},
-  "payments": {"literal": "pagamentos"},
-  "peak": {"literal": "pico"},
-  "peers": {"literal": "pares, colegas"},
-  "performances": {"literal": "desempenhos, apresentações"},
-  "performers": {"literal": "artistas, intérpretes"},
-  "permission": {"literal": "permissão"},
-  "perseverance": {"literal": "perseverança"},
-  "photography": {"literal": "fotografia"},
-  "picked": {"literal": "escolhido"},
-  "placing": {"literal": "colocando"},
-  "planes": {"literal": "aviões"},
-  "planner": {"literal": "planejador"},
-  "pluck": {"literal": "arrancar, dedilhar"},
-  "pop": {"literal": "estourar, pop"},
-  "predecessor": {"literal": "predecessor"},
-  "prehistoric": {"literal": "pré-histórico"},
-  "president": {"literal": "presidente"},
-  "preventable": {"literal": "evitável"},
-  "printer": {"literal": "impressora"},
-  "prioritized": {"literal": "priorizado"},
-  "problematic": {"literal": "problemático"},
-  "proliferation": {"literal": "proliferação"},
-  "promised": {"literal": "prometido"},
-  "promises": {"literal": "promessas"},
-  "prosperous": {"literal": "próspero"},
-  "protests": {"literal": "protestos"},
-  "pushing": {"literal": "empurrando, impulsionando"},
-  "qualification": {"literal": "qualificação"},
-  "qualities": {"literal": "qualidades"},
-  "queue": {"literal": "fila"},
-  "quit": {"literal": "desistir, abandonar"},
-  "quiz": {"literal": "questionário, teste"},
-  "radioactivity": {"literal": "radioatividade"},
-  "raising": {"literal": "levantando, aumentando"},
-  "rationality": {"literal": "racionalidade"},
-  "readable": {"literal": "legível"},
-  "reasonable": {"literal": "razoável"},
-  "recommended": {"literal": "recomendado"},
-  "recovered": {"literal": "recuperado"},
-  "regard": {"literal": "consideração, respeito"},
-  "regulators": {"literal": "reguladores"},
-  "reinforced": {"literal": "reforçado"},
-  "religions": {"literal": "religiões"},
-  "renting": {"literal": "alugando"},
-  "repackaged": {"literal": "reembalado"},
-  "repair": {"literal": "reparo, consertar"},
-  "representatives": {"literal": "representantes"},
-  "reshape": {"literal": "remodelar"},
-  "resist": {"literal": "resistir"},
-  "restaurant": {"literal": "restaurante"},
-  "restricting": {"literal": "restringindo"},
-  "restrictions": {"literal": "restrições"},
-  "resurgence": {"literal": "ressurgimento"},
-  "retirement": {"literal": "aposentadoria"},
-  "revival": {"literal": "renascimento, revival"},
-  "revolutionize": {"literal": "revolucionar"},
-  "riding": {"literal": "andando, cavalgando"},
-  "risky": {"literal": "arriscado"},
-  "robot": {"literal": "robô"},
-  "rolling": {"literal": "rolando"},
-  "route": {"literal": "rota"},
-  "row": {"literal": "fileira, linha"},
-  "safeguarding": {"literal": "salvaguardando"}
+  "equivalent": {
+    "literal": "equivalente"
+  },
+  "eradicated": {
+    "literal": "erradicado"
+  },
+  "erasing": {
+    "literal": "apagando"
+  },
+  "exclusive": {
+    "literal": "exclusivo"
+  },
+  "expanses": {
+    "literal": "extensões"
+  },
+  "expectation": {
+    "literal": "expectativa"
+  },
+  "expense": {
+    "literal": "despesa"
+  },
+  "experimentation": {
+    "literal": "experimentação"
+  },
+  "facades": {
+    "literal": "fachadas"
+  },
+  "fame": {
+    "literal": "fama"
+  },
+  "fifth": {
+    "literal": "quinto"
+  },
+  "figure": {
+    "literal": "figura, número"
+  },
+  "finalize": {
+    "literal": "finalizar"
+  },
+  "finger": {
+    "literal": "dedo"
+  },
+  "firsthand": {
+    "literal": "em primeira mão"
+  },
+  "flourished": {
+    "literal": "floresceu"
+  },
+  "fluid": {
+    "literal": "fluido"
+  },
+  "flute": {
+    "literal": "flauta"
+  },
+  "fly": {
+    "literal": "voar"
+  },
+  "foremost": {
+    "literal": "principal, primeiro"
+  },
+  "forte": {
+    "literal": "forte, ponto forte"
+  },
+  "fosters": {
+    "literal": "fomenta"
+  },
+  "fragile": {
+    "literal": "frágil"
+  },
+  "fragment": {
+    "literal": "fragmento"
+  },
+  "frames": {
+    "literal": "molduras, quadros"
+  },
+  "fungal": {
+    "literal": "fúngico"
+  },
+  "furniture": {
+    "literal": "móveis"
+  },
+  "garages": {
+    "literal": "garagens"
+  },
+  "geared": {
+    "literal": "voltado, direcionado"
+  },
+  "gently": {
+    "literal": "suavemente"
+  },
+  "gone": {
+    "literal": "desaparecido, ido"
+  },
+  "guilds": {
+    "literal": "guildas, corporações"
+  },
+  "hanseatic": {
+    "literal": "hanseático"
+  },
+  "harder": {
+    "literal": "mais difícil"
+  },
+  "harming": {
+    "literal": "prejudicando"
+  },
+  "headache": {
+    "literal": "dor de cabeça"
+  },
+  "helix": {
+    "literal": "hélice"
+  },
+  "hence": {
+    "literal": "portanto, logo"
+  },
+  "high-density": {
+    "literal": "alta densidade"
+  },
+  "high-speed": {
+    "literal": "alta velocidade"
+  },
+  "highest": {
+    "literal": "mais alto"
+  },
+  "hives": {
+    "literal": "colmeias"
+  },
+  "honor": {
+    "literal": "honra"
+  },
+  "honoring": {
+    "literal": "honrando"
+  },
+  "humanity": {
+    "literal": "humanidade"
+  },
+  "hydropower": {
+    "literal": "energia hidrelétrica"
+  },
+  "illustrate": {
+    "literal": "ilustrar"
+  },
+  "illustrating": {
+    "literal": "ilustrando"
+  },
+  "impose": {
+    "literal": "impor"
+  },
+  "imposes": {
+    "literal": "impõe"
+  },
+  "improvements": {
+    "literal": "melhorias"
+  },
+  "incomplete": {
+    "literal": "incompleto"
+  },
+  "indicators": {
+    "literal": "indicadores"
+  },
+  "indoor": {
+    "literal": "interno, fechado"
+  },
+  "infants": {
+    "literal": "bebês, lactentes"
+  },
+  "inference": {
+    "literal": "inferência"
+  },
+  "inhabited": {
+    "literal": "habitado"
+  },
+  "innovating": {
+    "literal": "inovando"
+  },
+  "inspected": {
+    "literal": "inspecionado"
+  },
+  "installation": {
+    "literal": "instalação"
+  },
+  "institutional": {
+    "literal": "institucional"
+  },
+  "intensified": {
+    "literal": "intensificado"
+  },
+  "internship": {
+    "literal": "estágio"
+  },
+  "interviewing": {
+    "literal": "entrevistando"
+  },
+  "intimate": {
+    "literal": "íntimo"
+  },
+  "invented": {
+    "literal": "inventado"
+  },
+  "judge": {
+    "literal": "juiz"
+  },
+  "jurisdictions": {
+    "literal": "jurisdições"
+  },
+  "killed": {
+    "literal": "morto, matou"
+  },
+  "king": {
+    "literal": "rei"
+  },
+  "landed": {
+    "literal": "pousou, aterrissou"
+  },
+  "landmass": {
+    "literal": "massa de terra"
+  },
+  "leg": {
+    "literal": "perna"
+  },
+  "letting": {
+    "literal": "permitindo"
+  },
+  "leverage": {
+    "literal": "alavancar",
+    "contextual": "em textos acadêmicos: usar estrategicamente um recurso"
+  },
+  "lifestyles": {
+    "literal": "estilos de vida"
+  },
+  "listeners": {
+    "literal": "ouvintes"
+  },
+  "livestock": {
+    "literal": "gado, pecuária"
+  },
+  "loading": {
+    "literal": "carregando, carga"
+  },
+  "longest": {
+    "literal": "mais longo"
+  },
+  "lowers": {
+    "literal": "reduz, diminui"
+  },
+  "man-made": {
+    "literal": "artificial"
+  },
+  "manifest": {
+    "literal": "manifestar"
+  },
+  "manipulate": {
+    "literal": "manipular"
+  },
+  "markers": {
+    "literal": "marcadores"
+  },
+  "marry": {
+    "literal": "casar"
+  },
+  "marvels": {
+    "literal": "maravilhas"
+  },
+  "mates": {
+    "literal": "companheiros, parceiros"
+  },
+  "maximizes": {
+    "literal": "maximiza"
+  },
+  "maximizing": {
+    "literal": "maximizando"
+  },
+  "mechanically": {
+    "literal": "mecanicamente"
+  },
+  "microorganisms": {
+    "literal": "microrganismos"
+  },
+  "microphones": {
+    "literal": "microfones"
+  },
+  "middle-class": {
+    "literal": "classe média"
+  },
+  "mindful": {
+    "literal": "consciente, atento"
+  },
+  "misuse": {
+    "literal": "uso indevido"
+  },
+  "mixtures": {
+    "literal": "misturas"
+  },
+  "mondays": {
+    "literal": "segundas-feiras"
+  },
+  "monitors": {
+    "literal": "monitora, monitores"
+  },
+  "monks": {
+    "literal": "monges"
+  },
+  "mound": {
+    "literal": "monte, montículo"
+  },
+  "mounting": {
+    "literal": "crescente"
+  },
+  "muscle": {
+    "literal": "músculo"
+  },
+  "mutually": {
+    "literal": "mutuamente"
+  },
+  "named": {
+    "literal": "nomeado"
+  },
+  "nearby": {
+    "literal": "próximo, nas proximidades"
+  },
+  "net-zero": {
+    "literal": "zero líquido",
+    "contextual": "meta ambiental de emissões líquidas nulas"
+  },
+  "non-technical": {
+    "literal": "não técnico"
+  },
+  "nowhere": {
+    "literal": "lugar nenhum"
+  },
+  "obtained": {
+    "literal": "obtido"
+  },
+  "one-third": {
+    "literal": "um terço"
+  },
+  "openings": {
+    "literal": "aberturas, vagas"
+  },
+  "optimistic": {
+    "literal": "otimista"
+  },
+  "organs": {
+    "literal": "órgãos"
+  },
+  "ought": {
+    "literal": "deveria"
+  },
+  "outlets": {
+    "literal": "tomadas, veículos de mídia"
+  },
+  "overkill": {
+    "literal": "exagero"
+  },
+  "pages": {
+    "literal": "páginas"
+  },
+  "paintings": {
+    "literal": "pinturas"
+  },
+  "pandemics": {
+    "literal": "pandemias"
+  },
+  "papers": {
+    "literal": "artigos, trabalhos"
+  },
+  "parcels": {
+    "literal": "parcelas, lotes"
+  },
+  "parent": {
+    "literal": "pai, mãe"
+  },
+  "parties": {
+    "literal": "partes, festas"
+  },
+  "pathogen": {
+    "literal": "patógeno"
+  },
+  "paved": {
+    "literal": "pavimentado"
+  },
+  "payments": {
+    "literal": "pagamentos"
+  },
+  "peak": {
+    "literal": "pico"
+  },
+  "peers": {
+    "literal": "pares, colegas"
+  },
+  "performances": {
+    "literal": "desempenhos, apresentações"
+  },
+  "performers": {
+    "literal": "artistas, intérpretes"
+  },
+  "permission": {
+    "literal": "permissão"
+  },
+  "perseverance": {
+    "literal": "perseverança"
+  },
+  "photography": {
+    "literal": "fotografia"
+  },
+  "picked": {
+    "literal": "escolhido"
+  },
+  "placing": {
+    "literal": "colocando"
+  },
+  "planes": {
+    "literal": "aviões"
+  },
+  "planner": {
+    "literal": "planejador"
+  },
+  "pluck": {
+    "literal": "arrancar, dedilhar"
+  },
+  "pop": {
+    "literal": "estourar, pop"
+  },
+  "prehistoric": {
+    "literal": "pré-histórico"
+  },
+  "president": {
+    "literal": "presidente"
+  },
+  "preventable": {
+    "literal": "evitável"
+  },
+  "printer": {
+    "literal": "impressora"
+  },
+  "prioritized": {
+    "literal": "priorizado"
+  },
+  "problematic": {
+    "literal": "problemático"
+  },
+  "proliferation": {
+    "literal": "proliferação"
+  },
+  "promised": {
+    "literal": "prometido"
+  },
+  "promises": {
+    "literal": "promessas"
+  },
+  "prosperous": {
+    "literal": "próspero"
+  },
+  "protests": {
+    "literal": "protestos"
+  },
+  "pushing": {
+    "literal": "empurrando, impulsionando"
+  },
+  "qualification": {
+    "literal": "qualificação"
+  },
+  "qualities": {
+    "literal": "qualidades"
+  },
+  "queue": {
+    "literal": "fila"
+  },
+  "quit": {
+    "literal": "desistir, abandonar"
+  },
+  "quiz": {
+    "literal": "questionário, teste"
+  },
+  "radioactivity": {
+    "literal": "radioatividade"
+  },
+  "raising": {
+    "literal": "levantando, aumentando"
+  },
+  "rationality": {
+    "literal": "racionalidade"
+  },
+  "readable": {
+    "literal": "legível"
+  },
+  "reasonable": {
+    "literal": "razoável"
+  },
+  "recommended": {
+    "literal": "recomendado"
+  },
+  "recovered": {
+    "literal": "recuperado"
+  },
+  "regard": {
+    "literal": "consideração, respeito"
+  },
+  "regulators": {
+    "literal": "reguladores"
+  },
+  "reinforced": {
+    "literal": "reforçado"
+  },
+  "religions": {
+    "literal": "religiões"
+  },
+  "renting": {
+    "literal": "alugando"
+  },
+  "repackaged": {
+    "literal": "reembalado"
+  },
+  "repair": {
+    "literal": "reparo, consertar"
+  },
+  "representatives": {
+    "literal": "representantes"
+  },
+  "reshape": {
+    "literal": "remodelar"
+  },
+  "resist": {
+    "literal": "resistir"
+  },
+  "restaurant": {
+    "literal": "restaurante"
+  },
+  "restricting": {
+    "literal": "restringindo"
+  },
+  "restrictions": {
+    "literal": "restrições"
+  },
+  "resurgence": {
+    "literal": "ressurgimento"
+  },
+  "retirement": {
+    "literal": "aposentadoria"
+  },
+  "revival": {
+    "literal": "renascimento, revival"
+  },
+  "revolutionize": {
+    "literal": "revolucionar"
+  },
+  "riding": {
+    "literal": "andando, cavalgando"
+  },
+  "risky": {
+    "literal": "arriscado"
+  },
+  "robot": {
+    "literal": "robô"
+  },
+  "rolling": {
+    "literal": "rolando"
+  },
+  "route": {
+    "literal": "rota"
+  },
+  "row": {
+    "literal": "fileira, linha"
+  },
+  "safeguarding": {
+    "literal": "salvaguardando"
+  }
 }
