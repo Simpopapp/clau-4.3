@@ -1,173 +1,519 @@
 {
-  "environmentalists": {"literal": "ambientalistas"},
-  "enzymes": {"literal": "enzimas"},
-  "erode": {"literal": "corroer, erodir"},
-  "eroding": {"literal": "corroendo, erodindo"},
-  "ethnicities": {"literal": "etnias"},
-  "evaluates": {"literal": "avalia"},
-  "evaluations": {"literal": "avaliações"},
-  "evident": {"literal": "evidente"},
-  "exceptionally": {"literal": "excepcionalmente"},
-  "expansive": {"literal": "expansivo"},
-  "expecting": {"literal": "esperando"},
-  "experienced": {"literal": "experiente", "contextual": "também pode significar 'vivenciado' (particípio de experience)"},
-  "experiential": {"literal": "experiencial"},
-  "experimenting": {"literal": "experimentando"},
-  "explode": {"literal": "explodir"},
-  "exploiting": {"literal": "explorando"},
-  "explorers": {"literal": "exploradores"},
-  "extraction": {"literal": "extração"},
-  "favor": {"literal": "favorecer"},
-  "favorite": {"literal": "favorito"},
-  "feasible": {"literal": "viável, factível"},
-  "feasting": {"literal": "banqueteando-se"},
-  "feeding": {"literal": "alimentando"},
-  "feeds": {"literal": "alimenta"},
-  "feet": {"literal": "pés"},
-  "fierce": {"literal": "feroz"},
-  "filed": {"literal": "arquivado, protocolado"},
-  "floats": {"literal": "flutua"},
-  "flying": {"literal": "voando"},
-  "folks": {"literal": "pessoas"},
-  "foraging": {"literal": "forrageamento"},
-  "fork": {"literal": "garfo"},
-  "founder": {"literal": "fundador"},
-  "freedoms": {"literal": "liberdades"},
-  "freelance": {"literal": "autônomo, freelancer"},
-  "frosh": {"literal": "calouro"},
-  "fueled": {"literal": "alimentado, impulsionado"},
-  "functioned": {"literal": "funcionou"},
-  "guarantee": {"literal": "garantia, garantir"},
-  "guideline": {"literal": "diretriz"},
-  "guiding": {"literal": "orientador, guiando"},
-  "hair": {"literal": "cabelo"},
-  "harbor": {"literal": "porto, abrigar"},
-  "hardly": {"literal": "dificilmente, mal"},
-  "headlines": {"literal": "manchetes"},
-  "hearing": {"literal": "audição, audiência"},
-  "herds": {"literal": "rebanhos"},
-  "hijacked": {"literal": "sequestrado"},
-  "hires": {"literal": "contrata, contratações"},
-  "hive": {"literal": "colmeia"},
-  "hoax": {"literal": "farsa, boato"},
-  "hoc": {"literal": "ad hoc", "contextual": "usado na expressão latina 'ad hoc'"},
-  "holistic": {"literal": "holístico"},
-  "hopefully": {"literal": "espera-se que"},
-  "horizons": {"literal": "horizontes"},
-  "humour": {"literal": "humor"},
-  "hunter-gatherer": {"literal": "caçador-coletor"},
-  "hyperlinked": {"literal": "hiperligado"},
-  "ideological": {"literal": "ideológico"},
-  "idling": {"literal": "ocioso, em marcha lenta"},
-  "ignorant": {"literal": "ignorante"},
-  "ill": {"literal": "doente"},
-  "imagined": {"literal": "imaginado"},
-  "implicit": {"literal": "implícito"},
-  "improvement": {"literal": "melhoria"},
-  "incompressible": {"literal": "incompressível"},
-  "indirect": {"literal": "indireto"},
-  "industrialists": {"literal": "industriais"},
-  "industrialization": {"literal": "industrialização"},
-  "infected": {"literal": "infectado"},
-  "influenza": {"literal": "gripe"},
-  "informing": {"literal": "informando"},
-  "ingenuity": {"literal": "engenhosidade"},
-  "inner": {"literal": "interior, interno"},
-  "inquire": {"literal": "indagar, perguntar"},
-  "insecurity": {"literal": "insegurança"},
-  "installing": {"literal": "instalando"},
-  "instantaneous": {"literal": "instantâneo"},
-  "intensification": {"literal": "intensificação"},
-  "interferes": {"literal": "interfere"},
-  "intergovernmental": {"literal": "intergovernamental"},
-  "intermittency": {"literal": "intermitência"},
-  "interpreter": {"literal": "intérprete"},
-  "intuition": {"literal": "intuição"},
-  "intuitions": {"literal": "intuições"},
-  "invasions": {"literal": "invasões"},
-  "invited": {"literal": "convidado"},
-  "inviting": {"literal": "convidativo, convidando"},
-  "iq": {"literal": "qi", "contextual": "quociente de inteligência"},
-  "jokes": {"literal": "piadas"},
-  "kill": {"literal": "matar"},
-  "lacked": {"literal": "faltou, careceu de"},
-  "lamps": {"literal": "lâmpadas"},
-  "launched": {"literal": "lançado"},
-  "laundry": {"literal": "lavanderia, roupa suja"},
-  "leftover": {"literal": "sobra, restante"},
-  "length": {"literal": "comprimento, duração"},
-  "lids": {"literal": "tampas"},
-  "lie": {"literal": "mentira, mentir"},
-  "lifecycle": {"literal": "ciclo de vida"},
-  "lifelong": {"literal": "vitalício"},
-  "linger": {"literal": "persistir, demorar-se"},
-  "lions": {"literal": "leões"},
-  "liver": {"literal": "fígado"},
-  "loan": {"literal": "empréstimo"},
-  "long-haul": {"literal": "longo curso"},
-  "lung": {"literal": "pulmão"},
-  "mammoths": {"literal": "mamutes"},
-  "measurements": {"literal": "medições"},
-  "meat": {"literal": "carne"},
-  "mediocre": {"literal": "medíocre"},
-  "mediums": {"literal": "meios, médiuns"},
-  "melt": {"literal": "derreter"},
-  "membrane": {"literal": "membrana"},
-  "menu": {"literal": "cardápio, menu"},
-  "merger": {"literal": "fusão"},
-  "meticulous": {"literal": "meticuloso"},
-  "micro-economic": {"literal": "microeconômico"},
-  "microbiome": {"literal": "microbioma"},
-  "microscopy": {"literal": "microscopia"},
-  "mindsets": {"literal": "mentalidades"},
-  "misconception": {"literal": "equívoco, ideia errônea"},
-  "mobility": {"literal": "mobilidade"},
-  "mum": {"literal": "mamãe"},
-  "myth": {"literal": "mito"},
-  "nanometer": {"literal": "nanômetro"},
-  "nanotechnologies": {"literal": "nanotecnologias"},
-  "narrows": {"literal": "estreita-se"},
-  "needing": {"literal": "precisando"},
-  "neglected": {"literal": "negligenciado"},
-  "neglecting": {"literal": "negligenciando"},
-  "neighborhood": {"literal": "bairro, vizinhança"},
-  "neighbors": {"literal": "vizinhos"},
-  "neolithic": {"literal": "neolítico"},
-  "net": {"literal": "rede, líquido"},
-  "newspapers": {"literal": "jornais"},
-  "ninety": {"literal": "noventa"},
-  "ninety-nineties": {"literal": "anos noventa"},
-  "nitrous": {"literal": "nitroso"},
-  "nonetheless": {"literal": "não obstante"},
-  "nonfiction": {"literal": "não ficção"},
-  "normally": {"literal": "normalmente"},
-  "northwest": {"literal": "noroeste"},
-  "nose": {"literal": "nariz"},
-  "not-for-profit": {"literal": "sem fins lucrativos"},
-  "notably": {"literal": "notadamente"},
-  "notifications": {"literal": "notificações"},
-  "obscured": {"literal": "obscurecido"},
-  "occupied": {"literal": "ocupado"},
-  "october": {"literal": "outubro"},
-  "offshore": {"literal": "no exterior", "contextual": "também usado como termo técnico 'offshore'"},
-  "opaque": {"literal": "opaco"},
-  "opinions": {"literal": "opiniões"},
-  "opposed": {"literal": "opôs, contrário"},
-  "orbit": {"literal": "órbita"},
-  "organ": {"literal": "órgão"},
-  "organise": {"literal": "organizar"},
-  "organism": {"literal": "organismo"},
-  "over-reliance": {"literal": "dependência excessiva"},
-  "overlap": {"literal": "sobreposição, sobrepor"},
-  "owner": {"literal": "proprietário"},
-  "oxide": {"literal": "óxido"},
-  "pack": {"literal": "pacote, matilha"},
-  "painted": {"literal": "pintado"},
-  "paleolithic": {"literal": "paleolítico"},
-  "paradigms": {"literal": "paradigmas"},
-  "paradoxically": {"literal": "paradoxalmente"},
-  "paragraph": {"literal": "parágrafo"},
-  "parliament": {"literal": "parlamento"},
-  "pays": {"literal": "paga"},
-  "peasants": {"literal": "camponeses"}
+  "environmentalists": {
+    "literal": "ambientalistas"
+  },
+  "enzymes": {
+    "literal": "enzimas"
+  },
+  "erode": {
+    "literal": "corroer, erodir"
+  },
+  "eroding": {
+    "literal": "corroendo, erodindo"
+  },
+  "ethnicities": {
+    "literal": "etnias"
+  },
+  "evaluates": {
+    "literal": "avalia"
+  },
+  "evaluations": {
+    "literal": "avaliações"
+  },
+  "evident": {
+    "literal": "evidente"
+  },
+  "exceptionally": {
+    "literal": "excepcionalmente"
+  },
+  "expansive": {
+    "literal": "expansivo"
+  },
+  "expecting": {
+    "literal": "esperando"
+  },
+  "experienced": {
+    "literal": "experiente",
+    "contextual": "também pode significar 'vivenciado' (particípio de experience)"
+  },
+  "experiential": {
+    "literal": "experiencial"
+  },
+  "experimenting": {
+    "literal": "experimentando"
+  },
+  "explode": {
+    "literal": "explodir"
+  },
+  "exploiting": {
+    "literal": "explorando"
+  },
+  "explorers": {
+    "literal": "exploradores"
+  },
+  "extraction": {
+    "literal": "extração"
+  },
+  "favor": {
+    "literal": "favorecer"
+  },
+  "favorite": {
+    "literal": "favorito"
+  },
+  "feasible": {
+    "literal": "viável, factível"
+  },
+  "feasting": {
+    "literal": "banqueteando-se"
+  },
+  "feeding": {
+    "literal": "alimentando"
+  },
+  "feeds": {
+    "literal": "alimenta"
+  },
+  "feet": {
+    "literal": "pés"
+  },
+  "fierce": {
+    "literal": "feroz"
+  },
+  "filed": {
+    "literal": "arquivado, protocolado"
+  },
+  "floats": {
+    "literal": "flutua"
+  },
+  "flying": {
+    "literal": "voando"
+  },
+  "folks": {
+    "literal": "pessoas"
+  },
+  "foraging": {
+    "literal": "forrageamento"
+  },
+  "fork": {
+    "literal": "garfo"
+  },
+  "founder": {
+    "literal": "fundador"
+  },
+  "freedoms": {
+    "literal": "liberdades"
+  },
+  "freelance": {
+    "literal": "autônomo, freelancer"
+  },
+  "frosh": {
+    "literal": "calouro"
+  },
+  "fueled": {
+    "literal": "alimentado, impulsionado"
+  },
+  "functioned": {
+    "literal": "funcionou"
+  },
+  "guarantee": {
+    "literal": "garantia, garantir"
+  },
+  "guideline": {
+    "literal": "diretriz"
+  },
+  "guiding": {
+    "literal": "orientador, guiando"
+  },
+  "hair": {
+    "literal": "cabelo"
+  },
+  "harbor": {
+    "literal": "porto, abrigar"
+  },
+  "hardly": {
+    "literal": "dificilmente, mal"
+  },
+  "headlines": {
+    "literal": "manchetes"
+  },
+  "hearing": {
+    "literal": "audição, audiência"
+  },
+  "herds": {
+    "literal": "rebanhos"
+  },
+  "hijacked": {
+    "literal": "sequestrado"
+  },
+  "hires": {
+    "literal": "contrata, contratações"
+  },
+  "hive": {
+    "literal": "colmeia"
+  },
+  "hoax": {
+    "literal": "farsa, boato"
+  },
+  "hoc": {
+    "literal": "ad hoc",
+    "contextual": "usado na expressão latina 'ad hoc'"
+  },
+  "holistic": {
+    "literal": "holístico"
+  },
+  "hopefully": {
+    "literal": "espera-se que"
+  },
+  "horizons": {
+    "literal": "horizontes"
+  },
+  "humour": {
+    "literal": "humor"
+  },
+  "hunter-gatherer": {
+    "literal": "caçador-coletor"
+  },
+  "hyperlinked": {
+    "literal": "hiperligado"
+  },
+  "ideological": {
+    "literal": "ideológico"
+  },
+  "idling": {
+    "literal": "ocioso, em marcha lenta"
+  },
+  "ignorant": {
+    "literal": "ignorante"
+  },
+  "ill": {
+    "literal": "doente"
+  },
+  "imagined": {
+    "literal": "imaginado"
+  },
+  "implicit": {
+    "literal": "implícito"
+  },
+  "improvement": {
+    "literal": "melhoria"
+  },
+  "incompressible": {
+    "literal": "incompressível"
+  },
+  "indirect": {
+    "literal": "indireto"
+  },
+  "industrialists": {
+    "literal": "industriais"
+  },
+  "industrialization": {
+    "literal": "industrialização"
+  },
+  "infected": {
+    "literal": "infectado"
+  },
+  "influenza": {
+    "literal": "gripe"
+  },
+  "informing": {
+    "literal": "informando"
+  },
+  "ingenuity": {
+    "literal": "engenhosidade"
+  },
+  "inner": {
+    "literal": "interior, interno"
+  },
+  "inquire": {
+    "literal": "indagar, perguntar"
+  },
+  "insecurity": {
+    "literal": "insegurança"
+  },
+  "installing": {
+    "literal": "instalando"
+  },
+  "instantaneous": {
+    "literal": "instantâneo"
+  },
+  "intensification": {
+    "literal": "intensificação"
+  },
+  "interferes": {
+    "literal": "interfere"
+  },
+  "intergovernmental": {
+    "literal": "intergovernamental"
+  },
+  "intermittency": {
+    "literal": "intermitência"
+  },
+  "interpreter": {
+    "literal": "intérprete"
+  },
+  "intuition": {
+    "literal": "intuição"
+  },
+  "intuitions": {
+    "literal": "intuições"
+  },
+  "invasions": {
+    "literal": "invasões"
+  },
+  "invited": {
+    "literal": "convidado"
+  },
+  "inviting": {
+    "literal": "convidativo, convidando"
+  },
+  "iq": {
+    "literal": "qi",
+    "contextual": "quociente de inteligência"
+  },
+  "jokes": {
+    "literal": "piadas"
+  },
+  "kill": {
+    "literal": "matar"
+  },
+  "lacked": {
+    "literal": "faltou, careceu de"
+  },
+  "lamps": {
+    "literal": "lâmpadas"
+  },
+  "launched": {
+    "literal": "lançado"
+  },
+  "laundry": {
+    "literal": "lavanderia, roupa suja"
+  },
+  "leftover": {
+    "literal": "sobra, restante"
+  },
+  "length": {
+    "literal": "comprimento, duração"
+  },
+  "lids": {
+    "literal": "tampas"
+  },
+  "lie": {
+    "literal": "mentira, mentir"
+  },
+  "lifecycle": {
+    "literal": "ciclo de vida"
+  },
+  "lifelong": {
+    "literal": "vitalício"
+  },
+  "linger": {
+    "literal": "persistir, demorar-se"
+  },
+  "lions": {
+    "literal": "leões"
+  },
+  "liver": {
+    "literal": "fígado"
+  },
+  "loan": {
+    "literal": "empréstimo"
+  },
+  "long-haul": {
+    "literal": "longo curso"
+  },
+  "lung": {
+    "literal": "pulmão"
+  },
+  "mammoths": {
+    "literal": "mamutes"
+  },
+  "measurements": {
+    "literal": "medições"
+  },
+  "meat": {
+    "literal": "carne"
+  },
+  "mediocre": {
+    "literal": "medíocre"
+  },
+  "mediums": {
+    "literal": "meios, médiuns"
+  },
+  "melt": {
+    "literal": "derreter"
+  },
+  "membrane": {
+    "literal": "membrana"
+  },
+  "menu": {
+    "literal": "cardápio, menu"
+  },
+  "merger": {
+    "literal": "fusão"
+  },
+  "meticulous": {
+    "literal": "meticuloso"
+  },
+  "micro-economic": {
+    "literal": "microeconômico"
+  },
+  "microbiome": {
+    "literal": "microbioma"
+  },
+  "microscopy": {
+    "literal": "microscopia"
+  },
+  "mindsets": {
+    "literal": "mentalidades"
+  },
+  "misconception": {
+    "literal": "equívoco, ideia errônea"
+  },
+  "mobility": {
+    "literal": "mobilidade"
+  },
+  "mum": {
+    "literal": "mamãe"
+  },
+  "myth": {
+    "literal": "mito"
+  },
+  "nanometer": {
+    "literal": "nanômetro"
+  },
+  "nanotechnologies": {
+    "literal": "nanotecnologias"
+  },
+  "narrows": {
+    "literal": "estreita-se"
+  },
+  "needing": {
+    "literal": "precisando"
+  },
+  "neglected": {
+    "literal": "negligenciado"
+  },
+  "neglecting": {
+    "literal": "negligenciando"
+  },
+  "neighborhood": {
+    "literal": "bairro, vizinhança"
+  },
+  "neighbors": {
+    "literal": "vizinhos"
+  },
+  "neolithic": {
+    "literal": "neolítico"
+  },
+  "net": {
+    "literal": "rede, líquido"
+  },
+  "newspapers": {
+    "literal": "jornais"
+  },
+  "ninety": {
+    "literal": "noventa"
+  },
+  "ninety-nineties": {
+    "literal": "anos noventa"
+  },
+  "nitrous": {
+    "literal": "nitroso"
+  },
+  "nonetheless": {
+    "literal": "não obstante"
+  },
+  "nonfiction": {
+    "literal": "não ficção"
+  },
+  "normally": {
+    "literal": "normalmente"
+  },
+  "northwest": {
+    "literal": "noroeste"
+  },
+  "nose": {
+    "literal": "nariz"
+  },
+  "not-for-profit": {
+    "literal": "sem fins lucrativos"
+  },
+  "notably": {
+    "literal": "notadamente"
+  },
+  "notifications": {
+    "literal": "notificações"
+  },
+  "obscured": {
+    "literal": "obscurecido"
+  },
+  "occupied": {
+    "literal": "ocupado"
+  },
+  "october": {
+    "literal": "outubro"
+  },
+  "offshore": {
+    "literal": "no exterior",
+    "contextual": "também usado como termo técnico 'offshore'"
+  },
+  "opaque": {
+    "literal": "opaco"
+  },
+  "opinions": {
+    "literal": "opiniões"
+  },
+  "opposed": {
+    "literal": "opôs, contrário"
+  },
+  "orbit": {
+    "literal": "órbita"
+  },
+  "organ": {
+    "literal": "órgão"
+  },
+  "organise": {
+    "literal": "organizar"
+  },
+  "organism": {
+    "literal": "organismo"
+  },
+  "over-reliance": {
+    "literal": "dependência excessiva"
+  },
+  "overlap": {
+    "literal": "sobreposição, sobrepor"
+  },
+  "owner": {
+    "literal": "proprietário"
+  },
+  "oxide": {
+    "literal": "óxido"
+  },
+  "pack": {
+    "literal": "pacote, matilha"
+  },
+  "painted": {
+    "literal": "pintado"
+  },
+  "paleolithic": {
+    "literal": "paleolítico"
+  },
+  "paradigms": {
+    "literal": "paradigmas"
+  },
+  "paradoxically": {
+    "literal": "paradoxalmente"
+  },
+  "paragraph": {
+    "literal": "parágrafo"
+  },
+  "parliament": {
+    "literal": "parlamento"
+  },
+  "pays": {
+    "literal": "paga"
+  },
+  "peasants": {
+    "literal": "camponeses"
+  }
 }
