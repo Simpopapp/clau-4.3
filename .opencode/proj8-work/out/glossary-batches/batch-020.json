@@ -1,0 +1,630 @@
+{
+ "neighborhoods": {
+  "literal": "bairros",
+  "contextual": "comum em textos sobre urbanismo e sociologia"
+ },
+ "none": {
+  "literal": "nenhum"
+ },
+ "nutritious": {
+  "literal": "nutritivo"
+ },
+ "obesity": {
+  "literal": "obesidade"
+ },
+ "observations": {
+  "literal": "observações"
+ },
+ "offices": {
+  "literal": "escritórios"
+ },
+ "operates": {
+  "literal": "opera"
+ },
+ "opposing": {
+  "literal": "oposto",
+  "contextual": "oposição (opposing view) ou contrário"
+ },
+ "overuse": {
+  "literal": "uso excessivo"
+ },
+ "pain": {
+  "literal": "dor"
+ },
+ "passing": {
+  "literal": "passagem",
+  "contextual": "aprovação em exame ou transitoriedade"
+ },
+ "penicillin": {
+  "literal": "penicilina"
+ },
+ "peoples": {
+  "literal": "povos",
+  "contextual": "plural refere-se a grupos étnicos ou nações"
+ },
+ "perceived": {
+  "literal": "percebido"
+ },
+ "permanently": {
+  "literal": "permanentemente"
+ },
+ "philanthropy": {
+  "literal": "filantropia"
+ },
+ "picking": {
+  "literal": "escolhendo"
+ },
+ "pictures": {
+  "literal": "imagens"
+ },
+ "plagiarism": {
+  "literal": "plágio",
+  "contextual": "copiar sem dar crédito; grave em academia"
+ },
+ "polar": {
+  "literal": "polar"
+ },
+ "powers": {
+  "literal": "poderes"
+ },
+ "pre-columbian": {
+  "literal": "pré-colombiano"
+ },
+ "precisely": {
+  "literal": "precisamente"
+ },
+ "predictor": {
+  "literal": "preditor",
+  "contextual": "frequente em estatística e pesquisa"
+ },
+ "preference": {
+  "literal": "preferência"
+ },
+ "preparing": {
+  "literal": "preparando"
+ },
+ "preserved": {
+  "literal": "preservado"
+ },
+ "prevailing": {
+  "literal": "predominante",
+  "contextual": "ventos dominantes ou tendências sociais"
+ },
+ "prize": {
+  "literal": "prêmio"
+ },
+ "prone": {
+  "literal": "propenso",
+  "contextual": "geralmente seguido de 'to'"
+ },
+ "prospective": {
+  "literal": "prospectivo",
+  "contextual": "futuro estudante ou candidato"
+ },
+ "purely": {
+  "literal": "puramente"
+ },
+ "rainforest": {
+  "literal": "floresta tropical"
+ },
+ "ready": {
+  "literal": "pronto"
+ },
+ "realistic": {
+  "literal": "realista"
+ },
+ "realm": {
+  "literal": "domínio",
+  "contextual": "campo de atuação ou área de conhecimento"
+ },
+ "recommendations": {
+  "literal": "recomendações"
+ },
+ "recruitment": {
+  "literal": "recrutamento"
+ },
+ "referring": {
+  "literal": "referindo-se"
+ },
+ "reflected": {
+  "literal": "refletido"
+ },
+ "refrigerators": {
+  "literal": "geladeiras"
+ },
+ "rejected": {
+  "literal": "rejeitado"
+ },
+ "relies": {
+  "literal": "depende",
+  "contextual": "geralmente seguido de 'on'"
+ },
+ "replace": {
+  "literal": "substituir"
+ },
+ "replacing": {
+  "literal": "substituindo"
+ },
+ "representing": {
+  "literal": "representando"
+ },
+ "reputation": {
+  "literal": "reputação"
+ },
+ "reserve": {
+  "literal": "reservar",
+  "contextual": "reserva natural ou estoque"
+ },
+ "revealing": {
+  "literal": "revelador"
+ },
+ "roof": {
+  "literal": "telhado"
+ },
+ "safer": {
+  "literal": "mais seguro"
+ },
+ "sample": {
+  "literal": "amostra",
+  "contextual": "essencial para análise de dados e estatística"
+ },
+ "scratch": {
+  "literal": "arranhar",
+  "contextual": "from scratch: começar do zero"
+ },
+ "scrutiny": {
+  "literal": "escrutínio",
+  "contextual": "exame detalhado ou análise crítica"
+ },
+ "seawater": {
+  "literal": "água do mar"
+ },
+ "secret": {
+  "literal": "segredo"
+ },
+ "sees": {
+  "literal": "vê"
+ },
+ "self": {
+  "literal": "si mesmo"
+ },
+ "self-sufficiency": {
+  "literal": "autossuficiência"
+ },
+ "sellers": {
+  "literal": "vendedores"
+ },
+ "sells": {
+  "literal": "vende"
+ },
+ "separating": {
+  "literal": "separando"
+ },
+ "ship": {
+  "literal": "navio",
+  "contextual": "verbo: enviar mercadorias"
+ },
+ "short-term": {
+  "literal": "curto prazo"
+ },
+ "sick": {
+  "literal": "doente"
+ },
+ "sizes": {
+  "literal": "tamanhos"
+ },
+ "small-scale": {
+  "literal": "pequena escala"
+ },
+ "socio-economic": {
+  "literal": "socioeconômico"
+ },
+ "sought": {
+  "literal": "buscado",
+  "contextual": "particípio de seek; muito comum no PTE"
+ },
+ "specified": {
+  "literal": "especificado"
+ },
+ "speeds": {
+  "literal": "velocidades"
+ },
+ "sport": {
+  "literal": "esporte"
+ },
+ "square": {
+  "literal": "quadrado",
+  "contextual": "também praça ou metro quadrado"
+ },
+ "staple": {
+  "literal": "principal",
+  "contextual": "alimento básico ou componente fundamental"
+ },
+ "storing": {
+  "literal": "armazenando"
+ },
+ "stressful": {
+  "literal": "estressante"
+ },
+ "struck": {
+  "literal": "atingido",
+  "contextual": "golpear ou ocorrer (struck by disaster)"
+ },
+ "stunning": {
+  "literal": "impressionante"
+ },
+ "subsidies": {
+  "literal": "subsídios"
+ },
+ "suburban": {
+  "literal": "suburbano"
+ },
+ "supposed": {
+  "literal": "suposto",
+  "contextual": "be supposed to: deveria"
+ },
+ "surveillance": {
+  "literal": "vigilância"
+ },
+ "tables": {
+  "literal": "tabelas",
+  "contextual": "frequente em análise de dados"
+ },
+ "tailored": {
+  "literal": "sob medida",
+  "contextual": "personalizado para finalidade específica"
+ },
+ "targets": {
+  "literal": "alvos"
+ },
+ "tea": {
+  "literal": "chá"
+ },
+ "telephone": {
+  "literal": "telefone"
+ },
+ "textile": {
+  "literal": "têxtil"
+ },
+ "textiles": {
+  "literal": "têxteis"
+ },
+ "theft": {
+  "literal": "roubo"
+ },
+ "thereby": {
+  "literal": "desse modo",
+  "contextual": "conector acadêmico de consequência"
+ },
+ "thoughts": {
+  "literal": "pensamentos"
+ },
+ "thriving": {
+  "literal": "próspero",
+  "contextual": "em crescimento ou desenvolvimento"
+ },
+ "ticket": {
+  "literal": "bilhete"
+ },
+ "tradition": {
+  "literal": "tradição"
+ },
+ "translator": {
+  "literal": "tradutor"
+ },
+ "transpiration": {
+  "literal": "transpiração",
+  "contextual": "processo biológico em plantas"
+ },
+ "transported": {
+  "literal": "transportado"
+ },
+ "trap": {
+  "literal": "armadilha",
+  "contextual": "prender; gases ficam presos (trapped)"
+ },
+ "truck": {
+  "literal": "caminhão"
+ },
+ "unknown": {
+  "literal": "desconhecido"
+ },
+ "unless": {
+  "literal": "a menos que"
+ },
+ "visualizing": {
+  "literal": "visualizando"
+ },
+ "wondered": {
+  "literal": "perguntou-se"
+ },
+ "zoning": {
+  "literal": "zoneamento",
+  "contextual": "divisão urbana em áreas específicas"
+ },
+ "abroad": {
+  "literal": "no exterior"
+ },
+ "acted": {
+  "literal": "agiu"
+ },
+ "addressed": {
+  "literal": "abordado",
+  "contextual": "tratado em um texto ou endereçado"
+ },
+ "adjustments": {
+  "literal": "ajustes"
+ },
+ "advocating": {
+  "literal": "defendendo",
+  "contextual": "apoio público a uma causa"
+ },
+ "affairs": {
+  "literal": "assuntos",
+  "contextual": "international affairs, public affairs"
+ },
+ "agents": {
+  "literal": "agentes"
+ },
+ "alleviate": {
+  "literal": "aliviar",
+  "contextual": "reduzir dor ou sofrimento"
+ },
+ "alliances": {
+  "literal": "alianças"
+ },
+ "anatomy": {
+  "literal": "anatomia"
+ },
+ "anthropology": {
+  "literal": "antropologia"
+ },
+ "antibiotic": {
+  "literal": "antibiótico"
+ },
+ "anymore": {
+  "literal": "mais",
+  "contextual": "usado em negativas: not anymore (não mais)"
+ },
+ "archives": {
+  "literal": "arquivos"
+ },
+ "argued": {
+  "literal": "argumentou"
+ },
+ "arriving": {
+  "literal": "chegando"
+ },
+ "artisanal": {
+  "literal": "artesanal"
+ },
+ "ash": {
+  "literal": "cinza"
+ },
+ "attributed": {
+  "literal": "atribuído",
+  "contextual": "geralmente seguido de 'to'"
+ },
+ "audio": {
+  "literal": "áudio"
+ },
+ "automatically": {
+  "literal": "automaticamente"
+ },
+ "avoiding": {
+  "literal": "evitando"
+ },
+ "batteries": {
+  "literal": "baterias"
+ },
+ "biases": {
+  "literal": "vieses",
+  "contextual": "tendenciosidade, central em análise crítica"
+ },
+ "biochemical": {
+  "literal": "bioquímico"
+ },
+ "biographical": {
+  "literal": "biográfico"
+ },
+ "botanical": {
+  "literal": "botânico"
+ },
+ "breakthroughs": {
+  "literal": "avanços",
+  "contextual": "descobertas importantes na ciência"
+ },
+ "breathe": {
+  "literal": "respirar",
+  "contextual": "verbo; breath é o substantivo"
+ },
+ "calendar": {
+  "literal": "calendário"
+ },
+ "cardiovascular": {
+  "literal": "cardiovascular"
+ },
+ "chambers": {
+  "literal": "câmaras"
+ },
+ "citation": {
+  "literal": "citação"
+ },
+ "clash": {
+  "literal": "conflito",
+  "contextual": "choque de ideias ou interesses"
+ },
+ "clever": {
+  "literal": "inteligente"
+ },
+ "coding": {
+  "literal": "codificação"
+ },
+ "comfort": {
+  "literal": "conforto"
+ },
+ "complicated": {
+  "literal": "complicado"
+ },
+ "computational": {
+  "literal": "computacional"
+ },
+ "concentrate": {
+  "literal": "concentrar-se",
+  "contextual": "também significar concentrado"
+ },
+ "constraints": {
+  "literal": "restrições",
+  "contextual": "limitações impostas a um processo"
+ },
+ "consultations": {
+  "literal": "consultas"
+ },
+ "contexts": {
+  "literal": "contextos"
+ },
+ "counseling": {
+  "literal": "aconselhamento"
+ },
+ "crowds": {
+  "literal": "multidões"
+ },
+ "cryptocurrencies": {
+  "literal": "criptomoedas"
+ },
+ "cumulative": {
+  "literal": "cumulativo",
+  "contextual": "acumulado ao longo do tempo"
+ },
+ "curricula": {
+  "literal": "currículos",
+  "contextual": "plural irregular de curriculum"
+ },
+ "cutting": {
+  "literal": "cortando"
+ },
+ "cyclical": {
+  "literal": "cíclico"
+ },
+ "damaged": {
+  "literal": "danificado"
+ },
+ "debris": {
+  "literal": "detritos",
+  "contextual": "restos de algo destruído ou lixo espacial"
+ },
+ "decoding": {
+  "literal": "decodificação"
+ },
+ "deeply": {
+  "literal": "profundamente"
+ },
+ "defines": {
+  "literal": "define"
+ },
+ "delivers": {
+  "literal": "entrega"
+ },
+ "democratized": {
+  "literal": "democratizado"
+ },
+ "describing": {
+  "literal": "descrevendo"
+ },
+ "developmental": {
+  "literal": "do desenvolvimento"
+ },
+ "display": {
+  "literal": "exibição",
+  "contextual": "expor ou mostrar"
+ },
+ "droughts": {
+  "literal": "secas"
+ },
+ "emission": {
+  "literal": "emissão"
+ },
+ "encompassing": {
+  "literal": "abrangendo"
+ },
+ "enforced": {
+  "literal": "aplicado",
+  "contextual": "fazer cumprir leis ou regras"
+ },
+ "engaged": {
+  "literal": "engajado"
+ },
+ "entanglement": {
+  "literal": "emaranhamento",
+  "contextual": "comum em física quântica"
+ },
+ "enterprises": {
+  "literal": "empresas"
+ },
+ "equator": {
+  "literal": "equador"
+ },
+ "ethnobotanical": {
+  "literal": "etnobotânico"
+ },
+ "eukaryotic": {
+  "literal": "eucariótico"
+ },
+ "exacerbated": {
+  "literal": "exacerbado"
+ },
+ "exact": {
+  "literal": "exato"
+ },
+ "exceeded": {
+  "literal": "excedido"
+ },
+ "explicit": {
+  "literal": "explícito"
+ },
+ "exports": {
+  "literal": "exportações"
+ },
+ "extract": {
+  "literal": "extrair"
+ },
+ "factory": {
+  "literal": "fábrica"
+ },
+ "fears": {
+  "literal": "medos"
+ },
+ "fees": {
+  "literal": "taxas",
+  "contextual": "mensalidades ou pagamentos de serviços"
+ },
+ "fiber": {
+  "literal": "fibra"
+ },
+ "fifteen": {
+  "literal": "quinze"
+ },
+ "filters": {
+  "literal": "filtros"
+ },
+ "financially": {
+  "literal": "financeiramente"
+ },
+ "first-year": {
+  "literal": "do primeiro ano"
+ },
+ "floors": {
+  "literal": "andares",
+  "contextual": "pisos ou níveis de prédio"
+ },
+ "pacific": {
+  "literal": "Pacífico",
+  "contextual": "oceano Pacífico ou tranquilo"
+ },
+ "queensland": {
+  "literal": "Queensland"
+ },
+ "berlin": {
+  "literal": "Berlim"
+ }
+}

@@ -1,0 +1,676 @@
+{
+ "proficiency": {
+  "literal": "proficiência",
+  "contextual": "domínio de um idioma ou técnica"
+ },
+ "programmes": {
+  "literal": "programas",
+  "contextual": "grafia britânica; cursos ou transmissões"
+ },
+ "prominent": {
+  "literal": "proeminente",
+  "contextual": "destacado ou notável em um campo"
+ },
+ "promptly": {
+  "literal": "prontamente",
+  "contextual": "sem atraso, imediatamente"
+ },
+ "proximate": {
+  "literal": "próximo",
+  "contextual": "imediato em uma cadeia de causalidade"
+ },
+ "purchasing": {
+  "literal": "compras",
+  "contextual": "ato de adquirir ou poder de compra"
+ },
+ "puzzle": {
+  "literal": "enigma",
+  "contextual": "questão complexa que exige solução"
+ },
+ "quitting": {
+  "literal": "desistência",
+  "contextual": "abandonar emprego, hábito ou tarefa"
+ },
+ "rain": {
+  "literal": "chuva"
+ },
+ "reactive": {
+  "literal": "reativo",
+  "contextual": "que responde a estímulos ou atua após um evento"
+ },
+ "receptors": {
+  "literal": "receptores",
+  "contextual": "células ou moléculas que respondem a sinais"
+ },
+ "refer": {
+  "literal": "referir-se",
+  "contextual": "mencionar ou consultar uma fonte"
+ },
+ "regulate": {
+  "literal": "regular",
+  "contextual": "controlar ou ajustar conforme regras"
+ },
+ "renewed": {
+  "literal": "renovado"
+ },
+ "repurposing": {
+  "literal": "reutilização",
+  "contextual": "dar novo propósito a algo existente"
+ },
+ "request": {
+  "literal": "solicitação"
+ },
+ "requests": {
+  "literal": "solicitações"
+ },
+ "restoring": {
+  "literal": "restaurando",
+  "contextual": "devolver algo ao estado original"
+ },
+ "reviews": {
+  "literal": "análises",
+  "contextual": "avaliações críticas ou revisões de literatura"
+ },
+ "rupture": {
+  "literal": "ruptura",
+  "contextual": "rompimento de estrutura ou relação"
+ },
+ "saved": {
+  "literal": "salvo",
+  "contextual": "também armazenado ou poupado"
+ },
+ "scattered": {
+  "literal": "espalhado",
+  "contextual": "distribuído de forma irregular"
+ },
+ "scene": {
+  "literal": "cena",
+  "contextual": "local de evento ou parte de obra teatral"
+ },
+ "script": {
+  "literal": "roteiro",
+  "contextual": "texto para teatro, filme ou sistema de escrita"
+ },
+ "seasonal": {
+  "literal": "sazonal",
+  "contextual": "relacionado a estações do ano"
+ },
+ "seat": {
+  "literal": "assento",
+  "contextual": "lugar para sentar ou sede de organização"
+ },
+ "shallow": {
+  "literal": "raso",
+  "contextual": "sem profundidade física ou intelectual"
+ },
+ "shelf": {
+  "literal": "prateleira"
+ },
+ "shelves": {
+  "literal": "prateleiras"
+ },
+ "shouted": {
+  "literal": "gritou"
+ },
+ "solitary": {
+  "literal": "solitário",
+  "contextual": "que vive ou ocorre sozinho"
+ },
+ "southern": {
+  "literal": "sul",
+  "contextual": "relativo ao sul (southern hemisphere)"
+ },
+ "specialist": {
+  "literal": "especialista"
+ },
+ "streamline": {
+  "literal": "otimizar",
+  "contextual": "tornar um processo mais eficiente e simples"
+ },
+ "striking": {
+  "literal": "impressionante",
+  "contextual": "notável, que atrai atenção imediata"
+ },
+ "substantially": {
+  "literal": "substancialmente",
+  "contextual": "em grande medida"
+ },
+ "sufficient": {
+  "literal": "suficiente"
+ },
+ "suits": {
+  "literal": "adequa-se",
+  "contextual": "ser apropriado ou trajes formais"
+ },
+ "super": {
+  "literal": "excelente",
+  "contextual": "prefixo de superioridade ou gíria"
+ },
+ "superior": {
+  "literal": "superior",
+  "contextual": "de melhor qualidade ou posição mais alta"
+ },
+ "symbol": {
+  "literal": "símbolo"
+ },
+ "synopsis": {
+  "literal": "sinopse",
+  "contextual": "resumo breve de uma obra"
+ },
+ "talked": {
+  "literal": "falou"
+ },
+ "tall": {
+  "literal": "alto"
+ },
+ "teaches": {
+  "literal": "ensina"
+ },
+ "telescope": {
+  "literal": "telescópio"
+ },
+ "tendency": {
+  "literal": "tendência",
+  "contextual": "inclinação natural para algo"
+ },
+ "theater": {
+  "literal": "teatro"
+ },
+ "tied": {
+  "literal": "amarrado",
+  "contextual": "vinculado a ou empatado"
+ },
+ "ties": {
+  "literal": "vínculos",
+  "contextual": "conexões sociais, políticas ou gravatas"
+ },
+ "titles": {
+  "literal": "títulos",
+  "contextual": "nomes de obras ou honrarias"
+ },
+ "tobacco": {
+  "literal": "tabaco"
+ },
+ "toughest": {
+  "literal": "mais difícil",
+  "contextual": "superlativo de resistente ou desafiador"
+ },
+ "transcript": {
+  "literal": "transcrição",
+  "contextual": "registro escrito de áudio ou histórico escolar"
+ },
+ "travels": {
+  "literal": "viagens"
+ },
+ "treaty": {
+  "literal": "tratado",
+  "contextual": "acordo formal entre nações"
+ },
+ "tree": {
+  "literal": "árvore"
+ },
+ "tremendous": {
+  "literal": "tremendo",
+  "contextual": "muito grande em quantidade ou intensidade"
+ },
+ "tumors": {
+  "literal": "tumores"
+ },
+ "unable": {
+  "literal": "incapaz"
+ },
+ "uncertainty": {
+  "literal": "incerteza",
+  "contextual": "falta de previsibilidade ou dúvida"
+ },
+ "undergoing": {
+  "literal": "passando por",
+  "contextual": "ser submetido a um processo"
+ },
+ "unexpected": {
+  "literal": "inesperado"
+ },
+ "update": {
+  "literal": "atualizar"
+ },
+ "validity": {
+  "literal": "validade",
+  "contextual": "qualidade de ser logicamente sólido"
+ },
+ "viruses": {
+  "literal": "vírus"
+ },
+ "visibility": {
+  "literal": "visibilidade"
+ },
+ "voting": {
+  "literal": "votação",
+  "contextual": "expressar escolha em uma eleição"
+ },
+ "wages": {
+  "literal": "salários",
+  "contextual": "pagamento pelo trabalho, geralmente por hora"
+ },
+ "warehouses": {
+  "literal": "armazéns"
+ },
+ "weekly": {
+  "literal": "semanal"
+ },
+ "windows": {
+  "literal": "janelas"
+ },
+ "woodwinds": {
+  "literal": "sopros de madeira",
+  "contextual": "família de instrumentos como flauta e clarinete"
+ },
+ "achievements": {
+  "literal": "conquistas"
+ },
+ "acidification": {
+  "literal": "acidificação",
+  "contextual": "processo de se tornar ácido; comum em oceanografia"
+ },
+ "announcement": {
+  "literal": "anúncio"
+ },
+ "anthropologists": {
+  "literal": "antropólogos"
+ },
+ "appreciate": {
+  "literal": "apreciar",
+  "contextual": "reconhecer o valor ou aumentar de valor"
+ },
+ "approval": {
+  "literal": "aprovação"
+ },
+ "assist": {
+  "literal": "ajudar"
+ },
+ "assistant": {
+  "literal": "assistente"
+ },
+ "assumptions": {
+  "literal": "suposições"
+ },
+ "balconies": {
+  "literal": "sacadas"
+ },
+ "behalf": {
+  "literal": "nome",
+  "contextual": "usado em 'on behalf of' (em nome de)"
+ },
+ "belt": {
+  "literal": "cinto",
+  "contextual": "também zona geográfica (cereal belt)"
+ },
+ "biased": {
+  "literal": "tendencioso",
+  "contextual": "que favorece injustamente um lado"
+ },
+ "biologists": {
+  "literal": "biólogos"
+ },
+ "bold": {
+  "literal": "audacioso",
+  "contextual": "corajoso ou, em tipografia, negrito"
+ },
+ "breeding": {
+  "literal": "reprodução",
+  "contextual": "procriação de animais ou cultivo de plantas"
+ },
+ "bright": {
+  "literal": "brilhante",
+  "contextual": "cheio de luz ou muito inteligente"
+ },
+ "buyers": {
+  "literal": "compradores"
+ },
+ "buying": {
+  "literal": "compra"
+ },
+ "celebrations": {
+  "literal": "celebrações"
+ },
+ "chaotic": {
+  "literal": "caótico"
+ },
+ "chemicals": {
+  "literal": "produtos químicos"
+ },
+ "chose": {
+  "literal": "escolheu"
+ },
+ "clarify": {
+  "literal": "esclarecer"
+ },
+ "competitors": {
+  "literal": "concorrentes"
+ },
+ "confirms": {
+  "literal": "confirma"
+ },
+ "consideration": {
+  "literal": "consideração",
+  "contextual": "deliberação antes de uma decisão"
+ },
+ "consist": {
+  "literal": "consistir",
+  "contextual": "ser composto por (consist of)"
+ },
+ "consume": {
+  "literal": "consumir"
+ },
+ "continents": {
+  "literal": "continentes"
+ },
+ "corporations": {
+  "literal": "corporações"
+ },
+ "culinary": {
+  "literal": "culinária",
+  "contextual": "relacionado ao preparo de alimentos"
+ },
+ "databases": {
+  "literal": "bancos de dados"
+ },
+ "deaths": {
+  "literal": "mortes"
+ },
+ "declared": {
+  "literal": "declarado",
+  "contextual": "anunciado formal ou oficialmente"
+ },
+ "decreased": {
+  "literal": "diminuído"
+ },
+ "define": {
+  "literal": "definir",
+  "contextual": "declarar o significado exato ou escopo"
+ },
+ "definitions": {
+  "literal": "definições"
+ },
+ "delivered": {
+  "literal": "entregue",
+  "contextual": "levado ao destino ou proferido (discurso)"
+ },
+ "deployment": {
+  "literal": "implantação",
+  "contextual": "movimentação estratégica de recursos ou software"
+ },
+ "destinations": {
+  "literal": "destinos"
+ },
+ "dietary": {
+  "literal": "dietético",
+  "contextual": "relacionado à dieta alimentar"
+ },
+ "dimensions": {
+  "literal": "dimensões",
+  "contextual": "medidas físicas ou aspectos de uma situação"
+ },
+ "disappearance": {
+  "literal": "desaparecimento"
+ },
+ "distinctive": {
+  "literal": "distintivo",
+  "contextual": "característica que torna algo reconhecível"
+ },
+ "doors": {
+  "literal": "portas"
+ },
+ "dress": {
+  "literal": "vestido",
+  "contextual": "também vestir-se de forma geral"
+ },
+ "drives": {
+  "literal": "impulsos",
+  "contextual": "dirigir veículos ou necessidades instintivas"
+ },
+ "durability": {
+  "literal": "durabilidade"
+ },
+ "earned": {
+  "literal": "ganhou",
+  "contextual": "obtido por trabalho ou mérito"
+ },
+ "educate": {
+  "literal": "educar"
+ },
+ "efficacy": {
+  "literal": "eficácia",
+  "contextual": "capacidade de produzir o resultado desejado"
+ },
+ "eleven": {
+  "literal": "onze"
+ },
+ "emerged": {
+  "literal": "emergiu",
+  "contextual": "tornar-se conhecido ou visível"
+ },
+ "encoded": {
+  "literal": "codificado"
+ },
+ "encountered": {
+  "literal": "encontrado",
+  "contextual": "deparar-se com algo inesperado"
+ },
+ "exams": {
+  "literal": "exames"
+ },
+ "existed": {
+  "literal": "existiu"
+ },
+ "explanations": {
+  "literal": "explicações"
+ },
+ "explicitly": {
+  "literal": "explicitamente",
+  "contextual": "de forma clara, sem deixar dúvidas"
+ },
+ "feats": {
+  "literal": "feitos",
+  "contextual": "conquistas que exigem coragem ou habilidade"
+ },
+ "fell": {
+  "literal": "caiu"
+ },
+ "fellow": {
+  "literal": "colega",
+  "contextual": "par em profissão ou membro de academia"
+ },
+ "fertile": {
+  "literal": "fértil"
+ },
+ "fiscal": {
+  "literal": "fiscal",
+  "contextual": "relacionado a receitas governamentais e impostos"
+ },
+ "fix": {
+  "literal": "consertar",
+  "contextual": "reparar ou estabelecer firmemente"
+ },
+ "formats": {
+  "literal": "formatos"
+ },
+ "founded": {
+  "literal": "fundado",
+  "contextual": "estabelecido ou baseado em algo"
+ },
+ "fungi": {
+  "literal": "fungos"
+ },
+ "geology": {
+  "literal": "geologia"
+ },
+ "geothermal": {
+  "literal": "geotérmico",
+  "contextual": "relacionado ao calor interno da terra"
+ },
+ "glaciers": {
+  "literal": "geleiras"
+ },
+ "gold": {
+  "literal": "ouro"
+ },
+ "graduated": {
+  "literal": "formou-se"
+ },
+ "grouping": {
+  "literal": "agrupamento"
+ },
+ "growers": {
+  "literal": "cultivadores"
+ },
+ "healthier": {
+  "literal": "mais saudável"
+ },
+ "hit": {
+  "literal": "golpe",
+  "contextual": "atingir um alvo ou sucesso popular"
+ },
+ "hoping": {
+  "literal": "esperando",
+  "contextual": "sentimento de esperança (não espera de tempo)"
+ },
+ "ignored": {
+  "literal": "ignorado"
+ },
+ "illnesses": {
+  "literal": "doenças"
+ },
+ "immersion": {
+  "literal": "imersão",
+  "contextual": "envolvimento profundo em uma atividade"
+ },
+ "incidents": {
+  "literal": "incidentes"
+ },
+ "incorporate": {
+  "literal": "incorporar"
+ },
+ "indicating": {
+  "literal": "indicando",
+  "contextual": "servir como sinal ou evidência"
+ },
+ "infection": {
+  "literal": "infecção"
+ },
+ "ingredients": {
+  "literal": "ingredientes"
+ },
+ "inherent": {
+  "literal": "inerente",
+  "contextual": "característica essencial e permanente"
+ },
+ "injury": {
+  "literal": "ferimento"
+ },
+ "inspiring": {
+  "literal": "inspirador"
+ },
+ "instruction": {
+  "literal": "instrução",
+  "contextual": "ensino ou ordem de como fazer algo"
+ },
+ "insufficient": {
+  "literal": "insuficiente"
+ },
+ "integral": {
+  "literal": "integral",
+  "contextual": "necessário para completar um todo"
+ },
+ "interior": {
+  "literal": "interior",
+  "contextual": "parte interna ou área longe da costa"
+ },
+ "investigating": {
+  "literal": "investigando"
+ },
+ "journalist": {
+  "literal": "jornalista"
+ },
+ "large-scale": {
+  "literal": "grande escala",
+  "contextual": "envolvendo grande volume ou área ampla"
+ },
+ "lasted": {
+  "literal": "durou"
+ },
+ "layout": {
+  "literal": "disposição",
+  "contextual": "forma como as partes são organizadas"
+ },
+ "listed": {
+  "literal": "listado"
+ },
+ "logging": {
+  "literal": "extração de madeira",
+  "contextual": "atividade comercial de cortar árvores"
+ },
+ "lunch": {
+  "literal": "almoço"
+ },
+ "machinery": {
+  "literal": "maquinário"
+ },
+ "male": {
+  "literal": "macho",
+  "contextual": "referente ao sexo masculino"
+ },
+ "manuscript": {
+  "literal": "manuscrito",
+  "contextual": "versão original de um texto ou livro"
+ },
+ "mapping": {
+  "literal": "mapeamento"
+ },
+ "masterpiece": {
+  "literal": "obra-prima"
+ },
+ "matters": {
+  "literal": "assuntos",
+  "contextual": "tópicos de interesse ou 'importa' (verbo)"
+ },
+ "meanings": {
+  "literal": "significados"
+ },
+ "melodies": {
+  "literal": "melodias"
+ },
+ "mere": {
+  "literal": "mero",
+  "contextual": "enfaseza que algo é pequeno ou insignificante"
+ },
+ "mexico": {
+  "literal": "México"
+ },
+ "migrated": {
+  "literal": "migrou"
+ },
+ "modifying": {
+  "literal": "modificando"
+ },
+ "motivated": {
+  "literal": "motivado"
+ },
+ "multifaceted": {
+  "literal": "multifacetado",
+  "contextual": "com muitos aspectos ou características"
+ },
+ "muscles": {
+  "literal": "músculos"
+ },
+ "mycorrhizal": {
+  "literal": "micorrízico",
+  "contextual": "simbiose entre fungos e raízes de plantas"
+ },
+ "birmingham": {
+  "literal": "Birmingham"
+ },
+ "un": {
+  "literal": "ONU",
+  "contextual": "Nações Unidas"
+ }
+}

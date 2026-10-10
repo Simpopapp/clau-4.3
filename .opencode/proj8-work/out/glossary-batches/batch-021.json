@@ -1,0 +1,589 @@
+{
+ "fostered": {
+  "literal": "fomentado",
+  "contextual": "promover desenvolvimento de ideias ou habilidades"
+ },
+ "founders": {
+  "literal": "fundadores"
+ },
+ "fulfillment": {
+  "literal": "realização",
+  "contextual": "cumprimento de tarefas ou aspirações"
+ },
+ "genius": {
+  "literal": "gênio"
+ },
+ "genomes": {
+  "literal": "genomas"
+ },
+ "geographic": {
+  "literal": "geográfico"
+ },
+ "geologic": {
+  "literal": "geológico"
+ },
+ "geopolitical": {
+  "literal": "geopolítico"
+ },
+ "girls": {
+  "literal": "meninas"
+ },
+ "globalized": {
+  "literal": "globalizado"
+ },
+ "govern": {
+  "literal": "governar",
+  "contextual": "administrar ou regulamentar"
+ },
+ "grading": {
+  "literal": "avaliação",
+  "contextual": "atribuição de notas acadêmicas"
+ },
+ "grappling": {
+  "literal": "lutando",
+  "contextual": "tentar entender ou lidar com problema difícil"
+ },
+ "guardian": {
+  "literal": "guardião"
+ },
+ "guests": {
+  "literal": "convidados"
+ },
+ "harmonic": {
+  "literal": "harmônico"
+ },
+ "hazards": {
+  "literal": "perigos",
+  "contextual": "riscos ambientais ou ocupacionais"
+ },
+ "hereditary": {
+  "literal": "hereditário"
+ },
+ "hesitancy": {
+  "literal": "hesitação"
+ },
+ "holidays": {
+  "literal": "feriados"
+ },
+ "homework": {
+  "literal": "dever de casa"
+ },
+ "honey": {
+  "literal": "mel"
+ },
+ "hospitals": {
+  "literal": "hospitais"
+ },
+ "illustrates": {
+  "literal": "ilustra",
+  "contextual": "demonstrar ponto em argumento acadêmico"
+ },
+ "immersive": {
+  "literal": "imersivo"
+ },
+ "independently": {
+  "literal": "de forma independente"
+ },
+ "induced": {
+  "literal": "induzido"
+ },
+ "inefficient": {
+  "literal": "ineficiente"
+ },
+ "inevitable": {
+  "literal": "inevitável"
+ },
+ "injustice": {
+  "literal": "injustiça"
+ },
+ "input": {
+  "literal": "entrada",
+  "contextual": "dados ou esforço inserido em sistema"
+ },
+ "insects": {
+  "literal": "insetos"
+ },
+ "intelligent": {
+  "literal": "inteligente"
+ },
+ "invites": {
+  "literal": "convida"
+ },
+ "landmark": {
+  "literal": "marco",
+  "contextual": "evento ou descoberta histórica importante"
+ },
+ "lay": {
+  "literal": "colocar",
+  "contextual": "passado 'laid'; lay vs lie (deitar vs mentir)"
+ },
+ "low-income": {
+  "literal": "baixa renda"
+ },
+ "meals": {
+  "literal": "refeições"
+ },
+ "medications": {
+  "literal": "medicamentos"
+ },
+ "medicinal": {
+  "literal": "medicinal"
+ },
+ "met": {
+  "literal": "encontrou"
+ },
+ "metals": {
+  "literal": "metais"
+ },
+ "meteorology": {
+  "literal": "meteorologia"
+ },
+ "migrants": {
+  "literal": "migrantes"
+ },
+ "minimum": {
+  "literal": "mínimo"
+ },
+ "moderate": {
+  "literal": "moderado"
+ },
+ "modes": {
+  "literal": "modos"
+ },
+ "monarchy": {
+  "literal": "monarquia"
+ },
+ "monthly": {
+  "literal": "mensal"
+ },
+ "morality": {
+  "literal": "moralidade"
+ },
+ "motivational": {
+  "literal": "motivacional"
+ },
+ "moves": {
+  "literal": "movimentos"
+ },
+ "networking": {
+  "literal": "rede de contatos"
+ },
+ "neurodegenerative": {
+  "literal": "neurodegenerativo"
+ },
+ "neurological": {
+  "literal": "neurológico"
+ },
+ "nuance": {
+  "literal": "nuance",
+  "contextual": "diferença sutil de significado"
+ },
+ "observers": {
+  "literal": "observadores"
+ },
+ "obtain": {
+  "literal": "obter"
+ },
+ "offset": {
+  "literal": "compensar",
+  "contextual": "equilibrar efeito oposto"
+ },
+ "orchestral": {
+  "literal": "orquestral"
+ },
+ "orders": {
+  "literal": "ordens"
+ },
+ "overnight": {
+  "literal": "durante a noite",
+  "contextual": "acontecimento repentino"
+ },
+ "overstated": {
+  "literal": "exagerado"
+ },
+ "packages": {
+  "literal": "pacotes"
+ },
+ "particle": {
+  "literal": "partícula"
+ },
+ "paths": {
+  "literal": "caminhos"
+ },
+ "pause": {
+  "literal": "pausa"
+ },
+ "peace": {
+  "literal": "paz"
+ },
+ "peninsula": {
+  "literal": "península"
+ },
+ "percentage": {
+  "literal": "porcentagem"
+ },
+ "permit": {
+  "literal": "permitir"
+ },
+ "physicians": {
+  "literal": "médicos"
+ },
+ "podium": {
+  "literal": "pódio"
+ },
+ "pollinator": {
+  "literal": "polinizador"
+ },
+ "portfolios": {
+  "literal": "portfólios"
+ },
+ "posing": {
+  "literal": "apresentando",
+  "contextual": "representar um problema ou risco"
+ },
+ "post-war": {
+  "literal": "pós-guerra"
+ },
+ "preparedness": {
+  "literal": "preparação",
+  "contextual": "estado de prontidão para emergências"
+ },
+ "prevalence": {
+  "literal": "prevalência",
+  "contextual": "frequência de uma condição em uma população"
+ },
+ "professionals": {
+  "literal": "profissionais"
+ },
+ "programming": {
+  "literal": "programação"
+ },
+ "puts": {
+  "literal": "coloca"
+ },
+ "questioning": {
+  "literal": "questionamento"
+ },
+ "questionnaire": {
+  "literal": "questionário"
+ },
+ "random": {
+  "literal": "aleatório"
+ },
+ "rational": {
+  "literal": "racional"
+ },
+ "rationally": {
+  "literal": "racionalmente"
+ },
+ "readily": {
+  "literal": "prontamente",
+  "contextual": "facilmente disponível ou feito sem hesitação"
+ },
+ "rebuilding": {
+  "literal": "reconstrução"
+ },
+ "receives": {
+  "literal": "recebe"
+ },
+ "recurring": {
+  "literal": "recorrente"
+ },
+ "references": {
+  "literal": "referências"
+ },
+ "reflection": {
+  "literal": "reflexão"
+ },
+ "regulated": {
+  "literal": "regulado"
+ },
+ "reliably": {
+  "literal": "confiavelmente"
+ },
+ "remarkably": {
+  "literal": "notavelmente"
+ },
+ "removing": {
+  "literal": "removendo"
+ },
+ "representation": {
+  "literal": "representação"
+ },
+ "residences": {
+  "literal": "residências"
+ },
+ "resolve": {
+  "literal": "resolver"
+ },
+ "responsibly": {
+  "literal": "responsavelmente"
+ },
+ "responsive": {
+  "literal": "responsivo"
+ },
+ "resulted": {
+  "literal": "resultou"
+ },
+ "reviewed": {
+  "literal": "revisado"
+ },
+ "reviewing": {
+  "literal": "revisando"
+ },
+ "rises": {
+  "literal": "sobe"
+ },
+ "root": {
+  "literal": "raiz",
+  "contextual": "origem ou base de um problema"
+ },
+ "rose": {
+  "literal": "subiu",
+  "contextual": "passado de 'rise', comum em dados estatísticos"
+ },
+ "sanitation": {
+  "literal": "saneamento"
+ },
+ "screens": {
+  "literal": "telas"
+ },
+ "seemingly": {
+  "literal": "aparentemente"
+ },
+ "semantic": {
+  "literal": "semântico"
+ },
+ "seriously": {
+  "literal": "seriamente"
+ },
+ "shall": {
+  "literal": "deverá",
+  "contextual": "indica obrigação ou futuro formal"
+ },
+ "shelters": {
+  "literal": "abrigos"
+ },
+ "shoe": {
+  "literal": "sapato"
+ },
+ "sink": {
+  "literal": "afundar",
+  "contextual": "pia; sink em ecologia absorve substâncias"
+ },
+ "slide": {
+  "literal": "deslizar",
+  "contextual": "queda gradual ou slide de apresentação"
+ },
+ "smartphones": {
+  "literal": "smartphones"
+ },
+ "specialists": {
+  "literal": "especialistas"
+ },
+ "spectrum": {
+  "literal": "espectro"
+ },
+ "streamlined": {
+  "literal": "otimizado",
+  "contextual": "processo simplificado para maior eficiência"
+ },
+ "strengths": {
+  "literal": "fortalezas",
+  "contextual": "pontos fortes em análise"
+ },
+ "subsequent": {
+  "literal": "subsequente"
+ },
+ "suppress": {
+  "literal": "suprimir"
+ },
+ "surge": {
+  "literal": "surto",
+  "contextual": "aumento súbito e forte"
+ },
+ "surges": {
+  "literal": "surtos"
+ },
+ "surgical": {
+  "literal": "cirúrgico"
+ },
+ "switch": {
+  "literal": "mudar",
+  "contextual": "trocar de uma opção para outra"
+ },
+ "syllabus": {
+  "literal": "ementa",
+  "contextual": "programa de estudos de uma disciplina"
+ },
+ "teach": {
+  "literal": "ensinar"
+ },
+ "teamwork": {
+  "literal": "trabalho em equipe"
+ },
+ "tends": {
+  "literal": "tende",
+  "contextual": "tend to: costuma"
+ },
+ "tensions": {
+  "literal": "tensões"
+ },
+ "textbook": {
+  "literal": "livro didático"
+ },
+ "thawing": {
+  "literal": "degelo"
+ },
+ "thermodynamics": {
+  "literal": "termodinâmica"
+ },
+ "tourist": {
+  "literal": "turista"
+ },
+ "triggers": {
+  "literal": "gatilhos",
+  "contextual": "causas que iniciam uma reação"
+ },
+ "uncovered": {
+  "literal": "descoberto"
+ },
+ "vegetables": {
+  "literal": "vegetais"
+ },
+ "vents": {
+  "literal": "aberturas",
+  "contextual": "saídas de ar ou vapores vulcânicos"
+ },
+ "version": {
+  "literal": "versão"
+ },
+ "wants": {
+  "literal": "quer"
+ },
+ "warms": {
+  "literal": "aquece"
+ },
+ "warn": {
+  "literal": "avisar"
+ },
+ "wave": {
+  "literal": "onda"
+ },
+ "wonder": {
+  "literal": "maravilha",
+  "contextual": "questionar ou sentir admiração"
+ },
+ "wood": {
+  "literal": "madeira"
+ },
+ "worry": {
+  "literal": "preocupação"
+ },
+ "accountable": {
+  "literal": "responsável",
+  "contextual": "prestar contas por ações"
+ },
+ "accumulation": {
+  "literal": "acúmulo"
+ },
+ "addiction": {
+  "literal": "vício"
+ },
+ "adding": {
+  "literal": "adicionando"
+ },
+ "ahead": {
+  "literal": "à frente"
+ },
+ "airlines": {
+  "literal": "companhias aéreas"
+ },
+ "alertness": {
+  "literal": "vigilância",
+  "contextual": "estado de alerta mental"
+ },
+ "algorithmic": {
+  "literal": "algorítmico"
+ },
+ "amazing": {
+  "literal": "incrível"
+ },
+ "amino": {
+  "literal": "amino",
+  "contextual": "referente a aminoácidos"
+ },
+ "anger": {
+  "literal": "raiva"
+ },
+ "angle": {
+  "literal": "ângulo"
+ },
+ "anticipate": {
+  "literal": "antecipar"
+ },
+ "anybody": {
+  "literal": "qualquer pessoa"
+ },
+ "anyway": {
+  "literal": "de qualquer forma"
+ },
+ "applicants": {
+  "literal": "candidatos"
+ },
+ "arise": {
+  "literal": "surgir",
+  "contextual": "problemas surgem (arise), não rise"
+ },
+ "articulate": {
+  "literal": "articular",
+  "contextual": "expressar ideias claramente"
+ },
+ "assembly": {
+  "literal": "montagem",
+  "contextual": "reunião de pessoas ou construção de peças"
+ },
+ "astronauts": {
+  "literal": "astronautas"
+ },
+ "astronomers": {
+  "literal": "astrônomos"
+ },
+ "attracting": {
+  "literal": "atraindo"
+ },
+ "backgrounds": {
+  "literal": "históricos",
+  "contextual": "origem ou contexto de vida de alguém"
+ },
+ "blow": {
+  "literal": "soprar",
+  "contextual": "golpe ou impacto inesperado"
+ },
+ "bonds": {
+  "literal": "vínculos",
+  "contextual": "ligações químicas ou financeiras"
+ },
+ "breaches": {
+  "literal": "violações",
+  "contextual": "quebra de contrato ou segurança"
+ },
+ "breath": {
+  "literal": "respiração",
+  "contextual": "breath (nome) vs breathe (verbo)"
+ },
+ "bulb": {
+  "literal": "lâmpada",
+  "contextual": "pode referir-se a bulbo de planta"
+ },
+ "burned": {
+  "literal": "queimado"
+ },
+ "bursting": {
+  "literal": "rompendo",
+  "contextual": "estourar devido a pressão"
+ },
+ "france": {
+  "literal": "França"
+ }
+}

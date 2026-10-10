@@ -1,0 +1,629 @@
+{
+ "spring": {
+  "literal": "primavera",
+  "contextual": "também pode significar mola ou nascente d'água"
+ },
+ "stories": {
+  "literal": "histórias"
+ },
+ "suddenly": {
+  "literal": "subitamente"
+ },
+ "teachers": {
+  "literal": "professores"
+ },
+ "treat": {
+  "literal": "tratar",
+  "contextual": "pode significar deleite ou mimo em contextos informais"
+ },
+ "undergraduate": {
+  "literal": "graduando",
+  "contextual": "aluno que ainda não concluiu seu primeiro diploma acadêmico"
+ },
+ "underwater": {
+  "literal": "subaquático"
+ },
+ "upcoming": {
+  "literal": "próximo",
+  "contextual": "frequentemente usado para eventos futuros programados"
+ },
+ "urgent": {
+  "literal": "urgente"
+ },
+ "user": {
+  "literal": "usuário"
+ },
+ "video": {
+  "literal": "vídeo"
+ },
+ "viral": {
+  "literal": "viral"
+ },
+ "west": {
+  "literal": "oeste"
+ },
+ "zones": {
+  "literal": "zonas"
+ },
+ "acquisition": {
+  "literal": "aquisição",
+  "contextual": "termo acadêmico comum para o processo de aprender um idioma"
+ },
+ "advocates": {
+  "literal": "defende",
+  "contextual": "pode ser substantivo (defensores) ou verbo (defender/advogar)"
+ },
+ "analytical": {
+  "literal": "analítico"
+ },
+ "astrophysicists": {
+  "literal": "astrofísicos"
+ },
+ "atmospheric": {
+  "literal": "atmosférico"
+ },
+ "borrow": {
+  "literal": "pegar emprestado"
+ },
+ "click": {
+  "literal": "clicar"
+ },
+ "cold": {
+  "literal": "frio"
+ },
+ "consolidation": {
+  "literal": "consolidação"
+ },
+ "depending": {
+  "literal": "dependendo"
+ },
+ "details": {
+  "literal": "detalhes"
+ },
+ "director": {
+  "literal": "diretor"
+ },
+ "discoveries": {
+  "literal": "descobertas"
+ },
+ "drastically": {
+  "literal": "drasticamente"
+ },
+ "driver": {
+  "literal": "fator determinante",
+  "contextual": "em contextos acadêmicos, indica a causa ou motor de um fenômeno"
+ },
+ "emphasize": {
+  "literal": "enfatizar"
+ },
+ "emphasized": {
+  "literal": "enfatizou"
+ },
+ "engage": {
+  "literal": "engajar",
+  "contextual": "envolver-se ativamente em uma tarefa ou discussão"
+ },
+ "enter": {
+  "literal": "entrar"
+ },
+ "equal": {
+  "literal": "igual"
+ },
+ "equally": {
+  "literal": "igualmente"
+ },
+ "equitable": {
+  "literal": "equitativo",
+  "contextual": "diferente de 'equal'; foca na justiça e proporcionalidade"
+ },
+ "existence": {
+  "literal": "existência"
+ },
+ "fully": {
+  "literal": "totalmente"
+ },
+ "gases": {
+  "literal": "gases"
+ },
+ "graduation": {
+  "literal": "formatura",
+  "contextual": "conclusão de um ciclo de estudos"
+ },
+ "host": {
+  "literal": "hospedeiro",
+  "contextual": "pode ser anfitrião, hospedeiro biológico ou apresentar um evento"
+ },
+ "inequality": {
+  "literal": "desigualdade"
+ },
+ "invisible": {
+  "literal": "invisível"
+ },
+ "item": {
+  "literal": "item"
+ },
+ "lawyer": {
+  "literal": "advogado"
+ },
+ "leadership": {
+  "literal": "liderança"
+ },
+ "leaving": {
+  "literal": "saindo"
+ },
+ "lesson": {
+  "literal": "lição"
+ },
+ "managed": {
+  "literal": "gerenciado"
+ },
+ "microbes": {
+  "literal": "micróbios"
+ },
+ "microscopic": {
+  "literal": "microscópico"
+ },
+ "motion": {
+  "literal": "movimento",
+  "contextual": "também usado para propostas formais em debates"
+ },
+ "narratives": {
+  "literal": "narrativas"
+ },
+ "nation": {
+  "literal": "nação"
+ },
+ "nothing": {
+  "literal": "nada"
+ },
+ "offered": {
+  "literal": "oferecido"
+ },
+ "operational": {
+  "literal": "operacional"
+ },
+ "output": {
+  "literal": "produção",
+  "contextual": "resultado final ou rendimento de um processo ou sistema"
+ },
+ "pathogens": {
+  "literal": "patógenos"
+ },
+ "perfect": {
+  "literal": "perfeito"
+ },
+ "periods": {
+  "literal": "períodos"
+ },
+ "phone": {
+  "literal": "telefone"
+ },
+ "publication": {
+  "literal": "publicação"
+ },
+ "received": {
+  "literal": "recebeu"
+ },
+ "reception": {
+  "literal": "recepção"
+ },
+ "reference": {
+  "literal": "referência"
+ },
+ "released": {
+  "literal": "lançado",
+  "contextual": "liberação de substâncias ou lançamento de dados/filmes"
+ },
+ "retail": {
+  "literal": "varejo"
+ },
+ "samples": {
+  "literal": "amostras"
+ },
+ "scales": {
+  "literal": "escalas",
+  "contextual": "pode significar balanças ou proporções de tamanho"
+ },
+ "scientist": {
+  "literal": "cientista"
+ },
+ "secondly": {
+  "literal": "em segundo lugar"
+ },
+ "selection": {
+  "literal": "seleção"
+ },
+ "sensitive": {
+  "literal": "sensível"
+ },
+ "sessions": {
+  "literal": "sessões"
+ },
+ "seven": {
+  "literal": "sete"
+ },
+ "ships": {
+  "literal": "navios",
+  "contextual": "pode atuar como verbo significando 'enviar mercadorias'"
+ },
+ "shortages": {
+  "literal": "escassez",
+  "contextual": "termo comum em textos sobre economia e recursos"
+ },
+ "styles": {
+  "literal": "estilos"
+ },
+ "target": {
+  "literal": "alvo"
+ },
+ "timing": {
+  "literal": "tempo exato",
+  "contextual": "escolha do momento oportuno para realizar algo"
+ },
+ "trading": {
+  "literal": "comércio"
+ },
+ "trust": {
+  "literal": "confiança"
+ },
+ "victorian": {
+  "literal": "vitoriano"
+ },
+ "visit": {
+  "literal": "visitar"
+ },
+ "wednesday": {
+  "literal": "quarta-feira"
+ },
+ "adjust": {
+  "literal": "ajustar"
+ },
+ "advice": {
+  "literal": "conselho",
+  "contextual": "substantivo incontável; não aceita 'an advice' ou 'advices'"
+ },
+ "advisor": {
+  "literal": "orientador"
+ },
+ "appears": {
+  "literal": "parece"
+ },
+ "assess": {
+  "literal": "avaliar",
+  "contextual": "frequente em contextos de provas e medição de desempenho"
+ },
+ "bookstore": {
+  "literal": "livraria"
+ },
+ "cases": {
+  "literal": "casos"
+ },
+ "characters": {
+  "literal": "personagens",
+  "contextual": "também significa letras ou símbolos (caracteres)"
+ },
+ "chinese": {
+  "literal": "chinês"
+ },
+ "citizenship": {
+  "literal": "cidadania"
+ },
+ "coaching": {
+  "literal": "treinamento"
+ },
+ "color": {
+  "literal": "cor"
+ },
+ "conduct": {
+  "literal": "conduzir",
+  "contextual": "frequente em 'conduct research' (realizar pesquisa)"
+ },
+ "consists": {
+  "literal": "consiste"
+ },
+ "cost-effective": {
+  "literal": "custo-benefício",
+  "contextual": "algo que produz bons resultados sem gastar muito dinheiro"
+ },
+ "demonstrate": {
+  "literal": "demonstrar"
+ },
+ "desk": {
+  "literal": "escrivaninha"
+ },
+ "determines": {
+  "literal": "determina"
+ },
+ "discussion": {
+  "literal": "discussão"
+ },
+ "document": {
+  "literal": "documento"
+ },
+ "dollars": {
+  "literal": "dólares"
+ },
+ "drones": {
+  "literal": "drones"
+ },
+ "earlier": {
+  "literal": "anteriormente"
+ },
+ "eat": {
+  "literal": "comer"
+ },
+ "electrical": {
+  "literal": "elétrico"
+ },
+ "elsewhere": {
+  "literal": "em outro lugar"
+ },
+ "emphasizes": {
+  "literal": "enfatiza"
+ },
+ "everyday": {
+  "literal": "cotidiano",
+  "contextual": "adjetivo que descreve algo comum; difere de 'every day'"
+ },
+ "expanding": {
+  "literal": "expandindo"
+ },
+ "expression": {
+  "literal": "expressão"
+ },
+ "eye": {
+  "literal": "olho"
+ },
+ "feelings": {
+  "literal": "sentimentos"
+ },
+ "flights": {
+  "literal": "voos"
+ },
+ "forest": {
+  "literal": "floresta"
+ },
+ "format": {
+  "literal": "formato"
+ },
+ "formed": {
+  "literal": "formado"
+ },
+ "forward": {
+  "literal": "para frente"
+ },
+ "frameworks": {
+  "literal": "estruturas conceituais",
+  "contextual": "modelos teóricos usados para organizar ideias ou sistemas"
+ },
+ "gathering": {
+  "literal": "coleta",
+  "contextual": "ato de reunir dados ou pessoas"
+ },
+ "hub": {
+  "literal": "centro",
+  "contextual": "núcleo principal de uma rede ou atividade"
+ },
+ "illness": {
+  "literal": "doença"
+ },
+ "immediately": {
+  "literal": "imediatamente"
+ },
+ "interact": {
+  "literal": "interagir"
+ },
+ "labour": {
+  "literal": "mão de obra",
+  "contextual": "termo econômico para trabalho humano"
+ },
+ "leaves": {
+  "literal": "folhas",
+  "contextual": "pode ser o plural de 'leaf' ou verbo 'partir/deixar'"
+ },
+ "libraries": {
+  "literal": "bibliotecas"
+ },
+ "maintenance": {
+  "literal": "manutenção"
+ },
+ "maize": {
+  "literal": "milho",
+  "contextual": "termo científico/acadêmico preferido a 'corn' em textos de agronomia"
+ },
+ "maritime": {
+  "literal": "marítimo"
+ },
+ "necessarily": {
+  "literal": "necessariamente"
+ },
+ "neither": {
+  "literal": "nenhum dos dois"
+ },
+ "occur": {
+  "literal": "ocorrer"
+ },
+ "organisations": {
+  "literal": "organizações"
+ },
+ "passive": {
+  "literal": "passivo"
+ },
+ "permafrost": {
+  "literal": "permafrost",
+  "contextual": "solo permanentemente congelado, comum em textos sobre clima"
+ },
+ "prime": {
+  "literal": "principal",
+  "contextual": "pode significar excelência, número primo ou o auge de algo"
+ },
+ "productive": {
+  "literal": "produtivo"
+ },
+ "proposal": {
+  "literal": "proposta"
+ },
+ "radical": {
+  "literal": "radical"
+ },
+ "raise": {
+  "literal": "elevar",
+  "contextual": "pode significar aumentar valores ou criar crianças/animais"
+ },
+ "reconstruct": {
+  "literal": "reconstruir"
+ },
+ "reflects": {
+  "literal": "reflete"
+ },
+ "registered": {
+  "literal": "registrado"
+ },
+ "regulating": {
+  "literal": "regulamentando"
+ },
+ "requirements": {
+  "literal": "requisitos"
+ },
+ "similarly": {
+  "literal": "de forma semelhante"
+ },
+ "site": {
+  "literal": "local",
+  "contextual": "pode ser um lugar físico ou endereço na internet"
+ },
+ "smiling": {
+  "literal": "sorrindo"
+ },
+ "spending": {
+  "literal": "gastos"
+ },
+ "stand": {
+  "literal": "ficar de pé",
+  "contextual": "também pode significar suporte ou posição em um debate"
+ },
+ "stop": {
+  "literal": "parar"
+ },
+ "stored": {
+  "literal": "armazenado"
+ },
+ "struggling": {
+  "literal": "esforçando-se",
+  "contextual": "indica dificuldade extrema em realizar algo"
+ },
+ "suggesting": {
+  "literal": "sugerindo"
+ },
+ "sustain": {
+  "literal": "sustentar"
+ },
+ "sustained": {
+  "literal": "sustentado"
+ },
+ "tested": {
+  "literal": "testado"
+ },
+ "told": {
+  "literal": "disse"
+ },
+ "uncover": {
+  "literal": "descobrir",
+  "contextual": "revelar algo que estava escondido ou era desconhecido"
+ },
+ "undergraduates": {
+  "literal": "graduandos"
+ },
+ "vision": {
+  "literal": "visão"
+ },
+ "wealth": {
+  "literal": "riqueza"
+ },
+ "wider": {
+  "literal": "mais amplo"
+ },
+ "workshops": {
+  "literal": "oficinas"
+ },
+ "accelerate": {
+  "literal": "acelerar"
+ },
+ "accurately": {
+  "literal": "precisamente"
+ },
+ "adverse": {
+  "literal": "adverso"
+ },
+ "afford": {
+  "literal": "arcar com",
+  "contextual": "geralmente usado com 'can' para capacidade financeira"
+ },
+ "alternatives": {
+  "literal": "alternativas"
+ },
+ "appointment": {
+  "literal": "compromisso",
+  "contextual": "horário marcado ou nomeação para um cargo"
+ },
+ "attending": {
+  "literal": "comparecendo"
+ },
+ "born": {
+  "literal": "nascido"
+ },
+ "calculate": {
+  "literal": "calcular"
+ },
+ "characteristics": {
+  "literal": "características"
+ },
+ "collective": {
+  "literal": "coletivo"
+ },
+ "conclusions": {
+  "literal": "conclusões"
+ },
+ "cornerstone": {
+  "literal": "pedra fundamental",
+  "contextual": "base essencial de um argumento ou sistema"
+ },
+ "dark": {
+  "literal": "escuro"
+ },
+ "deep-sea": {
+  "literal": "mar profundo"
+ },
+ "democracy": {
+  "literal": "democracia"
+ },
+ "died": {
+  "literal": "morreu"
+ },
+ "disagree": {
+  "literal": "discordar"
+ },
+ "disaster": {
+  "literal": "desastre"
+ },
+ "discovered": {
+  "literal": "descobriu"
+ },
+ "essays": {
+  "literal": "ensaios",
+  "contextual": "redações acadêmicas exigidas em exames como o pte"
+ },
+ "establish": {
+  "literal": "estabelecer"
+ },
+ "evaluate": {
+  "literal": "avaliar"
+ },
+ "firms": {
+  "literal": "empresas"
+ },
+ "flat": {
+  "literal": "plano",
+  "contextual": "pode significar superfície lisa ou apartamento (inglês britânico)"
+ }
+}
