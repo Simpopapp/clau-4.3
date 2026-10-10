@@ -544,5 +544,8 @@
   },
   "enriching": {
     "literal": "enriquecedor"
+  },
+  "botnets": {
+    "literal": "botnets, redes de robôs"
   }
 }
