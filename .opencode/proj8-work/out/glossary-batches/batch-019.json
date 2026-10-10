@@ -653,5 +653,17 @@
   "un": {
     "literal": "ONU",
     "contextual": "Nações Unidas"
+  },
+  "fiscal": {
+    "literal": "fiscal, tributário"
+  },
+  "integral": {
+    "literal": "integral, completo"
+  },
+  "interior": {
+    "literal": "interior, parte interna"
+  },
+  "superior": {
+    "literal": "superior, mais alto"
   }
 }

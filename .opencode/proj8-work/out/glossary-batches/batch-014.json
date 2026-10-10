@@ -592,5 +592,17 @@
   },
   "adapted": {
     "literal": "adaptado"
+  },
+  "experimental": {
+    "literal": "experimental, de teste"
+  },
+  "modular": {
+    "literal": "modular, em módulos"
+  },
+  "moral": {
+    "literal": "moral, ético"
+  },
+  "tutor": {
+    "literal": "tutor, orientador"
   }
 }

@@ -658,5 +658,23 @@
   "essentially": {
     "literal": "essencialmente",
     "contextual": "sinônimo de basicamente ao resumir uma ideia"
+  },
+  "artificial": {
+    "literal": "artificial, sintético"
+  },
+  "original": {
+    "literal": "original, autêntico"
+  },
+  "plural": {
+    "literal": "plural, múltiplo"
+  },
+  "regular": {
+    "literal": "regular, comum"
+  },
+  "rural": {
+    "literal": "rural, do campo"
+  },
+  "software": {
+    "literal": "software, programa"
   }
 }

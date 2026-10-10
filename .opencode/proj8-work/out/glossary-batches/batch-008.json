@@ -619,5 +619,11 @@
   "property": {
     "literal": "propriedade",
     "contextual": "característica ou posse"
+  },
+  "medieval": {
+    "literal": "medieval, antigo"
+  },
+  "normal": {
+    "literal": "normal, comum"
   }
 }

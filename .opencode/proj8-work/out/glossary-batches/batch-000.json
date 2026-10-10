@@ -596,5 +596,17 @@
   },
   "system": {
     "literal": "sistema"
+  },
+  "digital": {
+    "literal": "digital, numérico"
+  },
+  "global": {
+    "literal": "global, mundial"
+  },
+  "natural": {
+    "literal": "natural, da natureza"
+  },
+  "social": {
+    "literal": "social, da sociedade"
   }
 }

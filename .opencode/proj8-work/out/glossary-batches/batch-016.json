@@ -672,5 +672,20 @@
   },
   "spain": {
     "literal": "Espanha"
+  },
+  "gradual": {
+    "literal": "gradual, progressivo"
+  },
+  "instrumental": {
+    "literal": "instrumental, de instrumento"
+  },
+  "metal": {
+    "literal": "metal, material metálico"
+  },
+  "neural": {
+    "literal": "neural, dos nervos"
+  },
+  "nuclear": {
+    "literal": "nuclear, atômico"
   }
 }

@@ -638,5 +638,20 @@
   "somewhat": {
     "literal": "um tanto",
     "contextual": "em certa medida; um pouco"
+  },
+  "manual": {
+    "literal": "manual, artesanal"
+  },
+  "marketing": {
+    "literal": "marketing, divulgação"
+  },
+  "molecular": {
+    "literal": "molecular, de molécula"
+  },
+  "portal": {
+    "literal": "portal, portão"
+  },
+  "via": {
+    "literal": "via, caminho"
   }
 }

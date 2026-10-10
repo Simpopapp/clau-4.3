@@ -608,5 +608,23 @@
   },
   "immigrants": {
     "literal": "imigrantes"
+  },
+  "chance": {
+    "literal": "chance, possibilidade"
+  },
+  "civil": {
+    "literal": "civil, urbano"
+  },
+  "debates": {
+    "literal": "debates, discussões"
+  },
+  "festival": {
+    "literal": "festival, festa"
+  },
+  "ideal": {
+    "literal": "ideal, perfeito"
+  },
+  "tropical": {
+    "literal": "tropical, dos trópicos"
   }
 }

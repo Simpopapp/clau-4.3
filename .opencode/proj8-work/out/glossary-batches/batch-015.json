@@ -672,5 +672,14 @@
   },
   "grammar": {
     "literal": "gramática"
+  },
+  "extracurricular": {
+    "literal": "extracurricular, complementar"
+  },
+  "federal": {
+    "literal": "federal, da federação"
+  },
+  "vertical": {
+    "literal": "vertical, em pé"
   }
 }

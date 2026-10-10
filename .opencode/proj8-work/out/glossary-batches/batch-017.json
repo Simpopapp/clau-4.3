@@ -641,5 +641,11 @@
   },
   "simplified": {
     "literal": "simplificado"
+  },
+  "anemia": {
+    "literal": "anemia, hemoglobina baixa"
+  },
+  "chocolate": {
+    "literal": "chocolate, doce de cacau"
   }
 }

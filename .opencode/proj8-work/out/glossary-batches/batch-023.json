@@ -603,5 +603,8 @@
   },
   "romans": {
     "literal": "romanos"
+  },
+  "editor": {
+    "literal": "editor, revisor"
   }
 }

@@ -571,5 +571,11 @@
   },
   "france": {
     "literal": "França"
+  },
+  "medicinal": {
+    "literal": "medicinal, terapêutico"
+  },
+  "nuance": {
+    "literal": "nuance, matiz"
   }
 }

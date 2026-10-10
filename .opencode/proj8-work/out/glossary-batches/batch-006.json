@@ -660,5 +660,20 @@
   },
   "broader": {
     "literal": "mais amplo"
+  },
+  "genes": {
+    "literal": "genes, unidades hereditárias"
+  },
+  "habitat": {
+    "literal": "habitat, ambiente natural"
+  },
+  "habitats": {
+    "literal": "habitats, ambientes naturais"
+  },
+  "universal": {
+    "literal": "universal, global"
+  },
+  "visual": {
+    "literal": "visual, gráfico"
   }
 }

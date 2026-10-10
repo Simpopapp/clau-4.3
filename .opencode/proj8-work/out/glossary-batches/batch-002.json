@@ -635,5 +635,23 @@
   },
   "daily": {
     "literal": "diariamente"
+  },
+  "animal": {
+    "literal": "animal, bicho"
+  },
+  "campus": {
+    "literal": "campus, recinto universitário"
+  },
+  "fundamental": {
+    "literal": "fundamental, essencial"
+  },
+  "internet": {
+    "literal": "internet, rede mundial"
+  },
+  "real": {
+    "literal": "real, verdadeiro"
+  },
+  "solar": {
+    "literal": "solar, do sol"
   }
 }

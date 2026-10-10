@@ -609,5 +609,11 @@
   },
   "functions": {
     "literal": "funções"
+  },
+  "singular": {
+    "literal": "singular, único"
+  },
+  "volume": {
+    "literal": "volume, tomo"
   }
 }

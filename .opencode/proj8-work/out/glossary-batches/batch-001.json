@@ -770,5 +770,26 @@
   "simply": {
     "literal": "simplesmente",
     "contextual": "de modo simples ou apenas"
+  },
+  "crucial": {
+    "literal": "crucial, decisivo"
+  },
+  "cultural": {
+    "literal": "cultural, da cultura"
+  },
+  "industrial": {
+    "literal": "industrial, fabril"
+  },
+  "local": {
+    "literal": "local, do lugar"
+  },
+  "mental": {
+    "literal": "mental, da mente"
+  },
+  "professor": {
+    "literal": "professor, docente"
+  },
+  "vital": {
+    "literal": "vital, essencial"
   }
 }

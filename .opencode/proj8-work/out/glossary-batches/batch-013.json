@@ -628,5 +628,14 @@
   },
   "e-commerce": {
     "literal": "comércio eletrônico"
+  },
+  "celestial": {
+    "literal": "celestial, celeste"
+  },
+  "magma": {
+    "literal": "magma, rocha fundida"
+  },
+  "oral": {
+    "literal": "oral, falado"
   }
 }

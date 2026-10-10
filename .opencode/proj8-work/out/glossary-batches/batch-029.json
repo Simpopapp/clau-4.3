@@ -38,7 +38,7 @@
     "literal": "plâncton"
   },
   "plant-based": {
-    "literal": "à base de plantas"
+    "literal": "de origem vegetal"
   },
   "pleasure": {
     "literal": "prazer"
@@ -255,7 +255,7 @@
     "literal": "sombreamento"
   },
   "shellfish": {
-    "literal": "frutos do mar, moluscos"
+    "literal": "moluscos, crustáceos"
   },
   "shifted": {
     "literal": "mudou, deslocou"
@@ -547,5 +547,14 @@
   },
   "accelerators": {
     "literal": "aceleradores"
+  },
+  "sensor": {
+    "literal": "sensor, detector"
+  },
+  "tsunami": {
+    "literal": "tsunami, maremoto"
+  },
+  "verbal": {
+    "literal": "verbal, falado"
   }
 }

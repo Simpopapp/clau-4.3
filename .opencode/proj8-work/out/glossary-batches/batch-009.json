@@ -631,5 +631,17 @@
   },
   "showing": {
     "literal": "mostrando"
+  },
+  "capital": {
+    "literal": "capital, recursos financeiros"
+  },
+  "diabetes": {
+    "literal": "diabetes, diabetes mellitus"
+  },
+  "gene": {
+    "literal": "gene, unidade hereditária"
+  },
+  "linear": {
+    "literal": "linear, em linha"
   }
 }

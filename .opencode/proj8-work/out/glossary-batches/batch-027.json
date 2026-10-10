@@ -547,5 +547,14 @@
   },
   "botnets": {
     "literal": "redes de robôs"
+  },
+  "antiviral": {
+    "literal": "antiviral, remédio antiviral"
+  },
+  "continental": {
+    "literal": "continental, do continente"
+  },
+  "drama": {
+    "literal": "drama, peça dramática"
   }
 }

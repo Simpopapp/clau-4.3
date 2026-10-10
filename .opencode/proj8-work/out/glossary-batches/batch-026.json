@@ -581,5 +581,17 @@
   },
   "unfortunately": {
     "literal": "infelizmente"
+  },
+  "factual": {
+    "literal": "factual, de fatos"
+  },
+  "hospital": {
+    "literal": "hospital, nosocômio"
+  },
+  "informal": {
+    "literal": "informal, descontraído"
+  },
+  "lava": {
+    "literal": "lava, rocha fundida"
   }
 }

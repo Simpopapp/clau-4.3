@@ -606,5 +606,23 @@
   "flat": {
     "literal": "plano",
     "contextual": "pode significar superfície lisa ou apartamento (inglês britânico)"
+  },
+  "drones": {
+    "literal": "drones, aeronaves remotas"
+  },
+  "gases": {
+    "literal": "gases, emissões gasosas"
+  },
+  "item": {
+    "literal": "item, elemento"
+  },
+  "permafrost": {
+    "literal": "permafrost, solo congelado"
+  },
+  "radical": {
+    "literal": "radical, extremo"
+  },
+  "viral": {
+    "literal": "viral, contagioso"
   }
 }

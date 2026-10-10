@@ -654,5 +654,20 @@
   },
   "parts": {
     "literal": "partes"
+  },
+  "central": {
+    "literal": "central, principal"
+  },
+  "debate": {
+    "literal": "debate, discussão"
+  },
+  "era": {
+    "literal": "era, época"
+  },
+  "final": {
+    "literal": "final, último"
+  },
+  "popular": {
+    "literal": "popular, do povo"
   }
 }

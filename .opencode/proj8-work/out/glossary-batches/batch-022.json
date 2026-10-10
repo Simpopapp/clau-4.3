@@ -552,5 +552,38 @@
   },
   "napoleon": {
     "literal": "Napoleão"
+  },
+  "colonial": {
+    "literal": "colonial, da colônia"
+  },
+  "crime": {
+    "literal": "crime, delito"
+  },
+  "delta": {
+    "literal": "delta, delta fluvial"
+  },
+  "elite": {
+    "literal": "elite, seleção"
+  },
+  "elites": {
+    "literal": "elites, grupos dominantes"
+  },
+  "focal": {
+    "literal": "focal, do foco"
+  },
+  "horror": {
+    "literal": "horror, pavor"
+  },
+  "literal": {
+    "literal": "literal, exato"
+  },
+  "mega": {
+    "literal": "mega, enorme"
+  },
+  "mineral": {
+    "literal": "mineral, inorgânico"
+  },
+  "offline": {
+    "literal": "offline, desconectado"
   }
 }

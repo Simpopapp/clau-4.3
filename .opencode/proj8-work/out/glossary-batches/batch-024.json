@@ -564,5 +564,14 @@
   },
   "safeguarding": {
     "literal": "salvaguardando"
+  },
+  "equatorial": {
+    "literal": "equatorial, do equador"
+  },
+  "horizontal": {
+    "literal": "horizontal, plano"
+  },
+  "predecessor": {
+    "literal": "predecessor, antecessor"
   }
 }

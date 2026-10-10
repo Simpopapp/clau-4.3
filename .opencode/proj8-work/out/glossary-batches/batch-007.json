@@ -602,5 +602,29 @@
   "attendance": {
     "literal": "presença",
     "contextual": "frequência ou comparecimento"
+  },
+  "coral": {
+    "literal": "coral, de coral"
+  },
+  "formal": {
+    "literal": "formal, oficial"
+  },
+  "musical": {
+    "literal": "musical, da música"
+  },
+  "piano": {
+    "literal": "piano, instrumento musical"
+  },
+  "regional": {
+    "literal": "regional, da região"
+  },
+  "status": {
+    "literal": "status, estado"
+  },
+  "total": {
+    "literal": "total, completo"
+  },
+  "virtual": {
+    "literal": "virtual, simulado"
   }
 }

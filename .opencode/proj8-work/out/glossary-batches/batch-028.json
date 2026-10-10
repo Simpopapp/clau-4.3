@@ -179,7 +179,7 @@
     "literal": "ideológico"
   },
   "idling": {
-    "literal": "ocioso, em marcha lenta"
+    "literal": "ocioso"
   },
   "ignorant": {
     "literal": "ignorante"
@@ -515,5 +515,17 @@
   },
   "peasants": {
     "literal": "camponeses"
+  },
+  "familiar": {
+    "literal": "familiar, conhecido"
+  },
+  "glacial": {
+    "literal": "glacial, gélido"
+  },
+  "motor": {
+    "literal": "motor, propulsor"
+  },
+  "ordinal": {
+    "literal": "ordinal, número ordinal"
   }
 }

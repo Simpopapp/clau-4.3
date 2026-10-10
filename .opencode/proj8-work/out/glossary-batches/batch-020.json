@@ -617,5 +617,11 @@
   },
   "berlin": {
     "literal": "Berlim"
+  },
+  "cardiovascular": {
+    "literal": "cardiovascular, do coração"
+  },
+  "polar": {
+    "literal": "polar, do polo"
   }
 }
