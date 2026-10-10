@@ -1,0 +1,560 @@
+{
+  "unity": {
+    "literal": "unidade"
+  },
+  "unplanned": {
+    "literal": "não planejado"
+  },
+  "variability": {
+    "literal": "variabilidade"
+  },
+  "variation": {
+    "literal": "variação"
+  },
+  "ventilation": {
+    "literal": "ventilação"
+  },
+  "verbally": {
+    "literal": "verbalmente"
+  },
+  "videotape": {
+    "literal": "fita de vídeo"
+  },
+  "vitality": {
+    "literal": "vitalidade"
+  },
+  "vote": {
+    "literal": "voto, votar"
+  },
+  "vulnerability": {
+    "literal": "vulnerabilidade"
+  },
+  "warehouse": {
+    "literal": "armazém, depósito"
+  },
+  "warned": {
+    "literal": "avisou, alertou"
+  },
+  "weak": {
+    "literal": "fraco"
+  },
+  "weaker": {
+    "literal": "mais fraco"
+  },
+  "wet": {
+    "literal": "molhado, úmido"
+  },
+  "whose": {
+    "literal": "cujo"
+  },
+  "wish": {
+    "literal": "desejo, desejar"
+  },
+  "abraham": {
+    "literal": "abraão"
+  },
+  "absence": {
+    "literal": "ausência"
+  },
+  "academics": {
+    "literal": "acadêmicos"
+  },
+  "acid": {
+    "literal": "ácido"
+  },
+  "adulthood": {
+    "literal": "vida adulta"
+  },
+  "adversity": {
+    "literal": "adversidade"
+  },
+  "advertisements": {
+    "literal": "anúncios"
+  },
+  "advocated": {
+    "literal": "defendeu, apoiou"
+  },
+  "air-filled": {
+    "literal": "cheio de ar"
+  },
+  "allocated": {
+    "literal": "alocado, destinado"
+  },
+  "almond": {
+    "literal": "amêndoa"
+  },
+  "amateur": {
+    "literal": "amador"
+  },
+  "amidst": {
+    "literal": "em meio a"
+  },
+  "amplify": {
+    "literal": "amplificar"
+  },
+  "amplifying": {
+    "literal": "amplificando"
+  },
+  "anaconda": {
+    "literal": "anaconda, sucuri"
+  },
+  "anchoring": {
+    "literal": "ancoragem, ancorando"
+  },
+  "animated": {
+    "literal": "animado"
+  },
+  "animators": {
+    "literal": "animadores"
+  },
+  "apparently": {
+    "literal": "aparentemente"
+  },
+  "appreciating": {
+    "literal": "apreciando, valorizando"
+  },
+  "architect": {
+    "literal": "arquiteto"
+  },
+  "aspiring": {
+    "literal": "aspirante"
+  },
+  "associations": {
+    "literal": "associações"
+  },
+  "asteroid": {
+    "literal": "asteroide"
+  },
+  "attempts": {
+    "literal": "tentativas"
+  },
+  "attracted": {
+    "literal": "atraiu, atraído"
+  },
+  "attractive": {
+    "literal": "atraente"
+  },
+  "august": {
+    "literal": "agosto"
+  },
+  "aunt": {
+    "literal": "tia"
+  },
+  "automatic": {
+    "literal": "automático"
+  },
+  "avenue": {
+    "literal": "avenida"
+  },
+  "ball": {
+    "literal": "bola"
+  },
+  "bankrupt": {
+    "literal": "falido"
+  },
+  "bar": {
+    "literal": "barra, bar"
+  },
+  "barn": {
+    "literal": "celeiro"
+  },
+  "bars": {
+    "literal": "barras"
+  },
+  "beats": {
+    "literal": "batidas, supera"
+  },
+  "benefiting": {
+    "literal": "beneficiando-se"
+  },
+  "biodegradable": {
+    "literal": "biodegradável"
+  },
+  "bison": {
+    "literal": "bisão"
+  },
+  "blueprint": {
+    "literal": "projeto, plano"
+  },
+  "blurring": {
+    "literal": "borrando, confundindo"
+  },
+  "bones": {
+    "literal": "ossos"
+  },
+  "boosting": {
+    "literal": "impulsionando"
+  },
+  "bother": {
+    "literal": "incomodar"
+  },
+  "bottom": {
+    "literal": "fundo, parte inferior"
+  },
+  "branching": {
+    "literal": "ramificação, ramificando"
+  },
+  "branding": {
+    "literal": "criação de marca"
+  },
+  "bread": {
+    "literal": "pão"
+  },
+  "breadth": {
+    "literal": "amplitude, abrangência"
+  },
+  "broadcast": {
+    "literal": "transmissão, transmitir"
+  },
+  "brown": {
+    "literal": "marrom"
+  },
+  "bubble": {
+    "literal": "bolha"
+  },
+  "bumble": {
+    "literal": "atrapalhar-se, zangão"
+  },
+  "bursts": {
+    "literal": "explosões, rajadas"
+  },
+  "butt": {
+    "literal": "traseiro, extremidade"
+  },
+  "cages": {
+    "literal": "gaiolas"
+  },
+  "camps": {
+    "literal": "acampamentos"
+  },
+  "canned": {
+    "literal": "enlatado"
+  },
+  "carbohydrates": {
+    "literal": "carboidratos"
+  },
+  "carbs": {
+    "literal": "carboidratos"
+  },
+  "carrier": {
+    "literal": "portador, transportadora"
+  },
+  "carries": {
+    "literal": "carrega"
+  },
+  "catastrophe": {
+    "literal": "catástrofe"
+  },
+  "cats": {
+    "literal": "gatos"
+  },
+  "caution": {
+    "literal": "cautela"
+  },
+  "cautious": {
+    "literal": "cauteloso"
+  },
+  "celebrates": {
+    "literal": "celebra"
+  },
+  "ceos": {
+    "literal": "diretores executivos"
+  },
+  "cetera": {
+    "literal": "etcétera"
+  },
+  "championship": {
+    "literal": "campeonato"
+  },
+  "characterize": {
+    "literal": "caracterizar"
+  },
+  "charger": {
+    "literal": "carregador"
+  },
+  "clarity": {
+    "literal": "clareza"
+  },
+  "classification": {
+    "literal": "classificação"
+  },
+  "climate-driven": {
+    "literal": "impulsionado pelo clima"
+  },
+  "coaches": {
+    "literal": "treinadores"
+  },
+  "coalition": {
+    "literal": "coalizão"
+  },
+  "colleague": {
+    "literal": "colega"
+  },
+  "commence": {
+    "literal": "iniciar, começar"
+  },
+  "commented": {
+    "literal": "comentou"
+  },
+  "commerce": {
+    "literal": "comércio"
+  },
+  "compare": {
+    "literal": "comparar"
+  },
+  "compassion": {
+    "literal": "compaixão"
+  },
+  "compensation": {
+    "literal": "compensação"
+  },
+  "competes": {
+    "literal": "compete"
+  },
+  "completion": {
+    "literal": "conclusão"
+  },
+  "complicates": {
+    "literal": "complica"
+  },
+  "compromised": {
+    "literal": "comprometido"
+  },
+  "confirming": {
+    "literal": "confirmando"
+  },
+  "conquer": {
+    "literal": "conquistar"
+  },
+  "conscientiously": {
+    "literal": "conscienciosamente"
+  },
+  "consensus": {
+    "literal": "consenso"
+  },
+  "contend": {
+    "literal": "sustentar, argumentar"
+  },
+  "contradiction": {
+    "literal": "contradição"
+  },
+  "contrary": {
+    "literal": "contrário"
+  },
+  "copies": {
+    "literal": "cópias"
+  },
+  "copy": {
+    "literal": "cópia, copiar"
+  },
+  "corpus": {
+    "literal": "corpus, acervo"
+  },
+  "crafted": {
+    "literal": "elaborado, confeccionado"
+  },
+  "criminology": {
+    "literal": "criminologia"
+  },
+  "criticized": {
+    "literal": "criticado"
+  },
+  "curators": {
+    "literal": "curadores"
+  },
+  "curb": {
+    "literal": "conter, restringir"
+  },
+  "curiosity": {
+    "literal": "curiosidade"
+  },
+  "cuts": {
+    "literal": "cortes"
+  },
+  "dad": {
+    "literal": "pai"
+  },
+  "damaging": {
+    "literal": "prejudicial"
+  },
+  "datasets": {
+    "literal": "conjuntos de dados"
+  },
+  "decided": {
+    "literal": "decidiu"
+  },
+  "decisive": {
+    "literal": "decisivo"
+  },
+  "decoration": {
+    "literal": "decoração"
+  },
+  "decorative": {
+    "literal": "decorativo"
+  },
+  "decreasing": {
+    "literal": "diminuindo"
+  },
+  "defects": {
+    "literal": "defeitos"
+  },
+  "deficiency": {
+    "literal": "deficiência"
+  },
+  "definitely": {
+    "literal": "definitivamente"
+  },
+  "definitive": {
+    "literal": "definitivo"
+  },
+  "demanding": {
+    "literal": "exigente"
+  },
+  "democrats": {
+    "literal": "democratas"
+  },
+  "departure": {
+    "literal": "partida"
+  },
+  "depended": {
+    "literal": "dependeu"
+  },
+  "deposits": {
+    "literal": "depósitos"
+  },
+  "descent": {
+    "literal": "descendência, descida"
+  },
+  "desirability": {
+    "literal": "desejabilidade"
+  },
+  "destroyed": {
+    "literal": "destruído"
+  },
+  "detected": {
+    "literal": "detectado"
+  },
+  "determination": {
+    "literal": "determinação"
+  },
+  "determined": {
+    "literal": "determinado"
+  },
+  "devoted": {
+    "literal": "dedicado"
+  },
+  "diagnose": {
+    "literal": "diagnosticar"
+  },
+  "diagnostic": {
+    "literal": "diagnóstico"
+  },
+  "dilemmas": {
+    "literal": "dilemas"
+  },
+  "diminish": {
+    "literal": "diminuir"
+  },
+  "diminishes": {
+    "literal": "diminui"
+  },
+  "director-general": {
+    "literal": "diretor-geral"
+  },
+  "discriminate": {
+    "literal": "discriminar"
+  },
+  "discusses": {
+    "literal": "discute"
+  },
+  "dissenting": {
+    "literal": "dissidente"
+  },
+  "distinguished": {
+    "literal": "distinto, ilustre"
+  },
+  "distraction": {
+    "literal": "distração"
+  },
+  "distractions": {
+    "literal": "distrações"
+  },
+  "distribute": {
+    "literal": "distribuir"
+  },
+  "doctor": {
+    "literal": "médico, doutor"
+  },
+  "documentation": {
+    "literal": "documentação"
+  },
+  "dogs": {
+    "literal": "cães"
+  },
+  "dozen": {
+    "literal": "dúzia"
+  },
+  "drinkers": {
+    "literal": "bebedores"
+  },
+  "drinks": {
+    "literal": "bebidas"
+  },
+  "drops": {
+    "literal": "gotas, queda"
+  },
+  "drought-resistant": {
+    "literal": "resistente à seca"
+  },
+  "dwell": {
+    "literal": "habitar, residir"
+  },
+  "earnings": {
+    "literal": "ganhos, lucros"
+  },
+  "earthen": {
+    "literal": "de barro, terroso"
+  },
+  "echo": {
+    "literal": "eco"
+  },
+  "egyptians": {
+    "literal": "egípcios"
+  },
+  "electrification": {
+    "literal": "eletrificação"
+  },
+  "eliminates": {
+    "literal": "elimina"
+  },
+  "embracing": {
+    "literal": "abraçando, adotando"
+  },
+  "embryos": {
+    "literal": "embriões"
+  },
+  "emotionally": {
+    "literal": "emocionalmente"
+  },
+  "enacted": {
+    "literal": "promulgado"
+  },
+  "enriches": {
+    "literal": "enriquece"
+  },
+  "enriching": {
+    "literal": "enriquecedor"
+  },
+  "botnets": {
+    "literal": "redes de robôs"
+  },
+  "antiviral": {
+    "literal": "antiviral, remédio antiviral"
+  },
+  "continental": {
+    "literal": "continental, do continente"
+  },
+  "drama": {
+    "literal": "drama, peça dramática"
+  }
+}

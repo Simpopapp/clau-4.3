@@ -27,7 +27,10 @@ for (let i = 0; i < words.length; i += BATCH_SIZE) {
   batches.push(words.slice(i, i + BATCH_SIZE));
 }
 batches.forEach((batch, i) => {
-  writeFileSync(path.join(OUT_DIR, `batch-${String(i).padStart(3, "0")}.json`), JSON.stringify(batch));
+  writeFileSync(
+    path.join(OUT_DIR, `batch-${String(i).padStart(3, "0")}.json`),
+    JSON.stringify(batch),
+  );
 });
 
 // Relatório

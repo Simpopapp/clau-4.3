@@ -1,707 +1,691 @@
 {
- "habits": {
-  "literal": "hábitos"
- },
- "harms": {
-  "literal": "danos",
-  "contextual": "prejudicar ou machucar; uso comum em saúde e meio ambiente"
- },
- "hole": {
-  "literal": "buraco"
- },
- "horizon": {
-  "literal": "horizonte",
-  "contextual": "linite visível ou perspectivas futuras (new horizons)"
- },
- "ignore": {
-  "literal": "ignorar"
- },
- "impacting": {
-  "literal": "impactando",
-  "contextual": "afetar de forma significativa algo ou alguém"
- },
- "incorporating": {
-  "literal": "incorporando",
-  "contextual": "incluir ou integrar algo em um todo maior"
- },
- "inherited": {
-  "literal": "herdado",
-  "contextual": "recebido geneticamente ou por sucessão"
- },
- "initiated": {
-  "literal": "iniciado",
-  "contextual": "começar ou dar início a um processo formal"
- },
- "instinct": {
-  "literal": "instinto"
- },
- "instincts": {
-  "literal": "instintos"
- },
- "interpreting": {
-  "literal": "interpretando",
-  "contextual": "traduzir oralmente ou atribuir significado a dados"
- },
- "intervention": {
-  "literal": "intervenção",
-  "contextual": "ação para mudar um processo, comum em medicina e política"
- },
- "investigates": {
-  "literal": "investiga"
- },
- "laptops": {
-  "literal": "laptops"
- },
- "league": {
-  "literal": "liga",
-  "contextual": "competição esportiva ou associação de pessoas/nações"
- },
- "lifted": {
-  "literal": "elevado",
-  "contextual": "levantar fisicamente ou remover (regras, restrições)"
- },
- "limitations": {
-  "literal": "limitações",
-  "contextual": "restrições; termo comum em discussão de estudos"
- },
- "meaningful": {
-  "literal": "significativo"
- },
- "measured": {
-  "literal": "medido"
- },
- "measurement": {
-  "literal": "medição",
-  "contextual": "ato de quantificar algo com instrumentos ou escalas"
- },
- "megafauna": {
-  "literal": "megafauna",
-  "contextual": "animais de grande porte, comum em ecologia e extinções"
- },
- "meters": {
-  "literal": "metros"
- },
- "migrations": {
-  "literal": "migrações",
-  "contextual": "movimento de populações humanas ou animais"
- },
- "minds": {
-  "literal": "mentes"
- },
- "minimal": {
-  "literal": "mínimo",
-  "contextual": "quantidade ou efeito muito pequeno"
- },
- "mitigating": {
-  "literal": "mitigando",
-  "contextual": "reduzir a gravidade de algo, comum em clima"
- },
- "monsoon": {
-  "literal": "monção",
-  "contextual": "estação de chuvas sazonais típica do sul da Ásia"
- },
- "nectar": {
-  "literal": "néctar"
- },
- "nomadic": {
-  "literal": "nômade",
-  "contextual": "que se desloca constantemente, sem morada fixa"
- },
- "nuanced": {
-  "literal": "sutil",
-  "contextual": "com detalhes finos ou distinções de significado"
- },
- "nuclear": {
-  "literal": "nuclear",
-  "contextual": "relativo ao núcleo, energia atômica ou armas"
- },
- "nutrient": {
-  "literal": "nutriente"
- },
- "organizes": {
-  "literal": "organiza"
- },
- "orientation": {
-  "literal": "orientação",
-  "contextual": "posição relativa ou sessão de boas-vindas"
- },
- "outweigh": {
-  "literal": "superar",
-  "contextual": "ter mais peso ou importância que outra coisa"
- },
- "partners": {
-  "literal": "parceiros"
- },
- "party": {
-  "literal": "festa",
-  "contextual": "celebração, grupo político ou parte em um contrato"
- },
- "persistent": {
-  "literal": "persistente",
-  "contextual": "que continua firme ou duradouro no tempo"
- },
- "plane": {
-  "literal": "avião",
-  "contextual": "aeronave ou superfície geométrica plana"
- },
- "poetry": {
-  "literal": "poesia"
- },
- "poles": {
-  "literal": "polos",
-  "contextual": "extremos geográficos, magnéticos ou elétricos"
- },
- "pool": {
-  "literal": "piscina",
-  "contextual": "também reserva ou conjunto (pool of resources)"
- },
- "possibility": {
-  "literal": "possibilidade"
- },
- "preferences": {
-  "literal": "preferências"
- },
- "preparation": {
-  "literal": "preparação"
- },
- "pressures": {
-  "literal": "pressões",
-  "contextual": "forças físicas ou exigências sociais e econômicas"
- },
- "prestigious": {
-  "literal": "prestigiado",
-  "contextual": "de alto reconhecimento, comum para universidades"
- },
- "prevention": {
-  "literal": "prevenção",
-  "contextual": "ato de evitar que algo ocorra, comum em saúde"
- },
- "problem-solving": {
-  "literal": "resolução de problemas"
- },
- "proven": {
-  "literal": "comprovado"
- },
- "pull": {
-  "literal": "puxar",
-  "contextual": "força atrativa; oposto de push"
- },
- "quick": {
-  "literal": "rápido"
- },
- "reached": {
-  "literal": "alcançado",
-  "contextual": "chegar a um nível, lugar ou acordo"
- },
- "reasoning": {
-  "literal": "raciocínio",
-  "contextual": "processo lógico de pensar; comum em testes"
- },
- "relations": {
-  "literal": "relações",
-  "contextual": "conexões entre pessoas, países ou conceitos"
- },
- "reproduce": {
-  "literal": "reproduzir",
-  "contextual": "gerar descendência ou replicar resultados"
- },
- "rigid": {
-  "literal": "rígido"
- },
- "river": {
-  "literal": "rio"
- },
- "robotics": {
-  "literal": "robótica"
- },
- "sell": {
-  "literal": "vender"
- },
- "sheer": {
-  "literal": "puro",
-  "contextual": "usado para ênfase total (sheer size, sheer number)"
- },
- "sides": {
-  "literal": "lados",
-  "contextual": "partes opostas de um debate ou de uma forma"
- },
- "sight": {
-  "literal": "visão",
-  "contextual": "capacidade de ver ou cena vista (sightseeing)"
- },
- "signs": {
-  "literal": "sinais",
-  "contextual": "indicações, placas ou sintomas observáveis"
- },
- "sit": {
-  "literal": "sentar",
-  "contextual": "também prestar um exame (sit an exam)"
- },
- "slowing": {
-  "literal": "desacelerando"
- },
- "sparked": {
-  "literal": "desencadeado",
-  "contextual": "provocar o início de algo, comum em debates"
- },
- "spoken": {
-  "literal": "falado",
-  "contextual": "linguagem oral, oposto de escrito"
- },
- "stores": {
-  "literal": "lojas",
-  "contextual": "estabelecimentos comerciais ou reservas de dados"
- },
- "stressors": {
-  "literal": "estressores",
-  "contextual": "fatores que causam estresse, comum em psicologia"
- },
- "subterranean": {
-  "literal": "subterrâneo"
- },
- "suggested": {
-  "literal": "sugerido",
-  "contextual": "propor sem afirmar categoricamente"
- },
- "symbolic": {
-  "literal": "simbólico"
- },
- "symptoms": {
-  "literal": "sintomas",
-  "contextual": "indicações de doença percebidas pelo paciente"
- },
- "synthesis": {
-  "literal": "síntese",
-  "contextual": "combinação de elementos em um todo; escrever síntese"
- },
- "teacher": {
-  "literal": "professor"
- },
- "telecommunications": {
-  "literal": "telecomunicações"
- },
- "traits": {
-  "literal": "traços",
-  "contextual": "características hereditárias ou de personalidade"
- },
- "transparent": {
-  "literal": "transparente",
-  "contextual": "físico ou figurado (clarity, openness)"
- },
- "trapped": {
-  "literal": "preso",
-  "contextual": "incapacitado de escapar de um lugar ou situação"
- },
- "trouble": {
-  "literal": "problema",
-  "contextual": "dificuldade ou confusão; verbo também (to trouble)"
- },
- "typhoid": {
-  "literal": "tifoide",
-  "contextual": "doença infecciosa transmitida por água contaminada"
- },
- "unified": {
-  "literal": "unificado"
- },
- "units": {
-  "literal": "unidades",
-  "contextual": "medidas padronizadas ou seções organizacionais"
- },
- "utilized": {
-  "literal": "utilizado",
-  "contextual": "sinônimo formal de usado; comum em textos acadêmicos"
- },
- "variable": {
-  "literal": "variável",
-  "contextual": "fator que pode mudar; termo central em estatística"
- },
- "wanting": {
-  "literal": "faltando",
-  "contextual": "ausente ou insuficiente (formal); também desejando"
- },
- "whales": {
-  "literal": "baleias"
- },
- "wilderness": {
-  "literal": "natureza selvagem",
-  "contextual": "área intocada, comum em conservação"
- },
- "accelerating": {
-  "literal": "acelerando",
-  "contextual": "aumento de velocidade ou ritmo de um processo"
- },
- "adjusting": {
-  "literal": "ajustando",
-  "contextual": "adaptar ou modificar para melhor adequar-se"
- },
- "adolescents": {
-  "literal": "adolescentes",
-  "contextual": "jovens entre infância e vida adulta"
- },
- "alter": {
-  "literal": "alterar",
-  "contextual": "mudar ligeiramente algo, formal"
- },
- "apps": {
-  "literal": "aplicativos",
-  "contextual": "programas de software para dispositivos móveis"
- },
- "arms": {
-  "literal": "braços",
-  "contextual": "membros do corpo ou armas (small arms)"
- },
- "assigned": {
-  "literal": "atribuído",
-  "contextual": "designar tarefa, valor ou responsabilidade"
- },
- "assumption": {
-  "literal": "suposição",
-  "contextual": "premissa aceita sem prova; comum em argumentação"
- },
- "bags": {
-  "literal": "bolsas"
- },
- "basis": {
-  "literal": "base",
-  "contextual": "fundamento ou ponto de partida (on a daily basis)"
- },
- "basketball": {
-  "literal": "basquete"
- },
- "beach": {
-  "literal": "praia"
- },
- "begun": {
-  "literal": "começado",
-  "contextual": "particípio passado de begin"
- },
- "biomedical": {
-  "literal": "biomédico",
-  "contextual": "relativo à biologia aplicada à medicina"
- },
- "breakdown": {
-  "literal": "decomposição",
-  "contextual": "análise por partes ou falha mecânica"
- },
- "bulk": {
-  "literal": "grande parte",
-  "contextual": "maioria (the bulk of) ou volume físico"
- },
- "california": {
-  "literal": "Califórnia"
- },
- "cleaner": {
-  "literal": "mais limpo"
- },
- "cohesion": {
-  "literal": "coesão",
-  "contextual": "união entre partes; termo central em escrita PTE"
- },
- "collected": {
-  "literal": "coletado",
-  "contextual": "reunir dados ou amostras para estudo"
- },
- "committee": {
-  "literal": "comitê",
-  "contextual": "grupo formal designado para uma tarefa"
- },
- "comprehension": {
-  "literal": "compreensão",
-  "contextual": "entendimento de texto ou fala; comum em testes"
- },
- "connection": {
-  "literal": "conexão"
- },
- "constructive": {
-  "literal": "construtivo",
-  "contextual": "útil e positivo, comum em feedback"
- },
- "context": {
-  "literal": "contexto",
-  "contextual": "circunstâncias que cercam um evento ou texto"
- },
- "criteria": {
-  "literal": "critérios",
-  "contextual": "plural de criterion; padrões de avaliação"
- },
- "cultivate": {
-  "literal": "cultivar",
-  "contextual": "produzir colheitas ou desenvolver habilidades"
- },
- "dangers": {
-  "literal": "perigos"
- },
- "daylight": {
-  "literal": "luz do dia"
- },
- "departments": {
-  "literal": "departamentos",
-  "contextual": "divisões de universidades ou empresas"
- },
- "detection": {
-  "literal": "detecção",
-  "contextual": "ato de descobrir algo oculto ou sutil"
- },
- "devastating": {
-  "literal": "devastador",
-  "contextual": "causa dano severo ou destruição"
- },
- "discovering": {
-  "literal": "descobrindo"
- },
- "distinction": {
-  "literal": "distinção",
-  "contextual": "diferença clara ou honra acadêmica (with distinction)"
- },
- "drawing": {
-  "literal": "desenho",
-  "contextual": "arte gráfica ou o ato de extrair conclusões"
- },
- "durable": {
-  "literal": "durável",
-  "contextual": "resistente ao desgaste por longo tempo"
- },
- "earthquakes": {
-  "literal": "terremotos"
- },
- "eating": {
-  "literal": "comendo"
- },
- "edge": {
-  "literal": "borda",
-  "contextual": "limite físico ou vantagem competitiva"
- },
- "electronics": {
-  "literal": "eletrônicos"
- },
- "emergence": {
-  "literal": "emergência",
-  "contextual": "aparecimento ou surgimento de algo novo (não emergency)"
- },
- "employ": {
-  "literal": "empregar",
-  "contextual": "contratar pessoas ou utilizar métodos"
- },
- "engineered": {
-  "literal": "projetado",
-  "contextual": "desenvolvido com habilidade técnica ou geneticamente"
- },
- "equity": {
-  "literal": "equidade",
-  "contextual": "justiça no tratamento; não confundir com igualdade"
- },
- "evaluating": {
-  "literal": "avaliando"
- },
- "everywhere": {
-  "literal": "em toda parte"
- },
- "excellent": {
-  "literal": "excelente"
- },
- "express": {
-  "literal": "expressar",
-  "contextual": "comunicar ideias; também rápido (express train)"
- },
- "facilitate": {
-  "literal": "facilitar",
-  "contextual": "tornar mais fácil; verbo acadêmico comum"
- },
- "facility": {
-  "literal": "instalação",
-  "contextual": "local ou equipamento para uma atividade específica"
- },
- "faculties": {
-  "literal": "faculdades",
-  "contextual": "unidades universitárias ou capacidades mentais"
- },
- "fails": {
-  "literal": "falha"
- },
- "festivals": {
-  "literal": "festivais"
- },
- "film": {
-  "literal": "filme",
-  "contextual": "produção cinematográfica ou película fotográfica"
- },
- "finished": {
-  "literal": "terminado"
- },
- "formations": {
-  "literal": "formações",
-  "contextual": "estruturas geológicas ou arranjos de grupos"
- },
- "friendly": {
-  "literal": "amigável"
- },
- "galaxy": {
-  "literal": "galáxia"
- },
- "governance": {
-  "literal": "governança",
-  "contextual": "forma de gestão de instituições ou países"
- },
- "gradual": {
-  "literal": "gradual"
- },
- "histories": {
-  "literal": "histórias",
-  "contextual": "narrativas do passado; plural formal"
- },
- "holding": {
-  "literal": "segurando",
-  "contextual": "manter posse ou realizar um evento (holding a meeting)"
- },
- "horseshoe": {
-  "literal": "ferradura"
- },
- "icebergs": {
-  "literal": "icebergs"
- },
- "identical": {
-  "literal": "idêntico"
- },
- "images": {
-  "literal": "imagens"
- },
- "instrumental": {
-  "literal": "instrumental",
-  "contextual": "essencial para alcançar algo (instrumental in)"
- },
- "integrate": {
-  "literal": "integrar",
-  "contextual": "combinar partes em um todo coeso"
- },
- "intensity": {
-  "literal": "intensidade"
- },
- "interdisciplinary": {
-  "literal": "interdisciplinar",
-  "contextual": "envolve múltiplas áreas do conhecimento"
- },
- "irrelevant": {
-  "literal": "irrelevante"
- },
- "irrigation": {
-  "literal": "irrigação",
-  "contextual": "abastecimento artificial de água para cultivo"
- },
- "labs": {
-  "literal": "laboratórios"
- },
- "lands": {
-  "literal": "terras",
-  "contextual": "áreas de solo ou aterrissar (verb lands)"
- },
- "limitation": {
-  "literal": "limitação"
- },
- "limiting": {
-  "literal": "limitante",
-  "contextual": "que restringe ou impede o progresso"
- },
- "listener": {
-  "literal": "ouvinte"
- },
- "literally": {
-  "literal": "literalmente",
-  "contextual": "no sentido exato; uso enfático coloquial"
- },
- "locally": {
-  "literal": "localmente"
- },
- "loop": {
-  "literal": "laço",
-  "contextual": "ciclo fechado ou caminho circular"
- },
- "lowest": {
-  "literal": "mais baixo"
- },
- "lungs": {
-  "literal": "pulmões"
- },
- "medium": {
-  "literal": "meio",
-  "contextual": "veículo de comunicação ou nível intermediário"
- },
- "melbourne": {
-  "literal": "Melbourne"
- },
- "mentioned": {
-  "literal": "mencionado"
- },
- "metal": {
-  "literal": "metal"
- },
- "methane": {
-  "literal": "metano",
-  "contextual": "gás de efeito estufa potente, comum em clima"
- },
- "midnight": {
-  "literal": "meia-noite"
- },
- "missions": {
-  "literal": "missões",
-  "contextual": "tarefas designadas ou viagens espaciais"
- },
- "mitigation": {
-  "literal": "mitigação",
-  "contextual": "ação de reduzir danos, comum em clima"
- },
- "mixture": {
-  "literal": "mistura"
- },
- "moon": {
-  "literal": "lua"
- },
- "mortality": {
-  "literal": "mortalidade",
-  "contextual": "taxa de mortes em uma população"
- },
- "mysteries": {
-  "literal": "mistérios"
- },
- "neural": {
-  "literal": "neural",
-  "contextual": "relativo a nervos ou redes neurais artificiais"
- },
- "nevertheless": {
-  "literal": "no entanto",
-  "contextual": "conector de contraste, formal"
- },
- "newspaper": {
-  "literal": "jornal"
- },
- "nine": {
-  "literal": "nove"
- },
- "painting": {
-  "literal": "pintura"
- },
- "pair": {
-  "literal": "par"
- },
- "paraphrases": {
-  "literal": "paráfrases",
-  "contextual": "reformulações de um texto com outras palavras"
- },
- "partnerships": {
-  "literal": "parcerias",
-  "contextual": "colaborações formais entre organizações"
- },
- "pesticide": {
-  "literal": "pesticida"
- },
- "pitch": {
-  "literal": "tom",
-  "contextual": "altura sonora, campo esportivo ou proposta de venda"
- },
- "players": {
-  "literal": "jogadores",
-  "contextual": "atletas ou atores relevantes (key players)"
- },
- "spain": {
-  "literal": "Espanha"
- }
+  "habits": {
+    "literal": "hábitos"
+  },
+  "harms": {
+    "literal": "danos",
+    "contextual": "prejudicar ou machucar; uso comum em saúde e meio ambiente"
+  },
+  "hole": {
+    "literal": "buraco"
+  },
+  "horizon": {
+    "literal": "horizonte",
+    "contextual": "linite visível ou perspectivas futuras (new horizons)"
+  },
+  "ignore": {
+    "literal": "ignorar"
+  },
+  "impacting": {
+    "literal": "impactando",
+    "contextual": "afetar de forma significativa algo ou alguém"
+  },
+  "incorporating": {
+    "literal": "incorporando",
+    "contextual": "incluir ou integrar algo em um todo maior"
+  },
+  "inherited": {
+    "literal": "herdado",
+    "contextual": "recebido geneticamente ou por sucessão"
+  },
+  "initiated": {
+    "literal": "iniciado",
+    "contextual": "começar ou dar início a um processo formal"
+  },
+  "instinct": {
+    "literal": "instinto"
+  },
+  "instincts": {
+    "literal": "instintos"
+  },
+  "interpreting": {
+    "literal": "interpretando",
+    "contextual": "traduzir oralmente ou atribuir significado a dados"
+  },
+  "intervention": {
+    "literal": "intervenção",
+    "contextual": "ação para mudar um processo, comum em medicina e política"
+  },
+  "investigates": {
+    "literal": "investiga"
+  },
+  "league": {
+    "literal": "liga",
+    "contextual": "competição esportiva ou associação de pessoas/nações"
+  },
+  "lifted": {
+    "literal": "elevado",
+    "contextual": "levantar fisicamente ou remover (regras, restrições)"
+  },
+  "limitations": {
+    "literal": "limitações",
+    "contextual": "restrições; termo comum em discussão de estudos"
+  },
+  "meaningful": {
+    "literal": "significativo"
+  },
+  "measured": {
+    "literal": "medido"
+  },
+  "measurement": {
+    "literal": "medição",
+    "contextual": "ato de quantificar algo com instrumentos ou escalas"
+  },
+  "meters": {
+    "literal": "metros"
+  },
+  "migrations": {
+    "literal": "migrações",
+    "contextual": "movimento de populações humanas ou animais"
+  },
+  "minds": {
+    "literal": "mentes"
+  },
+  "minimal": {
+    "literal": "mínimo",
+    "contextual": "quantidade ou efeito muito pequeno"
+  },
+  "mitigating": {
+    "literal": "mitigando",
+    "contextual": "reduzir a gravidade de algo, comum em clima"
+  },
+  "monsoon": {
+    "literal": "monção",
+    "contextual": "estação de chuvas sazonais típica do sul da Ásia"
+  },
+  "nectar": {
+    "literal": "néctar"
+  },
+  "nomadic": {
+    "literal": "nômade",
+    "contextual": "que se desloca constantemente, sem morada fixa"
+  },
+  "nuanced": {
+    "literal": "sutil",
+    "contextual": "com detalhes finos ou distinções de significado"
+  },
+  "nutrient": {
+    "literal": "nutriente"
+  },
+  "organizes": {
+    "literal": "organiza"
+  },
+  "orientation": {
+    "literal": "orientação",
+    "contextual": "posição relativa ou sessão de boas-vindas"
+  },
+  "outweigh": {
+    "literal": "superar",
+    "contextual": "ter mais peso ou importância que outra coisa"
+  },
+  "partners": {
+    "literal": "parceiros"
+  },
+  "party": {
+    "literal": "festa",
+    "contextual": "celebração, grupo político ou parte em um contrato"
+  },
+  "persistent": {
+    "literal": "persistente",
+    "contextual": "que continua firme ou duradouro no tempo"
+  },
+  "plane": {
+    "literal": "avião",
+    "contextual": "aeronave ou superfície geométrica plana"
+  },
+  "poetry": {
+    "literal": "poesia"
+  },
+  "poles": {
+    "literal": "polos",
+    "contextual": "extremos geográficos, magnéticos ou elétricos"
+  },
+  "pool": {
+    "literal": "piscina",
+    "contextual": "também reserva ou conjunto (pool of resources)"
+  },
+  "possibility": {
+    "literal": "possibilidade"
+  },
+  "preferences": {
+    "literal": "preferências"
+  },
+  "preparation": {
+    "literal": "preparação"
+  },
+  "pressures": {
+    "literal": "pressões",
+    "contextual": "forças físicas ou exigências sociais e econômicas"
+  },
+  "prestigious": {
+    "literal": "prestigiado",
+    "contextual": "de alto reconhecimento, comum para universidades"
+  },
+  "prevention": {
+    "literal": "prevenção",
+    "contextual": "ato de evitar que algo ocorra, comum em saúde"
+  },
+  "problem-solving": {
+    "literal": "resolução de problemas"
+  },
+  "proven": {
+    "literal": "comprovado"
+  },
+  "pull": {
+    "literal": "puxar",
+    "contextual": "força atrativa; oposto de push"
+  },
+  "quick": {
+    "literal": "rápido"
+  },
+  "reached": {
+    "literal": "alcançado",
+    "contextual": "chegar a um nível, lugar ou acordo"
+  },
+  "reasoning": {
+    "literal": "raciocínio",
+    "contextual": "processo lógico de pensar; comum em testes"
+  },
+  "relations": {
+    "literal": "relações",
+    "contextual": "conexões entre pessoas, países ou conceitos"
+  },
+  "reproduce": {
+    "literal": "reproduzir",
+    "contextual": "gerar descendência ou replicar resultados"
+  },
+  "rigid": {
+    "literal": "rígido"
+  },
+  "river": {
+    "literal": "rio"
+  },
+  "robotics": {
+    "literal": "robótica"
+  },
+  "sell": {
+    "literal": "vender"
+  },
+  "sheer": {
+    "literal": "puro",
+    "contextual": "usado para ênfase total (sheer size, sheer number)"
+  },
+  "sides": {
+    "literal": "lados",
+    "contextual": "partes opostas de um debate ou de uma forma"
+  },
+  "sight": {
+    "literal": "visão",
+    "contextual": "capacidade de ver ou cena vista (sightseeing)"
+  },
+  "signs": {
+    "literal": "sinais",
+    "contextual": "indicações, placas ou sintomas observáveis"
+  },
+  "sit": {
+    "literal": "sentar",
+    "contextual": "também prestar um exame (sit an exam)"
+  },
+  "slowing": {
+    "literal": "desacelerando"
+  },
+  "sparked": {
+    "literal": "desencadeado",
+    "contextual": "provocar o início de algo, comum em debates"
+  },
+  "spoken": {
+    "literal": "falado",
+    "contextual": "linguagem oral, oposto de escrito"
+  },
+  "stores": {
+    "literal": "lojas",
+    "contextual": "estabelecimentos comerciais ou reservas de dados"
+  },
+  "stressors": {
+    "literal": "estressores",
+    "contextual": "fatores que causam estresse, comum em psicologia"
+  },
+  "subterranean": {
+    "literal": "subterrâneo"
+  },
+  "suggested": {
+    "literal": "sugerido",
+    "contextual": "propor sem afirmar categoricamente"
+  },
+  "symbolic": {
+    "literal": "simbólico"
+  },
+  "symptoms": {
+    "literal": "sintomas",
+    "contextual": "indicações de doença percebidas pelo paciente"
+  },
+  "synthesis": {
+    "literal": "síntese",
+    "contextual": "combinação de elementos em um todo; escrever síntese"
+  },
+  "teacher": {
+    "literal": "professor"
+  },
+  "telecommunications": {
+    "literal": "telecomunicações"
+  },
+  "traits": {
+    "literal": "traços",
+    "contextual": "características hereditárias ou de personalidade"
+  },
+  "transparent": {
+    "literal": "transparente",
+    "contextual": "físico ou figurado (clarity, openness)"
+  },
+  "trapped": {
+    "literal": "preso",
+    "contextual": "incapacitado de escapar de um lugar ou situação"
+  },
+  "trouble": {
+    "literal": "problema",
+    "contextual": "dificuldade ou confusão; verbo também (to trouble)"
+  },
+  "typhoid": {
+    "literal": "tifoide",
+    "contextual": "doença infecciosa transmitida por água contaminada"
+  },
+  "unified": {
+    "literal": "unificado"
+  },
+  "units": {
+    "literal": "unidades",
+    "contextual": "medidas padronizadas ou seções organizacionais"
+  },
+  "utilized": {
+    "literal": "utilizado",
+    "contextual": "sinônimo formal de usado; comum em textos acadêmicos"
+  },
+  "variable": {
+    "literal": "variável",
+    "contextual": "fator que pode mudar; termo central em estatística"
+  },
+  "wanting": {
+    "literal": "faltando",
+    "contextual": "ausente ou insuficiente (formal); também desejando"
+  },
+  "whales": {
+    "literal": "baleias"
+  },
+  "wilderness": {
+    "literal": "natureza selvagem",
+    "contextual": "área intocada, comum em conservação"
+  },
+  "accelerating": {
+    "literal": "acelerando",
+    "contextual": "aumento de velocidade ou ritmo de um processo"
+  },
+  "adjusting": {
+    "literal": "ajustando",
+    "contextual": "adaptar ou modificar para melhor adequar-se"
+  },
+  "adolescents": {
+    "literal": "adolescentes",
+    "contextual": "jovens entre infância e vida adulta"
+  },
+  "alter": {
+    "literal": "alterar",
+    "contextual": "mudar ligeiramente algo, formal"
+  },
+  "apps": {
+    "literal": "aplicativos",
+    "contextual": "programas de software para dispositivos móveis"
+  },
+  "arms": {
+    "literal": "braços",
+    "contextual": "membros do corpo ou armas (small arms)"
+  },
+  "assigned": {
+    "literal": "atribuído",
+    "contextual": "designar tarefa, valor ou responsabilidade"
+  },
+  "assumption": {
+    "literal": "suposição",
+    "contextual": "premissa aceita sem prova; comum em argumentação"
+  },
+  "bags": {
+    "literal": "bolsas"
+  },
+  "basis": {
+    "literal": "base",
+    "contextual": "fundamento ou ponto de partida (on a daily basis)"
+  },
+  "basketball": {
+    "literal": "basquete"
+  },
+  "beach": {
+    "literal": "praia"
+  },
+  "begun": {
+    "literal": "começado",
+    "contextual": "particípio passado de begin"
+  },
+  "biomedical": {
+    "literal": "biomédico",
+    "contextual": "relativo à biologia aplicada à medicina"
+  },
+  "breakdown": {
+    "literal": "decomposição",
+    "contextual": "análise por partes ou falha mecânica"
+  },
+  "bulk": {
+    "literal": "grande parte",
+    "contextual": "maioria (the bulk of) ou volume físico"
+  },
+  "california": {
+    "literal": "Califórnia"
+  },
+  "cleaner": {
+    "literal": "mais limpo"
+  },
+  "cohesion": {
+    "literal": "coesão",
+    "contextual": "união entre partes; termo central em escrita PTE"
+  },
+  "collected": {
+    "literal": "coletado",
+    "contextual": "reunir dados ou amostras para estudo"
+  },
+  "committee": {
+    "literal": "comitê",
+    "contextual": "grupo formal designado para uma tarefa"
+  },
+  "comprehension": {
+    "literal": "compreensão",
+    "contextual": "entendimento de texto ou fala; comum em testes"
+  },
+  "connection": {
+    "literal": "conexão"
+  },
+  "constructive": {
+    "literal": "construtivo",
+    "contextual": "útil e positivo, comum em feedback"
+  },
+  "context": {
+    "literal": "contexto",
+    "contextual": "circunstâncias que cercam um evento ou texto"
+  },
+  "criteria": {
+    "literal": "critérios",
+    "contextual": "plural de criterion; padrões de avaliação"
+  },
+  "cultivate": {
+    "literal": "cultivar",
+    "contextual": "produzir colheitas ou desenvolver habilidades"
+  },
+  "dangers": {
+    "literal": "perigos"
+  },
+  "daylight": {
+    "literal": "luz do dia"
+  },
+  "departments": {
+    "literal": "departamentos",
+    "contextual": "divisões de universidades ou empresas"
+  },
+  "detection": {
+    "literal": "detecção",
+    "contextual": "ato de descobrir algo oculto ou sutil"
+  },
+  "devastating": {
+    "literal": "devastador",
+    "contextual": "causa dano severo ou destruição"
+  },
+  "discovering": {
+    "literal": "descobrindo"
+  },
+  "distinction": {
+    "literal": "distinção",
+    "contextual": "diferença clara ou honra acadêmica (with distinction)"
+  },
+  "drawing": {
+    "literal": "desenho",
+    "contextual": "arte gráfica ou o ato de extrair conclusões"
+  },
+  "durable": {
+    "literal": "durável",
+    "contextual": "resistente ao desgaste por longo tempo"
+  },
+  "earthquakes": {
+    "literal": "terremotos"
+  },
+  "eating": {
+    "literal": "comendo"
+  },
+  "edge": {
+    "literal": "borda",
+    "contextual": "limite físico ou vantagem competitiva"
+  },
+  "electronics": {
+    "literal": "eletrônicos"
+  },
+  "emergence": {
+    "literal": "emergência",
+    "contextual": "aparecimento ou surgimento de algo novo (não emergency)"
+  },
+  "employ": {
+    "literal": "empregar",
+    "contextual": "contratar pessoas ou utilizar métodos"
+  },
+  "engineered": {
+    "literal": "projetado",
+    "contextual": "desenvolvido com habilidade técnica ou geneticamente"
+  },
+  "equity": {
+    "literal": "equidade",
+    "contextual": "justiça no tratamento; não confundir com igualdade"
+  },
+  "evaluating": {
+    "literal": "avaliando"
+  },
+  "everywhere": {
+    "literal": "em toda parte"
+  },
+  "excellent": {
+    "literal": "excelente"
+  },
+  "express": {
+    "literal": "expressar",
+    "contextual": "comunicar ideias; também rápido (express train)"
+  },
+  "facilitate": {
+    "literal": "facilitar",
+    "contextual": "tornar mais fácil; verbo acadêmico comum"
+  },
+  "facility": {
+    "literal": "instalação",
+    "contextual": "local ou equipamento para uma atividade específica"
+  },
+  "faculties": {
+    "literal": "faculdades",
+    "contextual": "unidades universitárias ou capacidades mentais"
+  },
+  "fails": {
+    "literal": "falha"
+  },
+  "festivals": {
+    "literal": "festivais"
+  },
+  "film": {
+    "literal": "filme",
+    "contextual": "produção cinematográfica ou película fotográfica"
+  },
+  "finished": {
+    "literal": "terminado"
+  },
+  "formations": {
+    "literal": "formações",
+    "contextual": "estruturas geológicas ou arranjos de grupos"
+  },
+  "friendly": {
+    "literal": "amigável"
+  },
+  "galaxy": {
+    "literal": "galáxia"
+  },
+  "governance": {
+    "literal": "governança",
+    "contextual": "forma de gestão de instituições ou países"
+  },
+  "histories": {
+    "literal": "histórias",
+    "contextual": "narrativas do passado; plural formal"
+  },
+  "holding": {
+    "literal": "segurando",
+    "contextual": "manter posse ou realizar um evento (holding a meeting)"
+  },
+  "horseshoe": {
+    "literal": "ferradura"
+  },
+  "identical": {
+    "literal": "idêntico"
+  },
+  "images": {
+    "literal": "imagens"
+  },
+  "integrate": {
+    "literal": "integrar",
+    "contextual": "combinar partes em um todo coeso"
+  },
+  "intensity": {
+    "literal": "intensidade"
+  },
+  "interdisciplinary": {
+    "literal": "interdisciplinar",
+    "contextual": "envolve múltiplas áreas do conhecimento"
+  },
+  "irrelevant": {
+    "literal": "irrelevante"
+  },
+  "irrigation": {
+    "literal": "irrigação",
+    "contextual": "abastecimento artificial de água para cultivo"
+  },
+  "labs": {
+    "literal": "laboratórios"
+  },
+  "lands": {
+    "literal": "terras",
+    "contextual": "áreas de solo ou aterrissar (verb lands)"
+  },
+  "limitation": {
+    "literal": "limitação"
+  },
+  "limiting": {
+    "literal": "limitante",
+    "contextual": "que restringe ou impede o progresso"
+  },
+  "listener": {
+    "literal": "ouvinte"
+  },
+  "literally": {
+    "literal": "literalmente",
+    "contextual": "no sentido exato; uso enfático coloquial"
+  },
+  "locally": {
+    "literal": "localmente"
+  },
+  "loop": {
+    "literal": "laço",
+    "contextual": "ciclo fechado ou caminho circular"
+  },
+  "lowest": {
+    "literal": "mais baixo"
+  },
+  "lungs": {
+    "literal": "pulmões"
+  },
+  "medium": {
+    "literal": "meio",
+    "contextual": "veículo de comunicação ou nível intermediário"
+  },
+  "mentioned": {
+    "literal": "mencionado"
+  },
+  "methane": {
+    "literal": "metano",
+    "contextual": "gás de efeito estufa potente, comum em clima"
+  },
+  "midnight": {
+    "literal": "meia-noite"
+  },
+  "missions": {
+    "literal": "missões",
+    "contextual": "tarefas designadas ou viagens espaciais"
+  },
+  "mitigation": {
+    "literal": "mitigação",
+    "contextual": "ação de reduzir danos, comum em clima"
+  },
+  "mixture": {
+    "literal": "mistura"
+  },
+  "moon": {
+    "literal": "lua"
+  },
+  "mortality": {
+    "literal": "mortalidade",
+    "contextual": "taxa de mortes em uma população"
+  },
+  "mysteries": {
+    "literal": "mistérios"
+  },
+  "nevertheless": {
+    "literal": "no entanto",
+    "contextual": "conector de contraste, formal"
+  },
+  "newspaper": {
+    "literal": "jornal"
+  },
+  "nine": {
+    "literal": "nove"
+  },
+  "painting": {
+    "literal": "pintura"
+  },
+  "pair": {
+    "literal": "par"
+  },
+  "paraphrases": {
+    "literal": "paráfrases",
+    "contextual": "reformulações de um texto com outras palavras"
+  },
+  "partnerships": {
+    "literal": "parcerias",
+    "contextual": "colaborações formais entre organizações"
+  },
+  "pesticide": {
+    "literal": "pesticida"
+  },
+  "pitch": {
+    "literal": "tom",
+    "contextual": "altura sonora, campo esportivo ou proposta de venda"
+  },
+  "players": {
+    "literal": "jogadores",
+    "contextual": "atletas ou atores relevantes (key players)"
+  },
+  "spain": {
+    "literal": "Espanha"
+  },
+  "gradual": {
+    "literal": "gradual, progressivo"
+  },
+  "instrumental": {
+    "literal": "instrumental, de instrumento"
+  },
+  "metal": {
+    "literal": "metal, material metálico"
+  },
+  "neural": {
+    "literal": "neural, dos nervos"
+  },
+  "nuclear": {
+    "literal": "nuclear, atômico"
+  }
 }

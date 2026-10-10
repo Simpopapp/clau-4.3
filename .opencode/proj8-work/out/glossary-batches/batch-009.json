@@ -1,1 +1,647 @@
-{"proponents": {"literal": "defensores", "contextual": "usado frequentemente em debates acadêmicos para citar apoiadores de uma ideia"}, "reactions": {"literal": "reações"}, "recycling": {"literal": "reciclagem"}, "responses": {"literal": "respostas"}, "search": {"literal": "busca"}, "seasons": {"literal": "estações", "contextual": "refere-se às divisões climáticas do ano"}, "signals": {"literal": "sinais"}, "slides": {"literal": "slides", "contextual": "comum em contextos de apresentações ou lâminas de microscópio"}, "solution": {"literal": "solução"}, "speaker": {"literal": "palestrante", "contextual": "termo padrão para o orador em questões de retell lecture"}, "top": {"literal": "topo"}, "traditions": {"literal": "tradições"}, "utilize": {"literal": "utilizar", "contextual": "variante formal de 'use' recomendada para escrita acadêmica"}, "valuable": {"literal": "valioso"}, "wealthy": {"literal": "rico"}, "advancement": {"literal": "avanço"}, "altering": {"literal": "alterando"}, "audience": {"literal": "público"}, "cars": {"literal": "carros"}, "combat": {"literal": "combater"}, "debated": {"literal": "debatido"}, "distances": {"literal": "distâncias"}, "divide": {"literal": "dividir"}, "documents": {"literal": "documentos"}, "easier": {"literal": "mais fácil"}, "exploration": {"literal": "exploração", "contextual": "comum em textos sobre descobertas científicas ou geográficas"}, "fair": {"literal": "justo", "contextual": "pode significar justo (adjetivo) ou feira (substantivo)"}, "gene": {"literal": "gene"}, "hydrogen": {"literal": "hidrogênio"}, "indicates": {"literal": "indica", "contextual": "verbo essencial para descrever dados em gráficos"}, "interested": {"literal": "interessado"}, "investigate": {"literal": "investigar"}, "latest": {"literal": "mais recente"}, "laws": {"literal": "leis"}, "literacy": {"literal": "alfabetização", "contextual": "abrange letramento digital, financeiro ou funcional em educação"}, "machine": {"literal": "máquina"}, "mixed": {"literal": "misturado"}, "moreover": {"literal": "além disso", "contextual": "conectivo formal para adicionar informações em redações"}, "noted": {"literal": "observado", "contextual": "usado para citar observações de autores ou pesquisadores"}, "obvious": {"literal": "óbvio"}, "points": {"literal": "pontos"}, "politics": {"literal": "política"}, "registration": {"literal": "registro", "contextual": "comum em contextos administrativos de inscrição universitária"}, "relevant": {"literal": "relevante"}, "reshaping": {"literal": "remodelando"}, "roots": {"literal": "raízes"}, "separate": {"literal": "separado"}, "stable": {"literal": "estável"}, "starting": {"literal": "inicial"}, "starts": {"literal": "começa"}, "tutorial": {"literal": "tutoria", "contextual": "em universidades, refere-se a sessões de ensino em pequenos grupos"}, "usage": {"literal": "uso"}, "wear": {"literal": "desgaste", "contextual": "comum na expressão 'wear and tear' para desgaste natural"}, "addition": {"literal": "adição", "contextual": "usado no conectivo 'in addition' para somar ideias"}, "adults": {"literal": "adultos"}, "aimed": {"literal": "direcionado", "contextual": "frequentemente usado como 'aimed at' para indicar propósito"}, "behavioral": {"literal": "comportamental"}, "bridge": {"literal": "ponte", "contextual": "metaforicamente usado para conectar dois conceitos ou campos"}, "celebrated": {"literal": "celebrado", "contextual": "pode significar famoso ou renomado em contextos acadêmicos"}, "classroom": {"literal": "sala de aula"}, "complexity": {"literal": "complexidade"}, "controlling": {"literal": "controlando"}, "conversation": {"literal": "conversa"}, "court": {"literal": "tribunal"}, "demonstrates": {"literal": "demonstra", "contextual": "verbo acadêmico para provar ou ilustrar um ponto"}, "dynamics": {"literal": "dinâmica", "contextual": "refere-se a forças ou processos que causam mudança em sistemas"}, "earthquake": {"literal": "terremoto"}, "ensures": {"literal": "garante", "contextual": "verbo de alta utilidade para expressar certeza e resultados"}, "eventually": {"literal": "finalmente", "contextual": "falso amigo; indica que algo ocorreu após tempo ou esforço"}, "everything": {"literal": "tudo"}, "facing": {"literal": "enfrentando", "contextual": "usado para descrever a abordagem de problemas ou desafios"}, "fairly": {"literal": "razoavelmente", "contextual": "intensificador comum em textos, ex: 'fairly common'"}, "fascinating": {"literal": "fascinante"}, "fault": {"literal": "falha", "contextual": "em geologia, refere-se a uma fratura na crosta terrestre"}, "finance": {"literal": "finanças"}, "frequent": {"literal": "frequente"}, "historians": {"literal": "historiadores"}, "identified": {"literal": "identificado"}, "included": {"literal": "incluído"}, "keeping": {"literal": "mantendo"}, "layer": {"literal": "camada"}, "linguistics": {"literal": "linguística"}, "link": {"literal": "elo"}, "marks": {"literal": "notas", "contextual": "comum em sistemas educacionais britânicos/australianos"}, "message": {"literal": "mensagem"}, "observe": {"literal": "observar"}, "obviously": {"literal": "obviamente"}, "patient": {"literal": "paciente", "contextual": "pode ser substantivo (saúde) ou adjetivo (comportamento)"}, "platform": {"literal": "plataforma"}, "player": {"literal": "jogador"}, "poor": {"literal": "insuficiente", "contextual": "usado academicamente para descrever qualidade baixa, não só pobreza"}, "protective": {"literal": "protetor"}, "record": {"literal": "registro", "contextual": "substantivo (registro) ou verbo (gravar)"}, "register": {"literal": "registrar", "contextual": "em linguística, refere-se ao nível de formalidade da fala/escrita"}, "religious": {"literal": "religioso"}, "relying": {"literal": "baseando-se", "contextual": "geralmente usado como 'relying on' (dependendo de)"}, "settlements": {"literal": "assentamentos", "contextual": "termo comum em arqueologia e história"}, "skill": {"literal": "habilidade"}, "slow": {"literal": "lento"}, "strength": {"literal": "força"}, "turning": {"literal": "tornando-se"}, "typical": {"literal": "típico"}, "vehicle": {"literal": "veículo", "contextual": "frequentemente usado para descrever o meio pelo qual algo se espalha"}, "vitamin": {"literal": "vitamina"}, "voices": {"literal": "vozes"}, "wrong": {"literal": "errado"}, "adopting": {"literal": "adotando", "contextual": "refere-se a adotar políticas, métodos ou tecnologias"}, "assessment": {"literal": "avaliação", "contextual": "termo central em educação para provas e exames"}, "boost": {"literal": "aumento", "contextual": "significa impulsionar ou elevar um indicador ou moral"}, "capital": {"literal": "capital", "contextual": "pode referir-se a finanças, cidade sede ou letra maiúscula"}, "caveat": {"literal": "ressalva", "contextual": "termo acadêmico para aviso sobre limitações ou condições"}, "ceremony": {"literal": "cerimônia"}, "committed": {"literal": "comprometido"}, "compounds": {"literal": "compostos", "contextual": "comum em química ou para palavras complexas"}, "congestion": {"literal": "congestionamento"}, "considerations": {"literal": "considerações"}, "continued": {"literal": "continuou"}, "contributes": {"literal": "contribui"}, "convenience": {"literal": "conveniência"}, "defined": {"literal": "definido"}, "diabetes": {"literal": "diabetes"}, "eight": {"literal": "oito"}, "employee": {"literal": "funcionário"}, "encouraging": {"literal": "encorajador"}, "errors": {"literal": "erros"}, "expressed": {"literal": "expresso"}, "flexible": {"literal": "flexível"}, "focusing": {"literal": "focando"}, "generate": {"literal": "gerar"}, "happen": {"literal": "acontecer"}, "improves": {"literal": "melhora"}, "integrated": {"literal": "integrado"}, "journals": {"literal": "periódicos", "contextual": "refere-se a publicações científicas acadêmicas"}, "let": {"literal": "deixar"}, "lifestyle": {"literal": "estilo de vida"}, "linear": {"literal": "linear", "contextual": "progressão direta e proporcional"}, "note": {"literal": "nota", "contextual": "verbo: observar; substantivo: anotação"}, "novel": {"literal": "inédito", "contextual": "como adjetivo em textos acadêmicos, significa algo novo ou original"}, "occurred": {"literal": "ocorreu"}, "parks": {"literal": "parques"}, "piece": {"literal": "peça"}, "planners": {"literal": "planejadores"}, "possess": {"literal": "possuir"}, "postgraduate": {"literal": "pós-graduado", "contextual": "refere-se a estudantes de mestrado ou doutorado"}, "produces": {"literal": "produz"}, "pursue": {"literal": "perseguir", "contextual": "comum para 'pursue a career' ou 'pursue studies'"}, "quiet": {"literal": "quieto"}, "reaction": {"literal": "reação"}, "real-world": {"literal": "mundo real", "contextual": "aplicação prática de teorias acadêmicas"}, "referred": {"literal": "referido", "contextual": "comum na estrutura 'referred to as' (chamado de)"}, "targeted": {"literal": "direcionado"}, "technique": {"literal": "técnica"}, "threat": {"literal": "ameaça"}, "vocabulary": {"literal": "vocabulário"}, "warm": {"literal": "quente"}, "accommodation": {"literal": "acomodação", "contextual": "pode ser moradia estudantil ou ajuste a novas condições"}, "account": {"literal": "relato", "contextual": "usado em 'take into account' (levar em consideração)"}, "action": {"literal": "ação"}, "affects": {"literal": "afeta"}, "asking": {"literal": "perguntando"}, "behaviors": {"literal": "comportamentos"}, "celebrate": {"literal": "celebrar"}, "construct": {"literal": "construir", "contextual": "academicamente, um construto é uma ideia ou teoria complexa"}, "contributions": {"literal": "contribuições"}, "discipline": {"literal": "disciplina", "contextual": "termo comum para designar uma área específica de estudo"}, "emerging": {"literal": "emergente", "contextual": "refere-se a novas tendências ou campos de pesquisa"}, "enhancing": {"literal": "aprimorando", "contextual": "verbo de alta pontuação para descrever melhorias"}, "evolutionary": {"literal": "evolutivo"}, "explained": {"literal": "explicado"}, "factories": {"literal": "fábricas"}, "finish": {"literal": "terminar"}, "fit": {"literal": "adequado", "contextual": "frequentemente usado em 'fit for purpose' ou ajuste estatístico"}, "footprint": {"literal": "pegada", "contextual": "comum em 'carbon footprint' para impacto ambiental"}, "formation": {"literal": "formação"}, "frame": {"literal": "quadro", "contextual": "usado em 'frame of reference' (quadro de referência)"}, "graduates": {"literal": "graduados", "contextual": "pessoas que concluíram o ensino superior"}, "grant": {"literal": "bolsa", "contextual": "refere-se a financiamento de pesquisa concedido por instituições"}, "guest": {"literal": "convidado"}, "household": {"literal": "doméstico", "contextual": "refere-se à unidade familiar em estatísticas e censo"}, "inclusive": {"literal": "inclusivo"}, "intense": {"literal": "intenso"}, "linked": {"literal": "ligado"}, "links": {"literal": "elos"}, "logical": {"literal": "lógico"}, "ones": {"literal": "os", "contextual": "pronome usado para substituir um substantivo plural mencionado antes"}, "planets": {"literal": "planetas"}, "potentially": {"literal": "potencialmente"}, "progression": {"literal": "progressão"}, "rainforests": {"literal": "florestas tropicais"}, "raised": {"literal": "levantado", "contextual": "usado em expressões como 'raised questions' (levantou questões)"}, "rare": {"literal": "raro"}, "raw": {"literal": "bruto", "contextual": "comum em 'raw data' (dados não processados)"}, "reef": {"literal": "recife"}, "satisfaction": {"literal": "satisfação"}, "shipping": {"literal": "transporte marítimo", "contextual": "também refere-se ao envio de mercadorias em geral"}, "showing": {"literal": "mostrando"}}
+{
+  "proponents": {
+    "literal": "defensores",
+    "contextual": "usado frequentemente em debates acadêmicos para citar apoiadores de uma ideia"
+  },
+  "reactions": {
+    "literal": "reações"
+  },
+  "recycling": {
+    "literal": "reciclagem"
+  },
+  "responses": {
+    "literal": "respostas"
+  },
+  "search": {
+    "literal": "busca"
+  },
+  "seasons": {
+    "literal": "estações",
+    "contextual": "refere-se às divisões climáticas do ano"
+  },
+  "signals": {
+    "literal": "sinais"
+  },
+  "solution": {
+    "literal": "solução"
+  },
+  "speaker": {
+    "literal": "palestrante",
+    "contextual": "termo padrão para o orador em questões de retell lecture"
+  },
+  "top": {
+    "literal": "topo"
+  },
+  "traditions": {
+    "literal": "tradições"
+  },
+  "utilize": {
+    "literal": "utilizar",
+    "contextual": "variante formal de 'use' recomendada para escrita acadêmica"
+  },
+  "valuable": {
+    "literal": "valioso"
+  },
+  "wealthy": {
+    "literal": "rico"
+  },
+  "advancement": {
+    "literal": "avanço"
+  },
+  "altering": {
+    "literal": "alterando"
+  },
+  "audience": {
+    "literal": "público"
+  },
+  "cars": {
+    "literal": "carros"
+  },
+  "combat": {
+    "literal": "combater"
+  },
+  "debated": {
+    "literal": "debatido"
+  },
+  "distances": {
+    "literal": "distâncias"
+  },
+  "divide": {
+    "literal": "dividir"
+  },
+  "documents": {
+    "literal": "documentos"
+  },
+  "easier": {
+    "literal": "mais fácil"
+  },
+  "exploration": {
+    "literal": "exploração",
+    "contextual": "comum em textos sobre descobertas científicas ou geográficas"
+  },
+  "fair": {
+    "literal": "justo",
+    "contextual": "pode significar justo (adjetivo) ou feira (substantivo)"
+  },
+  "hydrogen": {
+    "literal": "hidrogênio"
+  },
+  "indicates": {
+    "literal": "indica",
+    "contextual": "verbo essencial para descrever dados em gráficos"
+  },
+  "interested": {
+    "literal": "interessado"
+  },
+  "investigate": {
+    "literal": "investigar"
+  },
+  "latest": {
+    "literal": "mais recente"
+  },
+  "laws": {
+    "literal": "leis"
+  },
+  "literacy": {
+    "literal": "alfabetização",
+    "contextual": "abrange letramento digital, financeiro ou funcional em educação"
+  },
+  "machine": {
+    "literal": "máquina"
+  },
+  "mixed": {
+    "literal": "misturado"
+  },
+  "moreover": {
+    "literal": "além disso",
+    "contextual": "conectivo formal para adicionar informações em redações"
+  },
+  "noted": {
+    "literal": "observado",
+    "contextual": "usado para citar observações de autores ou pesquisadores"
+  },
+  "obvious": {
+    "literal": "óbvio"
+  },
+  "points": {
+    "literal": "pontos"
+  },
+  "politics": {
+    "literal": "política"
+  },
+  "registration": {
+    "literal": "registro",
+    "contextual": "comum em contextos administrativos de inscrição universitária"
+  },
+  "relevant": {
+    "literal": "relevante"
+  },
+  "reshaping": {
+    "literal": "remodelando"
+  },
+  "roots": {
+    "literal": "raízes"
+  },
+  "separate": {
+    "literal": "separado"
+  },
+  "stable": {
+    "literal": "estável"
+  },
+  "starting": {
+    "literal": "inicial"
+  },
+  "starts": {
+    "literal": "começa"
+  },
+  "tutorial": {
+    "literal": "tutoria",
+    "contextual": "em universidades, refere-se a sessões de ensino em pequenos grupos"
+  },
+  "usage": {
+    "literal": "uso"
+  },
+  "wear": {
+    "literal": "desgaste",
+    "contextual": "comum na expressão 'wear and tear' para desgaste natural"
+  },
+  "addition": {
+    "literal": "adição",
+    "contextual": "usado no conectivo 'in addition' para somar ideias"
+  },
+  "adults": {
+    "literal": "adultos"
+  },
+  "aimed": {
+    "literal": "direcionado",
+    "contextual": "frequentemente usado como 'aimed at' para indicar propósito"
+  },
+  "behavioral": {
+    "literal": "comportamental"
+  },
+  "bridge": {
+    "literal": "ponte",
+    "contextual": "metaforicamente usado para conectar dois conceitos ou campos"
+  },
+  "celebrated": {
+    "literal": "celebrado",
+    "contextual": "pode significar famoso ou renomado em contextos acadêmicos"
+  },
+  "classroom": {
+    "literal": "sala de aula"
+  },
+  "complexity": {
+    "literal": "complexidade"
+  },
+  "controlling": {
+    "literal": "controlando"
+  },
+  "conversation": {
+    "literal": "conversa"
+  },
+  "court": {
+    "literal": "tribunal"
+  },
+  "demonstrates": {
+    "literal": "demonstra",
+    "contextual": "verbo acadêmico para provar ou ilustrar um ponto"
+  },
+  "dynamics": {
+    "literal": "dinâmica",
+    "contextual": "refere-se a forças ou processos que causam mudança em sistemas"
+  },
+  "earthquake": {
+    "literal": "terremoto"
+  },
+  "ensures": {
+    "literal": "garante",
+    "contextual": "verbo de alta utilidade para expressar certeza e resultados"
+  },
+  "eventually": {
+    "literal": "finalmente",
+    "contextual": "falso amigo; indica que algo ocorreu após tempo ou esforço"
+  },
+  "everything": {
+    "literal": "tudo"
+  },
+  "facing": {
+    "literal": "enfrentando",
+    "contextual": "usado para descrever a abordagem de problemas ou desafios"
+  },
+  "fairly": {
+    "literal": "razoavelmente",
+    "contextual": "intensificador comum em textos, ex: 'fairly common'"
+  },
+  "fascinating": {
+    "literal": "fascinante"
+  },
+  "fault": {
+    "literal": "falha",
+    "contextual": "em geologia, refere-se a uma fratura na crosta terrestre"
+  },
+  "finance": {
+    "literal": "finanças"
+  },
+  "frequent": {
+    "literal": "frequente"
+  },
+  "historians": {
+    "literal": "historiadores"
+  },
+  "identified": {
+    "literal": "identificado"
+  },
+  "included": {
+    "literal": "incluído"
+  },
+  "keeping": {
+    "literal": "mantendo"
+  },
+  "layer": {
+    "literal": "camada"
+  },
+  "linguistics": {
+    "literal": "linguística"
+  },
+  "link": {
+    "literal": "elo"
+  },
+  "marks": {
+    "literal": "notas",
+    "contextual": "comum em sistemas educacionais britânicos/australianos"
+  },
+  "message": {
+    "literal": "mensagem"
+  },
+  "observe": {
+    "literal": "observar"
+  },
+  "obviously": {
+    "literal": "obviamente"
+  },
+  "patient": {
+    "literal": "paciente",
+    "contextual": "pode ser substantivo (saúde) ou adjetivo (comportamento)"
+  },
+  "platform": {
+    "literal": "plataforma"
+  },
+  "player": {
+    "literal": "jogador"
+  },
+  "poor": {
+    "literal": "insuficiente",
+    "contextual": "usado academicamente para descrever qualidade baixa, não só pobreza"
+  },
+  "protective": {
+    "literal": "protetor"
+  },
+  "record": {
+    "literal": "registro",
+    "contextual": "substantivo (registro) ou verbo (gravar)"
+  },
+  "register": {
+    "literal": "registrar",
+    "contextual": "em linguística, refere-se ao nível de formalidade da fala/escrita"
+  },
+  "religious": {
+    "literal": "religioso"
+  },
+  "relying": {
+    "literal": "baseando-se",
+    "contextual": "geralmente usado como 'relying on' (dependendo de)"
+  },
+  "settlements": {
+    "literal": "assentamentos",
+    "contextual": "termo comum em arqueologia e história"
+  },
+  "skill": {
+    "literal": "habilidade"
+  },
+  "slow": {
+    "literal": "lento"
+  },
+  "strength": {
+    "literal": "força"
+  },
+  "turning": {
+    "literal": "tornando-se"
+  },
+  "typical": {
+    "literal": "típico"
+  },
+  "vehicle": {
+    "literal": "veículo",
+    "contextual": "frequentemente usado para descrever o meio pelo qual algo se espalha"
+  },
+  "vitamin": {
+    "literal": "vitamina"
+  },
+  "voices": {
+    "literal": "vozes"
+  },
+  "wrong": {
+    "literal": "errado"
+  },
+  "adopting": {
+    "literal": "adotando",
+    "contextual": "refere-se a adotar políticas, métodos ou tecnologias"
+  },
+  "assessment": {
+    "literal": "avaliação",
+    "contextual": "termo central em educação para provas e exames"
+  },
+  "boost": {
+    "literal": "aumento",
+    "contextual": "significa impulsionar ou elevar um indicador ou moral"
+  },
+  "caveat": {
+    "literal": "ressalva",
+    "contextual": "termo acadêmico para aviso sobre limitações ou condições"
+  },
+  "ceremony": {
+    "literal": "cerimônia"
+  },
+  "committed": {
+    "literal": "comprometido"
+  },
+  "compounds": {
+    "literal": "compostos",
+    "contextual": "comum em química ou para palavras complexas"
+  },
+  "congestion": {
+    "literal": "congestionamento"
+  },
+  "considerations": {
+    "literal": "considerações"
+  },
+  "continued": {
+    "literal": "continuou"
+  },
+  "contributes": {
+    "literal": "contribui"
+  },
+  "convenience": {
+    "literal": "conveniência"
+  },
+  "defined": {
+    "literal": "definido"
+  },
+  "eight": {
+    "literal": "oito"
+  },
+  "employee": {
+    "literal": "funcionário"
+  },
+  "encouraging": {
+    "literal": "encorajador"
+  },
+  "errors": {
+    "literal": "erros"
+  },
+  "expressed": {
+    "literal": "expresso"
+  },
+  "flexible": {
+    "literal": "flexível"
+  },
+  "focusing": {
+    "literal": "focando"
+  },
+  "generate": {
+    "literal": "gerar"
+  },
+  "happen": {
+    "literal": "acontecer"
+  },
+  "improves": {
+    "literal": "melhora"
+  },
+  "integrated": {
+    "literal": "integrado"
+  },
+  "journals": {
+    "literal": "periódicos",
+    "contextual": "refere-se a publicações científicas acadêmicas"
+  },
+  "let": {
+    "literal": "deixar"
+  },
+  "lifestyle": {
+    "literal": "estilo de vida"
+  },
+  "note": {
+    "literal": "nota",
+    "contextual": "verbo: observar; substantivo: anotação"
+  },
+  "novel": {
+    "literal": "inédito",
+    "contextual": "como adjetivo em textos acadêmicos, significa algo novo ou original"
+  },
+  "occurred": {
+    "literal": "ocorreu"
+  },
+  "parks": {
+    "literal": "parques"
+  },
+  "piece": {
+    "literal": "peça"
+  },
+  "planners": {
+    "literal": "planejadores"
+  },
+  "possess": {
+    "literal": "possuir"
+  },
+  "postgraduate": {
+    "literal": "pós-graduado",
+    "contextual": "refere-se a estudantes de mestrado ou doutorado"
+  },
+  "produces": {
+    "literal": "produz"
+  },
+  "pursue": {
+    "literal": "perseguir",
+    "contextual": "comum para 'pursue a career' ou 'pursue studies'"
+  },
+  "quiet": {
+    "literal": "quieto"
+  },
+  "reaction": {
+    "literal": "reação"
+  },
+  "real-world": {
+    "literal": "mundo real",
+    "contextual": "aplicação prática de teorias acadêmicas"
+  },
+  "referred": {
+    "literal": "referido",
+    "contextual": "comum na estrutura 'referred to as' (chamado de)"
+  },
+  "targeted": {
+    "literal": "direcionado"
+  },
+  "technique": {
+    "literal": "técnica"
+  },
+  "threat": {
+    "literal": "ameaça"
+  },
+  "vocabulary": {
+    "literal": "vocabulário"
+  },
+  "warm": {
+    "literal": "quente"
+  },
+  "accommodation": {
+    "literal": "acomodação",
+    "contextual": "pode ser moradia estudantil ou ajuste a novas condições"
+  },
+  "account": {
+    "literal": "relato",
+    "contextual": "usado em 'take into account' (levar em consideração)"
+  },
+  "action": {
+    "literal": "ação"
+  },
+  "affects": {
+    "literal": "afeta"
+  },
+  "asking": {
+    "literal": "perguntando"
+  },
+  "behaviors": {
+    "literal": "comportamentos"
+  },
+  "celebrate": {
+    "literal": "celebrar"
+  },
+  "construct": {
+    "literal": "construir",
+    "contextual": "academicamente, um construto é uma ideia ou teoria complexa"
+  },
+  "contributions": {
+    "literal": "contribuições"
+  },
+  "discipline": {
+    "literal": "disciplina",
+    "contextual": "termo comum para designar uma área específica de estudo"
+  },
+  "emerging": {
+    "literal": "emergente",
+    "contextual": "refere-se a novas tendências ou campos de pesquisa"
+  },
+  "enhancing": {
+    "literal": "aprimorando",
+    "contextual": "verbo de alta pontuação para descrever melhorias"
+  },
+  "evolutionary": {
+    "literal": "evolutivo"
+  },
+  "explained": {
+    "literal": "explicado"
+  },
+  "factories": {
+    "literal": "fábricas"
+  },
+  "finish": {
+    "literal": "terminar"
+  },
+  "fit": {
+    "literal": "adequado",
+    "contextual": "frequentemente usado em 'fit for purpose' ou ajuste estatístico"
+  },
+  "footprint": {
+    "literal": "pegada",
+    "contextual": "comum em 'carbon footprint' para impacto ambiental"
+  },
+  "formation": {
+    "literal": "formação"
+  },
+  "frame": {
+    "literal": "quadro",
+    "contextual": "usado em 'frame of reference' (quadro de referência)"
+  },
+  "graduates": {
+    "literal": "graduados",
+    "contextual": "pessoas que concluíram o ensino superior"
+  },
+  "grant": {
+    "literal": "bolsa",
+    "contextual": "refere-se a financiamento de pesquisa concedido por instituições"
+  },
+  "guest": {
+    "literal": "convidado"
+  },
+  "household": {
+    "literal": "doméstico",
+    "contextual": "refere-se à unidade familiar em estatísticas e censo"
+  },
+  "inclusive": {
+    "literal": "inclusivo"
+  },
+  "intense": {
+    "literal": "intenso"
+  },
+  "linked": {
+    "literal": "ligado"
+  },
+  "links": {
+    "literal": "elos"
+  },
+  "logical": {
+    "literal": "lógico"
+  },
+  "ones": {
+    "literal": "os",
+    "contextual": "pronome usado para substituir um substantivo plural mencionado antes"
+  },
+  "planets": {
+    "literal": "planetas"
+  },
+  "potentially": {
+    "literal": "potencialmente"
+  },
+  "progression": {
+    "literal": "progressão"
+  },
+  "rainforests": {
+    "literal": "florestas tropicais"
+  },
+  "raised": {
+    "literal": "levantado",
+    "contextual": "usado em expressões como 'raised questions' (levantou questões)"
+  },
+  "rare": {
+    "literal": "raro"
+  },
+  "raw": {
+    "literal": "bruto",
+    "contextual": "comum em 'raw data' (dados não processados)"
+  },
+  "reef": {
+    "literal": "recife"
+  },
+  "satisfaction": {
+    "literal": "satisfação"
+  },
+  "shipping": {
+    "literal": "transporte marítimo",
+    "contextual": "também refere-se ao envio de mercadorias em geral"
+  },
+  "showing": {
+    "literal": "mostrando"
+  },
+  "capital": {
+    "literal": "capital, recursos financeiros"
+  },
+  "diabetes": {
+    "literal": "diabetes, diabetes mellitus"
+  },
+  "gene": {
+    "literal": "gene, unidade hereditária"
+  },
+  "linear": {
+    "literal": "linear, em linha"
+  }
+}

@@ -1,1 +1,641 @@
-{"indeed": {"literal": "de fato", "contextual": "enfatiza uma afirmação anterior"}, "intricate": {"literal": "intrincado", "contextual": "detalhado ou complexo"}, "introduces": {"literal": "introduz"}, "keys": {"literal": "chaves", "contextual": "elementos fundamentais ou teclas"}, "lessons": {"literal": "lições", "contextual": "aulas ou aprendizados"}, "logic": {"literal": "lógica"}, "man": {"literal": "homem"}, "manufacturers": {"literal": "fabricantes"}, "mechanisms": {"literal": "mecanismos"}, "mediterranean": {"literal": "mediterrâneo"}, "meets": {"literal": "atende", "contextual": "satisfaz requisitos"}, "minerals": {"literal": "minerais"}, "mostly": {"literal": "principalmente"}, "musician": {"literal": "músico"}, "oral": {"literal": "oral"}, "overcrowding": {"literal": "superlotação"}, "panels": {"literal": "painéis"}, "paying": {"literal": "pagando"}, "prefer": {"literal": "preferir"}, "prior": {"literal": "anterior", "contextual": "antes de um evento específico"}, "reaching": {"literal": "alcançando"}, "reliance": {"literal": "dependência", "contextual": "confiança em algo ou alguém"}, "repeated": {"literal": "repetido"}, "replicate": {"literal": "replicar", "contextual": "reproduzir resultados científicos"}, "reverse": {"literal": "reverter", "contextual": "oposto ou inverso"}, "rows": {"literal": "fileiras"}, "sediment": {"literal": "sedimento"}, "seek": {"literal": "buscar", "contextual": "procurar ou tentar obter"}, "senior": {"literal": "sênior", "contextual": "nível avançado ou idoso"}, "sequences": {"literal": "sequências"}, "settlers": {"literal": "colonos"}, "shifting": {"literal": "mudando", "contextual": "deslocamento ou alteração de posição"}, "shop": {"literal": "loja"}, "shorter": {"literal": "mais curto"}, "so-called": {"literal": "assim chamado", "contextual": "termo técnico questionável"}, "spot": {"literal": "local", "contextual": "mancha ou identificar"}, "studied": {"literal": "estudado"}, "submission": {"literal": "submissão", "contextual": "entrega de trabalho acadêmico"}, "suffer": {"literal": "sofrer"}, "summarizes": {"literal": "resume"}, "supports": {"literal": "apoia", "contextual": "sustenta ou corrobora"}, "surprising": {"literal": "surpreendente"}, "symbols": {"literal": "símbolos"}, "symposium": {"literal": "simpósio", "contextual": "conferência acadêmica"}, "tectonic": {"literal": "tectônico"}, "tests": {"literal": "testes"}, "textbooks": {"literal": "livros didáticos"}, "theme": {"literal": "tema"}, "threatens": {"literal": "ameaça"}, "thrive": {"literal": "prosperar", "contextual": "crescer com vigor"}, "tissues": {"literal": "tecidos", "contextual": "biológico ou lenços"}, "tours": {"literal": "passeios", "contextual": "excursões ou turnês"}, "trained": {"literal": "treinado"}, "transfer": {"literal": "transferência"}, "traveling": {"literal": "viajando"}, "tried": {"literal": "tentou"}, "tube": {"literal": "tubo"}, "twenty": {"literal": "vinte"}, "unemployment": {"literal": "desemprego"}, "unusual": {"literal": "incomum"}, "work-life": {"literal": "vida profissional"}, "absorb": {"literal": "absorver"}, "abstract": {"literal": "abstrato", "contextual": "resumo de artigo acadêmico"}, "ads": {"literal": "anúncios"}, "advocate": {"literal": "defender", "contextual": "apoiar uma causa ou proponente"}, "agencies": {"literal": "agências"}, "appropriate": {"literal": "apropriado"}, "attitudes": {"literal": "atitudes"}, "autonomy": {"literal": "autonomia"}, "begins": {"literal": "começa"}, "beneath": {"literal": "debaixo"}, "brings": {"literal": "traz"}, "bus": {"literal": "ônibus"}, "calls": {"literal": "chamadas"}, "cellular": {"literal": "celular"}, "classrooms": {"literal": "salas de aula"}, "cycling": {"literal": "ciclismo"}, "debt": {"literal": "dívida"}, "delivering": {"literal": "entregando"}, "designated": {"literal": "designado"}, "detect": {"literal": "detectar"}, "developers": {"literal": "desenvolvedores"}, "disadvantages": {"literal": "desvantagens"}, "discrimination": {"literal": "discriminação"}, "dominated": {"literal": "dominado"}, "download": {"literal": "baixar"}, "draw": {"literal": "desenhar", "contextual": "atrair ou empatar"}, "enhanced": {"literal": "aprimorado"}, "enjoy": {"literal": "desfrutar"}, "entry": {"literal": "entrada"}, "eruptions": {"literal": "erupções"}, "estimated": {"literal": "estimado"}, "extend": {"literal": "estender"}, "faced": {"literal": "enfrentou"}, "facilitates": {"literal": "facilita"}, "facilitating": {"literal": "facilitando"}, "fallen": {"literal": "caído"}, "fear": {"literal": "medo"}, "feels": {"literal": "sente"}, "fire": {"literal": "fogo", "contextual": "incêndio ou demitir"}, "forests": {"literal": "florestas"}, "generated": {"literal": "gerado"}, "generic": {"literal": "genérico"}, "graduate": {"literal": "graduar-se", "contextual": "recém-formado ou pós-graduação"}, "graphs": {"literal": "gráficos"}, "helpful": {"literal": "útil"}, "image": {"literal": "imagem"}, "incentives": {"literal": "incentivos"}, "intake": {"literal": "consumo", "contextual": "ingestão de nutrientes ou entrada"}, "interview": {"literal": "entrevista"}, "isolated": {"literal": "isolado"}, "knows": {"literal": "sabe"}, "layers": {"literal": "camadas"}, "legislation": {"literal": "legislação"}, "looked": {"literal": "olhou"}, "magma": {"literal": "magma"}, "mainstream": {"literal": "convencional", "contextual": "cultura ou tendência dominante"}, "mandatory": {"literal": "obrigatório"}, "math": {"literal": "matemática"}, "meal": {"literal": "refeição"}, "messages": {"literal": "mensagens"}, "nineteenth": {"literal": "décimo nono"}, "non-stop": {"literal": "sem paradas"}, "notions": {"literal": "noções"}, "nutrition": {"literal": "nutrição"}, "oil": {"literal": "óleo", "contextual": "petróleo"}, "onto": {"literal": "sobre"}, "opened": {"literal": "abriu"}, "outcome": {"literal": "resultado", "contextual": "consequência final"}, "oversight": {"literal": "supervisão", "contextual": "falha por descuido ou omissão"}, "pathways": {"literal": "caminhos", "contextual": "trajetórias ou rotas biológicas"}, "phenomena": {"literal": "fenômenos"}, "pollutants": {"literal": "poluentes"}, "positions": {"literal": "posições"}, "post": {"literal": "postar", "contextual": "cargo ou correio"}, "preserves": {"literal": "preserva"}, "promise": {"literal": "promessa"}, "properly": {"literal": "adequadamente"}, "removed": {"literal": "removido"}, "reporting": {"literal": "relatando", "contextual": "jornalismo ou prestação de contas"}, "revenue": {"literal": "receita", "contextual": "rendimento financeiro"}, "rock": {"literal": "rocha"}, "ruling": {"literal": "decisão judicial", "contextual": "governante ou dominante"}, "secretary": {"literal": "secretário"}, "selected": {"literal": "selecionado"}, "served": {"literal": "servido"}, "shaped": {"literal": "moldado"}, "smile": {"literal": "sorriso"}, "snow": {"literal": "neve"}, "statements": {"literal": "declarações", "contextual": "afirmações ou extratos bancários"}, "straight": {"literal": "direto"}, "suitable": {"literal": "adequado"}, "themes": {"literal": "temas"}, "theoretical": {"literal": "teórico"}, "thermal": {"literal": "térmico"}, "tough": {"literal": "difícil", "contextual": "resistente ou duro"}, "twelve": {"literal": "doze"}, "village": {"literal": "vila"}, "vocational": {"literal": "vocacional", "contextual": "ensino técnico ou profissionalizante"}, "washing": {"literal": "lavagem"}, "achievement": {"literal": "conquista"}, "adopted": {"literal": "adotado"}, "allocation": {"literal": "alocação", "contextual": "distribuição de recursos"}, "annually": {"literal": "anualmente"}, "array": {"literal": "matriz", "contextual": "grande variedade ou arranjo"}, "audiences": {"literal": "públicos"}, "autonomous": {"literal": "autônomo"}, "bacterial": {"literal": "bacteriano"}, "belief": {"literal": "crença"}, "beliefs": {"literal": "crenças"}, "bird": {"literal": "pássaro"}, "breach": {"literal": "violação", "contextual": "quebra de contrato ou segurança"}, "breaks": {"literal": "quebras", "contextual": "intervalos ou pausas"}, "breakthrough": {"literal": "avanço", "contextual": "descoberta importante"}, "careers": {"literal": "carreiras"}, "categories": {"literal": "categorias"}, "celestial": {"literal": "celestial"}, "challenged": {"literal": "desafiado"}, "chapter": {"literal": "capítulo"}, "chapters": {"literal": "capítulos"}, "chimpanzee": {"literal": "chimpanzé"}, "closely": {"literal": "de perto", "contextual": "atentamente ou estreitamente"}, "cluster": {"literal": "agrupamento"}, "coast": {"literal": "costa"}, "comfortable": {"literal": "confortável"}, "condition": {"literal": "condição"}, "consciousness": {"literal": "consciência"}, "consult": {"literal": "consultar"}, "continuing": {"literal": "continuando"}, "countless": {"literal": "inúmeros"}, "darkness": {"literal": "escuridão"}, "decrease": {"literal": "diminuição"}, "deliberate": {"literal": "deliberado", "contextual": "intencional"}, "delicate": {"literal": "delicado"}, "dialogue": {"literal": "diálogo"}, "dissonance": {"literal": "dissonância"}, "distributing": {"literal": "distribuindo"}, "e-commerce": {"literal": "comércio eletrônico"}}
+{
+  "indeed": {
+    "literal": "de fato",
+    "contextual": "enfatiza uma afirmação anterior"
+  },
+  "intricate": {
+    "literal": "intrincado",
+    "contextual": "detalhado ou complexo"
+  },
+  "introduces": {
+    "literal": "introduz"
+  },
+  "keys": {
+    "literal": "chaves",
+    "contextual": "elementos fundamentais ou teclas"
+  },
+  "lessons": {
+    "literal": "lições",
+    "contextual": "aulas ou aprendizados"
+  },
+  "logic": {
+    "literal": "lógica"
+  },
+  "man": {
+    "literal": "homem"
+  },
+  "manufacturers": {
+    "literal": "fabricantes"
+  },
+  "mechanisms": {
+    "literal": "mecanismos"
+  },
+  "mediterranean": {
+    "literal": "mediterrâneo"
+  },
+  "meets": {
+    "literal": "atende",
+    "contextual": "satisfaz requisitos"
+  },
+  "minerals": {
+    "literal": "minerais"
+  },
+  "mostly": {
+    "literal": "principalmente"
+  },
+  "musician": {
+    "literal": "músico"
+  },
+  "overcrowding": {
+    "literal": "superlotação"
+  },
+  "panels": {
+    "literal": "painéis"
+  },
+  "paying": {
+    "literal": "pagando"
+  },
+  "prefer": {
+    "literal": "preferir"
+  },
+  "prior": {
+    "literal": "anterior",
+    "contextual": "antes de um evento específico"
+  },
+  "reaching": {
+    "literal": "alcançando"
+  },
+  "reliance": {
+    "literal": "dependência",
+    "contextual": "confiança em algo ou alguém"
+  },
+  "repeated": {
+    "literal": "repetido"
+  },
+  "replicate": {
+    "literal": "replicar",
+    "contextual": "reproduzir resultados científicos"
+  },
+  "reverse": {
+    "literal": "reverter",
+    "contextual": "oposto ou inverso"
+  },
+  "rows": {
+    "literal": "fileiras"
+  },
+  "sediment": {
+    "literal": "sedimento"
+  },
+  "seek": {
+    "literal": "buscar",
+    "contextual": "procurar ou tentar obter"
+  },
+  "senior": {
+    "literal": "sênior",
+    "contextual": "nível avançado ou idoso"
+  },
+  "sequences": {
+    "literal": "sequências"
+  },
+  "settlers": {
+    "literal": "colonos"
+  },
+  "shifting": {
+    "literal": "mudando",
+    "contextual": "deslocamento ou alteração de posição"
+  },
+  "shop": {
+    "literal": "loja"
+  },
+  "shorter": {
+    "literal": "mais curto"
+  },
+  "so-called": {
+    "literal": "assim chamado",
+    "contextual": "termo técnico questionável"
+  },
+  "spot": {
+    "literal": "local",
+    "contextual": "mancha ou identificar"
+  },
+  "studied": {
+    "literal": "estudado"
+  },
+  "submission": {
+    "literal": "submissão",
+    "contextual": "entrega de trabalho acadêmico"
+  },
+  "suffer": {
+    "literal": "sofrer"
+  },
+  "summarizes": {
+    "literal": "resume"
+  },
+  "supports": {
+    "literal": "apoia",
+    "contextual": "sustenta ou corrobora"
+  },
+  "surprising": {
+    "literal": "surpreendente"
+  },
+  "symbols": {
+    "literal": "símbolos"
+  },
+  "symposium": {
+    "literal": "simpósio",
+    "contextual": "conferência acadêmica"
+  },
+  "tectonic": {
+    "literal": "tectônico"
+  },
+  "tests": {
+    "literal": "testes"
+  },
+  "textbooks": {
+    "literal": "livros didáticos"
+  },
+  "theme": {
+    "literal": "tema"
+  },
+  "threatens": {
+    "literal": "ameaça"
+  },
+  "thrive": {
+    "literal": "prosperar",
+    "contextual": "crescer com vigor"
+  },
+  "tissues": {
+    "literal": "tecidos",
+    "contextual": "biológico ou lenços"
+  },
+  "tours": {
+    "literal": "passeios",
+    "contextual": "excursões ou turnês"
+  },
+  "trained": {
+    "literal": "treinado"
+  },
+  "transfer": {
+    "literal": "transferência"
+  },
+  "traveling": {
+    "literal": "viajando"
+  },
+  "tried": {
+    "literal": "tentou"
+  },
+  "tube": {
+    "literal": "tubo"
+  },
+  "twenty": {
+    "literal": "vinte"
+  },
+  "unemployment": {
+    "literal": "desemprego"
+  },
+  "unusual": {
+    "literal": "incomum"
+  },
+  "work-life": {
+    "literal": "vida profissional"
+  },
+  "absorb": {
+    "literal": "absorver"
+  },
+  "abstract": {
+    "literal": "abstrato",
+    "contextual": "resumo de artigo acadêmico"
+  },
+  "ads": {
+    "literal": "anúncios"
+  },
+  "advocate": {
+    "literal": "defender",
+    "contextual": "apoiar uma causa ou proponente"
+  },
+  "agencies": {
+    "literal": "agências"
+  },
+  "appropriate": {
+    "literal": "apropriado"
+  },
+  "attitudes": {
+    "literal": "atitudes"
+  },
+  "autonomy": {
+    "literal": "autonomia"
+  },
+  "begins": {
+    "literal": "começa"
+  },
+  "beneath": {
+    "literal": "debaixo"
+  },
+  "brings": {
+    "literal": "traz"
+  },
+  "bus": {
+    "literal": "ônibus"
+  },
+  "calls": {
+    "literal": "chamadas"
+  },
+  "cellular": {
+    "literal": "celular"
+  },
+  "classrooms": {
+    "literal": "salas de aula"
+  },
+  "cycling": {
+    "literal": "ciclismo"
+  },
+  "debt": {
+    "literal": "dívida"
+  },
+  "delivering": {
+    "literal": "entregando"
+  },
+  "designated": {
+    "literal": "designado"
+  },
+  "detect": {
+    "literal": "detectar"
+  },
+  "developers": {
+    "literal": "desenvolvedores"
+  },
+  "disadvantages": {
+    "literal": "desvantagens"
+  },
+  "discrimination": {
+    "literal": "discriminação"
+  },
+  "dominated": {
+    "literal": "dominado"
+  },
+  "download": {
+    "literal": "baixar"
+  },
+  "draw": {
+    "literal": "desenhar",
+    "contextual": "atrair ou empatar"
+  },
+  "enhanced": {
+    "literal": "aprimorado"
+  },
+  "enjoy": {
+    "literal": "desfrutar"
+  },
+  "entry": {
+    "literal": "entrada"
+  },
+  "eruptions": {
+    "literal": "erupções"
+  },
+  "estimated": {
+    "literal": "estimado"
+  },
+  "extend": {
+    "literal": "estender"
+  },
+  "faced": {
+    "literal": "enfrentou"
+  },
+  "facilitates": {
+    "literal": "facilita"
+  },
+  "facilitating": {
+    "literal": "facilitando"
+  },
+  "fallen": {
+    "literal": "caído"
+  },
+  "fear": {
+    "literal": "medo"
+  },
+  "feels": {
+    "literal": "sente"
+  },
+  "fire": {
+    "literal": "fogo",
+    "contextual": "incêndio ou demitir"
+  },
+  "forests": {
+    "literal": "florestas"
+  },
+  "generated": {
+    "literal": "gerado"
+  },
+  "generic": {
+    "literal": "genérico"
+  },
+  "graduate": {
+    "literal": "graduar-se",
+    "contextual": "recém-formado ou pós-graduação"
+  },
+  "graphs": {
+    "literal": "gráficos"
+  },
+  "helpful": {
+    "literal": "útil"
+  },
+  "image": {
+    "literal": "imagem"
+  },
+  "incentives": {
+    "literal": "incentivos"
+  },
+  "intake": {
+    "literal": "consumo",
+    "contextual": "ingestão de nutrientes ou entrada"
+  },
+  "interview": {
+    "literal": "entrevista"
+  },
+  "isolated": {
+    "literal": "isolado"
+  },
+  "knows": {
+    "literal": "sabe"
+  },
+  "layers": {
+    "literal": "camadas"
+  },
+  "legislation": {
+    "literal": "legislação"
+  },
+  "looked": {
+    "literal": "olhou"
+  },
+  "mainstream": {
+    "literal": "convencional",
+    "contextual": "cultura ou tendência dominante"
+  },
+  "mandatory": {
+    "literal": "obrigatório"
+  },
+  "math": {
+    "literal": "matemática"
+  },
+  "meal": {
+    "literal": "refeição"
+  },
+  "messages": {
+    "literal": "mensagens"
+  },
+  "nineteenth": {
+    "literal": "décimo nono"
+  },
+  "non-stop": {
+    "literal": "sem paradas"
+  },
+  "notions": {
+    "literal": "noções"
+  },
+  "nutrition": {
+    "literal": "nutrição"
+  },
+  "oil": {
+    "literal": "óleo",
+    "contextual": "petróleo"
+  },
+  "onto": {
+    "literal": "sobre"
+  },
+  "opened": {
+    "literal": "abriu"
+  },
+  "outcome": {
+    "literal": "resultado",
+    "contextual": "consequência final"
+  },
+  "oversight": {
+    "literal": "supervisão",
+    "contextual": "falha por descuido ou omissão"
+  },
+  "pathways": {
+    "literal": "caminhos",
+    "contextual": "trajetórias ou rotas biológicas"
+  },
+  "phenomena": {
+    "literal": "fenômenos"
+  },
+  "pollutants": {
+    "literal": "poluentes"
+  },
+  "positions": {
+    "literal": "posições"
+  },
+  "post": {
+    "literal": "postar",
+    "contextual": "cargo ou correio"
+  },
+  "preserves": {
+    "literal": "preserva"
+  },
+  "promise": {
+    "literal": "promessa"
+  },
+  "properly": {
+    "literal": "adequadamente"
+  },
+  "removed": {
+    "literal": "removido"
+  },
+  "reporting": {
+    "literal": "relatando",
+    "contextual": "jornalismo ou prestação de contas"
+  },
+  "revenue": {
+    "literal": "receita",
+    "contextual": "rendimento financeiro"
+  },
+  "rock": {
+    "literal": "rocha"
+  },
+  "ruling": {
+    "literal": "decisão judicial",
+    "contextual": "governante ou dominante"
+  },
+  "secretary": {
+    "literal": "secretário"
+  },
+  "selected": {
+    "literal": "selecionado"
+  },
+  "served": {
+    "literal": "servido"
+  },
+  "shaped": {
+    "literal": "moldado"
+  },
+  "smile": {
+    "literal": "sorriso"
+  },
+  "snow": {
+    "literal": "neve"
+  },
+  "statements": {
+    "literal": "declarações",
+    "contextual": "afirmações ou extratos bancários"
+  },
+  "straight": {
+    "literal": "direto"
+  },
+  "suitable": {
+    "literal": "adequado"
+  },
+  "themes": {
+    "literal": "temas"
+  },
+  "theoretical": {
+    "literal": "teórico"
+  },
+  "thermal": {
+    "literal": "térmico"
+  },
+  "tough": {
+    "literal": "difícil",
+    "contextual": "resistente ou duro"
+  },
+  "twelve": {
+    "literal": "doze"
+  },
+  "village": {
+    "literal": "vila"
+  },
+  "vocational": {
+    "literal": "vocacional",
+    "contextual": "ensino técnico ou profissionalizante"
+  },
+  "washing": {
+    "literal": "lavagem"
+  },
+  "achievement": {
+    "literal": "conquista"
+  },
+  "adopted": {
+    "literal": "adotado"
+  },
+  "allocation": {
+    "literal": "alocação",
+    "contextual": "distribuição de recursos"
+  },
+  "annually": {
+    "literal": "anualmente"
+  },
+  "array": {
+    "literal": "matriz",
+    "contextual": "grande variedade ou arranjo"
+  },
+  "audiences": {
+    "literal": "públicos"
+  },
+  "autonomous": {
+    "literal": "autônomo"
+  },
+  "bacterial": {
+    "literal": "bacteriano"
+  },
+  "belief": {
+    "literal": "crença"
+  },
+  "beliefs": {
+    "literal": "crenças"
+  },
+  "bird": {
+    "literal": "pássaro"
+  },
+  "breach": {
+    "literal": "violação",
+    "contextual": "quebra de contrato ou segurança"
+  },
+  "breaks": {
+    "literal": "quebras",
+    "contextual": "intervalos ou pausas"
+  },
+  "breakthrough": {
+    "literal": "avanço",
+    "contextual": "descoberta importante"
+  },
+  "careers": {
+    "literal": "carreiras"
+  },
+  "categories": {
+    "literal": "categorias"
+  },
+  "challenged": {
+    "literal": "desafiado"
+  },
+  "chapter": {
+    "literal": "capítulo"
+  },
+  "chapters": {
+    "literal": "capítulos"
+  },
+  "chimpanzee": {
+    "literal": "chimpanzé"
+  },
+  "closely": {
+    "literal": "de perto",
+    "contextual": "atentamente ou estreitamente"
+  },
+  "cluster": {
+    "literal": "agrupamento"
+  },
+  "coast": {
+    "literal": "costa"
+  },
+  "comfortable": {
+    "literal": "confortável"
+  },
+  "condition": {
+    "literal": "condição"
+  },
+  "consciousness": {
+    "literal": "consciência"
+  },
+  "consult": {
+    "literal": "consultar"
+  },
+  "continuing": {
+    "literal": "continuando"
+  },
+  "countless": {
+    "literal": "inúmeros"
+  },
+  "darkness": {
+    "literal": "escuridão"
+  },
+  "decrease": {
+    "literal": "diminuição"
+  },
+  "deliberate": {
+    "literal": "deliberado",
+    "contextual": "intencional"
+  },
+  "delicate": {
+    "literal": "delicado"
+  },
+  "dialogue": {
+    "literal": "diálogo"
+  },
+  "dissonance": {
+    "literal": "dissonância"
+  },
+  "distributing": {
+    "literal": "distribuindo"
+  },
+  "e-commerce": {
+    "literal": "comércio eletrônico"
+  },
+  "celestial": {
+    "literal": "celestial, celeste"
+  },
+  "magma": {
+    "literal": "magma, rocha fundida"
+  },
+  "oral": {
+    "literal": "oral, falado"
+  }
+}

@@ -1,1 +1,795 @@
-{"really": {"literal": "realmente", "contextual": "advérbio de intensidade"}, "critical": {"literal": "crítico", "contextual": "essencial ou relativo à análise criteriosa"}, "structure": {"literal": "estrutura", "contextual": "organização de partes de um todo"}, "he": {"literal": "ele", "contextual": "pronome pessoal masculino"}, "any": {"literal": "qualquer", "contextual": "indica um item ou quantidade indeterminada"}, "benefits": {"literal": "benefícios", "contextual": "vantagens ou ganhos"}, "next": {"literal": "próximo", "contextual": "imediato na sequência"}, "get": {"literal": "obter", "contextual": "adquirir ou alcançar algo"}, "help": {"literal": "ajuda", "contextual": "auxílio ou assistência"}, "media": {"literal": "mídia", "contextual": "meios de comunicação de massa"}, "possible": {"literal": "possível", "contextual": "que pode ocorrer ou ser feito"}, "carbon": {"literal": "carbono", "contextual": "elemento químico fundamental na biologia"}, "companies": {"literal": "empresas", "contextual": "organizações comerciais ou industriais"}, "might": {"literal": "poderia", "contextual": "expressa possibilidade ou probabilidade remota"}, "specific": {"literal": "específico", "contextual": "particular ou determinado"}, "local": {"literal": "local", "contextual": "relativo a um lugar restrito"}, "century": {"literal": "século", "contextual": "período de cem anos"}, "early": {"literal": "inicial", "contextual": "referente ao começo de um período"}, "building": {"literal": "edifício", "contextual": "construção ou o ato de construir"}, "city": {"literal": "cidade", "contextual": "centro urbano"}, "management": {"literal": "gestão", "contextual": "administração ou gerenciamento"}, "why": {"literal": "por que", "contextual": "advérbio interrogativo de causa"}, "every": {"literal": "cada", "contextual": "refere-se a todos os membros de um grupo"}, "support": {"literal": "apoio", "contextual": "suporte ou fundamentação"}, "despite": {"literal": "apesar de", "contextual": "preposição que indica contraste"}, "known": {"literal": "conhecido", "contextual": "reconhecido ou identificado"}, "science": {"literal": "ciência", "contextual": "conhecimento sistemático do mundo"}, "aloud": {"literal": "em voz alta", "contextual": "maneira audível de falar ou ler"}, "growth": {"literal": "crescimento", "contextual": "aumento de tamanho ou escala"}, "high": {"literal": "alto", "contextual": "de grande elevação ou intensidade"}, "long": {"literal": "longo", "contextual": "de grande extensão ou duração"}, "back": {"literal": "atrás", "contextual": "posição anterior ou retorno"}, "cultural": {"literal": "cultural", "contextual": "relativo à cultura de um povo"}, "scientific": {"literal": "científico", "contextual": "baseado nos métodos da ciência"}, "example": {"literal": "exemplo", "contextual": "caso ilustrativo de uma regra"}, "focus": {"literal": "foco", "contextual": "centro de atenção ou atividade"}, "materials": {"literal": "materiais", "contextual": "substâncias ou insumos"}, "online": {"literal": "on-line", "contextual": "conectado à internet"}, "physical": {"literal": "físico", "contextual": "relativo ao corpo ou à matéria"}, "crucial": {"literal": "crucial", "contextual": "decisivo ou fundamental"}, "studies": {"literal": "estudos", "contextual": "pesquisas ou investigações acadêmicas"}, "year": {"literal": "ano", "contextual": "período de doze meses"}, "clearly": {"literal": "claramente", "contextual": "de modo compreensível ou evidente"}, "skills": {"literal": "habilidades", "contextual": "capacidades técnicas ou práticas"}, "engineering": {"literal": "engenharia", "contextual": "aplicação técnica da ciência"}, "living": {"literal": "vivo", "contextual": "organismo que tem vida ou modo de vida"}, "major": {"literal": "principal", "contextual": "de maior importância ou escala"}, "good": {"literal": "bom", "contextual": "de qualidade positiva"}, "department": {"literal": "departamento", "contextual": "divisão de uma organização"}, "recent": {"literal": "recente", "contextual": "ocorrido há pouco tempo"}, "write": {"literal": "escrever", "contextual": "registrar informações por símbolos"}, "answer": {"literal": "resposta", "contextual": "solução a uma pergunta ou problema"}, "made": {"literal": "feito", "contextual": "produzido ou construído"}, "changes": {"literal": "mudanças", "contextual": "alterações ou modificações"}, "effective": {"literal": "eficaz", "contextual": "que produz o resultado esperado"}, "security": {"literal": "segurança", "contextual": "estado de proteção contra perigos"}, "another": {"literal": "outro", "contextual": "um adicional ou diferente"}, "industrial": {"literal": "industrial", "contextual": "relativo à produção fabril"}, "part": {"literal": "parte", "contextual": "porção de um todo"}, "his": {"literal": "seu", "contextual": "pronome possessivo (dele)"}, "each": {"literal": "cada", "contextual": "indivíduo considerado separadamente"}, "same": {"literal": "mesmo", "contextual": "idêntico ou igual"}, "environment": {"literal": "meio ambiente", "contextual": "contexto ecológico ou situacional"}, "field": {"literal": "campo", "contextual": "área de estudo ou terreno"}, "passage": {"literal": "passagem", "contextual": "trecho de um texto ou percurso"}, "called": {"literal": "chamado", "contextual": "denominado ou convocado"}, "conditions": {"literal": "condições", "contextual": "circunstâncias ou requisitos"}, "found": {"literal": "encontrado", "contextual": "descoberto ou localizado"}, "resources": {"literal": "recursos", "contextual": "meios disponíveis para uso"}, "significantly": {"literal": "significativamente", "contextual": "de forma expressiva ou relevante"}, "call": {"literal": "chamar", "contextual": "denominar ou solicitar presença"}, "evidence": {"literal": "evidência", "contextual": "substantivo; prova ou indício acadêmico"}, "industry": {"literal": "indústria", "contextual": "setor de produção econômica"}, "my": {"literal": "meu", "contextual": "pronome possessivo de primeira pessoa"}, "number": {"literal": "número", "contextual": "valor matemático ou quantidade"}, "space": {"literal": "espaço", "contextual": "extensão física ou sideral"}, "three": {"literal": "três", "contextual": "numeral cardinal"}, "population": {"literal": "população", "contextual": "conjunto de habitantes de um lugar"}, "understand": {"literal": "entender", "contextual": "compreender o significado"}, "available": {"literal": "disponível", "contextual": "acessível para uso"}, "clear": {"literal": "claro", "contextual": "compreensível ou iluminado"}, "range": {"literal": "gama", "contextual": "variedade ou intervalo de valores"}, "government": {"literal": "governo", "contextual": "sistema de administração política"}, "issues": {"literal": "questões", "contextual": "problemas ou tópicos em debate"}, "knowledge": {"literal": "conhecimento", "contextual": "informação e compreensão adquiridas"}, "various": {"literal": "vários", "contextual": "diversos ou múltiplos"}, "rather": {"literal": "em vez de", "contextual": "indica preferência ou contraste"}, "lead": {"literal": "conduzir", "contextual": "liderar ou resultar em algo"}, "say": {"literal": "dizer", "contextual": "expressar por palavras"}, "several": {"literal": "vários", "contextual": "mais de dois, mas não muitos"}, "shift": {"literal": "mudança", "contextual": "deslocamento ou alteração de posição"}, "day": {"literal": "dia", "contextual": "período de vinte e quatro horas"}, "historical": {"literal": "histórico", "contextual": "relativo à história ou ao passado"}, "naturally": {"literal": "naturalmente", "contextual": "de forma espontânea ou inerente"}, "power": {"literal": "poder", "contextual": "autoridade, energia ou potência"}, "land": {"literal": "terra", "contextual": "solo ou território geográfico"}, "services": {"literal": "serviços", "contextual": "atividades econômicas intangíveis"}, "communities": {"literal": "comunidades", "contextual": "grupos sociais com interesses comuns"}, "here": {"literal": "aqui", "contextual": "neste lugar"}, "mental": {"literal": "mental", "contextual": "relativo à mente ou intelecto"}, "project": {"literal": "projeto", "contextual": "plano ou empreendimento"}, "remains": {"literal": "permanece", "contextual": "continua a ser ou restos/vestígios"}, "effects": {"literal": "efeitos", "contextual": "consequências ou resultados"}, "financial": {"literal": "financeiro", "contextual": "relativo a finanças ou dinheiro"}, "talk": {"literal": "falar", "contextual": "conversar ou proferir palestra"}, "changing": {"literal": "mudando", "contextual": "em processo de alteração"}, "common": {"literal": "comum", "contextual": "frequente ou compartilhado"}, "large": {"literal": "grande", "contextual": "de vasta dimensão ou escala"}, "production": {"literal": "produção", "contextual": "ato de fabricar ou criar algo"}, "levels": {"literal": "níveis", "contextual": "graus de intensidade ou camadas"}, "market": {"literal": "mercado", "contextual": "sistema de trocas comerciais"}, "practices": {"literal": "práticas", "contextual": "ações habituais ou métodos"}, "species": {"literal": "espécie", "contextual": "unidade básica de classificação biológica"}, "medical": {"literal": "médico", "contextual": "relativo à medicina"}, "reading": {"literal": "leitura", "contextual": "ato de decodificar textos"}, "approach": {"literal": "abordagem", "contextual": "perspectiva ou método de análise"}, "making": {"literal": "fazendo", "contextual": "ato de criar ou produzir"}, "professor": {"literal": "professor", "contextual": "docente de nível superior"}, "reduce": {"literal": "reduzir", "contextual": "diminuir quantidade ou tamanho"}, "community": {"literal": "comunidade", "contextual": "grupo social ou coletividade"}, "patterns": {"literal": "padrões", "contextual": "modelos ou tendências recorrentes"}, "said": {"literal": "disse", "contextual": "verbo dizer no passado"}, "behavior": {"literal": "comportamento", "contextual": "modo de agir de um ser"}, "needs": {"literal": "necessidades", "contextual": "exigências ou carências"}, "past": {"literal": "passado", "contextual": "tempo anterior ao presente"}, "questions": {"literal": "perguntas", "contextual": "dúvidas ou questionamentos"}, "due": {"literal": "devido a", "contextual": "expressa causa ou motivo"}, "increase": {"literal": "aumento", "contextual": "ato de tornar maior"}, "does": {"literal": "faz", "contextual": "verbo fazer na terceira pessoa"}, "few": {"literal": "poucos", "contextual": "quantidade reduzida"}, "last": {"literal": "último", "contextual": "final de uma série"}, "right": {"literal": "direito", "contextual": "correto ou lado oposto ao esquerdo"}, "small": {"literal": "pequeno", "contextual": "de dimensão reduzida"}, "discuss": {"literal": "discutir", "contextual": "debater ou analisar um tema"}, "find": {"literal": "encontrar", "contextual": "localizar ou descobrir"}, "phrase": {"literal": "frase", "contextual": "unidade linguística com sentido"}, "claim": {"literal": "alegação", "contextual": "afirmação que requer comprovação"}, "increasingly": {"literal": "cada vez mais", "contextual": "de forma crescente"}, "opportunities": {"literal": "oportunidades", "contextual": "circunstâncias favoráveis"}, "allows": {"literal": "permite", "contextual": "possibilita ou autoriza"}, "correct": {"literal": "correto", "contextual": "conforme a verdade ou regra"}, "economy": {"literal": "economia", "contextual": "ciência ou sistema de produção e consumo"}, "elaborate": {"literal": "elaborar", "contextual": "desenvolver detalhadamente"}, "states": {"literal": "estados", "contextual": "divisões políticas ou condições"}, "trade": {"literal": "comércio", "contextual": "troca de bens ou serviços"}, "create": {"literal": "criar", "contextual": "originar ou produzir algo novo"}, "office": {"literal": "escritório", "contextual": "local de trabalho administrativo"}, "play": {"literal": "jogar", "contextual": "desempenhar papel ou praticar jogo"}, "address": {"literal": "abordar", "contextual": "tratar de um assunto ou problema"}, "business": {"literal": "negócios", "contextual": "atividades comerciais"}, "governments": {"literal": "governos", "contextual": "autoridades políticas"}, "less": {"literal": "menos", "contextual": "quantidade menor"}, "light": {"literal": "luz", "contextual": "radiação visível ou claridade"}, "primary": {"literal": "primário", "contextual": "principal ou fundamental"}, "communication": {"literal": "comunicação", "contextual": "transmissão de informações"}, "environments": {"literal": "ambientes", "contextual": "meios ou cenários diversos"}, "offers": {"literal": "oferece", "contextual": "disponibiliza ou propõe"}, "something": {"literal": "algo", "contextual": "coisa não especificada"}, "efforts": {"literal": "esforços", "contextual": "empenho ou tentativas"}, "better": {"literal": "melhor", "contextual": "de qualidade superior"}, "increased": {"literal": "aumentado", "contextual": "que sofreu acréscimo"}, "lot": {"literal": "muito", "contextual": "grande quantidade de algo"}, "rise": {"literal": "ascensão", "contextual": "ato de subir ou aumentar"}, "writing": {"literal": "escrita", "contextual": "ato de registrar por escrito"}, "society": {"literal": "sociedade", "contextual": "coletividade de indivíduos"}, "designed": {"literal": "projetado", "contextual": "planejado ou concebido"}, "great": {"literal": "ótimo", "contextual": "excelente ou muito grande"}, "kind": {"literal": "tipo", "contextual": "categoria ou espécie"}, "practice": {"literal": "prática", "contextual": "exercício ou aplicação de teoria"}, "response": {"literal": "resposta", "contextual": "reação ou réplica"}, "growing": {"literal": "crescente", "contextual": "em fase de desenvolvimento"}, "infrastructure": {"literal": "infraestrutura", "contextual": "base de serviços e instalações"}, "technologies": {"literal": "tecnologias", "contextual": "recursos técnicos científicos"}, "according": {"literal": "de acordo com", "contextual": "conforme uma fonte ou regra"}, "individual": {"literal": "indivíduo", "contextual": "ser único ou pessoa"}, "unique": {"literal": "único", "contextual": "singular ou exclusivo"}, "directly": {"literal": "diretamente", "contextual": "de forma direta"}, "go": {"literal": "ir", "contextual": "deslocar-se para algum lugar"}, "including": {"literal": "incluindo", "contextual": "abrangendo algo"}, "personal": {"literal": "pessoal", "contextual": "relativo à pessoa"}, "produce": {"literal": "produzir", "contextual": "gerar ou fabricar"}, "requires": {"literal": "requer", "contextual": "exige ou demanda"}, "design": {"literal": "projeto", "contextual": "desenho ou concepção técnica"}, "sources": {"literal": "fontes", "contextual": "origens de informação ou recursos"}, "vital": {"literal": "vital", "contextual": "essencial à vida ou fundamental"}, "goods": {"literal": "bens", "contextual": "mercadorias ou produtos econômicos"}, "law": {"literal": "lei", "contextual": "norma jurídica ou regra científica"}, "earth": {"literal": "terra", "contextual": "planeta ou solo terrestre"}, "term": {"literal": "termo", "contextual": "palavra técnica ou período de tempo"}, "able": {"literal": "capaz", "contextual": "que tem habilidade ou poder"}, "experience": {"literal": "experiência", "contextual": "conhecimento prático ou vivência"}, "summary": {"literal": "resumo", "contextual": "exposição abreviada de um texto"}, "together": {"literal": "juntos", "contextual": "em companhia ou simultaneamente"}, "free": {"literal": "livre", "contextual": "gratuito ou sem restrições"}, "influence": {"literal": "influência", "contextual": "poder de afetar algo ou alguém"}, "place": {"literal": "lugar", "contextual": "espaço ou posição ocupada"}, "working": {"literal": "trabalhando", "contextual": "em atividade ou funcionamento"}, "agricultural": {"literal": "agrícola", "contextual": "relativo à agricultura"}, "events": {"literal": "eventos", "contextual": "acontecimentos ou fatos"}, "simply": {"literal": "simplesmente", "contextual": "de modo simples ou apenas"}}
+{
+  "really": {
+    "literal": "realmente",
+    "contextual": "advérbio de intensidade"
+  },
+  "critical": {
+    "literal": "crítico",
+    "contextual": "essencial ou relativo à análise criteriosa"
+  },
+  "structure": {
+    "literal": "estrutura",
+    "contextual": "organização de partes de um todo"
+  },
+  "he": {
+    "literal": "ele",
+    "contextual": "pronome pessoal masculino"
+  },
+  "any": {
+    "literal": "qualquer",
+    "contextual": "indica um item ou quantidade indeterminada"
+  },
+  "benefits": {
+    "literal": "benefícios",
+    "contextual": "vantagens ou ganhos"
+  },
+  "next": {
+    "literal": "próximo",
+    "contextual": "imediato na sequência"
+  },
+  "get": {
+    "literal": "obter",
+    "contextual": "adquirir ou alcançar algo"
+  },
+  "help": {
+    "literal": "ajuda",
+    "contextual": "auxílio ou assistência"
+  },
+  "media": {
+    "literal": "mídia",
+    "contextual": "meios de comunicação de massa"
+  },
+  "possible": {
+    "literal": "possível",
+    "contextual": "que pode ocorrer ou ser feito"
+  },
+  "carbon": {
+    "literal": "carbono",
+    "contextual": "elemento químico fundamental na biologia"
+  },
+  "companies": {
+    "literal": "empresas",
+    "contextual": "organizações comerciais ou industriais"
+  },
+  "might": {
+    "literal": "poderia",
+    "contextual": "expressa possibilidade ou probabilidade remota"
+  },
+  "specific": {
+    "literal": "específico",
+    "contextual": "particular ou determinado"
+  },
+  "century": {
+    "literal": "século",
+    "contextual": "período de cem anos"
+  },
+  "early": {
+    "literal": "inicial",
+    "contextual": "referente ao começo de um período"
+  },
+  "building": {
+    "literal": "edifício",
+    "contextual": "construção ou o ato de construir"
+  },
+  "city": {
+    "literal": "cidade",
+    "contextual": "centro urbano"
+  },
+  "management": {
+    "literal": "gestão",
+    "contextual": "administração ou gerenciamento"
+  },
+  "why": {
+    "literal": "por que",
+    "contextual": "advérbio interrogativo de causa"
+  },
+  "every": {
+    "literal": "cada",
+    "contextual": "refere-se a todos os membros de um grupo"
+  },
+  "support": {
+    "literal": "apoio",
+    "contextual": "suporte ou fundamentação"
+  },
+  "despite": {
+    "literal": "apesar de",
+    "contextual": "preposição que indica contraste"
+  },
+  "known": {
+    "literal": "conhecido",
+    "contextual": "reconhecido ou identificado"
+  },
+  "science": {
+    "literal": "ciência",
+    "contextual": "conhecimento sistemático do mundo"
+  },
+  "aloud": {
+    "literal": "em voz alta",
+    "contextual": "maneira audível de falar ou ler"
+  },
+  "growth": {
+    "literal": "crescimento",
+    "contextual": "aumento de tamanho ou escala"
+  },
+  "high": {
+    "literal": "alto",
+    "contextual": "de grande elevação ou intensidade"
+  },
+  "long": {
+    "literal": "longo",
+    "contextual": "de grande extensão ou duração"
+  },
+  "back": {
+    "literal": "atrás",
+    "contextual": "posição anterior ou retorno"
+  },
+  "scientific": {
+    "literal": "científico",
+    "contextual": "baseado nos métodos da ciência"
+  },
+  "example": {
+    "literal": "exemplo",
+    "contextual": "caso ilustrativo de uma regra"
+  },
+  "focus": {
+    "literal": "foco",
+    "contextual": "centro de atenção ou atividade"
+  },
+  "materials": {
+    "literal": "materiais",
+    "contextual": "substâncias ou insumos"
+  },
+  "online": {
+    "literal": "on-line",
+    "contextual": "conectado à internet"
+  },
+  "physical": {
+    "literal": "físico",
+    "contextual": "relativo ao corpo ou à matéria"
+  },
+  "studies": {
+    "literal": "estudos",
+    "contextual": "pesquisas ou investigações acadêmicas"
+  },
+  "year": {
+    "literal": "ano",
+    "contextual": "período de doze meses"
+  },
+  "clearly": {
+    "literal": "claramente",
+    "contextual": "de modo compreensível ou evidente"
+  },
+  "skills": {
+    "literal": "habilidades",
+    "contextual": "capacidades técnicas ou práticas"
+  },
+  "engineering": {
+    "literal": "engenharia",
+    "contextual": "aplicação técnica da ciência"
+  },
+  "living": {
+    "literal": "vivo",
+    "contextual": "organismo que tem vida ou modo de vida"
+  },
+  "major": {
+    "literal": "principal",
+    "contextual": "de maior importância ou escala"
+  },
+  "good": {
+    "literal": "bom",
+    "contextual": "de qualidade positiva"
+  },
+  "department": {
+    "literal": "departamento",
+    "contextual": "divisão de uma organização"
+  },
+  "recent": {
+    "literal": "recente",
+    "contextual": "ocorrido há pouco tempo"
+  },
+  "write": {
+    "literal": "escrever",
+    "contextual": "registrar informações por símbolos"
+  },
+  "answer": {
+    "literal": "resposta",
+    "contextual": "solução a uma pergunta ou problema"
+  },
+  "made": {
+    "literal": "feito",
+    "contextual": "produzido ou construído"
+  },
+  "changes": {
+    "literal": "mudanças",
+    "contextual": "alterações ou modificações"
+  },
+  "effective": {
+    "literal": "eficaz",
+    "contextual": "que produz o resultado esperado"
+  },
+  "security": {
+    "literal": "segurança",
+    "contextual": "estado de proteção contra perigos"
+  },
+  "another": {
+    "literal": "outro",
+    "contextual": "um adicional ou diferente"
+  },
+  "part": {
+    "literal": "parte",
+    "contextual": "porção de um todo"
+  },
+  "his": {
+    "literal": "seu",
+    "contextual": "pronome possessivo (dele)"
+  },
+  "each": {
+    "literal": "cada",
+    "contextual": "indivíduo considerado separadamente"
+  },
+  "same": {
+    "literal": "mesmo",
+    "contextual": "idêntico ou igual"
+  },
+  "environment": {
+    "literal": "meio ambiente",
+    "contextual": "contexto ecológico ou situacional"
+  },
+  "field": {
+    "literal": "campo",
+    "contextual": "área de estudo ou terreno"
+  },
+  "passage": {
+    "literal": "passagem",
+    "contextual": "trecho de um texto ou percurso"
+  },
+  "called": {
+    "literal": "chamado",
+    "contextual": "denominado ou convocado"
+  },
+  "conditions": {
+    "literal": "condições",
+    "contextual": "circunstâncias ou requisitos"
+  },
+  "found": {
+    "literal": "encontrado",
+    "contextual": "descoberto ou localizado"
+  },
+  "resources": {
+    "literal": "recursos",
+    "contextual": "meios disponíveis para uso"
+  },
+  "significantly": {
+    "literal": "significativamente",
+    "contextual": "de forma expressiva ou relevante"
+  },
+  "call": {
+    "literal": "chamar",
+    "contextual": "denominar ou solicitar presença"
+  },
+  "evidence": {
+    "literal": "evidência",
+    "contextual": "substantivo; prova ou indício acadêmico"
+  },
+  "industry": {
+    "literal": "indústria",
+    "contextual": "setor de produção econômica"
+  },
+  "my": {
+    "literal": "meu",
+    "contextual": "pronome possessivo de primeira pessoa"
+  },
+  "number": {
+    "literal": "número",
+    "contextual": "valor matemático ou quantidade"
+  },
+  "space": {
+    "literal": "espaço",
+    "contextual": "extensão física ou sideral"
+  },
+  "three": {
+    "literal": "três",
+    "contextual": "numeral cardinal"
+  },
+  "population": {
+    "literal": "população",
+    "contextual": "conjunto de habitantes de um lugar"
+  },
+  "understand": {
+    "literal": "entender",
+    "contextual": "compreender o significado"
+  },
+  "available": {
+    "literal": "disponível",
+    "contextual": "acessível para uso"
+  },
+  "clear": {
+    "literal": "claro",
+    "contextual": "compreensível ou iluminado"
+  },
+  "range": {
+    "literal": "gama",
+    "contextual": "variedade ou intervalo de valores"
+  },
+  "government": {
+    "literal": "governo",
+    "contextual": "sistema de administração política"
+  },
+  "issues": {
+    "literal": "questões",
+    "contextual": "problemas ou tópicos em debate"
+  },
+  "knowledge": {
+    "literal": "conhecimento",
+    "contextual": "informação e compreensão adquiridas"
+  },
+  "various": {
+    "literal": "vários",
+    "contextual": "diversos ou múltiplos"
+  },
+  "rather": {
+    "literal": "em vez de",
+    "contextual": "indica preferência ou contraste"
+  },
+  "lead": {
+    "literal": "conduzir",
+    "contextual": "liderar ou resultar em algo"
+  },
+  "say": {
+    "literal": "dizer",
+    "contextual": "expressar por palavras"
+  },
+  "several": {
+    "literal": "vários",
+    "contextual": "mais de dois, mas não muitos"
+  },
+  "shift": {
+    "literal": "mudança",
+    "contextual": "deslocamento ou alteração de posição"
+  },
+  "day": {
+    "literal": "dia",
+    "contextual": "período de vinte e quatro horas"
+  },
+  "historical": {
+    "literal": "histórico",
+    "contextual": "relativo à história ou ao passado"
+  },
+  "naturally": {
+    "literal": "naturalmente",
+    "contextual": "de forma espontânea ou inerente"
+  },
+  "power": {
+    "literal": "poder",
+    "contextual": "autoridade, energia ou potência"
+  },
+  "land": {
+    "literal": "terra",
+    "contextual": "solo ou território geográfico"
+  },
+  "services": {
+    "literal": "serviços",
+    "contextual": "atividades econômicas intangíveis"
+  },
+  "communities": {
+    "literal": "comunidades",
+    "contextual": "grupos sociais com interesses comuns"
+  },
+  "here": {
+    "literal": "aqui",
+    "contextual": "neste lugar"
+  },
+  "project": {
+    "literal": "projeto",
+    "contextual": "plano ou empreendimento"
+  },
+  "remains": {
+    "literal": "permanece",
+    "contextual": "continua a ser ou restos/vestígios"
+  },
+  "effects": {
+    "literal": "efeitos",
+    "contextual": "consequências ou resultados"
+  },
+  "financial": {
+    "literal": "financeiro",
+    "contextual": "relativo a finanças ou dinheiro"
+  },
+  "talk": {
+    "literal": "falar",
+    "contextual": "conversar ou proferir palestra"
+  },
+  "changing": {
+    "literal": "mudando",
+    "contextual": "em processo de alteração"
+  },
+  "common": {
+    "literal": "comum",
+    "contextual": "frequente ou compartilhado"
+  },
+  "large": {
+    "literal": "grande",
+    "contextual": "de vasta dimensão ou escala"
+  },
+  "production": {
+    "literal": "produção",
+    "contextual": "ato de fabricar ou criar algo"
+  },
+  "levels": {
+    "literal": "níveis",
+    "contextual": "graus de intensidade ou camadas"
+  },
+  "market": {
+    "literal": "mercado",
+    "contextual": "sistema de trocas comerciais"
+  },
+  "practices": {
+    "literal": "práticas",
+    "contextual": "ações habituais ou métodos"
+  },
+  "species": {
+    "literal": "espécie",
+    "contextual": "unidade básica de classificação biológica"
+  },
+  "medical": {
+    "literal": "médico",
+    "contextual": "relativo à medicina"
+  },
+  "reading": {
+    "literal": "leitura",
+    "contextual": "ato de decodificar textos"
+  },
+  "approach": {
+    "literal": "abordagem",
+    "contextual": "perspectiva ou método de análise"
+  },
+  "making": {
+    "literal": "fazendo",
+    "contextual": "ato de criar ou produzir"
+  },
+  "reduce": {
+    "literal": "reduzir",
+    "contextual": "diminuir quantidade ou tamanho"
+  },
+  "community": {
+    "literal": "comunidade",
+    "contextual": "grupo social ou coletividade"
+  },
+  "patterns": {
+    "literal": "padrões",
+    "contextual": "modelos ou tendências recorrentes"
+  },
+  "said": {
+    "literal": "disse",
+    "contextual": "verbo dizer no passado"
+  },
+  "behavior": {
+    "literal": "comportamento",
+    "contextual": "modo de agir de um ser"
+  },
+  "needs": {
+    "literal": "necessidades",
+    "contextual": "exigências ou carências"
+  },
+  "past": {
+    "literal": "passado",
+    "contextual": "tempo anterior ao presente"
+  },
+  "questions": {
+    "literal": "perguntas",
+    "contextual": "dúvidas ou questionamentos"
+  },
+  "due": {
+    "literal": "devido a",
+    "contextual": "expressa causa ou motivo"
+  },
+  "increase": {
+    "literal": "aumento",
+    "contextual": "ato de tornar maior"
+  },
+  "does": {
+    "literal": "faz",
+    "contextual": "verbo fazer na terceira pessoa"
+  },
+  "few": {
+    "literal": "poucos",
+    "contextual": "quantidade reduzida"
+  },
+  "last": {
+    "literal": "último",
+    "contextual": "final de uma série"
+  },
+  "right": {
+    "literal": "direito",
+    "contextual": "correto ou lado oposto ao esquerdo"
+  },
+  "small": {
+    "literal": "pequeno",
+    "contextual": "de dimensão reduzida"
+  },
+  "discuss": {
+    "literal": "discutir",
+    "contextual": "debater ou analisar um tema"
+  },
+  "find": {
+    "literal": "encontrar",
+    "contextual": "localizar ou descobrir"
+  },
+  "phrase": {
+    "literal": "frase",
+    "contextual": "unidade linguística com sentido"
+  },
+  "claim": {
+    "literal": "alegação",
+    "contextual": "afirmação que requer comprovação"
+  },
+  "increasingly": {
+    "literal": "cada vez mais",
+    "contextual": "de forma crescente"
+  },
+  "opportunities": {
+    "literal": "oportunidades",
+    "contextual": "circunstâncias favoráveis"
+  },
+  "allows": {
+    "literal": "permite",
+    "contextual": "possibilita ou autoriza"
+  },
+  "correct": {
+    "literal": "correto",
+    "contextual": "conforme a verdade ou regra"
+  },
+  "economy": {
+    "literal": "economia",
+    "contextual": "ciência ou sistema de produção e consumo"
+  },
+  "elaborate": {
+    "literal": "elaborar",
+    "contextual": "desenvolver detalhadamente"
+  },
+  "states": {
+    "literal": "estados",
+    "contextual": "divisões políticas ou condições"
+  },
+  "trade": {
+    "literal": "comércio",
+    "contextual": "troca de bens ou serviços"
+  },
+  "create": {
+    "literal": "criar",
+    "contextual": "originar ou produzir algo novo"
+  },
+  "office": {
+    "literal": "escritório",
+    "contextual": "local de trabalho administrativo"
+  },
+  "play": {
+    "literal": "jogar",
+    "contextual": "desempenhar papel ou praticar jogo"
+  },
+  "address": {
+    "literal": "abordar",
+    "contextual": "tratar de um assunto ou problema"
+  },
+  "business": {
+    "literal": "negócios",
+    "contextual": "atividades comerciais"
+  },
+  "governments": {
+    "literal": "governos",
+    "contextual": "autoridades políticas"
+  },
+  "less": {
+    "literal": "menos",
+    "contextual": "quantidade menor"
+  },
+  "light": {
+    "literal": "luz",
+    "contextual": "radiação visível ou claridade"
+  },
+  "primary": {
+    "literal": "primário",
+    "contextual": "principal ou fundamental"
+  },
+  "communication": {
+    "literal": "comunicação",
+    "contextual": "transmissão de informações"
+  },
+  "environments": {
+    "literal": "ambientes",
+    "contextual": "meios ou cenários diversos"
+  },
+  "offers": {
+    "literal": "oferece",
+    "contextual": "disponibiliza ou propõe"
+  },
+  "something": {
+    "literal": "algo",
+    "contextual": "coisa não especificada"
+  },
+  "efforts": {
+    "literal": "esforços",
+    "contextual": "empenho ou tentativas"
+  },
+  "better": {
+    "literal": "melhor",
+    "contextual": "de qualidade superior"
+  },
+  "increased": {
+    "literal": "aumentado",
+    "contextual": "que sofreu acréscimo"
+  },
+  "lot": {
+    "literal": "muito",
+    "contextual": "grande quantidade de algo"
+  },
+  "rise": {
+    "literal": "ascensão",
+    "contextual": "ato de subir ou aumentar"
+  },
+  "writing": {
+    "literal": "escrita",
+    "contextual": "ato de registrar por escrito"
+  },
+  "society": {
+    "literal": "sociedade",
+    "contextual": "coletividade de indivíduos"
+  },
+  "designed": {
+    "literal": "projetado",
+    "contextual": "planejado ou concebido"
+  },
+  "great": {
+    "literal": "ótimo",
+    "contextual": "excelente ou muito grande"
+  },
+  "kind": {
+    "literal": "tipo",
+    "contextual": "categoria ou espécie"
+  },
+  "practice": {
+    "literal": "prática",
+    "contextual": "exercício ou aplicação de teoria"
+  },
+  "response": {
+    "literal": "resposta",
+    "contextual": "reação ou réplica"
+  },
+  "growing": {
+    "literal": "crescente",
+    "contextual": "em fase de desenvolvimento"
+  },
+  "infrastructure": {
+    "literal": "infraestrutura",
+    "contextual": "base de serviços e instalações"
+  },
+  "technologies": {
+    "literal": "tecnologias",
+    "contextual": "recursos técnicos científicos"
+  },
+  "according": {
+    "literal": "de acordo com",
+    "contextual": "conforme uma fonte ou regra"
+  },
+  "individual": {
+    "literal": "indivíduo",
+    "contextual": "ser único ou pessoa"
+  },
+  "unique": {
+    "literal": "único",
+    "contextual": "singular ou exclusivo"
+  },
+  "directly": {
+    "literal": "diretamente",
+    "contextual": "de forma direta"
+  },
+  "go": {
+    "literal": "ir",
+    "contextual": "deslocar-se para algum lugar"
+  },
+  "including": {
+    "literal": "incluindo",
+    "contextual": "abrangendo algo"
+  },
+  "personal": {
+    "literal": "pessoal",
+    "contextual": "relativo à pessoa"
+  },
+  "produce": {
+    "literal": "produzir",
+    "contextual": "gerar ou fabricar"
+  },
+  "requires": {
+    "literal": "requer",
+    "contextual": "exige ou demanda"
+  },
+  "design": {
+    "literal": "projeto",
+    "contextual": "desenho ou concepção técnica"
+  },
+  "sources": {
+    "literal": "fontes",
+    "contextual": "origens de informação ou recursos"
+  },
+  "goods": {
+    "literal": "bens",
+    "contextual": "mercadorias ou produtos econômicos"
+  },
+  "law": {
+    "literal": "lei",
+    "contextual": "norma jurídica ou regra científica"
+  },
+  "earth": {
+    "literal": "terra",
+    "contextual": "planeta ou solo terrestre"
+  },
+  "term": {
+    "literal": "termo",
+    "contextual": "palavra técnica ou período de tempo"
+  },
+  "able": {
+    "literal": "capaz",
+    "contextual": "que tem habilidade ou poder"
+  },
+  "experience": {
+    "literal": "experiência",
+    "contextual": "conhecimento prático ou vivência"
+  },
+  "summary": {
+    "literal": "resumo",
+    "contextual": "exposição abreviada de um texto"
+  },
+  "together": {
+    "literal": "juntos",
+    "contextual": "em companhia ou simultaneamente"
+  },
+  "free": {
+    "literal": "livre",
+    "contextual": "gratuito ou sem restrições"
+  },
+  "influence": {
+    "literal": "influência",
+    "contextual": "poder de afetar algo ou alguém"
+  },
+  "place": {
+    "literal": "lugar",
+    "contextual": "espaço ou posição ocupada"
+  },
+  "working": {
+    "literal": "trabalhando",
+    "contextual": "em atividade ou funcionamento"
+  },
+  "agricultural": {
+    "literal": "agrícola",
+    "contextual": "relativo à agricultura"
+  },
+  "events": {
+    "literal": "eventos",
+    "contextual": "acontecimentos ou fatos"
+  },
+  "simply": {
+    "literal": "simplesmente",
+    "contextual": "de modo simples ou apenas"
+  },
+  "crucial": {
+    "literal": "crucial, decisivo"
+  },
+  "cultural": {
+    "literal": "cultural, da cultura"
+  },
+  "industrial": {
+    "literal": "industrial, fabril"
+  },
+  "local": {
+    "literal": "local, do lugar"
+  },
+  "mental": {
+    "literal": "mental, da mente"
+  },
+  "professor": {
+    "literal": "professor, docente"
+  },
+  "vital": {
+    "literal": "vital, essencial"
+  }
+}

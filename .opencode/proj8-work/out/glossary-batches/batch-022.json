@@ -1,600 +1,589 @@
 {
- "calories": {
-  "literal": "calorias"
- },
- "campaign": {
-  "literal": "campanha",
-  "contextual": "frequente em marketing ou política"
- },
- "campuses": {
-  "literal": "campi",
-  "contextual": "plural de campus, áreas universitárias"
- },
- "canyon": {
-  "literal": "cânion"
- },
- "categorized": {
-  "literal": "categorizado"
- },
- "childhood": {
-  "literal": "infância"
- },
- "chills": {
-  "literal": "calafrios"
- },
- "chromosome": {
-  "literal": "cromossomo"
- },
- "chromosomes": {
-  "literal": "cromossomos"
- },
- "circulating": {
-  "literal": "circulante"
- },
- "cloth": {
-  "literal": "pano"
- },
- "clues": {
-  "literal": "pistas"
- },
- "collectively": {
-  "literal": "coletivamente"
- },
- "colonial": {
-  "literal": "colonial"
- },
- "command": {
-  "literal": "comando"
- },
- "commencement": {
-  "literal": "formatura",
-  "contextual": "cerimônia de graduação acadêmica"
- },
- "communicable": {
-  "literal": "transmissível",
-  "contextual": "comum em textos sobre doenças"
- },
- "concise": {
-  "literal": "conciso"
- },
- "confusing": {
-  "literal": "confuso"
- },
- "conserve": {
-  "literal": "conservar"
- },
- "contain": {
-  "literal": "conter"
- },
- "contracts": {
-  "literal": "contratos"
- },
- "conversations": {
-  "literal": "conversas"
- },
- "converted": {
-  "literal": "convertido"
- },
- "correlates": {
-  "literal": "correlaciona"
- },
- "covered": {
-  "literal": "coberto"
- },
- "crime": {
-  "literal": "crime"
- },
- "critically": {
-  "literal": "criticamente"
- },
- "crust": {
-  "literal": "crosta",
-  "contextual": "geralmente crosta terrestre em geologia"
- },
- "dead": {
-  "literal": "morto"
- },
- "deciding": {
-  "literal": "decidindo"
- },
- "declining": {
-  "literal": "declinante",
-  "contextual": "taxas ou populações em queda"
- },
- "decreases": {
-  "literal": "diminuições"
- },
- "delta": {
-  "literal": "delta"
- },
- "demography": {
-  "literal": "demografia"
- },
- "destination": {
-  "literal": "destino"
- },
- "diagnostics": {
-  "literal": "diagnósticos"
- },
- "dictates": {
-  "literal": "dita"
- },
- "diplomacy": {
-  "literal": "diplomacia"
- },
- "disadvantaged": {
-  "literal": "desfavorecido"
- },
- "displace": {
-  "literal": "deslocar",
-  "contextual": "remover pessoas de suas terras"
- },
- "disruption": {
-  "literal": "interrupção",
-  "contextual": "frequente em inovação ou ecologia"
- },
- "disturbance": {
-  "literal": "distúrbio"
- },
- "divided": {
-  "literal": "dividido"
- },
- "division": {
-  "literal": "divisão"
- },
- "dog": {
-  "literal": "cachorro"
- },
- "dominate": {
-  "literal": "dominar"
- },
- "downloaded": {
-  "literal": "baixado"
- },
- "duty": {
-  "literal": "dever"
- },
- "eastern": {
-  "literal": "oriental",
-  "contextual": "relativo ao leste"
- },
- "elderly": {
-  "literal": "idoso"
- },
- "elective": {
-  "literal": "eletivo",
-  "contextual": "disciplina de livre escolha"
- },
- "elephants": {
-  "literal": "elefantes"
- },
- "eliminate": {
-  "literal": "eliminar"
- },
- "eliminated": {
-  "literal": "eliminado"
- },
- "elite": {
-  "literal": "elite"
- },
- "elites": {
-  "literal": "elites"
- },
- "emit": {
-  "literal": "emitir",
-  "contextual": "liberar gases ou radiação"
- },
- "encompasses": {
-  "literal": "abrange"
- },
- "ended": {
-  "literal": "terminou"
- },
- "ends": {
-  "literal": "extremidades",
-  "contextual": "pode significar fins ou objetivos"
- },
- "enforcing": {
-  "literal": "aplicando",
-  "contextual": "fazer cumprir leis ou regras"
- },
- "engulfed": {
-  "literal": "envolvido",
-  "contextual": "engolido ou cercado totalmente"
- },
- "enrichment": {
-  "literal": "enriquecimento"
- },
- "envisioned": {
-  "literal": "vislumbrado"
- },
- "epicenter": {
-  "literal": "epicentro"
- },
- "escape": {
-  "literal": "escapar"
- },
- "establishes": {
-  "literal": "estabelece"
- },
- "estimate": {
-  "literal": "estimar",
-  "contextual": "calcular valor aproximado"
- },
- "europeans": {
-  "literal": "europeus"
- },
- "exacerbate": {
-  "literal": "exacerbar",
-  "contextual": "tornar algo pior; comum em saúde e clima"
- },
- "expenses": {
-  "literal": "despesas"
- },
- "explored": {
-  "literal": "explorado"
- },
- "extensively": {
-  "literal": "extensivamente"
- },
- "facade": {
-  "literal": "fachada",
-  "contextual": "aparência externa ou exterior de prédio"
- },
- "fascinated": {
-  "literal": "fascinado"
- },
- "fate": {
-  "literal": "destino"
- },
- "father": {
-  "literal": "pai"
- },
- "favour": {
-  "literal": "favor",
-  "contextual": "grafia britânica"
- },
- "fee": {
-  "literal": "taxa"
- },
- "feeling": {
-  "literal": "sentimento"
- },
- "fiction": {
-  "literal": "ficção"
- },
- "fieldwork": {
-  "literal": "trabalho de campo"
- },
- "files": {
-  "literal": "arquivos"
- },
- "films": {
-  "literal": "filmes"
- },
- "filter": {
-  "literal": "filtro"
- },
- "floods": {
-  "literal": "inundações"
- },
- "focal": {
-  "literal": "focal"
- },
- "forming": {
-  "literal": "formando"
- },
- "fulfilling": {
-  "literal": "satisfatório",
-  "contextual": "que cumpre um requisito"
- },
- "functionality": {
-  "literal": "funcionalidade"
- },
- "fund": {
-  "literal": "fundo"
- },
- "fusion": {
-  "literal": "fusão"
- },
- "gathered": {
-  "literal": "reunido"
- },
- "grasp": {
-  "literal": "compreender",
-  "contextual": "entendimento profundo de um conceito"
- },
- "harmonious": {
-  "literal": "harmonioso"
- },
- "headlights": {
-  "literal": "faróis"
- },
- "horror": {
-  "literal": "horror"
- },
- "identities": {
-  "literal": "identidades"
- },
- "ignoring": {
-  "literal": "ignorando"
- },
- "impair": {
-  "literal": "prejudicar",
-  "contextual": "frequente em contextos médicos"
- },
- "implication": {
-  "literal": "implicação"
- },
- "inadequate": {
-  "literal": "inadequado"
- },
- "infect": {
-  "literal": "infectar"
- },
- "inhabit": {
-  "literal": "habitar"
- },
- "inquiries": {
-  "literal": "investigações",
-  "contextual": "perguntas ou inquéritos formais"
- },
- "instant": {
-  "literal": "instante",
-  "contextual": "imediato ou instantâneo"
- },
- "instructor": {
-  "literal": "instrutor"
- },
- "irreplaceable": {
-  "literal": "insubstituível"
- },
- "keeps": {
-  "literal": "mantém"
- },
- "kid": {
-  "literal": "criança"
- },
- "kingdom": {
-  "literal": "reino"
- },
- "kingdoms": {
-  "literal": "reinos"
- },
- "knowing": {
-  "literal": "sabendo"
- },
- "lacks": {
-  "literal": "carece",
-  "contextual": "não ter algo necessário"
- },
- "latitudes": {
-  "literal": "latitudes"
- },
- "laughing": {
-  "literal": "rindo"
- },
- "launch": {
-  "literal": "lançar"
- },
- "linguists": {
-  "literal": "linguistas"
- },
- "lists": {
-  "literal": "listas"
- },
- "literal": {
-  "literal": "literal"
- },
- "logistical": {
-  "literal": "logístico"
- },
- "losses": {
-  "literal": "perdas"
- },
- "lush": {
-  "literal": "luxuriante",
-  "contextual": "vegetação abundante e verde"
- },
- "mastery": {
-  "literal": "domínio"
- },
- "mega": {
-  "literal": "mega"
- },
- "melatonin": {
-  "literal": "melatonina"
- },
- "melody": {
-  "literal": "melodia"
- },
- "melting": {
-  "literal": "derretimento"
- },
- "mentorship": {
-  "literal": "mentoria"
- },
- "messengers": {
-  "literal": "mensageiros"
- },
- "metabolism": {
-  "literal": "metabolismo"
- },
- "metropolises": {
-  "literal": "metrópoles"
- },
- "milestones": {
-  "literal": "marcos",
-  "contextual": "conquistas importantes de progresso"
- },
- "mineral": {
-  "literal": "mineral"
- },
- "minister": {
-  "literal": "ministro"
- },
- "minor": {
-  "literal": "menor",
-  "contextual": "menor de idade ou matéria secundária"
- },
- "mitochondria": {
-  "literal": "mitocôndrias"
- },
- "mitochondrial": {
-  "literal": "mitocondrial"
- },
- "modification": {
-  "literal": "modificação"
- },
- "modulation": {
-  "literal": "modulação"
- },
- "mother": {
-  "literal": "mãe"
- },
- "movable": {
-  "literal": "móvel"
- },
- "names": {
-  "literal": "nomes"
- },
- "navigating": {
-  "literal": "navegando"
- },
- "nobody": {
-  "literal": "ninguém"
- },
- "noticed": {
-  "literal": "notado"
- },
- "objectives": {
-  "literal": "objetivos"
- },
- "observed": {
-  "literal": "observado"
- },
- "obsolete": {
-  "literal": "obsoleto"
- },
- "oceanography": {
-  "literal": "oceanografia"
- },
- "off-site": {
-  "literal": "fora do local"
- },
- "officer": {
-  "literal": "oficial"
- },
- "official": {
-  "literal": "oficial"
- },
- "offline": {
-  "literal": "offline"
- },
- "organizational": {
-  "literal": "organizacional"
- },
- "ourselves": {
-  "literal": "nós mesmos"
- },
- "outputs": {
-  "literal": "resultados",
-  "contextual": "saídas de dados ou produção"
- },
- "overseas": {
-  "literal": "no exterior"
- },
- "overwhelmingly": {
-  "literal": "esmagadoramente"
- },
- "ownership": {
-  "literal": "propriedade"
- },
- "patronage": {
-  "literal": "patrocínio",
-  "contextual": "apoio financeiro, especialmente às artes"
- },
- "paving": {
-  "literal": "pavimentação"
- },
- "periodic": {
-  "literal": "periódico"
- },
- "permitted": {
-  "literal": "permitido"
- },
- "personality": {
-  "literal": "personalidade"
- },
- "pharmacological": {
-  "literal": "farmacológico"
- },
- "pharmacy": {
-  "literal": "farmácia"
- },
- "pilot": {
-  "literal": "piloto",
-  "contextual": "versão experimental de um projeto"
- },
- "ports": {
-  "literal": "portos"
- },
- "posted": {
-  "literal": "postado"
- },
- "powered": {
-  "literal": "alimentado",
-  "contextual": "movido por uma fonte de energia"
- },
- "pre-existing": {
-  "literal": "pré-existente"
- },
- "primitive": {
-  "literal": "primitivo"
- },
- "professions": {
-  "literal": "profissões"
- },
- "professors": {
-  "literal": "professores"
- },
- "programmers": {
-  "literal": "programadores"
- },
- "prohibited": {
-  "literal": "proibido"
- },
- "prompted": {
-  "literal": "estimulou",
-  "contextual": "provocou uma reação ou ação"
- },
- "protects": {
-  "literal": "protege"
- },
- "proved": {
-  "literal": "provado"
- },
- "proves": {
-  "literal": "prova"
- },
- "puppet": {
-  "literal": "fantoche"
- },
- "purification": {
-  "literal": "purificação"
- },
- "finland": {
-  "literal": "Finlândia"
- },
- "francisco": {
-  "literal": "Francisco",
-  "contextual": "em San Francisco: São Francisco"
- },
- "mississippi": {
-  "literal": "Mississippi",
-  "contextual": "rio ou estado dos EUA"
- },
- "napoleon": {
-  "literal": "Napoleão"
- }
+  "calories": {
+    "literal": "calorias"
+  },
+  "campaign": {
+    "literal": "campanha",
+    "contextual": "frequente em marketing ou política"
+  },
+  "campuses": {
+    "literal": "campi",
+    "contextual": "plural de campus, áreas universitárias"
+  },
+  "canyon": {
+    "literal": "cânion"
+  },
+  "categorized": {
+    "literal": "categorizado"
+  },
+  "childhood": {
+    "literal": "infância"
+  },
+  "chills": {
+    "literal": "calafrios"
+  },
+  "chromosome": {
+    "literal": "cromossomo"
+  },
+  "chromosomes": {
+    "literal": "cromossomos"
+  },
+  "circulating": {
+    "literal": "circulante"
+  },
+  "cloth": {
+    "literal": "pano"
+  },
+  "clues": {
+    "literal": "pistas"
+  },
+  "collectively": {
+    "literal": "coletivamente"
+  },
+  "command": {
+    "literal": "comando"
+  },
+  "commencement": {
+    "literal": "formatura",
+    "contextual": "cerimônia de graduação acadêmica"
+  },
+  "communicable": {
+    "literal": "transmissível",
+    "contextual": "comum em textos sobre doenças"
+  },
+  "concise": {
+    "literal": "conciso"
+  },
+  "confusing": {
+    "literal": "confuso"
+  },
+  "conserve": {
+    "literal": "conservar"
+  },
+  "contain": {
+    "literal": "conter"
+  },
+  "contracts": {
+    "literal": "contratos"
+  },
+  "conversations": {
+    "literal": "conversas"
+  },
+  "converted": {
+    "literal": "convertido"
+  },
+  "correlates": {
+    "literal": "correlaciona"
+  },
+  "covered": {
+    "literal": "coberto"
+  },
+  "critically": {
+    "literal": "criticamente"
+  },
+  "crust": {
+    "literal": "crosta",
+    "contextual": "geralmente crosta terrestre em geologia"
+  },
+  "dead": {
+    "literal": "morto"
+  },
+  "deciding": {
+    "literal": "decidindo"
+  },
+  "declining": {
+    "literal": "declinante",
+    "contextual": "taxas ou populações em queda"
+  },
+  "decreases": {
+    "literal": "diminuições"
+  },
+  "demography": {
+    "literal": "demografia"
+  },
+  "destination": {
+    "literal": "destino"
+  },
+  "diagnostics": {
+    "literal": "diagnósticos"
+  },
+  "dictates": {
+    "literal": "dita"
+  },
+  "diplomacy": {
+    "literal": "diplomacia"
+  },
+  "disadvantaged": {
+    "literal": "desfavorecido"
+  },
+  "displace": {
+    "literal": "deslocar",
+    "contextual": "remover pessoas de suas terras"
+  },
+  "disruption": {
+    "literal": "interrupção",
+    "contextual": "frequente em inovação ou ecologia"
+  },
+  "disturbance": {
+    "literal": "distúrbio"
+  },
+  "divided": {
+    "literal": "dividido"
+  },
+  "division": {
+    "literal": "divisão"
+  },
+  "dog": {
+    "literal": "cachorro"
+  },
+  "dominate": {
+    "literal": "dominar"
+  },
+  "downloaded": {
+    "literal": "baixado"
+  },
+  "duty": {
+    "literal": "dever"
+  },
+  "eastern": {
+    "literal": "oriental",
+    "contextual": "relativo ao leste"
+  },
+  "elderly": {
+    "literal": "idoso"
+  },
+  "elective": {
+    "literal": "eletivo",
+    "contextual": "disciplina de livre escolha"
+  },
+  "elephants": {
+    "literal": "elefantes"
+  },
+  "eliminate": {
+    "literal": "eliminar"
+  },
+  "eliminated": {
+    "literal": "eliminado"
+  },
+  "emit": {
+    "literal": "emitir",
+    "contextual": "liberar gases ou radiação"
+  },
+  "encompasses": {
+    "literal": "abrange"
+  },
+  "ended": {
+    "literal": "terminou"
+  },
+  "ends": {
+    "literal": "extremidades",
+    "contextual": "pode significar fins ou objetivos"
+  },
+  "enforcing": {
+    "literal": "aplicando",
+    "contextual": "fazer cumprir leis ou regras"
+  },
+  "engulfed": {
+    "literal": "envolvido",
+    "contextual": "engolido ou cercado totalmente"
+  },
+  "enrichment": {
+    "literal": "enriquecimento"
+  },
+  "envisioned": {
+    "literal": "vislumbrado"
+  },
+  "epicenter": {
+    "literal": "epicentro"
+  },
+  "escape": {
+    "literal": "escapar"
+  },
+  "establishes": {
+    "literal": "estabelece"
+  },
+  "estimate": {
+    "literal": "estimar",
+    "contextual": "calcular valor aproximado"
+  },
+  "europeans": {
+    "literal": "europeus"
+  },
+  "exacerbate": {
+    "literal": "exacerbar",
+    "contextual": "tornar algo pior; comum em saúde e clima"
+  },
+  "expenses": {
+    "literal": "despesas"
+  },
+  "explored": {
+    "literal": "explorado"
+  },
+  "extensively": {
+    "literal": "extensivamente"
+  },
+  "facade": {
+    "literal": "fachada",
+    "contextual": "aparência externa ou exterior de prédio"
+  },
+  "fascinated": {
+    "literal": "fascinado"
+  },
+  "fate": {
+    "literal": "destino"
+  },
+  "father": {
+    "literal": "pai"
+  },
+  "favour": {
+    "literal": "favor",
+    "contextual": "grafia britânica"
+  },
+  "fee": {
+    "literal": "taxa"
+  },
+  "feeling": {
+    "literal": "sentimento"
+  },
+  "fiction": {
+    "literal": "ficção"
+  },
+  "fieldwork": {
+    "literal": "trabalho de campo"
+  },
+  "files": {
+    "literal": "arquivos"
+  },
+  "films": {
+    "literal": "filmes"
+  },
+  "filter": {
+    "literal": "filtro"
+  },
+  "floods": {
+    "literal": "inundações"
+  },
+  "forming": {
+    "literal": "formando"
+  },
+  "fulfilling": {
+    "literal": "satisfatório",
+    "contextual": "que cumpre um requisito"
+  },
+  "functionality": {
+    "literal": "funcionalidade"
+  },
+  "fund": {
+    "literal": "fundo"
+  },
+  "fusion": {
+    "literal": "fusão"
+  },
+  "gathered": {
+    "literal": "reunido"
+  },
+  "grasp": {
+    "literal": "compreender",
+    "contextual": "entendimento profundo de um conceito"
+  },
+  "harmonious": {
+    "literal": "harmonioso"
+  },
+  "headlights": {
+    "literal": "faróis"
+  },
+  "identities": {
+    "literal": "identidades"
+  },
+  "ignoring": {
+    "literal": "ignorando"
+  },
+  "impair": {
+    "literal": "prejudicar",
+    "contextual": "frequente em contextos médicos"
+  },
+  "implication": {
+    "literal": "implicação"
+  },
+  "inadequate": {
+    "literal": "inadequado"
+  },
+  "infect": {
+    "literal": "infectar"
+  },
+  "inhabit": {
+    "literal": "habitar"
+  },
+  "inquiries": {
+    "literal": "investigações",
+    "contextual": "perguntas ou inquéritos formais"
+  },
+  "instant": {
+    "literal": "instante",
+    "contextual": "imediato ou instantâneo"
+  },
+  "instructor": {
+    "literal": "instrutor"
+  },
+  "irreplaceable": {
+    "literal": "insubstituível"
+  },
+  "keeps": {
+    "literal": "mantém"
+  },
+  "kid": {
+    "literal": "criança"
+  },
+  "kingdom": {
+    "literal": "reino"
+  },
+  "kingdoms": {
+    "literal": "reinos"
+  },
+  "knowing": {
+    "literal": "sabendo"
+  },
+  "lacks": {
+    "literal": "carece",
+    "contextual": "não ter algo necessário"
+  },
+  "laughing": {
+    "literal": "rindo"
+  },
+  "launch": {
+    "literal": "lançar"
+  },
+  "linguists": {
+    "literal": "linguistas"
+  },
+  "lists": {
+    "literal": "listas"
+  },
+  "logistical": {
+    "literal": "logístico"
+  },
+  "losses": {
+    "literal": "perdas"
+  },
+  "lush": {
+    "literal": "luxuriante",
+    "contextual": "vegetação abundante e verde"
+  },
+  "mastery": {
+    "literal": "domínio"
+  },
+  "melatonin": {
+    "literal": "melatonina"
+  },
+  "melody": {
+    "literal": "melodia"
+  },
+  "melting": {
+    "literal": "derretimento"
+  },
+  "mentorship": {
+    "literal": "mentoria"
+  },
+  "messengers": {
+    "literal": "mensageiros"
+  },
+  "metabolism": {
+    "literal": "metabolismo"
+  },
+  "metropolises": {
+    "literal": "metrópoles"
+  },
+  "milestones": {
+    "literal": "marcos",
+    "contextual": "conquistas importantes de progresso"
+  },
+  "minister": {
+    "literal": "ministro"
+  },
+  "minor": {
+    "literal": "menor",
+    "contextual": "menor de idade ou matéria secundária"
+  },
+  "mitochondria": {
+    "literal": "mitocôndrias"
+  },
+  "mitochondrial": {
+    "literal": "mitocondrial"
+  },
+  "modification": {
+    "literal": "modificação"
+  },
+  "modulation": {
+    "literal": "modulação"
+  },
+  "mother": {
+    "literal": "mãe"
+  },
+  "movable": {
+    "literal": "móvel"
+  },
+  "names": {
+    "literal": "nomes"
+  },
+  "navigating": {
+    "literal": "navegando"
+  },
+  "nobody": {
+    "literal": "ninguém"
+  },
+  "noticed": {
+    "literal": "notado"
+  },
+  "objectives": {
+    "literal": "objetivos"
+  },
+  "observed": {
+    "literal": "observado"
+  },
+  "obsolete": {
+    "literal": "obsoleto"
+  },
+  "oceanography": {
+    "literal": "oceanografia"
+  },
+  "off-site": {
+    "literal": "fora do local"
+  },
+  "officer": {
+    "literal": "oficial"
+  },
+  "official": {
+    "literal": "oficial"
+  },
+  "organizational": {
+    "literal": "organizacional"
+  },
+  "ourselves": {
+    "literal": "nós mesmos"
+  },
+  "outputs": {
+    "literal": "resultados",
+    "contextual": "saídas de dados ou produção"
+  },
+  "overseas": {
+    "literal": "no exterior"
+  },
+  "overwhelmingly": {
+    "literal": "esmagadoramente"
+  },
+  "ownership": {
+    "literal": "propriedade"
+  },
+  "patronage": {
+    "literal": "patrocínio",
+    "contextual": "apoio financeiro, especialmente às artes"
+  },
+  "paving": {
+    "literal": "pavimentação"
+  },
+  "periodic": {
+    "literal": "periódico"
+  },
+  "permitted": {
+    "literal": "permitido"
+  },
+  "personality": {
+    "literal": "personalidade"
+  },
+  "pharmacological": {
+    "literal": "farmacológico"
+  },
+  "pharmacy": {
+    "literal": "farmácia"
+  },
+  "pilot": {
+    "literal": "piloto",
+    "contextual": "versão experimental de um projeto"
+  },
+  "ports": {
+    "literal": "portos"
+  },
+  "posted": {
+    "literal": "postado"
+  },
+  "powered": {
+    "literal": "alimentado",
+    "contextual": "movido por uma fonte de energia"
+  },
+  "pre-existing": {
+    "literal": "pré-existente"
+  },
+  "primitive": {
+    "literal": "primitivo"
+  },
+  "professions": {
+    "literal": "profissões"
+  },
+  "professors": {
+    "literal": "professores"
+  },
+  "programmers": {
+    "literal": "programadores"
+  },
+  "prohibited": {
+    "literal": "proibido"
+  },
+  "prompted": {
+    "literal": "estimulou",
+    "contextual": "provocou uma reação ou ação"
+  },
+  "protects": {
+    "literal": "protege"
+  },
+  "proved": {
+    "literal": "provado"
+  },
+  "proves": {
+    "literal": "prova"
+  },
+  "puppet": {
+    "literal": "fantoche"
+  },
+  "purification": {
+    "literal": "purificação"
+  },
+  "finland": {
+    "literal": "Finlândia"
+  },
+  "napoleon": {
+    "literal": "Napoleão"
+  },
+  "colonial": {
+    "literal": "colonial, da colônia"
+  },
+  "crime": {
+    "literal": "crime, delito"
+  },
+  "delta": {
+    "literal": "delta, delta fluvial"
+  },
+  "elite": {
+    "literal": "elite, seleção"
+  },
+  "elites": {
+    "literal": "elites, grupos dominantes"
+  },
+  "focal": {
+    "literal": "focal, do foco"
+  },
+  "horror": {
+    "literal": "horror, pavor"
+  },
+  "literal": {
+    "literal": "literal, exato"
+  },
+  "mega": {
+    "literal": "mega, enorme"
+  },
+  "mineral": {
+    "literal": "mineral, inorgânico"
+  },
+  "offline": {
+    "literal": "offline, desconectado"
+  }
 }

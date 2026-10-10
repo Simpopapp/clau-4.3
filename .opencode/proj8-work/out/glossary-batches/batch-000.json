@@ -1,612 +1,612 @@
 {
- "the": {
-  "literal": "o, a"
- },
- "and": {
-  "literal": "e"
- },
- "of": {
-  "literal": "de"
- },
- "to": {
-  "literal": "para"
- },
- "in": {
-  "literal": "em"
- },
- "is": {
-  "literal": "é"
- },
- "for": {
-  "literal": "para"
- },
- "that": {
-  "literal": "que"
- },
- "you": {
-  "literal": "você"
- },
- "it": {
-  "literal": "isso"
- },
- "as": {
-  "literal": "como"
- },
- "are": {
-  "literal": "são"
- },
- "on": {
-  "literal": "sobre"
- },
- "this": {
-  "literal": "este"
- },
- "sentence": {
-  "literal": "frase, sentença"
- },
- "by": {
-  "literal": "por"
- },
- "we": {
-  "literal": "nós"
- },
- "hear": {
-  "literal": "ouvir"
- },
- "with": {
-  "literal": "com"
- },
- "will": {
-  "literal": "vai",
-  "contextual": "auxiliar de tempo futuro"
- },
- "be": {
-  "literal": "ser, estar"
- },
- "can": {
-  "literal": "pode, conseguir"
- },
- "have": {
-  "literal": "ter"
- },
- "or": {
-  "literal": "ou"
- },
- "exactly": {
-  "literal": "exatamente"
- },
- "from": {
-  "literal": "de"
- },
- "they": {
-  "literal": "eles, elas"
- },
- "these": {
-  "literal": "estes, estas"
- },
- "their": {
-  "literal": "deles"
- },
- "at": {
-  "literal": "em"
- },
- "has": {
-  "literal": "tem, possui"
- },
- "an": {
-  "literal": "um"
- },
- "more": {
-  "literal": "mais"
- },
- "type": {
-  "literal": "tipo, digitar",
-  "contextual": "substantivo ou verbo"
- },
- "was": {
-  "literal": "foi"
- },
- "one": {
-  "literal": "um"
- },
- "all": {
-  "literal": "todos"
- },
- "about": {
-  "literal": "sobre"
- },
- "what": {
-  "literal": "o que"
- },
- "but": {
-  "literal": "mas"
- },
- "below": {
-  "literal": "abaixo"
- },
- "not": {
-  "literal": "não"
- },
- "so": {
-  "literal": "então"
- },
- "your": {
-  "literal": "seu"
- },
- "people": {
-  "literal": "pessoas, povo"
- },
- "students": {
-  "literal": "estudantes, alunos"
- },
- "box": {
-  "literal": "caixa, quadro"
- },
- "which": {
-  "literal": "qual"
- },
- "listen": {
-  "literal": "ouvir, escutar"
- },
- "new": {
-  "literal": "novo, nova"
- },
- "our": {
-  "literal": "nosso, nossa"
- },
- "how": {
-  "literal": "como"
- },
- "when": {
-  "literal": "quando"
- },
- "research": {
-  "literal": "pesquisa, investigar",
-  "contextual": "estudo científico ou acadêmico"
- },
- "there": {
-  "literal": "lá, ali, haver"
- },
- "while": {
-  "literal": "enquanto"
- },
- "like": {
-  "literal": "como, gostar"
- },
- "into": {
-  "literal": "para dentro"
- },
- "were": {
-  "literal": "eram, foram, estavam"
- },
- "if": {
-  "literal": "se"
- },
- "than": {
-  "literal": "do que"
- },
- "many": {
-  "literal": "muitos, muitas"
- },
- "time": {
-  "literal": "tempo, vez"
- },
- "human": {
-  "literal": "humano"
- },
- "must": {
-  "literal": "deve, precisa"
- },
- "repeat": {
-  "literal": "repetir"
- },
- "also": {
-  "literal": "também, além disso"
- },
- "words": {
-  "literal": "palavras"
- },
- "university": {
-  "literal": "universidade"
- },
- "often": {
-  "literal": "frequentemente"
- },
- "do": {
-  "literal": "fazer"
- },
- "most": {
-  "literal": "maioria, mais"
- },
- "its": {
-  "literal": "seu, sua",
-  "contextual": "referente a objeto ou animal"
- },
- "use": {
-  "literal": "usar, utilizar"
- },
- "world": {
-  "literal": "mundo"
- },
- "global": {
-  "literal": "global"
- },
- "over": {
-  "literal": "sobre, acima de"
- },
- "some": {
-  "literal": "alguns"
- },
- "been": {
-  "literal": "sido, estado"
- },
- "health": {
-  "literal": "saúde"
- },
- "study": {
-  "literal": "estudo, estudar"
- },
- "lecture": {
-  "literal": "palestra, aula expositiva"
- },
- "social": {
-  "literal": "social"
- },
- "just": {
-  "literal": "apenas, só, justo"
- },
- "years": {
-  "literal": "anos"
- },
- "who": {
-  "literal": "quem, o qual"
- },
- "through": {
-  "literal": "através"
- },
- "such": {
-  "literal": "tal, tais"
- },
- "technology": {
-  "literal": "tecnologia"
- },
- "work": {
-  "literal": "trabalho, trabalhar"
- },
- "between": {
-  "literal": "entre",
-  "contextual": "entre dois pontos ou objetos"
- },
- "text": {
-  "literal": "texto"
- },
- "think": {
-  "literal": "pensar, achar"
- },
- "water": {
-  "literal": "água"
- },
- "now": {
-  "literal": "agora"
- },
- "them": {
-  "literal": "eles"
- },
- "should": {
-  "literal": "deveria"
- },
- "modern": {
-  "literal": "moderno"
- },
- "information": {
-  "literal": "informação"
- },
- "climate": {
-  "literal": "clima"
- },
- "used": {
-  "literal": "usado, utilizado"
- },
- "before": {
-  "literal": "antes"
- },
- "other": {
-  "literal": "outro, outra"
- },
- "different": {
-  "literal": "diferente"
- },
- "life": {
-  "literal": "vida"
- },
- "could": {
-  "literal": "poderia, podia"
- },
- "very": {
-  "literal": "muito"
- },
- "economic": {
-  "literal": "econômico"
- },
- "public": {
-  "literal": "público"
- },
- "change": {
-  "literal": "mudança, mudar"
- },
- "during": {
-  "literal": "durante"
- },
- "look": {
-  "literal": "olhar, ver, aspecto"
- },
- "significant": {
-  "literal": "significativo, relevante"
- },
- "complex": {
-  "literal": "complexo"
- },
- "data": {
-  "literal": "dados",
-  "contextual": "informações coletadas para análise"
- },
- "read": {
-  "literal": "ler"
- },
- "way": {
-  "literal": "maneira, forma, caminho"
- },
- "first": {
-  "literal": "primeiro"
- },
- "because": {
-  "literal": "porque"
- },
- "need": {
-  "literal": "precisar, necessidade"
- },
- "however": {
-  "literal": "no entanto, contudo"
- },
- "today": {
-  "literal": "hoje"
- },
- "essential": {
-  "literal": "essencial, fundamental"
- },
- "development": {
-  "literal": "desenvolvimento"
- },
- "out": {
-  "literal": "fora, para fora"
- },
- "much": {
-  "literal": "muito"
- },
- "up": {
-  "literal": "cima, para cima"
- },
- "course": {
-  "literal": "curso, trajetória"
- },
- "would": {
-  "literal": "iria, faria",
-  "contextual": "auxiliar de modo condicional"
- },
- "please": {
-  "literal": "por favor, agradar"
- },
- "energy": {
-  "literal": "energia"
- },
- "environmental": {
-  "literal": "ambiental"
- },
- "had": {
-  "literal": "tinha, havia"
- },
- "where": {
-  "literal": "onde"
- },
- "history": {
-  "literal": "história"
- },
- "across": {
-  "literal": "por todo"
- },
- "those": {
-  "literal": "aqueles, aquelas"
- },
- "systems": {
-  "literal": "sistemas"
- },
- "both": {
-  "literal": "ambos, os dois"
- },
- "food": {
-  "literal": "comida, alimento"
- },
- "language": {
-  "literal": "idioma, linguagem"
- },
- "future": {
-  "literal": "futuro"
- },
- "academic": {
-  "literal": "acadêmico"
- },
- "education": {
-  "literal": "educação"
- },
- "music": {
-  "literal": "música"
- },
- "cities": {
-  "literal": "cidades"
- },
- "us": {
-  "literal": "nós, nos"
- },
- "traditional": {
-  "literal": "tradicional"
- },
- "no": {
-  "literal": "não, nenhum"
- },
- "challenges": {
-  "literal": "desafios"
- },
- "around": {
-  "literal": "ao redor"
- },
- "make": {
-  "literal": "fazer, criar"
- },
- "urban": {
-  "literal": "urbano"
- },
- "key": {
-  "literal": "chave, principal, tecla"
- },
- "library": {
-  "literal": "biblioteca"
- },
- "researchers": {
-  "literal": "pesquisadores"
- },
- "actually": {
-  "literal": "na verdade, realmente",
-  "contextual": "não significa 'atualmente'"
- },
- "important": {
-  "literal": "importante"
- },
- "only": {
-  "literal": "apenas, somente"
- },
- "without": {
-  "literal": "sem"
- },
- "being": {
-  "literal": "ser, sendo, ente"
- },
- "things": {
-  "literal": "coisas"
- },
- "provides": {
-  "literal": "fornece, provê"
- },
- "natural": {
-  "literal": "natural"
- },
- "well": {
-  "literal": "bem, poço"
- },
- "digital": {
-  "literal": "digital"
- },
- "understanding": {
-  "literal": "compreensão, entendimento"
- },
- "see": {
-  "literal": "ver, enxergar"
- },
- "process": {
-  "literal": "processo, processar"
- },
- "impact": {
-  "literal": "impacto"
- },
- "sustainable": {
-  "literal": "sustentável"
- },
- "scientists": {
-  "literal": "cientistas"
- },
- "take": {
-  "literal": "pegar, levar, tomar"
- },
- "provide": {
-  "literal": "fornecer, proporcionar"
- },
- "main": {
-  "literal": "principal"
- },
- "even": {
-  "literal": "até mesmo"
- },
- "two": {
-  "literal": "dois, duas"
- },
- "become": {
-  "literal": "tornar-se"
- },
- "student": {
-  "literal": "estudante, aluno"
- },
- "may": {
-  "literal": "pode, poder",
-  "contextual": "indica possibilidade ou permissão"
- },
- "own": {
-  "literal": "próprio, possuir"
- },
- "learning": {
-  "literal": "aprendizagem, aprender"
- },
- "going": {
-  "literal": "indo, vai"
- },
- "ensure": {
-  "literal": "garantir, assegurar"
- },
- "want": {
-  "literal": "querer"
- },
- "question": {
-  "literal": "pergunta, questão"
- },
- "using": {
-  "literal": "usando, utilizando"
- },
- "international": {
-  "literal": "internacional"
- },
- "countries": {
-  "literal": "países"
- },
- "short": {
-  "literal": "curto, baixo"
- },
- "areas": {
-  "literal": "áreas"
- },
- "seconds": {
-  "literal": "segundos"
- },
- "then": {
-  "literal": "então, depois"
- },
- "know": {
-  "literal": "saber, conhecer"
- },
- "role": {
-  "literal": "papel, função",
-  "contextual": "papel desempenhado em um contexto"
- },
- "access": {
-  "literal": "acesso, acessar"
- },
- "within": {
-  "literal": "dentro de"
- },
- "word": {
-  "literal": "palavra"
- },
- "potential": {
-  "literal": "potencial"
- },
- "system": {
-  "literal": "sistema"
- }
+  "the": {
+    "literal": "o, a"
+  },
+  "and": {
+    "literal": "e"
+  },
+  "of": {
+    "literal": "de"
+  },
+  "to": {
+    "literal": "para"
+  },
+  "in": {
+    "literal": "em"
+  },
+  "is": {
+    "literal": "é"
+  },
+  "for": {
+    "literal": "para"
+  },
+  "that": {
+    "literal": "que"
+  },
+  "you": {
+    "literal": "você"
+  },
+  "it": {
+    "literal": "isso"
+  },
+  "as": {
+    "literal": "como"
+  },
+  "are": {
+    "literal": "são"
+  },
+  "on": {
+    "literal": "sobre"
+  },
+  "this": {
+    "literal": "este"
+  },
+  "sentence": {
+    "literal": "frase, sentença"
+  },
+  "by": {
+    "literal": "por"
+  },
+  "we": {
+    "literal": "nós"
+  },
+  "hear": {
+    "literal": "ouvir"
+  },
+  "with": {
+    "literal": "com"
+  },
+  "will": {
+    "literal": "vai",
+    "contextual": "auxiliar de tempo futuro"
+  },
+  "be": {
+    "literal": "ser, estar"
+  },
+  "can": {
+    "literal": "pode, conseguir"
+  },
+  "have": {
+    "literal": "ter"
+  },
+  "or": {
+    "literal": "ou"
+  },
+  "exactly": {
+    "literal": "exatamente"
+  },
+  "from": {
+    "literal": "de"
+  },
+  "they": {
+    "literal": "eles, elas"
+  },
+  "these": {
+    "literal": "estes, estas"
+  },
+  "their": {
+    "literal": "deles"
+  },
+  "at": {
+    "literal": "em"
+  },
+  "has": {
+    "literal": "tem, possui"
+  },
+  "an": {
+    "literal": "um"
+  },
+  "more": {
+    "literal": "mais"
+  },
+  "type": {
+    "literal": "tipo, digitar",
+    "contextual": "substantivo ou verbo"
+  },
+  "was": {
+    "literal": "foi"
+  },
+  "one": {
+    "literal": "um"
+  },
+  "all": {
+    "literal": "todos"
+  },
+  "about": {
+    "literal": "sobre"
+  },
+  "what": {
+    "literal": "o que"
+  },
+  "but": {
+    "literal": "mas"
+  },
+  "below": {
+    "literal": "abaixo"
+  },
+  "not": {
+    "literal": "não"
+  },
+  "so": {
+    "literal": "então"
+  },
+  "your": {
+    "literal": "seu"
+  },
+  "people": {
+    "literal": "pessoas, povo"
+  },
+  "students": {
+    "literal": "estudantes, alunos"
+  },
+  "box": {
+    "literal": "caixa, quadro"
+  },
+  "which": {
+    "literal": "qual"
+  },
+  "listen": {
+    "literal": "ouvir, escutar"
+  },
+  "new": {
+    "literal": "novo, nova"
+  },
+  "our": {
+    "literal": "nosso, nossa"
+  },
+  "how": {
+    "literal": "como"
+  },
+  "when": {
+    "literal": "quando"
+  },
+  "research": {
+    "literal": "pesquisa, investigar",
+    "contextual": "estudo científico ou acadêmico"
+  },
+  "there": {
+    "literal": "lá, ali, haver"
+  },
+  "while": {
+    "literal": "enquanto"
+  },
+  "like": {
+    "literal": "como, gostar"
+  },
+  "into": {
+    "literal": "para dentro"
+  },
+  "were": {
+    "literal": "eram, foram, estavam"
+  },
+  "if": {
+    "literal": "se"
+  },
+  "than": {
+    "literal": "do que"
+  },
+  "many": {
+    "literal": "muitos, muitas"
+  },
+  "time": {
+    "literal": "tempo, vez"
+  },
+  "human": {
+    "literal": "humano"
+  },
+  "must": {
+    "literal": "deve, precisa"
+  },
+  "repeat": {
+    "literal": "repetir"
+  },
+  "also": {
+    "literal": "também, além disso"
+  },
+  "words": {
+    "literal": "palavras"
+  },
+  "university": {
+    "literal": "universidade"
+  },
+  "often": {
+    "literal": "frequentemente"
+  },
+  "do": {
+    "literal": "fazer"
+  },
+  "most": {
+    "literal": "maioria, mais"
+  },
+  "its": {
+    "literal": "seu, sua",
+    "contextual": "referente a objeto ou animal"
+  },
+  "use": {
+    "literal": "usar, utilizar"
+  },
+  "world": {
+    "literal": "mundo"
+  },
+  "over": {
+    "literal": "sobre, acima de"
+  },
+  "some": {
+    "literal": "alguns"
+  },
+  "been": {
+    "literal": "sido, estado"
+  },
+  "health": {
+    "literal": "saúde"
+  },
+  "study": {
+    "literal": "estudo, estudar"
+  },
+  "lecture": {
+    "literal": "palestra, aula expositiva"
+  },
+  "just": {
+    "literal": "apenas, só, justo"
+  },
+  "years": {
+    "literal": "anos"
+  },
+  "who": {
+    "literal": "quem, o qual"
+  },
+  "through": {
+    "literal": "através"
+  },
+  "such": {
+    "literal": "tal, tais"
+  },
+  "technology": {
+    "literal": "tecnologia"
+  },
+  "work": {
+    "literal": "trabalho, trabalhar"
+  },
+  "between": {
+    "literal": "entre",
+    "contextual": "entre dois pontos ou objetos"
+  },
+  "text": {
+    "literal": "texto"
+  },
+  "think": {
+    "literal": "pensar, achar"
+  },
+  "water": {
+    "literal": "água"
+  },
+  "now": {
+    "literal": "agora"
+  },
+  "them": {
+    "literal": "eles"
+  },
+  "should": {
+    "literal": "deveria"
+  },
+  "modern": {
+    "literal": "moderno"
+  },
+  "information": {
+    "literal": "informação"
+  },
+  "climate": {
+    "literal": "clima"
+  },
+  "used": {
+    "literal": "usado, utilizado"
+  },
+  "before": {
+    "literal": "antes"
+  },
+  "other": {
+    "literal": "outro, outra"
+  },
+  "different": {
+    "literal": "diferente"
+  },
+  "life": {
+    "literal": "vida"
+  },
+  "could": {
+    "literal": "poderia, podia"
+  },
+  "very": {
+    "literal": "muito"
+  },
+  "economic": {
+    "literal": "econômico"
+  },
+  "public": {
+    "literal": "público"
+  },
+  "change": {
+    "literal": "mudança, mudar"
+  },
+  "during": {
+    "literal": "durante"
+  },
+  "look": {
+    "literal": "olhar, ver, aspecto"
+  },
+  "significant": {
+    "literal": "significativo, relevante"
+  },
+  "complex": {
+    "literal": "complexo"
+  },
+  "data": {
+    "literal": "dados",
+    "contextual": "informações coletadas para análise"
+  },
+  "read": {
+    "literal": "ler"
+  },
+  "way": {
+    "literal": "maneira, forma, caminho"
+  },
+  "first": {
+    "literal": "primeiro"
+  },
+  "because": {
+    "literal": "porque"
+  },
+  "need": {
+    "literal": "precisar, necessidade"
+  },
+  "however": {
+    "literal": "no entanto, contudo"
+  },
+  "today": {
+    "literal": "hoje"
+  },
+  "essential": {
+    "literal": "essencial, fundamental"
+  },
+  "development": {
+    "literal": "desenvolvimento"
+  },
+  "out": {
+    "literal": "fora, para fora"
+  },
+  "much": {
+    "literal": "muito"
+  },
+  "up": {
+    "literal": "cima, para cima"
+  },
+  "course": {
+    "literal": "curso, trajetória"
+  },
+  "would": {
+    "literal": "iria, faria",
+    "contextual": "auxiliar de modo condicional"
+  },
+  "please": {
+    "literal": "por favor, agradar"
+  },
+  "energy": {
+    "literal": "energia"
+  },
+  "environmental": {
+    "literal": "ambiental"
+  },
+  "had": {
+    "literal": "tinha, havia"
+  },
+  "where": {
+    "literal": "onde"
+  },
+  "history": {
+    "literal": "história"
+  },
+  "across": {
+    "literal": "por todo"
+  },
+  "those": {
+    "literal": "aqueles, aquelas"
+  },
+  "systems": {
+    "literal": "sistemas"
+  },
+  "both": {
+    "literal": "ambos, os dois"
+  },
+  "food": {
+    "literal": "comida, alimento"
+  },
+  "language": {
+    "literal": "idioma, linguagem"
+  },
+  "future": {
+    "literal": "futuro"
+  },
+  "academic": {
+    "literal": "acadêmico"
+  },
+  "education": {
+    "literal": "educação"
+  },
+  "music": {
+    "literal": "música"
+  },
+  "cities": {
+    "literal": "cidades"
+  },
+  "us": {
+    "literal": "nós, nos"
+  },
+  "traditional": {
+    "literal": "tradicional"
+  },
+  "no": {
+    "literal": "não, nenhum"
+  },
+  "challenges": {
+    "literal": "desafios"
+  },
+  "around": {
+    "literal": "ao redor"
+  },
+  "make": {
+    "literal": "fazer, criar"
+  },
+  "urban": {
+    "literal": "urbano"
+  },
+  "key": {
+    "literal": "chave, principal, tecla"
+  },
+  "library": {
+    "literal": "biblioteca"
+  },
+  "researchers": {
+    "literal": "pesquisadores"
+  },
+  "actually": {
+    "literal": "na verdade, realmente",
+    "contextual": "não significa 'atualmente'"
+  },
+  "important": {
+    "literal": "importante"
+  },
+  "only": {
+    "literal": "apenas, somente"
+  },
+  "without": {
+    "literal": "sem"
+  },
+  "being": {
+    "literal": "ser, sendo, ente"
+  },
+  "things": {
+    "literal": "coisas"
+  },
+  "provides": {
+    "literal": "fornece, provê"
+  },
+  "well": {
+    "literal": "bem, poço"
+  },
+  "understanding": {
+    "literal": "compreensão, entendimento"
+  },
+  "see": {
+    "literal": "ver, enxergar"
+  },
+  "process": {
+    "literal": "processo, processar"
+  },
+  "impact": {
+    "literal": "impacto"
+  },
+  "sustainable": {
+    "literal": "sustentável"
+  },
+  "scientists": {
+    "literal": "cientistas"
+  },
+  "take": {
+    "literal": "pegar, levar, tomar"
+  },
+  "provide": {
+    "literal": "fornecer, proporcionar"
+  },
+  "main": {
+    "literal": "principal"
+  },
+  "even": {
+    "literal": "até mesmo"
+  },
+  "two": {
+    "literal": "dois, duas"
+  },
+  "become": {
+    "literal": "tornar-se"
+  },
+  "student": {
+    "literal": "estudante, aluno"
+  },
+  "may": {
+    "literal": "pode, poder",
+    "contextual": "indica possibilidade ou permissão"
+  },
+  "own": {
+    "literal": "próprio, possuir"
+  },
+  "learning": {
+    "literal": "aprendizagem, aprender"
+  },
+  "going": {
+    "literal": "indo, vai"
+  },
+  "ensure": {
+    "literal": "garantir, assegurar"
+  },
+  "want": {
+    "literal": "querer"
+  },
+  "question": {
+    "literal": "pergunta, questão"
+  },
+  "using": {
+    "literal": "usando, utilizando"
+  },
+  "international": {
+    "literal": "internacional"
+  },
+  "countries": {
+    "literal": "países"
+  },
+  "short": {
+    "literal": "curto, baixo"
+  },
+  "areas": {
+    "literal": "áreas"
+  },
+  "seconds": {
+    "literal": "segundos"
+  },
+  "then": {
+    "literal": "então, depois"
+  },
+  "know": {
+    "literal": "saber, conhecer"
+  },
+  "role": {
+    "literal": "papel, função",
+    "contextual": "papel desempenhado em um contexto"
+  },
+  "access": {
+    "literal": "acesso, acessar"
+  },
+  "within": {
+    "literal": "dentro de"
+  },
+  "word": {
+    "literal": "palavra"
+  },
+  "potential": {
+    "literal": "potencial"
+  },
+  "system": {
+    "literal": "sistema"
+  },
+  "digital": {
+    "literal": "digital, numérico"
+  },
+  "global": {
+    "literal": "global, mundial"
+  },
+  "natural": {
+    "literal": "natural, da natureza"
+  },
+  "social": {
+    "literal": "social, da sociedade"
+  }
 }
