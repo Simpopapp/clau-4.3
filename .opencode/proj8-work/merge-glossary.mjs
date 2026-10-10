@@ -46,25 +46,56 @@ for (const n of inFiles) {
 
   let batchValid = true;
   for (const [key, entry] of Object.entries(obj)) {
-    if (!inputWords.has(key)) { discarded["I1"]++; batchValid = false; continue; }
-    if (!KEY_RE.test(key)) { discarded["I2"]++; batchValid = false; continue; }
-    if (!entry || typeof entry !== "object") { discarded["I3"]++; batchValid = false; continue; }
+    if (!inputWords.has(key)) {
+      discarded["I1"]++;
+      batchValid = false;
+      continue;
+    }
+    if (!KEY_RE.test(key)) {
+      discarded["I2"]++;
+      batchValid = false;
+      continue;
+    }
+    if (!entry || typeof entry !== "object") {
+      discarded["I3"]++;
+      batchValid = false;
+      continue;
+    }
     const { literal, contextual } = entry;
-    if (typeof literal !== "string" || literal.trim() === "" || literal !== literal.trim() || literal.includes("\n")) {
-      discarded["I3"]++; batchValid = false; continue;
+    if (
+      typeof literal !== "string" ||
+      literal.trim() === "" ||
+      literal !== literal.trim() ||
+      literal.includes("\n")
+    ) {
+      discarded["I3"]++;
+      batchValid = false;
+      continue;
     }
     const words = literal.split(/\s+/);
     if (words.length < 1 || words.length > 3 || literal.length > 60) {
-      discarded["I4"]++; batchValid = false; continue;
+      discarded["I4"]++;
+      batchValid = false;
+      continue;
     }
     if (contextual !== undefined) {
       if (
-        typeof contextual !== "string" || contextual.trim() === "" ||
-        contextual.length > 80 || contextual === literal
-      ) { discarded["I5"]++; batchValid = false; continue; }
+        typeof contextual !== "string" ||
+        contextual.trim() === "" ||
+        contextual.length > 80 ||
+        contextual === literal
+      ) {
+        discarded["I5"]++;
+        batchValid = false;
+        continue;
+      }
     }
     const isEnglishEcho = literal.toLowerCase() === key || (contextual ?? "").toLowerCase() === key;
-    if (isEnglishEcho) { discarded["I6"]++; batchValid = false; continue; }
+    if (isEnglishEcho) {
+      discarded["I6"]++;
+      batchValid = false;
+      continue;
+    }
     if (!merged.has(key)) {
       merged.set(key, contextual === undefined ? { literal } : { literal, contextual });
     }
@@ -78,5 +109,7 @@ for (const k of Array.from(merged.keys()).sort()) sorted[k] = merged.get(k);
 writeFileSync(TARGET, JSON.stringify(sorted, null, 2) + "\n");
 
 const coverage = merged.size / 6000;
-console.log(`RELATÓRIO: entradas=${merged.size} lotes_ok=${okBatches}/30 pendentes=${pending} descartes=${JSON.stringify(discarded)}`);
+console.log(
+  `RELATÓRIO: entradas=${merged.size} lotes_ok=${okBatches}/30 pendentes=${pending} descartes=${JSON.stringify(discarded)}`,
+);
 console.log(`cobertura=${merged.size}/6000 (${(coverage * 100).toFixed(1)}%)`);

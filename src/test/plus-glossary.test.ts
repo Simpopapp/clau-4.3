@@ -69,7 +69,9 @@ describe("glossário real (src/data/plus/glossary.json)", () => {
     for (const [key, entry] of entries) {
       expect(entry.literal.toLowerCase() === key, `literal ecoa a chave: ${key}`).toBe(false);
       if (entry.contextual !== undefined) {
-        expect(entry.contextual.toLowerCase() === key, `contextual ecoa a chave: ${key}`).toBe(false);
+        expect(entry.contextual.toLowerCase() === key, `contextual ecoa a chave: ${key}`).toBe(
+          false,
+        );
       }
     }
   });
