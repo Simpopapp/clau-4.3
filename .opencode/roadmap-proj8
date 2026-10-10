@@ -17,8 +17,8 @@
   - Gates Fase 1: I1–I6=0 descartes no merge · amostragem feita na revisão dos lotes · dados only, `src/` de código não alterado (só glossary.json); gates de build na Fase 2.
 
 ## Fase 2 — Teste de integridade
-- [ ] `src/test/plus-glossary.test.ts`: I2–I6 sobre o JSON real · cobertura ≥ 95% vs `words.json` · amostras via `lookupWord` · miss → `null`
-- [ ] Gates: suite verde (cresce de 248) · tsgo limpo · build OK · lint 0 erros
+- [x] `src/test/plus-glossary.test.ts`: I2–I6 sobre o JSON real · cobertura ≥ 95% vs `words.json` · amostras via `lookupWord` · miss → `null` (10 testes)
+- [x] Gates: suite verde (258/258, 27 ficheiros — cresceu de 248) · tsgo limpo · build OK · lint 0 erros (8 warnings preexistentes)
 
 ## Fase 3 — Verificação end-to-end (mobile 390×844)
 - [ ] Playwright: ligar "Tradução por palavra" em `/settings`, abrir Read Aloud, tocar palavra → balão com tradução real (screenshot)
