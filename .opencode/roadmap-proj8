@@ -21,12 +21,12 @@
 - [x] Gates: suite verde (258/258, 27 ficheiros — cresceu de 248) · tsgo limpo · build OK · lint 0 erros (8 warnings preexistentes)
 
 ## Fase 3 — Verificação end-to-end (mobile 390×844)
-- [ ] Playwright: ligar "Tradução por palavra" em `/settings`, abrir Read Aloud, tocar palavra → balão com tradução real (screenshot)
-- [ ] Balão portallado, fecha por toque fora/✕, sem overflow horizontal, alvos ≥ 44 px
-- [ ] Regressão: só "Áudio de pronúncia" ligado → balão sem tradução e sem voz pt-BR
-- [ ] Gates: zero `console.error`/pageerror novo nas rotas tocadas
+- [x] Playwright: ligar "Tradução por palavra" em `/settings`, abrir Read Aloud, tocar palavra → balão com tradução real (screenshot: "complex → complexo")
+- [x] Balão portallado, fecha por toque fora (✕ e Esc cobertos nos testes de unidade), sem overflow horizontal, alvos ≥ 44 px
+- [x] Regressão: só "Áudio de pronúncia" → caminho `enabled=false, audioEnabled` coberto em `plus-integration.test.tsx` (balão "Pronúncia da palavra", sem tradução); no app este modo só surge com wordTranslation ativo — combinado verificado em Playwright (tradução + botão 🔊, sem voz pt-BR)
+- [x] Gates: zero `console.error`/pageerror novo nas rotas tocadas (`/settings`, `/practice`)
 
 ## Fase 4 — Fechamento
 - [ ] Gates globais completos (vitest · tsgo · build · lint · preview)
-- [ ] `AGENTS.md` (estado atual): remover "glossário aguarda crédito", registrar cobertura real
+- [ ] `AGENTS.md` (estado atual): registrar cobertura real (nota "aguarda crédito" não existia — adicionada seção 6.0 com estado real)
 - [ ] Avisar o monitor: "remix finalizado (+N da etapa do roadmap-proj8)" · relatório em 3 blocos ao usuário
